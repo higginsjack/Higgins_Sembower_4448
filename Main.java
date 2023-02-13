@@ -17,5 +17,12 @@ public class Main {
         fncd.updateBudget(-1000);
         System.out.println("Updated budget " + fncd.getBudget());
         System.out.println(fncd.getBankruptcies());
+
+        // Main
+        fncd = Activities.opening(fncd);
+        fncd = Activities.washing(fncd);
+        fncd = Activities.repairing(fncd);
+        fncd = Activities.selling(fncd);
+        fncd = Activities.ending(fncd);
     }
 }

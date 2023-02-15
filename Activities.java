@@ -41,7 +41,7 @@ public class Activities {
         return fncd;
     }
 
-    public static FNCD selling(FNCD fncd) {
+    public static FNCD selling(FNCD fncd, String day) {
 
         /*
          * On week days 0-5 buyers arrive to buy vehicle, on weekends 2-8 buyers arrive

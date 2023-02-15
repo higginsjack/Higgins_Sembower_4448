@@ -7,6 +7,7 @@ class FNCD {
     private ArrayList<Staff> departedStaff;
     private ArrayList<Vehicle> vehicles;
     private ArrayList<Vehicle> soldVehicles;
+    private static int idCounter = 0;
 
 
     public FNCD(int b, ArrayList<Staff> s, ArrayList<Vehicle> v) {
@@ -15,6 +16,11 @@ class FNCD {
         this.staff = s;
         this.vehicles = v;
         this.soldVehicles = new ArrayList<Vehicle>();
+    }
+
+
+    public static int createID(){
+        return idCounter++;
     }
 
     public float getBudget(){

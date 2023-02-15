@@ -19,10 +19,20 @@ public class Main {
         System.out.println(fncd.getBankruptcies());
 
         // Main
-        fncd = Activities.opening(fncd);
-        fncd = Activities.washing(fncd);
-        fncd = Activities.repairing(fncd);
-        fncd = Activities.selling(fncd);
-        fncd = Activities.ending(fncd);
+        int length = 30;
+        int days_passed = 0;
+        String[] days = {"Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"};
+        //need to pass day into methods
+        while(days_passed < length) {
+            String d = days[days_passed % 7];
+            if(d != "Sunday") {
+                fncd = Activities.opening(fncd);
+                fncd = Activities.washing(fncd);
+                fncd = Activities.repairing(fncd);
+                fncd = Activities.selling(fncd);
+                fncd = Activities.ending(fncd);
+            }
+            days_passed++;
+        }
     }
 }

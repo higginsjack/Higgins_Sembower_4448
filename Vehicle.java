@@ -9,16 +9,16 @@ abstract class Vehicle {
     private String condition;
     private String cleanliness;
 
-    public Vehicle(int i, String t) {
-        this.id = 0;
-        this.type = "Null";
-        this.repairBonus = 0;
-        this.salesBonus = 0;
-        this.washBonus = 0;
-        this.cost = 0;
-        this.condition="Null";
-        this.cleanliness="Null";
-    }
+    // Vehicle() {
+    //     this.id = 0;
+    //     this.type = "Null";
+    //     this.repairBonus = 0;
+    //     this.salesBonus = 0;
+    //     this.washBonus = 0;
+    //     this.cost = 0;
+    //     this.condition="Null";
+    //     this.cleanliness="Null";
+    // }
 
     public String getType(){
         return this.type;
@@ -65,5 +65,34 @@ abstract class Vehicle {
                 this.cleanliness = "Sparkling";
             }
         }
+    }
+    public static String[] initializeCleanlinessCondition(){
+        Random r = new Random();
+        int con = r.nextInt(3);
+        String condition;
+        String cleanliness;
+
+        if(con == 0) {
+            condition = "Like New";
+        }
+        else if(con == 1) {
+            condition  = "Used";
+        }
+        else{
+            condition = "Broken";
+        }
+        int cle = r.nextInt(100);
+        if(cle < 5) {
+            cleanliness = "Sparkling";
+        }
+        else if(cle < 40) {
+            cleanliness = "Clean";
+        }
+        else{
+            cleanliness = "Dirty";
+        }
+        String[] arr = {condition, cleanliness};
+        return arr;
+
     }
 }

@@ -6,19 +6,25 @@ abstract class Vehicle {
     private float salesBonus;
     private float washBonus;
     private float cost;
+    private float salesPrice;
     private String condition;
     private String cleanliness;
 
-    // Vehicle() {
-    //     this.id = 0;
-    //     this.type = "Null";
-    //     this.repairBonus = 0;
-    //     this.salesBonus = 0;
-    //     this.washBonus = 0;
-    //     this.cost = 0;
-    //     this.condition="Null";
-    //     this.cleanliness="Null";
-    // }
+    Vehicle(int id, String type, float repairBonus, float washBonus, float cost) {
+        this.id=id;
+        this.type=type;
+        this.repairBonus=repairBonus;
+        this.washBonus=washBonus;
+        this.cost=cost;
+        this.salesPrice = cost * 2;
+        String[] arr = initializeCleanlinessCondition();
+        this.condition = arr[0];
+        this.cleanliness =arr[1];
+        if(this.condition == "Broken") {
+            this.cost = cost / 2;
+            this.salesPrice = cost / 2;
+        }
+    }
 
     public String getType(){
         return this.type;

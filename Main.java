@@ -2,10 +2,28 @@ import java.util.ArrayList;
 
 public class Main {
     public static void main(String[] args) {
-        PerformanceCar c = new PerformanceCar();
-        System.out.println(c.getCondition());
-        System.out.println(c.getCost());
-        System.out.println(c.getId());
+        //Vehicle tests
+        // System.out.println("Performance Car tests");
+        // PerformanceCar c = new PerformanceCar();
+        // System.out.println(c.getCondition());
+        // System.out.println(c.getCost());
+        // System.out.println(c.getId());
+
+        // System.out.println("Car tests");
+        // Car b = new Car();
+        // System.out.println(b.getCondition());
+        // System.out.println(b.getCost());
+        // System.out.println(b.getId());
+
+        // System.out.println("Pickup tests");
+        // Pickup a= new Pickup();
+        // System.out.println(a.getCondition());
+        // System.out.println(a.getCost());
+        // System.out.println(a.getId());
+
+
+        //FNCD tests
+
         // System.out.println("Begin simulation");
         // Vehicle v = new PerformanceCar();
         // Staff p = new Staff(1, 10000);
@@ -38,9 +56,5 @@ public class Main {
         //     }
         //     days_passed++;
         // }
-    }
-    public static void vehicleTest(){
-        PerformanceCar c = new PerformanceCar();
-        System.out.println(c.getCondition());
     }
 }

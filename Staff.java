@@ -33,8 +33,8 @@ abstract class Staff {
         return this.bonus;
     }
 
-    public void setBonus(int i){
-        this.bonus = i;
+    public void addBonus(int i){
+        this.bonus += i;
     }
 
     public void setId(){

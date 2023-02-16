@@ -2,11 +2,11 @@ import java.util.Random;
 abstract class Vehicle {
     private int id;
     private String type;
-    private float repairBonus;
-    private float salesBonus;
-    private float washBonus;
-    private float cost;
-    private float salesPrice;
+    private double repairBonus;
+    private double salesBonus;
+    private double washBonus;
+    private double cost;
+    private double salesPrice;
     private String condition;
     private String cleanliness;
 
@@ -32,17 +32,20 @@ abstract class Vehicle {
     public int getId(){
         return this.id;
     }
-    public float getRepairBonus(){
+    public double getRepairBonus(){
         return this.repairBonus;
     }
-    public float getSalesBonus() {
+    public double getSalesBonus() {
         return this.salesBonus;
     }
-    public float getWashBonus() {
+    public double getWashBonus() {
         return this.washBonus;
     }
-    public float getCost(){
+    public double getCost(){
         return this.cost;
+    }
+    public double getSalesPrice(){
+        return this.salesPrice;
     }
     public String getCondition() {
         return this.condition;
@@ -51,25 +54,55 @@ abstract class Vehicle {
         return this.cleanliness;
     }
 
-    public void increaseCleanliness(){
+    public Boolean increaseCleanliness(){
         Random r = new Random();
         int high = 100;
         int result = r.nextInt(high);
         if(this.cleanliness == "Dirty"){
             if(result < 10) { //10% chance of dirty
                 this.cleanliness = "Sparkling";
+                return true;
             }
             else if(result < 90) { //80% chance of clean
                 this.cleanliness = "Clean";
+                return true;
             }
         }
         else if (this.cleanliness == "Clean") {
             if(result < 5) {
                 this.cleanliness = "Dirty";
+                return true;
             }
             else if (result < 35) {
                 this.cleanliness = "Sparkling";
+                return true;
             }
+        }
+        return false; // if cleaning fails false is returned
+    }
+    public Boolean fix(){
+        Random r = new Random();
+        int result = r.nextInt(100);
+        if(result > 80) {
+            if(this.condition == "Broken") {
+                this.condition = "Used";
+                this.cost = this.cost *1.5;
+                this.salesPrice = this.salesPrice*1.5;
+            }
+            else if(this.condition == "Used") {
+                this.condition = "Like New";
+                this.cost = this.cost *1.25;
+                this.salesPrice = this.salesPrice*1.25;
+            }
+        }
+        return false;
+    }
+    public void decreaseCleanliness(){
+        if(this.cleanliness == "Sparkling"){
+            this.cleanliness = "Clean";
+        }
+        else if(this.cleanliness == "Clean") {
+            this.cleanliness = "Dirty";
         }
     }
     public static String[] initializeCleanlinessCondition(){
@@ -99,6 +132,5 @@ abstract class Vehicle {
         }
         String[] arr = {condition, cleanliness};
         return arr;
-
     }
 }

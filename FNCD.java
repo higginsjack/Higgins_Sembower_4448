@@ -1,7 +1,7 @@
 import java.util.ArrayList;
 
 class FNCD {
-    private float budget;
+    private double budget;
     private int bankruptcies;
     private ArrayList<Staff> staff;
     private ArrayList<Staff> departedStaff;
@@ -23,11 +23,11 @@ class FNCD {
         return idCounter++;
     }
 
-    public float getBudget(){
+    public double getBudget(){
         return this.budget;
     }
 
-    public void updateBudget(int amount) {
+    public void updateBudget(double amount) {
         this.budget = this.budget + amount;
     }
 
@@ -59,7 +59,7 @@ class FNCD {
     public void sellVehicle(Vehicle v) {
         this.soldVehicles.add(v);
         this.vehicles.remove(v);
-        // updateBudget(v.sellPrice);
+        updateBudget(v.getCost() * 2);
     }
     
     public void staffUpdate(Staff s) {

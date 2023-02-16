@@ -5,7 +5,7 @@ public class PerformanceCar extends Vehicle {
     PerformanceCar() {
         //(int id, String type, float repairBonus, float washBonus, float cost)
         //id = FNCD.
-        super(0, "PerformanceCar", 2000, 2000, initializeCost());
+        super(FNCD.createID(), "PerformanceCar", 2000, 2000, initializeCost());
     }
     public static float initializeCost(){
         Random r = new Random();

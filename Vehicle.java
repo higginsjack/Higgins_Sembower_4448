@@ -10,9 +10,10 @@ abstract class Vehicle {
     private String condition;
     private String cleanliness;
 
-    Vehicle(int id, String type, float repairBonus, float washBonus, float cost) {
+    Vehicle(int id, String type, double repairBonus, double washBonus, double cost, double salesBonus) {
         this.id=id;
         this.type=type;
+        this.salesBonus = 
         this.repairBonus=repairBonus;
         this.washBonus=washBonus;
         this.cost=cost;

@@ -28,30 +28,28 @@ public class Activities {
         boolean success = false;
         for(int x = 0; x<(fncd.getStaff().size()); x++) {
             vehiclesCleaned = 0;
-            if(fncd.getStaff().get(x) instanceof(Interns)){
-                ArrayList<Vehicle> vehicles = fncd.getVehicles();
+            if(fncd.getStaff().get(x) instanceof Interns){
                 int i = 0;
-                while(i < vehicles.size() && vehiclesCleaned < 2) {
+                while(i < fncd.getVehicles().size() && vehiclesCleaned < 2) {
                     success = false;
-                    if(vehicles.get(i).getCleanliness() == "Dirty") {
-                        success = vehicles.get(i).increaseCleanliness();
+                    if(fncd.getVehicles().get(i).getCleanliness() == "Dirty") {
+                        success = fncd.getVehicles().get(i).increaseCleanliness();
                         vehiclesCleaned++;
                     }
                     i++;
                 }
                 int j = 0;
-                while(j < vehicles.size() && vehiclesCleaned <2) {
+                while(j < fncd.getVehicles().size() && vehiclesCleaned <2) {
                     success = false;
-                    if(vehicles.get(i).getCleanliness() == "Clean") {
-                        vehicles.get(i).increaseCleanliness();
+                    if(fncd.getVehicles().get(i).getCleanliness() == "Clean") {
+                        fncd.getVehicles().get(i).increaseCleanliness();
                         vehiclesCleaned++;
                         if(success){
-                            fncd.getStaff().get(x).addBonus(vehicles.get(j).getWashBonus());
+                            fncd.getStaff().get(x).addBonus(fncd.getVehicles().get(j).getWashBonus());
                         }
                     }
                     j++;
                 }
-                fncd.setVehicles(vehicles);
             }
         }
         
@@ -75,23 +73,22 @@ public class Activities {
         boolean success = false;
         for(int x = 0; x<(fncd.getStaff().size()); x++) {
             vehiclesFixed = 0;
-            if(fncd.getStaff().get(x) instanceof(Mechanics)){
-                ArrayList<Vehicle> vehicles = fncd.getVehicles();
+            if(fncd.getStaff().get(x) instanceof Mechanics){
                 int i = 0;
-                while(i < vehicles.size() && vehiclesFixed < 2) {
+                while(i < fncd.getVehicles().size() && vehiclesFixed < 2) {
                     success = false;
-                    if(vehicles.get(i).getCondition() == "Broken") {
-                        success = fncd.getVehicles().fix();
-                        fncd.getVehicles().decreaseCleanliness();
+                    if(fncd.getVehicles().get(i).getCondition() == "Broken") {
+                        success = fncd.getVehicles().get(i).fix();
+                        fncd.getVehicles().get(i).decreaseCleanliness();
                         vehiclesFixed++;
                     }
-                    else if(vehicles.get(i).getCondition() == "Used") {
-                        success = fncd.getVehicles().fix();
-                        fncd.getVehicles().decreaseCleanliness();
+                    else if(fncd.getVehicles().get(i).getCondition() == "Used") {
+                        success = fncd.getVehicles().get(i).fix();
+                        fncd.getVehicles().get(i).decreaseCleanliness();
                         vehiclesFixed++;
                     }
                     if(success){
-                        fncd.getStaff().get(x).addBonus(vehicles.get(i).getRepairBonus());
+                        fncd.getStaff().get(x).addBonus(fncd.getVehicles().get(i).getRepairBonus());
                     }
                     i++;
                 }
@@ -143,13 +140,13 @@ public class Activities {
         int j = 0;
         int iter = 0;
         while(j < fncd.getStaff().size() && iter < 3) {
-            if(fncd.getStaff().get(j) instanceof(SalesPeople)){
-                salesPersonLocation[iter] = j;
+            if(fncd.getStaff().get(j) instanceof SalesPeople){
+                salesPersonLocations[iter] = j;
             }
             j++;
         }
         //  Selling Vehicles
-        int chance;
+        double chance;
         int sellVehiclePosition;
         double vehiclePrice;
 
@@ -185,10 +182,10 @@ public class Activities {
             }
             // Finally we have vehicle, cost, seller
             if(r.nextInt(100) < chance) {
-                int b = fncd.getVehicles().get(sellVehiclePosition).getBonus();
-                fncd.getStaff().get(salesPersonLocation[r.nextInt(3)]).addBonus(b); //salesPerson
+                double b = fncd.getVehicles().get(sellVehiclePosition).getSalesBonus();
+                fncd.getStaff().get(salesPersonLocations[r.nextInt(3)]).addBonus(b); //salesPerson
                 fncd.updateBudget(fncd.getVehicles().get(sellVehiclePosition).getCost() * 2);
-                fncd.setVehicles(fncd.getVehicles().remove(fncd.getVehicles().get(sellVehiclePosition)));
+                // fncd.setVehicles(fncd.getVehicles().remove(fncd.getVehicles().get(sellVehiclePosition)));
             }
         }
         return fncd;

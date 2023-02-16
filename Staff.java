@@ -3,7 +3,7 @@ import java.util.*;
 
 abstract class Staff {
     private int id;
-    private int bonus;
+    private double bonus;
     private int salary;
     private int daysWorked;
     public Staff(int i, int s) {
@@ -29,11 +29,11 @@ abstract class Staff {
         this.daysWorked += i;
     }
 
-    public int getBonus(){
+    public double getBonus(){
         return this.bonus;
     }
 
-    public void addBonus(int i){
+    public void addBonus(double i){
         this.bonus += i;
     }
 

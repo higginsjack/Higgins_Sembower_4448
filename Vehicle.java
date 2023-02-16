@@ -82,18 +82,21 @@ abstract class Vehicle {
         return false; // if cleaning fails false is returned
     }
     public Boolean fix(){
+        System.out.println(this.id + " : " + this.condition);
         Random r = new Random();
         int result = r.nextInt(100);
-        if(result > 80) {
+        if(result < 80) {
             if(this.condition == "Broken") {
                 this.condition = "Used";
                 this.cost = this.cost *1.5;
                 this.salesPrice = this.salesPrice*1.5;
+                return true;
             }
             else if(this.condition == "Used") {
                 this.condition = "Like New";
                 this.cost = this.cost *1.25;
                 this.salesPrice = this.salesPrice*1.25;
+                return true;
             }
         }
         return false;

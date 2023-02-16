@@ -1,4 +1,5 @@
 import java.util.Random;
+import java.util.ArrayList;
 public class Activities {
     public static FNCD opening(FNCD fncd) {
 
@@ -35,6 +36,11 @@ public class Activities {
                     if(fncd.getVehicles().get(i).getCleanliness() == "Dirty") {
                         success = fncd.getVehicles().get(i).increaseCleanliness();
                         vehiclesCleaned++;
+                        if(fncd.getVehicles().get(i).getCleanliness() == "Sparkling"){
+                            System.out.println("Bonus: " + fncd.getStaff().get(x).getId());
+                            fncd.getStaff().get(x).addBonus(fncd.getVehicles().get(i).getWashBonus());
+                            fncd.updateBudget(-fncd.getVehicles().get(i).getWashBonus());
+                        }
                     }
                     i++;
                 }
@@ -42,10 +48,12 @@ public class Activities {
                 while(j < fncd.getVehicles().size() && vehiclesCleaned <2) {
                     success = false;
                     if(fncd.getVehicles().get(i).getCleanliness() == "Clean") {
-                        fncd.getVehicles().get(i).increaseCleanliness();
+                        success = fncd.getVehicles().get(i).increaseCleanliness();
                         vehiclesCleaned++;
-                        if(success){
+                        if(fncd.getVehicles().get(i).getCleanliness() == "Sparkling") {
+                            System.out.println("Bonus: " + fncd.getStaff().get(x).getId());
                             fncd.getStaff().get(x).addBonus(fncd.getVehicles().get(j).getWashBonus());
+                            fncd.updateBudget(-fncd.getVehicles().get(j).getWashBonus());
                         }
                     }
                     j++;
@@ -88,7 +96,9 @@ public class Activities {
                         vehiclesFixed++;
                     }
                     if(success){
+                        System.out.println("Staff bonus id" + fncd.getStaff().get(x).getId());
                         fncd.getStaff().get(x).addBonus(fncd.getVehicles().get(i).getRepairBonus());
+                        fncd.updateBudget(-fncd.getVehicles().get(i).getRepairBonus());
                     }
                     i++;
                 }
@@ -180,12 +190,17 @@ public class Activities {
             if(fncd.getVehicles().get(sellVehiclePosition).getType() != typeLooking[z]){
                 chance -= 20;
             }
+            System.out.println("CHANCE OF PURCHASE: " + chance);
             // Finally we have vehicle, cost, seller
             if(r.nextInt(100) < chance) {
+                System.out.println("Vehicle purchased! VehicleID: " + fncd.getVehicles().get(sellVehiclePosition).getId()); //delete
+
                 double b = fncd.getVehicles().get(sellVehiclePosition).getSalesBonus();
                 fncd.getStaff().get(salesPersonLocations[r.nextInt(3)]).addBonus(b); //salesPerson
                 fncd.updateBudget(fncd.getVehicles().get(sellVehiclePosition).getCost() * 2);
-                // fncd.setVehicles(fncd.getVehicles().remove(fncd.getVehicles().get(sellVehiclePosition)));
+                ArrayList<Vehicle> vs = fncd.getVehicles();
+                vs.remove(fncd.getVehicles().get(sellVehiclePosition));
+                fncd.setVehicles(vs);
             }
         }
         return fncd;

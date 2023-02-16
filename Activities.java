@@ -1,3 +1,5 @@
+import java.util.Random;
+import java.util.ArrayList;
 public class Activities {
     public static FNCD opening(FNCD fncd) {
 
@@ -19,8 +21,46 @@ public class Activities {
          * Start with dirty then move on to clean
          * Washing dirty vehicles has 80% chance of becoming clean, 10% chance of becoming sparkling
          * Washing clean vehicle has a 5% chance of becoming dirty, 30% chance of becoming sparkling
-         * If intern makes a vehicle sparkiling earn a bonus based on type of vehicle
+         * If intern makes a vehicle sparkling earn a bonus based on type of vehicle
          */
+        //Test
+        //print vehicles
+        System.out.println("Washing...");
+        int vehiclesCleaned = 0;
+        boolean success = false;
+        for(int x = 0; x<(fncd.getStaff().size()); x++) {
+            vehiclesCleaned = 0;
+            if(fncd.getStaff().get(x) instanceof Interns){
+                int i = 0;
+                while(i < fncd.getVehicles().size() && vehiclesCleaned < 2) {
+                    success = false;
+                    if(fncd.getVehicles().get(i).getCleanliness() == "Dirty") {
+                        success = fncd.getVehicles().get(i).increaseCleanliness();
+                        vehiclesCleaned++;
+                        if(fncd.getVehicles().get(i).getCleanliness() == "Sparkling"){
+                            System.out.println("Intern " + fncd.getStaff().get(x).getId() + " made vehicle id " + fncd.getVehicles().get(i) + "sparkling and received bonus of " + fncd.getVehicles().get(i).getWashBonus());
+                            fncd.getStaff().get(x).addBonus(fncd.getVehicles().get(i).getWashBonus());
+                            fncd.updateBudget(-fncd.getVehicles().get(i).getWashBonus());
+                        }
+                    }
+                    i++;
+                }
+                int j = 0;
+                while(j < fncd.getVehicles().size() && vehiclesCleaned <2) {
+                    success = false;
+                    if(fncd.getVehicles().get(j).getCleanliness() == "Clean") {
+                        success = fncd.getVehicles().get(j).increaseCleanliness();
+                        vehiclesCleaned++;
+                        if(fncd.getVehicles().get(j).getCleanliness() == "Sparkling") {
+                            System.out.println("Intern " + fncd.getStaff().get(x).getId() + " made vehicle id " + fncd.getVehicles().get(j) + "sparkling and received bonus of " + fncd.getVehicles().get(j).getWashBonus());
+                            fncd.getStaff().get(x).addBonus(fncd.getVehicles().get(j).getWashBonus());
+                            fncd.updateBudget(-fncd.getVehicles().get(j).getWashBonus());
+                        }
+                    }
+                    j++;
+                }
+            }
+        }
         
         return fncd;
     }
@@ -38,6 +78,34 @@ public class Activities {
          * 
          * Mechanics receive bonus for each successful repair based on type of vehicle
          */
+        System.out.println("Repairing...");
+        int vehiclesFixed = 0;
+        boolean success = false;
+        for(int x = 0; x<(fncd.getStaff().size()); x++) {
+            vehiclesFixed = 0;
+            if(fncd.getStaff().get(x) instanceof Mechanics){
+                int i = 0;
+                while(i < fncd.getVehicles().size() && vehiclesFixed < 2) {
+                    success = false;
+                    if(fncd.getVehicles().get(i).getCondition() == "Broken") {
+                        success = fncd.getVehicles().get(i).fix();
+                        fncd.getVehicles().get(i).decreaseCleanliness();
+                        vehiclesFixed++;
+                    }
+                    else if(fncd.getVehicles().get(i).getCondition() == "Used") {
+                        success = fncd.getVehicles().get(i).fix();
+                        fncd.getVehicles().get(i).decreaseCleanliness();
+                        vehiclesFixed++;
+                    }
+                    if(success){
+                        System.out.println("Mechanic " + fncd.getStaff().get(x).getId() + " fixed car and received bonus of " + fncd.getVehicles().get(i).getRepairBonus());
+                        fncd.getStaff().get(x).addBonus(fncd.getVehicles().get(i).getRepairBonus());
+                        fncd.updateBudget(-fncd.getVehicles().get(i).getRepairBonus());
+                    }
+                    i++;
+                }
+            }
+        }
         return fncd;
     }
 
@@ -59,7 +127,87 @@ public class Activities {
          * If buyer buys vehicle they will give the FNCD the sales price, salesperson gets bonus
          * FNCD stores list of sold vehicles
          */
-        
+        //  Initialize Buyers with chances
+        System.out.println("Selling...");
+        Random r = new Random();
+        int numBuyers;
+        if(day == "Saturday") {
+            numBuyers = r.nextInt(7) + 2;
+        }
+        else{
+            numBuyers = r.nextInt(6);
+        }
+        double[] buyChance = new double[numBuyers];
+        String[] typeLooking = new String[numBuyers];
+
+        int[] chances = {10, 40, 70};
+        String[] types = {"Pickup", "Car", "Performance Car"};
+
+        for(int i = 0; i < numBuyers; i++) {
+            buyChance[i] = chances[r.nextInt(3)];
+            typeLooking[i] = types[r.nextInt(3)];
+        }
+
+        //  Find salespeople
+        int[] salesPersonLocations = new int[3];
+        int j = 0;
+        int iter = 0;
+        while(j < fncd.getStaff().size() && iter < 3) {
+            if(fncd.getStaff().get(j) instanceof SalesPeople){
+                salesPersonLocations[iter] = j;
+            }
+            j++;
+        }
+        //  Selling Vehicles
+        double chance;
+        int sellVehiclePosition;
+        double vehiclePrice;
+
+        for(int z = 0; z < numBuyers; z++) {
+            sellVehiclePosition = -1;
+            vehiclePrice = 0;
+            // fncd.getStaff().get(salesPersonLocation[r.nextInt(3)]); //salesPerson
+            //  Find most expensive car pf correct type
+            for(int p = 0; p < fncd.getVehicles().size(); p++) {
+                if(fncd.getVehicles().get(p).getCost() * 2 > vehiclePrice && fncd.getVehicles().get(p).getType() == typeLooking[z] && fncd.getVehicles().get(p).getCondition() != "Broken"){
+                    sellVehiclePosition = p;
+                    vehiclePrice = fncd.getVehicles().get(p).getCost();
+                }
+            }
+            if(vehiclePrice == 0) { //  Finds vehicle not of correct type
+                for(int p = 0; p < fncd.getVehicles().size(); p++) {
+                    if(fncd.getVehicles().get(p).getCost() * 2 > vehiclePrice && fncd.getVehicles().get(p).getCondition() != "Broken"){
+                        sellVehiclePosition = p;
+                        vehiclePrice = fncd.getVehicles().get(p).getCost();
+                    }
+                }                        
+            }
+            // Vehicle is found. Now we compute chance of buying vehicle
+            chance = buyChance[z];
+            if(fncd.getVehicles().get(sellVehiclePosition).getCondition() == "Like New"){
+                chance += 10;
+            }
+            if(fncd.getVehicles().get(sellVehiclePosition).getCleanliness() == "Sparkling"){
+                chance += 10;
+            }
+            if(fncd.getVehicles().get(sellVehiclePosition).getType() != typeLooking[z]){
+                chance -= 20;
+            }
+            // System.out.println("CHANCE OF PURCHASE: " + chance);
+            // Finally we have vehicle, cost, seller
+            if(r.nextInt(100) < chance) {
+                int salesPersonLocation = r.nextInt(3);
+                double b = fncd.getVehicles().get(sellVehiclePosition).getSalesBonus();
+                System.out.println("Vehicle purchased! VehicleID: " + fncd.getVehicles().get(sellVehiclePosition).getId() + ". Salesperson ID: " + fncd.getStaff().get(salesPersonLocations[salesPersonLocation]) + " bonus: " + b); //delete
+
+                fncd.getStaff().get(salesPersonLocations[salesPersonLocation]).addBonus(b); //salesPerson
+                fncd.sellVehicle(fncd.getVehicles().get(sellVehiclePosition));
+                // fncd.updateBudget(fncd.getVehicles().get(sellVehiclePosition).getCost() * 2);
+                // ArrayList<Vehicle> vs = fncd.getVehicles();
+                // vs.remove(fncd.getVehicles().get(sellVehiclePosition));
+                // fncd.setVehicles(vs);
+            }
+        }
         return fncd;
     }
 
@@ -75,6 +223,7 @@ public class Activities {
          *      Inventory: list of all vehicles with all information
          *      Operating budget, total sales
          */
+
         return fncd;
     }
 }

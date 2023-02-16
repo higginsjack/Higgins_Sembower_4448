@@ -3,7 +3,7 @@ import java.util.*;
 
 abstract class Staff {
     private int id;
-    private int bonus;
+    private double bonus;
     private int salary;
     private int daysWorked;
     public Staff(int i, int s) {
@@ -29,12 +29,12 @@ abstract class Staff {
         this.daysWorked += i;
     }
 
-    public int getBonus(){
+    public double getBonus(){
         return this.bonus;
     }
 
-    public void setBonus(int i){
-        this.bonus = i;
+    public void addBonus(double i){
+        this.bonus += i;
     }
 
     public void setId(){
@@ -50,7 +50,7 @@ abstract class Staff {
 class SalesPeople extends Staff {
 
     public SalesPeople(int i, int s) {
-        super(i, s);
+        super(FNCD.createID(), s);
         //TODO Auto-generated constructor stub
         this.setSalary(40000);
     }
@@ -61,7 +61,7 @@ class SalesPeople extends Staff {
 class Mechanics extends Staff {
 
     public Mechanics(int i, int s) {
-        super(i, s);
+        super(FNCD.createID(), s);
         //TODO Auto-generated constructor stub
         this.setSalary(20000);
     }
@@ -71,7 +71,7 @@ class Mechanics extends Staff {
 class Interns extends Staff {
 
     public Interns(int i, int s) {
-        super(i, s);
+        super(FNCD.createID(), s);
         //TODO Auto-generated constructor stub
         this.setSalary(1000);
     }

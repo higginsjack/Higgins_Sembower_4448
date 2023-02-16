@@ -73,24 +73,15 @@ public class Main {
         // Main
         // ArrayList<Vehicle> vehicles =  new ArrayList<Vehicle>();
         // ArrayList<Staff> staff = new ArrayList<Staff>();
-        // for(int x = 0; x < 4; x++) {
-        //     vehicles.add(new PerformanceCar());
-        //     vehicles.add(new Car());
-        //     vehicles.add(new Pickup());
-        // }
-        // for(int z = 0; z < 3; z++) {
-        //     staff.add(new SalesPeople(0, FNCD.createID()));
-        //     staff.add(new Mechanics(0, FNCD.createID()));
-        //     staff.add(new Interns(0, FNCD.createID()));
-        // }
 
-        // FNCD fncd = new FNCD(250000, staff, vehicles);
+        // FNCD fncd = new FNCD(500000, staff, vehicles);
         // int length = 30;
         // int days_passed = 0;
-        // String[] days = {"Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"};
+        // String[] days = {"Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"};
         // //need to pass day into methods
         // while(days_passed < length) {
         //     String d = days[days_passed % 7];
+        // System.out.println("Day: " + days_passed + " " + d);
         //     if(d != "Sunday") {
         //         fncd = Activities.opening(fncd);
         //         fncd = Activities.washing(fncd);

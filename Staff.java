@@ -1,12 +1,14 @@
 import java.util.*;
+import java.math.*;
 
 
 abstract class Staff {
     private int id;
-    private int bonus;
+    private double bonus;
     private int salary;
     private int daysWorked;
-    public Staff(int i, int s) {
+    private int moneyMade;
+    Staff(int i, int s) {
         this.id = i;
         this.bonus = 0;
         this.salary = s;
@@ -29,12 +31,12 @@ abstract class Staff {
         this.daysWorked += i;
     }
 
-    public int getBonus(){
+    public double getBonus(){
         return this.bonus;
     }
 
-    public void setBonus(int i){
-        this.bonus = i;
+    public void addBonus(double i){
+        this.bonus += i;
     }
 
     public void setId(){
@@ -44,38 +46,29 @@ abstract class Staff {
     public int getId(){
         return this.id;
     }
+    public void setMoneyMade(Staff s)
+    {
+        this.moneyMade += Math.round(this.getSalary()/365);
+    }
 
-}
+    public int getMoneyMade(){
+        return this.moneyMade;
+    }
 
-class SalesPeople extends Staff {
+public static int Raffle() {
 
-    public SalesPeople(int i, int s) {
-        super(i, s);
-        //TODO Auto-generated constructor stub
-        this.setSalary(40000);
+        Random ladyLuck = new Random(); // create Random object ladyLuck
+        int answer = ladyLuck.nextInt(10) + 1;
+        return answer;
+
     }
 
 
-}
-
-class Mechanics extends Staff {
-
-    public Mechanics(int i, int s) {
-        super(i, s);
-        //TODO Auto-generated constructor stub
-        this.setSalary(20000);
-    }
 
 }
 
-class Interns extends Staff {
 
-    public Interns(int i, int s) {
-        super(i, s);
-        //TODO Auto-generated constructor stub
-        this.setSalary(1000);
-    }
 
-}
+
 
 

@@ -44,8 +44,19 @@ class FNCD {
         return this.vehicles;
     }
 
-    public void setVehicles(ArrayList<Vehicle> v) {
-        this.vehicles = v;
+    public void removeVehicle(int id) {
+        for(int i = 0; i < this.vehicles.size(); i++) {
+            if(this.vehicles.get(i).getId() == id) {
+                this.vehicles.remove(i);
+            }
+        }
+    }
+    public void setVehicles(ArrayList<Vehicle> vs) {
+        this.vehicles = vs;
+    }
+
+    public void setSoldVehicles(ArrayList<Vehicle> v) {
+        this.soldVehicles = v;
     }
 
     public void bankruptcy() {
@@ -142,7 +153,7 @@ class FNCD {
         }
         else if (getStaff().contains(s) && s instanceof Mechanics || s instanceof SalesPeople){
             internToMechanicOrSales(s);
-
+            staffUpdate(s);
         }
 
     }

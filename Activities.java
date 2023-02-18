@@ -251,6 +251,7 @@ public class Activities {
                     }
                 }                        
             }
+            // System.out.println("VEHICLE SELL ATTEMPT: " + fncd.getVehicles().get(sellVehiclePosition).getId());
             // Vehicle is found. Now we compute chance of buying vehicle
             chance = buyChance[z];
             if(fncd.getVehicles().get(sellVehiclePosition).getCondition() == "Like New"){
@@ -265,16 +266,26 @@ public class Activities {
             // System.out.println("CHANCE OF PURCHASE: " + chance);
             // Finally we have vehicle, cost, seller
             if(r.nextInt(100) < chance) {
+                // System.out.println("VEHICLE SOLD: " + fncd.getVehicles().get(sellVehiclePosition).getId());
                 int salesPersonLocation = r.nextInt(3);
                 double b = fncd.getVehicles().get(sellVehiclePosition).getSalesBonus();
                 System.out.println("Vehicle purchased! VehicleID: " + fncd.getVehicles().get(sellVehiclePosition).getId() + ". Salesperson ID: " + fncd.getStaff().get(salesPersonLocations[salesPersonLocation]).getId() + " bonus: " + b); //delete
 
                 fncd.getStaff().get(salesPersonLocations[salesPersonLocation]).addBonus(b); //salesPerson
-                fncd.sellVehicle(fncd.getVehicles().get(sellVehiclePosition));
-                // fncd.updateBudget(fncd.getVehicles().get(sellVehiclePosition).getCost() * 2);
-                // ArrayList<Vehicle> vs = fncd.getVehicles();
-                // vs.remove(fncd.getVehicles().get(sellVehiclePosition));
-                // fncd.setVehicles(vs);
+                //  Add to soldVehicles
+                // Vehicle v = fncd.getVehicles().get(sellVehiclePosition);
+                ArrayList<Vehicle> ds = fncd.getSoldVehicles();
+                // System.out.println(fncd.getVehicles().get(sellVehiclePosition).getId());
+                ds.add(fncd.getVehicles().get(sellVehiclePosition));
+                fncd.setSoldVehicles(ds);
+                //  Remove from vehicles
+                fncd.updateBudget(fncd.getVehicles().get(sellVehiclePosition).getSalesPrice());
+                fncd.updateDaySales(fncd.getVehicles().get(sellVehiclePosition).getSalesPrice());
+                // fncd.removeVehicle(fncd.getVehicles().get(sellVehiclePosition).getId());
+                ArrayList<Vehicle> vs = fncd.getVehicles();
+                vs.remove(sellVehiclePosition);
+                fncd.setVehicles(vs);
+                Main.printVehicles(fncd.getSoldVehicles());
             }
         }
         return fncd;
@@ -295,11 +306,11 @@ public class Activities {
 
 
 
-
-        int chance = Staff.Raffle();
-        ArrayList<Staff> s = fncd.getStaff();
-
-        // paying the staff their daily amount from salary
+            
+            int chance = Staff.Raffle();
+            ArrayList<Staff> s = fncd.getStaff();
+   
+        //paying the staff their daily amount from salary
         for(int i = 0; i < s.size(); i++){
             if (s.get(i) instanceof Interns){ //check to see if they're an intern or not, same for the instances below
                 s.get(i).setMoneyMade(s.get(i));
@@ -313,26 +324,28 @@ public class Activities {
                 s.get(i).setMoneyMade(s.get(i));
                 fncd.updateBudget(s.get(i).getMoneyMade());
             }
+
+            s.get(i).setDaysWorked();
         }
 
-        // for (int x = 0; x < s.size(); x++){
-        //     if(fncd.getStaff().get(x) instanceof Interns){
-        //         if (chance == 1){
-        //             fncd.staffUpdate(fncd.getStaff().get(x));
-        //         }
-        //     }
-        //     else  if(fncd.getStaff().get(x) instanceof Mechanics){
-        //         if (chance == 1){
-        //             fncd.staffUpdate(fncd.getStaff().get(x));
-        //         }
-        //     }
-        //     else  if(fncd.getStaff().get(x) instanceof SalesPeople){
-        //         if (chance == 1){
-        //             fncd.staffUpdate(fncd.getStaff().get(x));
-        //         }
-        //     }
-        //     fncd.Fomatter(fncd.getStaff().get(x));
-        // }
+        for (int x = 0; x < s.size(); x++){
+            if(fncd.getStaff().get(x) instanceof Interns){
+                if (chance == 1){
+                    fncd.staffUpdate(fncd.getStaff().get(x));
+                }
+            }
+            else  if(fncd.getStaff().get(x) instanceof Mechanics){
+                if (chance < 5){
+                    fncd.staffUpdate(fncd.getStaff().get(x));
+                }
+            }
+            else  if(fncd.getStaff().get(x) instanceof SalesPeople){
+                if (chance == 1){
+                    fncd.staffUpdate(fncd.getStaff().get(x));
+                }
+            }
+        }
+
         System.out.println("Staff");
         System.out.printf("| %15s | %15s | %15s | %15s | %15s | %15s\n", "Id" ,"Salary", "Money Made", "Days Worked", "Bonus Pay", "Working");
         Staff q;
@@ -341,7 +354,7 @@ public class Activities {
             System.out.printf("| %15s | %15s | %15s | %15s | %15s | %15s\n", q.getId(), q.getSalary(), q.getMoneyMade(), q.getDaysWorked(), q.getBonus(), "Yes");
         }
         for(int y = 0; y < fncd.getDeparted().size(); y++) {
-            q = fncd.getStaff().get(y);
+            q = fncd.getDeparted().get(y);
             System.out.printf("| %15s | %15s | %15s | %15s | %15s | %15s\n", q.getId(), q.getSalary(), q.getMoneyMade(), q.getDaysWorked(), q.getBonus(), "No");
         }
         
@@ -355,7 +368,7 @@ public class Activities {
             System.out.printf("| %-5s | %-10s | %10s | %15s | %15s | %5s\n",v.getId(), v.getCost(), v.getSalesPrice(), v.getCondition(), v.getCleanliness(), "No");
         }
         for(int i = 0; i < fncd.getSoldVehicles().size(); i++) {
-            v = fncd.getVehicles().get(i);
+            v = fncd.getSoldVehicles().get(i);
             System.out.printf("| %-5d | %-10s | %10s | %15s | %15s | %5s\n",v.getId(), v.getCost(), v.getSalesPrice(), v.getCondition(), v.getCleanliness(), "Yes");
         }
         System.out.println("Operating budget: " +  fncd.getBudget() + " -|- Total Sales $: " + fncd.getDaySales() + " -|- Bankruptcies: " + fncd.getBankruptcies());

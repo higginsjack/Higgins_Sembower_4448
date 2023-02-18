@@ -26,8 +26,8 @@ abstract class Staff {
         return this.daysWorked;
     }
 
-    public void setDaysWorked(int i){
-        this.daysWorked += i;
+    public void setDaysWorked(){
+        this.daysWorked += 1;
     }
 
     public double getBonus(){

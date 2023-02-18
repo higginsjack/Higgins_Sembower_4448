@@ -51,7 +51,7 @@ public class Main {
         // for(int z = 0; z < 3; z++) {
         //     staff.add(new SalesPeople(0, FNCD.createID()));
         //     staff.add(new Mechanics(0, FNCD.createID()));
-        //     // staff.add(new Interns(0, FNCD.createID()));
+        //     staff.add(new Interns(0, FNCD.createID()));
         // }
 
         // FNCD fncd = new FNCD(250000, staff, vehicles);
@@ -60,7 +60,7 @@ public class Main {
 
         // printStaff(fncd.getStaff());
         // System.out.println("fncd budget: " + fncd.getBudget());
-        // // printVehicles(fncd.getVehicles());
+        // printVehicles(fncd.getVehicles());
 
         // fncd = Activities.opening(fncd);
         // fncd = Activities.washing(fncd);
@@ -71,6 +71,7 @@ public class Main {
         // printStaff(fncd.getStaff());
         // System.out.println("fncd budget: " + fncd.getBudget());
         // printVehicles(fncd.getVehicles());
+        // printVehicles(fncd.getSoldVehicles());
 
         // Main
         ArrayList<Vehicle> vehicles =  new ArrayList<Vehicle>();
@@ -96,6 +97,7 @@ public class Main {
                 fncd = Activities.repairing(fncd);
                 fncd = Activities.selling(fncd, d);
                 fncd = Activities.ending(fncd);
+                // System.out.println("# DEPARTED STAFF: " + fncd.getDeparted().size());
             }
             days_passed++;
         }

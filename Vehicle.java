@@ -1,5 +1,6 @@
 import java.util.Random;
 abstract class Vehicle {
+    //encapsulation - all variables in object classes are private with getter/setter methods
     private int id;
     private String type;
     private double repairBonus;

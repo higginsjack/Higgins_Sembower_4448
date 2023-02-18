@@ -285,7 +285,7 @@ public class Activities {
                 ArrayList<Vehicle> vs = fncd.getVehicles();
                 vs.remove(sellVehiclePosition);
                 fncd.setVehicles(vs);
-                Main.printVehicles(fncd.getSoldVehicles());
+                // Main.printVehicles(fncd.getSoldVehicles());
             }
         }
         return fncd;
@@ -307,7 +307,6 @@ public class Activities {
 
 
             
-            int chance = Staff.Raffle();
             ArrayList<Staff> s = fncd.getStaff();
    
         //paying the staff their daily amount from salary
@@ -327,16 +326,23 @@ public class Activities {
 
             s.get(i).setDaysWorked();
         }
-
+        Random ladyLuck = new Random(); // create Random object ladyLuck
+        int chance;
         for (int x = 0; x < s.size(); x++){
+            chance = ladyLuck.nextInt(10) + 1;
             if(fncd.getStaff().get(x) instanceof Interns){
                 if (chance == 1){
                     fncd.staffUpdate(fncd.getStaff().get(x));
                 }
             }
             else  if(fncd.getStaff().get(x) instanceof Mechanics){
-                if (chance < 5){
-                    fncd.staffUpdate(fncd.getStaff().get(x));
+                if (chance == 1){
+                    // fncd.staffUpdate(fncd.getStaff().get(x));
+                    for(int i = 0; i < fncd.getStaff().size(); i++){
+                        if(fncd.getStaff().get(i) instanceof Interns) {
+                            fncd.staffUpdate(fncd.getStaff().get(x));
+                        }
+                    }
                 }
             }
             else  if(fncd.getStaff().get(x) instanceof SalesPeople){
@@ -346,16 +352,16 @@ public class Activities {
             }
         }
 
-        System.out.println("Staff");
-        System.out.printf("| %15s | %15s | %15s | %15s | %15s | %15s\n", "Id" ,"Salary", "Money Made", "Days Worked", "Bonus Pay", "Working");
+        System.out.println("Staff: " + fncd.getStaff().size());
+        System.out.printf("| %15s | %20s |  %15s | %15s | %15s | %15s | %15s\n", "Id" , "Type", "Salary", "Money Made", "Days Worked", "Bonus Pay", "Working");
         Staff q;
         for(int y = 0; y < fncd.getStaff().size(); y++) {
             q = fncd.getStaff().get(y);
-            System.out.printf("| %15s | %15s | %15s | %15s | %15s | %15s\n", q.getId(), q.getSalary(), q.getMoneyMade(), q.getDaysWorked(), q.getBonus(), "Yes");
+            System.out.printf("| %15s | %20s |  %15s | %15s | %15s | %15s | %15s\n", q.getId(), q.getClass(), q.getSalary(), q.getMoneyMade(), q.getDaysWorked(), q.getBonus(), "Yes");
         }
         for(int y = 0; y < fncd.getDeparted().size(); y++) {
             q = fncd.getDeparted().get(y);
-            System.out.printf("| %15s | %15s | %15s | %15s | %15s | %15s\n", q.getId(), q.getSalary(), q.getMoneyMade(), q.getDaysWorked(), q.getBonus(), "No");
+            System.out.printf("| %15s | %20s |  %15s | %15s | %15s | %15s | %15s\n", q.getId(), q.getClass(), q.getSalary(), q.getMoneyMade(), q.getDaysWorked(), q.getBonus(), "No");
         }
         
         // Inventory Print

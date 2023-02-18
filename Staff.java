@@ -1,8 +1,8 @@
 import java.util.*;
 
-
 abstract class Staff {
-    private int id;
+    //polymorphism - interns , salespeople, and mechanics all have same attributes/methods allowing for intern promotion
+    private int id; // Identity: this is a unique identifier for an object
     private double bonus;
     private int salary;
     private int daysWorked;
@@ -28,6 +28,18 @@ abstract class Staff {
 
     public void setDaysWorked(){
         this.daysWorked += 1;
+    }
+
+    public void setNewDaysWorked(int x) {
+        this.daysWorked = x;
+    }
+
+    public void setNewId(int y) {
+        this.id = y;
+    }
+
+    public void setNewMoneyMade(int z) {
+        this.moneyMade = z;
     }
 
     public double getBonus(){

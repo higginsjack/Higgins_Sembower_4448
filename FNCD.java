@@ -1,7 +1,6 @@
 import java.util.ArrayList;
 import java.util.Formatter;  
 
-
 class FNCD {
     private double budget;
     private int bankruptcies;
@@ -28,7 +27,7 @@ class FNCD {
     public void updateDaySales(double a){
         this.daySales += a;
     }
-    public static int createID(){
+    public static int createID(){ // Identity: this is a unique identifier for an object
         return idCounter++;
     }
 
@@ -74,6 +73,10 @@ class FNCD {
 
     public ArrayList<Staff> getDeparted(){
         return this.departedStaff;
+    }
+
+    public void setDeparted(ArrayList<Staff> s){
+        this.departedStaff =s;
     }
 
     public ArrayList<Staff> getStaff() {
@@ -127,24 +130,16 @@ class FNCD {
     }
 
     public void internToMechanicOrSales(Staff s){
-        if (s instanceof Mechanics || s instanceof SalesPeople){
-           staffUpdate(s);
-           staff.add(s);
+        if (s instanceof Mechanics){
+            Mechanics x = new Mechanics(0,0);
+            s = x;
 
         }
-
-    }
-
-    public void Fomatter(Staff s){
-        ArrayList<Staff> j = getStaff();
-        Formatter fmt = new Formatter();
-        fmt.format("%15s %15s %15s %15s %15s %15s\n", "Id" ,"Salary", "Money Made", "Days Worked", "Bonus Pay", "Working");
-        for (Staff x : getStaff()){
-        fmt.format(" %14s %14s %14s %14s %14s %14s\n",x.getId() ,x.getSalary(), x.getMoneyMade(), x.getDaysWorked(), x.getBonus(), working(x));  //need to check if they're working or not or if they departed.
+        else if (s instanceof SalesPeople){
+            SalesPeople x = new SalesPeople(0,0);
+            s = x;
         }
-        System.out.println(fmt);
     }
-
 
     public void promoter(Staff s){
 

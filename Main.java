@@ -1,5 +1,6 @@
 import java.util.ArrayList;
-
+// cohesion: all the objects are focused around their purpose. There is low cohesion between classes
+// FNCD has highest cohesion because it has instances of other objects
 public class Main {
     public static void main(String[] args) {
         //Vehicle tests
@@ -84,13 +85,13 @@ public class Main {
         }
 
         FNCD fncd = new FNCD(500000, staff, vehicles);
-        int length = 10;
+        int length = 1;
         int days_passed = 0;
-        String[] days = {"Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"};
+        String[] days = {"Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"};
         //need to pass day into methods
         while(days_passed < length) {
             String d = days[days_passed % 7];
-        System.out.println("Day: " + days_passed + " " + d);
+        System.out.println("Day: " + days_passed + " " + d); // Iterate through days and run activities for each day
             if(d != "Sunday") {
                 fncd = Activities.opening(fncd);
                 fncd = Activities.washing(fncd);

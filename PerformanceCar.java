@@ -1,7 +1,7 @@
 import java.util.Random;
 
 public class PerformanceCar extends Vehicle {
-
+// Abstraction: there is a hierarchy of classes where PerformanceCar, Car, and pickup extend Vehicle
     PerformanceCar() {
         //(int id, String type, float repairBonus, float washBonus, float cost)
         //id = FNCD.

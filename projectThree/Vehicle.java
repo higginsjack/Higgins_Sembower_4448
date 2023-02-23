@@ -102,7 +102,7 @@ class Motorcylce extends Vehicle {
         super();
         type = Enums.VehicleType.Motorcylce;
         name = namer.getNext();
-        cost = getCost(100000, 20000);
+        cost = getCost(10000, 20000);
         price = cost * 2;
         repair_bonus = 150;
         wash_bonus = 25;

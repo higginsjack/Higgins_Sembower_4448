@@ -29,7 +29,38 @@ public abstract class Vehicle {
     }
 
 
+
+
+
+//helper function to get adjusted cost for condtion //BRUCE!
+    double getCost(int low, int high) {
+        double cost = Utility.randomFromRange(low, high);
+        if (condition == Enums.Condition.Used) cost = cost*.8;
+        if (condition == Enums.Condition.Broken) cost = cost*.5;
+        return cost;
+    }
+
+
+  // Utility for finding out how many of a Vehicle there are
+    static int howManyVehiclesByType(ArrayList<Vehicle> vehicleList, Enums.VehicleType t) {
+        int n = 0;
+        for (Vehicle v: vehicleList) {
+            if (v.type == t) n++;
+        }
+        return n;
+    }
+
 }
+
+
+static ArrayList<Vehicle> getVehiclesByType(ArrayList<Vehicle> vehicleList, Enums.VehicleType t) {
+    ArrayList<Vehicle> subclassInstances = new ArrayList<>();
+    for (Vehicle v : vehicleList) {
+        if (v.type == t) subclassInstances.add(v);
+    }
+    return subclassInstances;
+}
+
 
 
 class Car extends Vehicle {

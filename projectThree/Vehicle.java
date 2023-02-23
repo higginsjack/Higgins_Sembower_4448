@@ -13,7 +13,8 @@ public abstract class Vehicle {
     double price;
     double repair_bonus;
     double sale_bonus;
-
+    //range attribute for electric cars
+    int range;
 
     //vehicle constructor
 
@@ -102,7 +103,7 @@ class Motorcylce extends Vehicle {
         super();
         type = Enums.VehicleType.Motorcylce;
         name = namer.getNext();
-        cost = getCost(10000, 20000);
+        cost = getCost(100000, 20000);
         price = cost * 2;
         repair_bonus = 150;
         wash_bonus = 25;

@@ -91,7 +91,7 @@ class Electric extends Vehicle {
         repair_bonus = 300;
         wash_bonus = 100;
         sale_bonus = 1000; 
-        range = Utility.randomEnum(60, 400);
+        range = Utility.randomFromRange(60, 400);
     }
 }
 

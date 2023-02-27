@@ -88,8 +88,13 @@ public abstract class Staff implements Sysout {
                         System.out.printf("Mechanic "+name+" fixed " + v.name+ " "+ startAs+ " to " + v.condition);
 
                     }
+                    else {
+                        fixCount+=1;
+                        System.out.printf("Mechaninc "+ name+ " did not fix the " + v.condition+ " " +v.name);
+                    }
                 
                 }
+                if (fixCount == 2) break;
             }
         }
     }

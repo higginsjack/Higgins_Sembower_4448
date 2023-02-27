@@ -7,5 +7,6 @@ public class Enums {
     public enum StaffType {Salesperson, Mechanic, Driver, Intern}
     public enum Cleanliness {Clean, Dirty, Sparkling}
     public enum BuyerType {JustLooking, WantsOne, NeedsOne}
+    public enum RaceCars {Performance, Pickup, Monster, Motorcycle};
 
 }

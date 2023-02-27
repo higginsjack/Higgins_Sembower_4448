@@ -47,6 +47,8 @@ public abstract class Staff implements Sysout {
             name = namer.getNext();
             salary = 60;
         }
+        //now get to how they wash cars
+
     }
     class Mechanic extends Staff {
         static List<String> names = Arrays.asList("James", "Scott", "Mike", "Carol", "Jennifer", "Taylor", "Keana", "Jeff", "Jefferey", "Ming");
@@ -76,11 +78,20 @@ public abstract class Staff implements Sysout {
     }
 
 
+    class Driver extends Staff {
+        static List<String> names = Arrays.asList("Brock", "Jamar", "Larisa", "Johnny", "Bella", "Olivia", "Greg", "Justin");
+        static Namer namer = new Namer(names);
+        Driver(){
+            super();
+            type = Enums.StaffType.Driver;
+            name = namer.getNext();
+            salary = 130;
+        }
+        //add driving actibity (race day)
+    }
 
 
 
-
-        //now get to how they wash cars
         
     
 }

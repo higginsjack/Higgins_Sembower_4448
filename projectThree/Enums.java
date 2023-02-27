@@ -13,5 +13,5 @@ public class Enums {
             if (VehicleType != Car && VehicleType != Electric){
                 RaceCars[i] = VehicleType[i];
             }
-
+   //checking to see if they were added to the racecars enum!! System.out.println(RaceCars);
 }

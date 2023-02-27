@@ -126,7 +126,7 @@ class Electric extends Vehicle {
     }
 }
 
-
+//need to add engine size with the proper math involved
 class Motorcylce extends Vehicle {
     static List<String> names = Arrays.aList("Chopper", "Scooter", "Roadster", "Touring", "Scrambler", "Cruiser");
     static Namer namer = new Namer(names);
@@ -141,7 +141,7 @@ class Motorcylce extends Vehicle {
         sale_bonus = 50;
     }
 }
-
+//add more names to monster truck names
 class Monster extends Vehicle {
     static List<String> names = Arrays.aList("Alien Invasion", "Avenger", "Bad Company", "Blue Thunder", "Ghost Rider", "Black Pearl");
     static Namer namer = new Namer(names);

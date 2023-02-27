@@ -62,8 +62,37 @@ public abstract class Staff implements Sysout {
         }
 
         //add repair activity
-    }
+        void repairVehicles(ArrayList<Vehicle> vList){
+            int fixCount = 0;
+            Enums.Condition startAs;
 
+
+            for (Vehicle v: Vlist){
+                if (v.condition != Enums.Condition.LikeNew) {
+                    startA = v.condition;
+                    if (v.cleanliness == Enums.Cleanliness.Clean) v.cleanliness = Enums.Clealiness.Dirty;
+                    if (v.cleanliness == Enums.Clealiness.Sparkling) v.cleanliness = Enums.Cleanliness.Clean;
+                    double chance = Utility.rnd();
+                    if (chance < .8) {
+                        fixCount += 1;
+                        if (v.condition == Enums.Condition.Used) {
+                            v.condtion = Enums.Condition.LikeNew;
+                            v.price = v.price * 1.25;
+                        }
+                        if (v.condition == Enums.Condition.Broken){
+                            v.condition = Enums.Condition.Used;
+                            v.price = v.price * 1.5;
+                        }
+                        bonusEarned += v.repair_bonus;
+                        System.out.printf("Mechanic "+name+" got a bonus of " + Utility.asDollar(v.repair_bonus)+ "!");
+                        System.out.printf("Mechanic "+name+" fixed " + v.name+ " "+ startAs+ " to " + v.condition);
+
+                    }
+                
+                }
+            }
+        }
+    }
 
     class Salesperson extends Staff {
         static List<Sting> names = Arrays.asList("Ryan", "Cordon", "Jose", "Cali", "Chandler", "Racheal", "Magi", "Mia");
@@ -76,7 +105,6 @@ public abstract class Staff implements Sysout {
         }
         //add selling vehicle information
     }
-
 
     class Driver extends Staff {
         static List<String> names = Arrays.asList("Brock", "Jamar", "Larisa", "Johnny", "Bella", "Olivia", "Greg", "Justin");

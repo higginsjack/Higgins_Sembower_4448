@@ -47,10 +47,40 @@ public abstract class Staff implements Sysout {
             name = namer.getNext();
             salary = 60;
         }
+    }
+    class Mechanic extends Staff {
+        static List<String> names = Arrays.asList("James", "Scott", "Mike", "Carol", "Jennifer", "Taylor", "Keana", "Jeff", "Jefferey", "Ming");
+        static Namer namer = new Namer(names);
+        Mechanic(){
+            super();
+            type = Enums.StaffType.Mechanic;
+            name = namer.getNext();
+            salary = 120;
+
+        }
+
+        //add repair activity
+    }
+
+
+    class Salesperson extends Staff {
+        static List<Sting> names = Arrays.asList("Ryan", "Cordon", "Jose", "Cali", "Chandler", "Racheal", "Magi", "Mia");
+        static Namer namer = new Namer(names);
+        Salesperson() {
+            super();
+            type = Enums.StaffType.Salesperson;
+            name = namer.getNext();
+            salary = 90;
+        }
+        //add selling vehicle information
+    }
+
+
+
 
 
 
         //now get to how they wash cars
         
-    }
+    
 }

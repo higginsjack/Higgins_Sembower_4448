@@ -10,7 +10,7 @@ public class Enums {
     public enum RaceCars =  
         for (int i = 0; i < VehicleType.size(); i++)
         {
-            if (VehicleType != Car || VehicleType != Electric){
+            if (VehicleType != Car && VehicleType != Electric){
                 RaceCars[i] = VehicleType[i];
             }
 

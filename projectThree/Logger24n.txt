@@ -1,0 +1,266 @@
+The FNCD is opening...
+Bought Taurus-3, a Dirty LikeNew Car for $16,768.00
+Bought Tundra-4, a Sparkling Broken Pickup for $15,349.00
+Bought Ranger-5, a Dirty Broken Pickup for $13,830.00
+The FNCD interns are washing...
+Intern Fred washed Europa-5 Dirty to Clean
+Intern Fred washed Taurus-3 Dirty to Clean
+Intern Ethel washed Ranger-5 Dirty to Clean
+Intern Ethel got a bonus of $100.00!
+Intern Ethel washed Europa-5 Clean to Sparkling
+Intern Lucy washed Taurus-3 Clean to Clean
+Intern Lucy washed Ranger-5 Clean to Clean
+The FNCD mechanics are repairing...
+Mechanic James got a bonus of $200.00!
+Mechanic James fixed Tundra-4 Broken to Used
+Mechanic James got a bonus of $200.00!
+Mechanic James fixed Ranger-5 Broken to Used
+Mechanic Scotty got a bonus of $200.00!
+Mechanic Scotty fixed Tundra-4 Used to LikeNew
+Mechanic Scotty got a bonus of $200.00!
+Mechanic Scotty fixed Ranger-5 Used to LikeNew
+The FNCD salespeople are selling...
+The FNCD has 2 buyers today...
+Buyer Leia-17 wants a Pickup (JustLooking)
+Buyer Leia-17 decided not to buy.
+Buyer Han-17 wants a Pickup (JustLooking)
+Buyer Han-17 is buying! Salesperson Monica gets a bonus of $750.00!
+Buyer Han-17 bought Dirty LikeNew Tundra-4 for $57,558.75
+No-one on the staff is leaving!
+Vehicles in inventory 11
+Vehicles sold count 34
+Money in the budget $1,165,611.32
+That's it for the day.
+The FNCD is opening...
+Bought Escort-4, a Dirty LikeNew Car for $15,005.00
+The FNCD interns are washing...
+Intern Fred washed F-250-4 Dirty to Clean
+Intern Fred washed Corvette-5 Dirty to Dirty
+Intern Ethel washed Corvette-5 Dirty to Clean
+Intern Ethel washed Colorado-4 Dirty to Clean
+Intern Lucy got a bonus of $20.00!
+Intern Lucy washed Escort-4 Dirty to Sparkling
+Intern Lucy washed Europa-5 Clean to Clean
+The FNCD mechanics are repairing...
+The FNCD salespeople are selling...
+The FNCD has 4 buyers today...
+Buyer Leia-18 wants a Pickup (JustLooking)
+Buyer Leia-18 decided not to buy.
+Buyer Han-18 wants a Car (WantsOne)
+Buyer Han-18 decided not to buy.
+Buyer Chewy-18 wants a PerfCar (WantsOne)
+Buyer Chewy-18 decided not to buy.
+Buyer Luke-19 wants a Car (JustLooking)
+Buyer Luke-19 decided not to buy.
+No-one on the staff is leaving!
+Vehicles in inventory 12
+Vehicles sold count 36
+Money in the budget $1,276,989.88
+That's it for the day.
+Sorry, FNCD is closed on Sun
+Sorry, FNCD is closed on Sun
+Sorry, FNCD is closed on Sun
+The FNCD is opening...
+The FNCD interns are washing...
+Intern Fred washed Fiesta-5 Dirty to Clean
+Intern Fred got a bonus of $100.00!
+Intern Fred washed Corvette-4 Clean to Sparkling
+Intern Ethel got a bonus of $75.00!
+Intern Ethel washed F-250-4 Clean to Sparkling
+Intern Ethel washed Fiesta-5 Clean to Clean
+Intern Lucy washed Fiesta-5 Clean to Clean
+The FNCD mechanics are repairing...
+The FNCD salespeople are selling...
+The FNCD has 5 buyers today...
+Buyer Chewy-17 wants a PerfCar (WantsOne)
+Buyer Chewy-17 decided not to buy.
+Buyer Luke-18 wants a Pickup (JustLooking)
+Buyer Luke-18 decided not to buy.
+Buyer Leia-18 wants a PerfCar (JustLooking)
+Buyer Leia-18 is buying! Salesperson Monica gets a bonus of $1,000.00!
+Buyer Leia-18 bought Sparkling LikeNew Mustang-4 for $71,060.00
+Buyer Han-18 wants a PerfCar (JustLooking)
+Buyer Han-18 decided not to buy.
+Buyer Chewy-18 wants a PerfCar (WantsOne)
+Buyer Chewy-18 is buying! Salesperson Phoebe gets a bonus of $1,000.00!
+Buyer Chewy-18 bought Sparkling LikeNew Cayman-4 for $61,836.00
+No-one on the staff is leaving!
+Vehicles in inventory 10
+Vehicles sold count 40
+Money in the budget $1,359,513.82
+That's it for the day.
+The FNCD is opening...
+Bought Probe-3, a Dirty Broken Car for $5,954.50
+Bought Escort-3, a Clean LikeNew Car for $13,544.00
+The FNCD interns are washing...
+Intern Fred washed Mustang-4 Dirty to Clean
+Intern Fred got a bonus of $20.00!
+Intern Fred washed Probe-3 Dirty to Sparkling
+Intern Ethel got a bonus of $75.00!
+Intern Ethel washed Colorado-3 Clean to Sparkling
+Intern Ethel washed Corvette-4 Clean to Clean
+Intern Lucy washed Corvette-4 Clean to Clean
+Intern Lucy washed Mustang-4 Clean to Clean
+The FNCD mechanics are repairing...
+Mechanic James got a bonus of $100.00!
+Mechanic James fixed Probe-3 Broken to Used
+Mechanic Scotty got a bonus of $100.00!
+Mechanic Scotty fixed Probe-3 Used to LikeNew
+The FNCD salespeople are selling...
+The FNCD has 6 buyers today...
+Buyer Leia-16 wants a Pickup (NeedsOne)
+Buyer Leia-16 is buying! Salesperson Phoebe gets a bonus of $750.00!
+Buyer Leia-16 bought Sparkling LikeNew Colorado-3 for $68,850.00
+Buyer Han-16 wants a Car (WantsOne)
+Buyer Han-16 is buying! Salesperson Rachel gets a bonus of $500.00!
+Buyer Han-16 bought Clean LikeNew Escort-3 for $27,088.00
+Buyer Chewy-16 wants a Car (NeedsOne)
+Buyer Chewy-16 is buying! Salesperson Phoebe gets a bonus of $500.00!
+Buyer Chewy-16 bought Sparkling LikeNew Probe for $24,011.25
+Buyer Luke-17 wants a PerfCar (WantsOne)
+Buyer Luke-17 is buying! Salesperson Phoebe gets a bonus of $1,000.00!
+Buyer Luke-17 bought Clean LikeNew Corvette-4 for $75,642.00
+Buyer Leia-17 wants a Car (WantsOne)
+Buyer Leia-17 is buying! Salesperson Rachel gets a bonus of $500.00!
+Buyer Leia-17 bought Sparkling LikeNew Taurus for $23,276.25
+Buyer Han-17 wants a Car (NeedsOne)
+Buyer Han-17 decided not to buy.
+No-one on the staff is leaving!
+Vehicles in inventory 7
+Vehicles sold count 30
+Money in the budget $1,092,883.50
+That's it for the day.
+The FNCD is opening...
+Bought Corvette-5, a Dirty Used PerfCar for $23,480.80
+Bought Tundra-5, a Dirty Used Pickup for $25,268.80
+The FNCD interns are washing...
+Intern Fred washed Mustang-4 Dirty to Clean
+Intern Fred got a bonus of $100.00!
+Intern Fred washed Corvette-5 Dirty to Sparkling
+Intern Ethel washed Tundra-5 Dirty to Clean
+Intern Ethel washed Mustang-4 Clean to Dirty
+Intern Lucy washed Mustang-4 Dirty to Clean
+Intern Lucy washed Mustang-4 Clean to Clean
+The FNCD mechanics are repairing...
+Mechanic James got a bonus of $300.00!
+Mechanic James fixed Corvette-5 Used to LikeNew
+Mechanic James got a bonus of $200.00!
+Mechanic James fixed Tundra-5 Used to LikeNew
+The FNCD salespeople are selling...
+The FNCD has 0 buyers today...
+No-one on the staff is leaving!
+Vehicles in inventory 12
+Vehicles sold count 37
+Money in the budget $1,394,438.50
+That's it for the day.
+The FNCD is opening...
+Bought Fiesta-3, a Dirty Used Car for $15,996.80
+Bought Cayman-5, a Clean LikeNew PerfCar for $34,089.00
+Bought Corvette-5, a Dirty Broken PerfCar for $15,398.50
+The FNCD interns are washing...
+Intern Fred washed Fiesta-3 Dirty to Clean
+Intern Fred washed Corvette-5 Dirty to Clean
+Intern Ethel washed Fiesta-3 Clean to Clean
+Intern Ethel washed Cayman-5 Clean to Clean
+Intern Lucy washed Fiesta-3 Clean to Clean
+Intern Lucy washed Cayman-5 Clean to Clean
+The FNCD mechanics are repairing...
+Mechanic James got a bonus of $100.00!
+Mechanic James fixed Fiesta-3 Used to LikeNew
+Mechanic James got a bonus of $300.00!
+Mechanic James fixed Corvette-5 Broken to Used
+Mechanic Scotty got a bonus of $300.00!
+Mechanic Scotty fixed Corvette-5 Used to LikeNew
+The FNCD salespeople are selling...
+The FNCD has 3 buyers today...
+Buyer Leia-18 wants a Car (NeedsOne)
+Buyer Leia-18 is buying! Salesperson Phoebe gets a bonus of $500.00!
+Buyer Leia-18 bought Dirty LikeNew Fiesta-3 for $39,992.00
+Buyer Han-18 wants a Pickup (NeedsOne)
+Buyer Han-18 is buying! Salesperson Rachel gets a bonus of $750.00!
+Buyer Han-18 bought Sparkling LikeNew Colorado-5 for $64,006.88
+Buyer Chewy-18 wants a PerfCar (WantsOne)
+Buyer Chewy-18 is buying! Salesperson Phoebe gets a bonus of $1,000.00!
+Buyer Chewy-18 bought Clean LikeNew Cayman-5 for $68,178.00
+No-one on the staff is leaving!
+Vehicles in inventory 9
+Vehicles sold count 42
+Money in the budget $1,625,161.10
+That's it for the day.
+The FNCD is opening...
+Bought Escort-4, a Dirty Used Car for $8,140.00
+Bought Taurus-4, a Clean LikeNew Car for $15,571.00
+Bought Fiesta-4, a Dirty Broken Car for $7,942.00
+Bought Corvette-5, a Dirty Broken PerfCar for $10,757.00
+The FNCD interns are washing...
+Intern Fred washed Escort-4 Dirty to Clean
+Intern Fred washed Fiesta-4 Dirty to Clean
+Intern Ethel washed Corvette-5 Dirty to Clean
+Intern Ethel washed Escort-4 Clean to Clean
+Intern Lucy got a bonus of $20.00!
+Intern Lucy washed Escort-4 Clean to Sparkling
+Intern Lucy washed Taurus-4 Clean to Clean
+The FNCD mechanics are repairing...
+Mechanic James got a bonus of $100.00!
+Mechanic James fixed Escort-4 Used to LikeNew
+Mechanic James got a bonus of $100.00!
+Mechanic James fixed Fiesta-4 Broken to Used
+Mechanic Scotty got a bonus of $100.00!
+Mechanic Scotty fixed Fiesta-4 Used to LikeNew
+Mechanic Scotty got a bonus of $300.00!
+Mechanic Scotty fixed Corvette-5 Broken to Used
+Mechanic Spock got a bonus of $300.00!
+Mechanic Spock fixed Corvette-5 Used to LikeNew
+The FNCD salespeople are selling...
+The FNCD has 3 buyers today...
+Buyer Luke-16 wants a PerfCar (WantsOne)
+Buyer Luke-16 decided not to buy.
+Buyer Leia-16 wants a Pickup (JustLooking)
+Buyer Leia-16 decided not to buy.
+Buyer Han-16 wants a PerfCar (NeedsOne)
+Buyer Han-16 is buying! Salesperson Monica gets a bonus of $1,000.00!
+Buyer Han-16 bought Sparkling LikeNew Cayman-5 for $58,900.00
+No-one on the staff is leaving!
+Vehicles in inventory 11
+Vehicles sold count 35
+Money in the budget $1,229,498.12
+That's it for the day.
+The FNCD is opening...
+Bought Europa-4, a Clean Broken PerfCar for $13,750.50
+The FNCD interns are washing...
+Intern Fred washed Fiesta-5 Dirty to Clean
+Intern Fred washed Escort-6 Dirty to Clean
+Intern Ethel got a bonus of $20.00!
+Intern Ethel washed Escort-5 Clean to Sparkling
+Intern Ethel washed Fiesta-5 Clean to Clean
+Intern Lucy got a bonus of $20.00!
+Intern Lucy washed Fiesta-5 Clean to Sparkling
+Intern Lucy washed Probe-6 Clean to Clean
+The FNCD mechanics are repairing...
+Mechanic James got a bonus of $200.00!
+Mechanic James fixed Colorado-5 Used to LikeNew
+Mechanic James did not fix the Used Tundra-5
+Mechanic Scotty did not fix the Used Tundra-5
+Mechanic Scotty got a bonus of $300.00!
+Mechanic Scotty fixed Europa-4 Broken to Used
+Mechanic Spock did not fix the Used Tundra-5
+Mechanic Spock got a bonus of $300.00!
+Mechanic Spock fixed Europa-4 Used to LikeNew
+The FNCD salespeople are selling...
+The FNCD has 4 buyers today...
+Buyer Han-19 wants a Car (NeedsOne)
+Buyer Han-19 is buying! Salesperson Phoebe gets a bonus of $500.00!
+Buyer Han-19 bought Clean LikeNew Escort-6 for $29,077.50
+Buyer Chewy-19 wants a Pickup (NeedsOne)
+Buyer Chewy-19 decided not to buy.
+Buyer Luke-20 wants a PerfCar (JustLooking)
+Buyer Luke-20 is buying! Salesperson Phoebe gets a bonus of $1,000.00!
+Buyer Luke-20 bought Sparkling LikeNew Corvette-3 for $57,324.38
+Buyer Leia-20 wants a PerfCar (WantsOne)
+Buyer Leia-20 is buying! Salesperson Monica gets a bonus of $1,000.00!
+Buyer Leia-20 bought Dirty LikeNew Europa-4 for $51,564.38
+No-one on the staff is leaving!
+Vehicles in inventory 9
+Vehicles sold count 46
+Money in the budget $1,481,686.90
+That's it for the day.

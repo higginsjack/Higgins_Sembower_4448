@@ -48,6 +48,13 @@ public abstract class Staff implements Sysout {
             salary = 60;
         }
         //now get to how they wash cars
+        //using the strategy pattern here
+        private Strategy washingStrategy;
+        public String printWashingType(){
+            return washingStrategy.washingMethod();
+        }
+
+
 
     }
     class Mechanic extends Staff {
@@ -114,6 +121,8 @@ public abstract class Staff implements Sysout {
     class Driver extends Staff {
         static List<String> names = Arrays.asList("Brock", "Jamar", "Larisa", "Johnny", "Bella", "Olivia", "Greg", "Justin");
         static Namer namer = new Namer(names);
+        private Boolean injured = false;
+        
         Driver(){
             super();
             type = Enums.StaffType.Driver;
@@ -121,6 +130,8 @@ public abstract class Staff implements Sysout {
             salary = 130;
         }
         //add driving actibity (race day)
+
+        
     }
 
 
@@ -128,3 +139,5 @@ public abstract class Staff implements Sysout {
         
     
 }
+
+

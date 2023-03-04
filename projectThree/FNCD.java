@@ -34,11 +34,24 @@ public class FNCD implements SysOut {
     // It would make the normal day less of a monster maybe, eh...
 
     void raceDay(Enums.DayOfWeek day) {  
-        dayOfWeek = Utility.randomEnum(Enums.DayOfWeek.class); 
          // Nothing really special about closed days
-        for (int i = 0; i != 20; i++){
-            raceVehicles.addVehicle();
+         Enum t = randomEnum(Enums.VehicleType.class);
+        for (int i = 0; i != 17; i++){
+            raceVehicles.addVehicle(Utility.randomEnum(t); 
         }
+
+        int numberOfVehiclesInInventory = getVehiclesByType(t);
+        for (int j = 0; j < numberOfVehiclesInInventory; j++){
+            if (j == 3){
+                break;
+            }
+            else{
+               if() raceVehicles.addVheicle(t);
+            }
+        }
+
+
+
 
 
     }

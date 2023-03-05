@@ -35,6 +35,8 @@ public class FNCD implements SysOut {
 
     void raceDay(Enums.DayOfWeek day) {  
          // Nothing really special about closed days
+         ArrayList<raceVehicles> positions;
+
          Enum t = randomEnum(Enums.VehicleType.class);
         for (int i = 0; i != 17; i++){
             raceVehicles.addVehicle(Utility.randomEnum(t); 
@@ -52,7 +54,9 @@ public class FNCD implements SysOut {
                 raceVehicles.addVheicle(t);
             }
         }
-
+        for (raceVehicles: raceVehicles){
+            positions.append(Utility.rndFromRange(1,20));
+        }
 
 
 

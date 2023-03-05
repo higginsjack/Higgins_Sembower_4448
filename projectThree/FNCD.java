@@ -46,7 +46,10 @@ public class FNCD implements SysOut {
                 break;
             }
             else{
-               if() raceVehicles.addVheicle(t);
+                if (inventory.getVehiclesByType(t).Condition == Broken){
+                    break;
+                }
+                raceVehicles.addVheicle(t);
             }
         }
 

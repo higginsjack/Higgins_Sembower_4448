@@ -56,34 +56,47 @@ public abstract class Staff implements Sysout {
         public void setStrategy(Enum t){
             this.washingStrategy = t;
         }
-
+        public Strategy getStrategy(){
+            return this.washingStrategy;
+        }
         //use the interface to get print the strategy they were assigned to
-        void washVehicles(Enum t.washingStrategy, ArrayList<Vehicle> vList){
+        void washVehicles(Enum t.washingMethod, ArrayList<Vehicle> vList){
             int washCount = 0;
             Enums.Cleanliness startAs;
             for (Vehicle v:vList) {
-                // wash the first dirty car I see
-                if (v.cleanliness == Enums.Cleanliness.Dirty) {
-                    washCount += 1;
-                    startAs = Enums.Cleanliness.Dirty;
-                    double chance = Utility.rnd();
-                    if (this.washingStrategy == Enums.washingStrategy.Chemical){
-                    if (chance <= .8) v.cleanliness = Enums.Cleanliness.Clean;
-                    if (chance >.8 && chance <=.9) {
-                        v.cleanliness = Enums.Cleanliness.Sparkling;
-                        bonusEarned += v.wash_bonus;
-                        out("Intern "+name+" got a bonus of "+Utility.asDollar(v.wash_bonus)+"!");
-                        out(this.washingMethod());
+                //wash the first dirty car I find 
+                if (v.Condition == Enums.Condition.Dirty){
+                    if (this.washingStrategy == Enums.WashingStrategy.Chemical){
+                        this.washingStrategy.check(v);
                     }
+                    if (this.washingStrategy == Enums.WashingStrategy.ElbowGrease){
+                        this.washingStrategy.check(v);
                     }
-                    out("Intern "+name+" washed "+v.name+" "+startAs+" to "+v.cleanliness);
-                    if (washCount == 2) break;
+                    if (this.washingStrategy == Enums.WashingStrategy.Detailed){
+                        this.washingStrategy.check(v);
+                    }
+                    washCount+=1;
+                    }
                 }
+            if (washCount< 2){
+                //wash the first clean car:
+                if (v.Condition == Enums.Condition.Clean){
+                    if (this.washingStrategy == Enums.WashingStrategy.Chemical){
+                        this.washingStrategy.check(v);
+                    }
+                    if (this.washingStrategy == Enums.WashingStrategy.ElbowGrease){
+                        this.washingStrategy.check(v);
+                    }
+                    if (this.washingStrategy == Enums.WashingStrategy.Detailed){
+                        this.washingStrategy.check(v);
+                    }
+                    washCount+=1;
+                    }
+                }
+                if (washCount == 2) break;
             }
-        }
 
-
-
+        
     }
     class Mechanic extends Staff {
         static List<String> names = Arrays.asList("James", "Scott", "Mike", "Carol", "Jennifer", "Taylor", "Keana", "Jeff", "Jefferey", "Ming");

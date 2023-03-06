@@ -53,6 +53,11 @@ public abstract class Staff implements Sysout {
         public String printWashingType(){
             return washingStrategy.washingMethod();
         }
+        public void setStrategy(Enum t){
+            this.washingStrategy = t;
+        }
+
+        //use the interface to get print the strategy they were assigned to
 
 
 
@@ -122,14 +127,14 @@ public abstract class Staff implements Sysout {
         static List<String> names = Arrays.asList("Brock", "Jamar", "Larisa", "Johnny", "Bella", "Olivia", "Greg", "Justin");
         static Namer namer = new Namer(names);
         private Boolean injured = false;
-        
+
         Driver(){
             super();
             type = Enums.StaffType.Driver;
             name = namer.getNext();
             salary = 130;
         }
-        //add driving actibity (race day)
+
 
         
     }

@@ -74,9 +74,11 @@ public abstract class Staff implements Sysout {
                     }
                     if (this.washingStrategy == Enums.WashingStrategy.Detailed){
                         this.washingStrategy.check(v);
+                       
                     }
                     washCount+=1;
                     }
+                    out(this.washingStrategy.washingMethod());
                 }
             if (washCount< 2){
                 //wash the first clean car:
@@ -92,6 +94,7 @@ public abstract class Staff implements Sysout {
                     }
                     washCount+=1;
                     }
+                    out(this.washingStrategy.washingMethod());
                 }
                 if (washCount == 2) break;
             }

@@ -48,7 +48,7 @@ class ElbowGrease implements Strategy{
         if (v.Condition == Enums.Condition.Dirty){
         double chance = Utility.rnd();
         if (chance <= .7) {
-            v.cleanliness = Enums.Clealiness.Clean;
+            v.Clealiness = Enums.Clealiness.Clean;
         }
         else if (chance >.7 && chance <=.05){
             v.Cleanliness = Enums.Condtion.Sparkling;
@@ -63,6 +63,7 @@ class ElbowGrease implements Strategy{
                 v.Condition = V.Condition.Sparkling;
             }
         }
+        out(washingMethod());
     }
 }
 
@@ -71,6 +72,25 @@ class Deatiled implements Strategy{
         return "Washing with detailed!";
     }
     @override 
-    check();
+    public void check(v){
+        double chance = Utility.rnd();
+        if (v.Condition == Enums.Condition.Dirty){
+            if (chance <=.6){
+                v.Condition = Enums.Condition.Clean;
+            }
+            if (chance >=.8){
+                v.Condition = Enums.Condition.Sparkling;
+            }
+        }
+        else if (v.Condition == Enums.Condition.Clean){
+            if (chance <=.05){
+                v.Condition = Enums.Condition.Dirty;
+            }
+            if (chance >=.6){
+                v.Condition = Enums.Condition.Sparkling;
+            }
+        }
+        out(washingMethod());
+        }
 }
 

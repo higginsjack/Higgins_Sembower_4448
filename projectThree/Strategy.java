@@ -12,7 +12,7 @@ class Chemical implements Strategy{
         return "Washing with chemical!";
     }
     @override
-    public void check(Vehicle v){
+    public void check(Vehicle v, Intern i){
         double brokenchance = Utility.rnd();
         if (brokenchance <=.1){
             v.Condition = Enums.Conidtion.Broken;
@@ -24,9 +24,8 @@ class Chemical implements Strategy{
         }
         else if  (chance >.8 && chance <=.9) {
             v.cleanliness = Enums.Cleanliness.Sparkling;
-            bonusEarned += v.wash_bonus;
-            out("Intern "+name+" got a bonus of "+Utility.asDollar(v.wash_bonus)+"!");
-            out(washingMethod());
+            i.bonusEarned += v.wash_bonus;
+            System.out.println("Intern "+name+" got a bonus of "+Utility.asDollar(v.wash_bonus)+"!");
             //return 2;
         }
 
@@ -40,7 +39,7 @@ class ElbowGrease implements Strategy{
         return "Washing with elbow grease!";
     }
     @override 
-    public void check(v){
+    public void check(Vehicle v, Intern i){
         double brokenchance = Utility.rnd();
         if (brokenchance <=.1 && v.Condition != Enums.Condition.LikeNew){
             v.Condition = Enuns.Condition.LikeNew;
@@ -52,6 +51,9 @@ class ElbowGrease implements Strategy{
         }
         else if (chance >.7 && chance <=.05){
             v.Cleanliness = Enums.Condtion.Sparkling;
+            i.bonusEarned += v.wash_bonus;
+            System.out.println("Intern "+name+" got a bonus of "+Utility.asDollar(v.wash_bonus)+"!");
+
         }
         }
         
@@ -61,10 +63,13 @@ class ElbowGrease implements Strategy{
             }
             if (chance >=.85){
                 v.Condition = V.Condition.Sparkling;
+                i.bonusEarned += v.wash_bonus;
+                System.out.println("Intern "+name+" got a bonus of "+Utility.asDollar(v.wash_bonus)+"!");
+                
             }
         }
-        out(washingMethod());
     }
+    
 }
 
 class Deatiled implements Strategy{
@@ -72,7 +77,7 @@ class Deatiled implements Strategy{
         return "Washing with detailed!";
     }
     @override 
-    public void check(v){
+    public void check(Vehicle v, Intern i){
         double chance = Utility.rnd();
         if (v.Condition == Enums.Condition.Dirty){
             if (chance <=.6){
@@ -80,6 +85,7 @@ class Deatiled implements Strategy{
             }
             if (chance >=.8){
                 v.Condition = Enums.Condition.Sparkling;
+                i.bonusEarned += v.wash_bonus;
             }
         }
         else if (v.Condition == Enums.Condition.Clean){
@@ -88,9 +94,10 @@ class Deatiled implements Strategy{
             }
             if (chance >=.6){
                 v.Condition = Enums.Condition.Sparkling;
+                i.bonusEarned += v.wash_bonus;
+                System.out.println("Intern "+name+" got a bonus of "+Utility.asDollar(v.wash_bonus)+"!");
             }
         }
-        out(washingMethod());
-        }
+    }
 }
 

@@ -306,3 +306,30 @@ Vehicles in inventory 22
 Vehicles sold count 14
 Money in the budget $1,971,532.62
 That's it for the day.
+The FNCD is opening...
+The FNCD interns are washing...
+Intern Fred washed Ranger Clean to Clean
+Intern Fred washed Colorado Clean to Clean
+Intern Ethel washed Ranger Clean to Clean
+Intern Ethel got a bonus of $75.00!
+Intern Ethel washed Colorado Clean to Sparkling
+Intern Lucy washed Ranger Clean to Clean
+Intern Lucy washed Tundra Clean to Clean
+The FNCD mechanics are repairing...
+The FNCD salespeople are selling...
+The FNCD has 4 buyers today...
+Buyer Han-9 wants a Performance (JustLooking)
+Buyer Han-9 decided not to buy.
+Buyer Chewy-9 wants a Motorcyclce (JustLooking)
+Buyer Chewy-9 is buying! Salesperson Phoebe gets a bonus of $50.00!
+ORIGINAL PRICE: 121302.0
+Buyer Chewy-9 bought Sparkling LikeNew Roadster With addon Satellite Radio. Price: $127,367.10
+Buyer Luke-10 wants a Electric (JustLooking)
+Buyer Luke-10 decided not to buy.
+Buyer Leia-10 wants a Motorcyclce (NeedsOne)
+Buyer Leia-10 decided not to buy.
+No-one on the staff is leaving!
+Vehicles in inventory 24
+Vehicles sold count 14
+Money in the budget $329,834.50
+That's it for the day.

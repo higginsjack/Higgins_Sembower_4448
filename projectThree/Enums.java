@@ -9,6 +9,7 @@ public class Enums {
     public enum Condition {Broken, Used, LikeNew}
     public enum VehicleType {Performance, Car, Pickup, Electric, Motorcyclce, Monster}
     public enum StaffType {Salesperson, Mechanic, Driver, Intern}
+    public enum washingStrategy {Chemical, ElbowGrease, Detailed}
     public enum Cleanliness {Clean, Dirty, Sparkling}
     public enum BuyerType {JustLooking, WantsOne, NeedsOne}
     // public enum RaceCars =  

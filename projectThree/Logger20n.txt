@@ -350,3 +350,32 @@ Vehicles sold count 31
 Money in the budget $1,089,664.05
 That's it for the day.
 Sorry, FNCD is closed on Sun
+The FNCD is opening...
+The FNCD interns are washing...
+Intern Fred washed F-250-2 Dirty to Clean
+Intern Fred washed Blue Thunder Clean to Clean
+Intern Ethel washed Blue Thunder Clean to Clean
+Intern Ethel got a bonus of $25.00!
+Intern Ethel washed Scrambler Clean to Sparkling
+Intern Lucy washed Blue Thunder Clean to Dirty
+Intern Lucy washed Model X 100D Clean to Clean
+The FNCD mechanics are repairing...
+The FNCD salespeople are selling...
+The FNCD has 4 buyers today...
+Buyer Luke-17 wants a Monster (JustLooking)
+Buyer Luke-17 is buying! Salesperson Monica gets a bonus of $2,000.00!
+ORIGINAL PRICE: 155118.0
+Buyer Luke-17 bought Dirty LikeNew Blue Thunder With addon Satellite Radio. Price: $162,873.90
+Buyer Leia-17 wants a Electric (NeedsOne)
+Buyer Leia-17 is buying! Salesperson Monica gets a bonus of $1,000.00!
+ORIGINAL PRICE: 748366.0
+Buyer Leia-17 bought Sparkling LikeNew Taycon Turbo S With addon Extended Warranty. With addon Satellite Radio. Price: $942,941.16
+Buyer Han-17 wants a Car (JustLooking)
+Buyer Han-17 decided not to buy.
+Buyer Chewy-17 wants a Monster (JustLooking)
+Buyer Chewy-17 decided not to buy.
+No-one on the staff is leaving!
+Vehicles in inventory 24
+Vehicles sold count 34
+Money in the budget $1,809,976.45
+That's it for the day.

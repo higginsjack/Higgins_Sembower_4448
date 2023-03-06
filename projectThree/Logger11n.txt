@@ -335,3 +335,34 @@ Vehicles in inventory 23
 Vehicles sold count 15
 Money in the budget $1,492,307.43
 That's it for the day.
+The FNCD is opening...
+The FNCD interns are washing...
+Intern Fred got a bonus of $75.00!
+Intern Fred washed Ranger Clean to Sparkling
+Intern Fred washed Tundra Clean to Clean
+Intern Ethel washed Tundra Clean to Clean
+Intern Ethel washed Model S P90D Clean to Clean
+Intern Lucy washed Tundra Clean to Clean
+Intern Lucy washed Model S P90D Clean to Clean
+The FNCD mechanics are repairing...
+The FNCD salespeople are selling...
+The FNCD has 4 buyers today...
+Buyer Han-10 wants a Electric (WantsOne)
+Buyer Han-10 is buying! Salesperson Monica gets a bonus of $1,000.00!
+ORIGINAL PRICE: 950556.0
+Buyer Han-10 bought Clean LikeNew Cybertruck With addon Extended Warranty. Price: $1,140,667.20
+Buyer Chewy-10 wants a Monster (WantsOne)
+Buyer Chewy-10 decided not to buy.
+Buyer Luke-11 wants a Electric (WantsOne)
+Buyer Luke-11 is buying! Salesperson Rachel gets a bonus of $1,000.00!
+ORIGINAL PRICE: 950556.0
+Buyer Luke-11 bought Clean LikeNew Cybertruck Price: $950,556.00
+Buyer Leia-11 wants a Electric (WantsOne)
+Buyer Leia-11 is buying! Salesperson Phoebe gets a bonus of $1,000.00!
+ORIGINAL PRICE: 851278.125
+Buyer Leia-11 bought Clean LikeNew Bolt Price: $851,278.12
+No-one on the staff is leaving!
+Vehicles in inventory 22
+Vehicles sold count 17
+Money in the budget $2,130,468.62
+That's it for the day.

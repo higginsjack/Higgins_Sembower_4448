@@ -361,3 +361,43 @@ Vehicles in inventory 21
 Vehicles sold count 9
 Money in the budget $311,543.20
 That's it for the day.
+The FNCD is opening...
+The FNCD interns are washing...
+Intern Fred washed Colorado Dirty to Clean
+Intern Fred washed Tundra Dirty to Clean
+Intern Ethel washed Avenger Dirty to Clean
+Intern Ethel got a bonus of $100.00!
+Intern Ethel washed Europa Clean to Sparkling
+Intern Lucy got a bonus of $100.00!
+Intern Lucy washed Corvette Clean to Sparkling
+Intern Lucy washed Mustang Clean to Clean
+The FNCD mechanics are repairing...
+Mechanic James got a bonus of $200.00!
+Mechanic James fixed Colorado Used to LikeNew
+Mechanic James got a bonus of $300.00!
+Mechanic James fixed Taycon Turbo S Used to LikeNew
+Mechanic Scotty got a bonus of $300.00!
+Mechanic Scotty fixed Bolt Broken to Used
+Mechanic Scotty got a bonus of $150.00!
+Mechanic Scotty fixed Chopper Broken to Used
+Mechanic Spock did not fix the Used Bolt
+Mechanic Spock did not fix the Used Chopper
+The FNCD salespeople are selling...
+The FNCD has 5 buyers today...
+Buyer Leia-4 wants a Car (JustLooking)
+Buyer Leia-4 decided not to buy.
+Buyer Han-4 wants a Motorcyclce (JustLooking)
+Buyer Han-4 decided not to buy.
+Buyer Chewy-4 wants a Electric (NeedsOne)
+Buyer Chewy-4 is buying! Salesperson Monica gets a bonus of $1,000.00!
+ORIGINAL PRICE: 950556.0
+Buyer Chewy-4 bought Clean LikeNew Cybertruck With addon Satellite Radio. Price: $998,083.80
+Buyer Luke-5 wants a Performance (WantsOne)
+Buyer Luke-5 decided not to buy.
+Buyer Leia-5 wants a Car (JustLooking)
+Buyer Leia-5 decided not to buy.
+No-one on the staff is leaving!
+Vehicles in inventory 24
+Vehicles sold count 3
+Money in the budget $173,904.70
+That's it for the day.

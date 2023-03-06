@@ -358,3 +358,35 @@ Vehicles in inventory 24
 Vehicles sold count 27
 Money in the budget $2,749,946.48
 That's it for the day.
+The FNCD is opening...
+The FNCD interns are washing...
+Intern Fred washed Blue Thunder Dirty to Clean
+Intern Fred washed Blue Thunder Clean to Clean
+Intern Ethel washed Blue Thunder Clean to Clean
+Intern Ethel got a bonus of $100.00!
+Intern Ethel washed Model X 100D Clean to Sparkling
+Intern Lucy got a bonus of $350.00!
+Intern Lucy washed Blue Thunder Clean to Sparkling
+Intern Lucy washed Model S P90D-2 Clean to Clean
+The FNCD mechanics are repairing...
+The FNCD salespeople are selling...
+The FNCD has 4 buyers today...
+Buyer Luke-18 wants a Performance (WantsOne)
+Buyer Luke-18 is buying! Salesperson Rachel gets a bonus of $1,000.00!
+ORIGINAL PRICE: 76158.0
+Buyer Luke-18 bought Clean LikeNew Cayman-2 Price: $76,158.00
+Buyer Leia-18 wants a Motorcyclce (WantsOne)
+Buyer Leia-18 is buying! Salesperson Phoebe gets a bonus of $50.00!
+ORIGINAL PRICE: 121302.0
+Buyer Leia-18 bought Sparkling LikeNew Roadster With addon Satellite Radio. Price: $127,367.10
+Buyer Han-18 wants a Car (WantsOne)
+Buyer Han-18 decided not to buy.
+Buyer Chewy-18 wants a Car (NeedsOne)
+Buyer Chewy-18 is buying! Salesperson Monica gets a bonus of $500.00!
+ORIGINAL PRICE: 37818.0
+Buyer Chewy-18 bought Clean LikeNew Taurus-2 With addon Extended Warranty. With addon Satellite Radio. Price: $47,650.68
+No-one on the staff is leaving!
+Vehicles in inventory 23
+Vehicles sold count 37
+Money in the budget $1,884,934.45
+That's it for the day.

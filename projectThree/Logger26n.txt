@@ -389,3 +389,26 @@ Vehicles in inventory 22
 Vehicles sold count 33
 Money in the budget $4,002,859.98
 That's it for the day.
+The FNCD is opening...
+The FNCD interns are washing...
+Intern Fred got a bonus of $100.00!
+Intern Fred washed Cybertruck-2 Dirty to Sparkling
+Intern Fred got a bonus of $100.00!
+Intern Fred washed Corvette-2 Clean to Sparkling
+Intern Ethel got a bonus of $75.00!
+Intern Ethel washed Ranger-2 Clean to Sparkling
+Intern Ethel washed Taurus-2 Clean to Clean
+Intern Lucy washed Taurus-2 Clean to Clean
+Intern Lucy washed F-250-2 Clean to Clean
+The FNCD mechanics are repairing...
+The FNCD salespeople are selling...
+The FNCD has 1 buyers today...
+Buyer Luke-22 wants a Monster (WantsOne)
+Buyer Luke-22 is buying! Salesperson Monica gets a bonus of $2,000.00!
+ORIGINAL PRICE: 155118.0
+Buyer Luke-22 bought Sparkling LikeNew Blue Thunder With addon Extended Warranty. Price: $186,141.60
+No-one on the staff is leaving!
+Vehicles in inventory 24
+Vehicles sold count 42
+Money in the budget $2,980,799.45
+That's it for the day.

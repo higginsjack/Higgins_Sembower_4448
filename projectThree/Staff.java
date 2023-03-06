@@ -90,6 +90,8 @@ class Intern extends Staff {
     }
 }
 
+
+
 class Mechanic extends Staff {
     static List<String> names = Arrays.asList("James", "Scotty", "Spock", "Uhura");
     static Namer namer = new Namer(names);
@@ -187,8 +189,33 @@ class Salesperson extends Staff {
             double chance = Utility.rnd();
             if (chance<=saleChance) {  // sold!
                 bonusEarned += v.sale_bonus;
+                String msg = "Buyer "+b.name+" bought "+v.cleanliness+" "+v.condition+" "+v.name;
+                //add addons
                 l.update("Buyer "+b.name+" is buying! Salesperson "+name+" gets a bonus of "+Utility.asDollar(v.sale_bonus)+"!");
-                l.update("Buyer "+b.name+" bought "+v.cleanliness+" "+v.condition+" "+v.name+" for "+Utility.asDollar(v.price));
+                l.update("ORIGINAL PRICE: " + v.getSalesPrice());//DELETE
+                int addonChance = Utility.rndFromRange(1, 100);
+                if(addonChance < 21) {
+                    msg += " With addon Extended Warranty.";
+                    // l.update("Buyer "+b.name+" decided to add Extended Warranty, Old Price: " + v.getSalesPrice());
+                    v = new ExtendedWarranty(v);
+                    // l.update("New Price: " + v.getSalesPrice());
+                }
+                addonChance = Utility.rndFromRange(1, 100);
+                if(addonChance < 11) {
+                    msg += " With addon Undercoating.";
+                    v = new Undercoating(v);
+                }
+                addonChance = Utility.rndFromRange(1, 100);
+                if(addonChance < 6) {
+                    msg += " With addon Road Rescue Coverage.";
+                    v = new RoadRescueCoverage(v);
+                }
+                addonChance = Utility.rndFromRange(1, 100);
+                if(addonChance < 41) {
+                    msg += " With addon Satellite Radio.";
+                    v = new SatelliteRadio(v);
+                }
+                l.update(msg + " Price: "+Utility.asDollar(v.getSalesPrice()));
                 return v;
             }
             else {  // no sale!
@@ -197,6 +224,7 @@ class Salesperson extends Staff {
             }
         }
     }
+
     // Little helper for finding most expensive and not broken in a list of vehicles
     // Used twice by salespeople
     Vehicle getMostExpensiveNotBroken(ArrayList<Vehicle> vList) {

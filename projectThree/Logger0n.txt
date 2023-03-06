@@ -727,3 +727,93 @@ Vehicles in inventory 22
 Vehicles sold count 2
 Money in the budget $80,433.70
 That's it for the day.
+The FNCD is opening...
+Hired a new Salesperson named Rachel
+Hired a new Salesperson named Monica
+Hired a new Salesperson named Phoebe
+Hired a new Mechanic named James
+Hired a new Mechanic named Scotty
+Hired a new Mechanic named Spock
+Hired a new Driver named Brock
+Hired a new Driver named Jamar
+Hired a new Driver named Larisa
+Hired a new Intern named Fred
+Hired a new Intern named Ethel
+Hired a new Intern named Lucy
+Bought Europa, a Dirty LikeNew Performance for $32,442.00
+Bought Cayman, a Dirty Broken Performance for $18,736.50
+Bought Corvette, a Dirty Used Performance for $29,840.00
+Bought Mustang, a Dirty Broken Performance for $14,163.50
+***Budget overrun*** Added $250K, budget now: $245,429.20
+Bought Probe, a Clean Used Car for $9,388.80
+Bought Escort, a Clean Broken Car for $6,271.50
+Bought Taurus, a Clean LikeNew Car for $10,560.00
+Bought Fiesta, a Dirty Used Car for $9,261.60
+Bought Ranger, a Dirty LikeNew Pickup for $39,472.00
+Bought F-250, a Sparkling LikeNew Pickup for $12,418.00
+Bought Colorado, a Clean Broken Pickup for $15,408.00
+Bought Tundra, a Dirty Broken Pickup for $19,221.50
+***Budget overrun*** Added $250K, budget now: $23,358.60
+Bought Model S P90D, a Clean LikeNew Electric for $359,458.00
+***Budget overrun*** Added $250K, budget now: -$25,987.80
+Bought Taycon Turbo S, a Sparkling Used Electric for $299,346.40
+***Budget overrun*** Added $250K, budget now: -$251,265.80
+Bought Cybertruck, a Dirty LikeNew Electric for $475,278.00
+***Budget overrun*** Added $250K, budget now: -$228,273.30
+Bought Bolt, a Dirty Broken Electric for $227,007.50
+***Budget overrun*** Added $250K, budget now: -$9,912.80
+Bought Chopper, a Clean Broken Motorcyclce for $31,639.50
+***Budget overrun*** Added $250K, budget now: $178,152.00
+Bought Scooter, a Dirty Used Motorcyclce for $61,935.20
+Bought Roadster, a Sparkling LikeNew Motorcyclce for $60,651.00
+Bought Touring, a Dirty LikeNew Motorcyclce for $37,590.00
+Bought Alien Invasion, a Clean Broken Monster for $28,537.50
+Bought Avenger, a Dirty Broken Monster for $35,480.00
+***Budget overrun*** Added $250K, budget now: $230,853.50
+Bought Bad Company, a Clean Broken Monster for $35,040.00
+Bought Blue Thunder, a Clean Used Monster for $62,047.20
+The FNCD interns are washing...
+Intern Fred washed Europa Dirty to Clean
+Intern Fred washed Cayman Dirty to Clean
+Intern Ethel washed Corvette Dirty to Clean
+Intern Ethel washed Mustang Dirty to Dirty
+Intern Lucy washed Mustang Dirty to Clean
+Intern Lucy got a bonus of $20.00!
+Intern Lucy washed Fiesta Dirty to Sparkling
+The FNCD mechanics are repairing...
+Mechanic James got a bonus of $300.00!
+Mechanic James fixed Cayman Broken to Used
+Mechanic James got a bonus of $300.00!
+Mechanic James fixed Corvette Used to LikeNew
+Mechanic Scotty got a bonus of $300.00!
+Mechanic Scotty fixed Cayman Used to LikeNew
+Mechanic Scotty got a bonus of $300.00!
+Mechanic Scotty fixed Mustang Broken to Used
+Mechanic Spock did not fix the Used Mustang
+Mechanic Spock got a bonus of $100.00!
+Mechanic Spock fixed Probe Used to LikeNew
+The FNCD salespeople are selling...
+The FNCD has 8 buyers today...
+Buyer Luke wants a Monster (JustLooking)
+Buyer Luke decided not to buy.
+Buyer Leia wants a Car (JustLooking)
+Buyer Leia decided not to buy.
+Buyer Han wants a Pickup (JustLooking)
+Buyer Han decided not to buy.
+Buyer Chewy wants a Pickup (JustLooking)
+Buyer Chewy decided not to buy.
+Buyer Luke-2 wants a Performance (JustLooking)
+Buyer Luke-2 decided not to buy.
+Buyer Leia-2 wants a Car (JustLooking)
+Buyer Leia-2 decided not to buy.
+Buyer Han-2 wants a Performance (JustLooking)
+Buyer Han-2 decided not to buy.
+Buyer Chewy-2 wants a Car (WantsOne)
+Buyer Chewy-2 is buying! Salesperson Monica gets a bonus of $500.00!
+ORIGINAL PRICE: 23472.000000000004
+Buyer Chewy-2 bought Dirty LikeNew Probe Price: $23,472.00
+No-one on the staff is leaving!
+Vehicles in inventory 23
+Vehicles sold count 1
+Money in the budget $191,078.30
+That's it for the day.

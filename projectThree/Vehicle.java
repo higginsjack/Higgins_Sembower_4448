@@ -30,7 +30,12 @@ public abstract class Vehicle {
         if (condition== Enums.Condition.Broken) cost = cost*.5;
         return cost;
     }
-
+    double getSalesPrice() {
+        return price;
+    }
+    double getOriginalCost(){
+        return cost;
+    }
     // utility for getting Vehicles by Type
     // You could do this with getClass instead of Type, but I use the enum
     // because it's clearer to me (less Java-y)

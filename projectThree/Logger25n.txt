@@ -328,3 +328,33 @@ Vehicles in inventory 23
 Vehicles sold count 31
 Money in the budget $3,971,953.60
 That's it for the day.
+The FNCD is opening...
+Bought Cybertruck-2, a Clean Broken Electric for $174,890.00
+The FNCD interns are washing...
+Intern Fred washed Taycon Turbo S-2 Dirty to Clean
+Intern Fred washed Corvette-2 Clean to Clean
+Intern Ethel washed Corvette-2 Clean to Clean
+Intern Ethel got a bonus of $20.00!
+Intern Ethel washed Escort-2 Clean to Sparkling
+Intern Lucy washed Corvette-2 Clean to Clean
+Intern Lucy washed Ranger-2 Clean to Clean
+The FNCD mechanics are repairing...
+Mechanic James got a bonus of $300.00!
+Mechanic James fixed Cybertruck-2 Broken to Used
+Mechanic Scotty got a bonus of $300.00!
+Mechanic Scotty fixed Cybertruck-2 Used to LikeNew
+The FNCD salespeople are selling...
+The FNCD has 3 buyers today...
+Buyer Leia-21 wants a Motorcyclce (NeedsOne)
+Buyer Leia-21 decided not to buy.
+Buyer Han-21 wants a Car (WantsOne)
+Buyer Han-21 is buying! Salesperson Monica gets a bonus of $500.00!
+ORIGINAL PRICE: 37818.0
+Buyer Han-21 bought Clean LikeNew Taurus-2 With addon Undercoating. Price: $39,708.90
+Buyer Chewy-21 wants a Electric (JustLooking)
+Buyer Chewy-21 decided not to buy.
+No-one on the staff is leaving!
+Vehicles in inventory 24
+Vehicles sold count 41
+Money in the budget $2,981,999.45
+That's it for the day.

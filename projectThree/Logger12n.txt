@@ -360,3 +360,43 @@ Vehicles in inventory 20
 Vehicles sold count 19
 Money in the budget $2,660,185.78
 That's it for the day.
+The FNCD is opening...
+Bought Model X 100D, a Dirty Broken Electric for $176,840.00
+Bought Model S P90D-2, a Dirty LikeNew Electric for $363,159.00
+The FNCD interns are washing...
+Intern Fred washed Model X 100D Dirty to Clean
+Intern Fred washed Model S P90D-2 Dirty to Clean
+Intern Ethel washed Tundra Clean to Clean
+Intern Ethel got a bonus of $100.00!
+Intern Ethel washed Model S P90D Clean to Sparkling
+Intern Lucy washed Tundra Clean to Clean
+Intern Lucy washed Taycon Turbo S Clean to Clean
+The FNCD mechanics are repairing...
+Mechanic James did not fix the Broken Model X 100D
+Mechanic Scotty got a bonus of $300.00!
+Mechanic Scotty fixed Model X 100D Broken to Used
+Mechanic Spock got a bonus of $300.00!
+Mechanic Spock fixed Model X 100D Used to LikeNew
+The FNCD salespeople are selling...
+The FNCD has 4 buyers today...
+Buyer Han-11 wants a Monster (NeedsOne)
+Buyer Han-11 is buying! Salesperson Rachel gets a bonus of $2,000.00!
+ORIGINAL PRICE: 155118.0
+Buyer Han-11 bought Clean LikeNew Blue Thunder With addon Satellite Radio. Price: $162,873.90
+Buyer Chewy-11 wants a Car (NeedsOne)
+Buyer Chewy-11 is buying! Salesperson Phoebe gets a bonus of $500.00!
+ORIGINAL PRICE: 33934.0
+Buyer Chewy-11 bought Clean LikeNew Probe-2 Price: $33,934.00
+Buyer Luke-12 wants a Performance (JustLooking)
+Buyer Luke-12 is buying! Salesperson Rachel gets a bonus of $1,000.00!
+ORIGINAL PRICE: 70261.875
+Buyer Luke-12 bought Sparkling LikeNew Cayman Price: $70,261.88
+Buyer Leia-12 wants a Performance (NeedsOne)
+Buyer Leia-12 is buying! Salesperson Phoebe gets a bonus of $1,000.00!
+ORIGINAL PRICE: 64884.0
+Buyer Leia-12 bought Sparkling LikeNew Europa Price: $64,884.00
+No-one on the staff is leaving!
+Vehicles in inventory 21
+Vehicles sold count 21
+Money in the budget $1,758,349.50
+That's it for the day.

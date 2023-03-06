@@ -324,3 +324,30 @@ Vehicles in inventory 21
 Vehicles sold count 26
 Money in the budget $2,809,944.48
 That's it for the day.
+The FNCD is opening...
+Bought Taurus-2, a Dirty Used Car for $15,127.20
+Bought F-250-2, a Dirty Broken Pickup for $16,199.50
+The FNCD interns are washing...
+Intern Fred got a bonus of $75.00!
+Intern Fred washed Ranger-2 Dirty to Sparkling
+Intern Fred washed Taurus-2 Dirty to Clean
+Intern Ethel washed F-250-2 Dirty to Dirty
+Intern Ethel washed Taycon Turbo S Clean to Clean
+Intern Lucy washed F-250-2 Dirty to Clean
+Intern Lucy got a bonus of $100.00!
+Intern Lucy washed Taycon Turbo S Clean to Sparkling
+The FNCD mechanics are repairing...
+Mechanic James got a bonus of $200.00!
+Mechanic James fixed Ranger-2 Used to LikeNew
+Mechanic James got a bonus of $100.00!
+Mechanic James fixed Taurus-2 Used to LikeNew
+Mechanic Scotty got a bonus of $200.00!
+Mechanic Scotty fixed F-250-2 Broken to Used
+Mechanic Spock did not fix the Used F-250-2
+The FNCD salespeople are selling...
+The FNCD has 0 buyers today...
+No-one on the staff is leaving!
+Vehicles in inventory 24
+Vehicles sold count 32
+Money in the budget $1,812,376.45
+That's it for the day.

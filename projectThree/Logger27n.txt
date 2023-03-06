@@ -392,3 +392,26 @@ Vehicles sold count 44
 Money in the budget $1,481,535.85
 That's it for the day.
 Sorry, FNCD is closed on Sun
+The FNCD is opening...
+The FNCD interns are washing...
+Intern Fred got a bonus of $20.00!
+Intern Fred washed Taurus-2 Clean to Sparkling
+Intern Fred washed F-250-2 Clean to Clean
+Intern Ethel washed F-250-2 Clean to Dirty
+Intern Ethel washed Taycon Turbo S-2 Clean to Clean
+Intern Lucy washed F-250-2 Dirty to Clean
+Intern Lucy washed F-250-2 Clean to Clean
+The FNCD mechanics are repairing...
+The FNCD salespeople are selling...
+The FNCD has 3 buyers today...
+Buyer Leia-22 wants a Motorcyclce (JustLooking)
+Buyer Leia-22 decided not to buy.
+Buyer Han-22 wants a Car (NeedsOne)
+Buyer Han-22 decided not to buy.
+Buyer Chewy-22 wants a Pickup (WantsOne)
+Buyer Chewy-22 decided not to buy.
+No-one on the staff is leaving!
+Vehicles in inventory 24
+Vehicles sold count 42
+Money in the budget $2,979,599.45
+That's it for the day.

@@ -464,3 +464,4 @@ Vehicles in inventory 23
 Vehicles sold count 3
 Money in the budget $101,571.80
 That's it for the day.
+Sorry, FNCD is closed on Sun

@@ -312,3 +312,41 @@ Vehicles in inventory 24
 Vehicles sold count 23
 Money in the budget $2,487,521.10
 That's it for the day.
+The FNCD is opening...
+Bought Ranger-2, a Dirty Broken Pickup for $15,185.50
+The FNCD interns are washing...
+Intern Fred washed Ranger-2 Dirty to Clean
+Intern Fred washed Taycon Turbo S Clean to Clean
+Intern Ethel washed Taycon Turbo S Clean to Clean
+Intern Ethel got a bonus of $350.00!
+Intern Ethel washed Alien Invasion Clean to Sparkling
+Intern Lucy washed Taycon Turbo S Clean to Clean
+Intern Lucy washed Bad Company Clean to Clean
+The FNCD mechanics are repairing...
+Mechanic James did not fix the Broken Ranger-2
+Mechanic Scotty did not fix the Broken Ranger-2
+Mechanic Spock got a bonus of $200.00!
+Mechanic Spock fixed Ranger-2 Broken to Used
+The FNCD salespeople are selling...
+The FNCD has 5 buyers today...
+Buyer Chewy-15 wants a Car (JustLooking)
+Buyer Chewy-15 is buying! Salesperson Phoebe gets a bonus of $500.00!
+ORIGINAL PRICE: 23518.125
+Buyer Chewy-15 bought Sparkling LikeNew Escort Price: $23,518.12
+Buyer Luke-16 wants a Pickup (NeedsOne)
+Buyer Luke-16 is buying! Salesperson Phoebe gets a bonus of $750.00!
+ORIGINAL PRICE: 72080.625
+Buyer Luke-16 bought Sparkling LikeNew Tundra Price: $72,080.62
+Buyer Leia-16 wants a Motorcyclce (JustLooking)
+Buyer Leia-16 decided not to buy.
+Buyer Han-16 wants a Car (JustLooking)
+Buyer Han-16 decided not to buy.
+Buyer Chewy-16 wants a Performance (WantsOne)
+Buyer Chewy-16 is buying! Salesperson Monica gets a bonus of $1,000.00!
+ORIGINAL PRICE: 76158.0
+Buyer Chewy-16 bought Clean LikeNew Cayman-2 With addon Satellite Radio. Price: $79,965.90
+No-one on the staff is leaving!
+Vehicles in inventory 22
+Vehicles sold count 32
+Money in the budget $1,844,903.15
+That's it for the day.

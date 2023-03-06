@@ -343,3 +343,37 @@ Vehicles in inventory 24
 Vehicles sold count 6
 Money in the budget $231,658.70
 That's it for the day.
+The FNCD is opening...
+The FNCD interns are washing...
+Intern Fred washed Mustang Dirty to Clean
+Intern Fred washed Escort Dirty to Clean
+Intern Ethel washed Bolt Dirty to Dirty
+Intern Ethel washed Scooter Dirty to Clean
+Intern Lucy washed Bolt Dirty to Clean
+Intern Lucy washed Touring Dirty to Clean
+The FNCD mechanics are repairing...
+Mechanic James got a bonus of $100.00!
+Mechanic James fixed Fiesta Used to LikeNew
+Mechanic James did not fix the Broken Colorado
+Mechanic Scotty did not fix the Broken Colorado
+Mechanic Scotty got a bonus of $200.00!
+Mechanic Scotty fixed Tundra Broken to Used
+Mechanic Spock got a bonus of $200.00!
+Mechanic Spock fixed Colorado Broken to Used
+Mechanic Spock got a bonus of $200.00!
+Mechanic Spock fixed Tundra Used to LikeNew
+The FNCD salespeople are selling...
+The FNCD has 3 buyers today...
+Buyer Han-3 wants a Electric (JustLooking)
+Buyer Han-3 decided not to buy.
+Buyer Chewy-3 wants a Car (NeedsOne)
+Buyer Chewy-3 is buying! Salesperson Rachel gets a bonus of $500.00!
+ORIGINAL PRICE: 27147.2
+Buyer Chewy-3 bought Clean Used Probe-2 With addon Satellite Radio. Price: $28,504.56
+Buyer Luke-4 wants a Motorcyclce (WantsOne)
+Buyer Luke-4 decided not to buy.
+No-one on the staff is leaving!
+Vehicles in inventory 24
+Vehicles sold count 2
+Money in the budget $175,104.70
+That's it for the day.

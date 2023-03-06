@@ -330,3 +330,38 @@ Vehicles in inventory 24
 Vehicles sold count 30
 Money in the budget $3,039,898.60
 That's it for the day.
+The FNCD is opening...
+Bought Taycon Turbo S-2, a Clean Broken Electric for $184,245.50
+The FNCD interns are washing...
+Intern Fred washed Corvette-2 Dirty to Clean
+Intern Fred got a bonus of $100.00!
+Intern Fred washed Mustang-2 Dirty to Sparkling
+Intern Ethel washed Model S P90D-2 Clean to Clean
+Intern Ethel washed Corvette-2 Clean to Clean
+Intern Lucy got a bonus of $100.00!
+Intern Lucy washed Model S P90D-2 Clean to Sparkling
+Intern Lucy washed Corvette-2 Clean to Clean
+The FNCD mechanics are repairing...
+Mechanic James got a bonus of $300.00!
+Mechanic James fixed Taycon Turbo S-2 Broken to Used
+Mechanic Scotty got a bonus of $300.00!
+Mechanic Scotty fixed Taycon Turbo S-2 Used to LikeNew
+The FNCD salespeople are selling...
+The FNCD has 5 buyers today...
+Buyer Luke-20 wants a Monster (WantsOne)
+Buyer Luke-20 decided not to buy.
+Buyer Leia-20 wants a Performance (WantsOne)
+Buyer Leia-20 decided not to buy.
+Buyer Han-20 wants a Motorcyclce (JustLooking)
+Buyer Han-20 decided not to buy.
+Buyer Chewy-20 wants a Car (WantsOne)
+Buyer Chewy-20 decided not to buy.
+Buyer Luke-21 wants a Electric (NeedsOne)
+Buyer Luke-21 is buying! Salesperson Phoebe gets a bonus of $1,000.00!
+ORIGINAL PRICE: 726318.0
+Buyer Luke-21 bought Sparkling LikeNew Model S P90D-2 Price: $726,318.00
+No-one on the staff is leaving!
+Vehicles in inventory 23
+Vehicles sold count 40
+Money in the budget $3,158,089.45
+That's it for the day.

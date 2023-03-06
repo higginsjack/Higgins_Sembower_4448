@@ -398,3 +398,28 @@ Vehicles in inventory 24
 Vehicles sold count 12
 Money in the budget $391,329.50
 That's it for the day.
+The FNCD is opening...
+The FNCD interns are washing...
+Intern Fred washed Probe-2 Dirty to Dirty
+Intern Fred washed Fiesta Clean to Clean
+Intern Ethel washed Probe-2 Dirty to Clean
+Intern Ethel washed Fiesta Clean to Clean
+Intern Lucy got a bonus of $20.00!
+Intern Lucy washed Fiesta Clean to Sparkling
+Intern Lucy washed Ranger Clean to Clean
+The FNCD mechanics are repairing...
+The FNCD salespeople are selling...
+The FNCD has 3 buyers today...
+Buyer Chewy-8 wants a Monster (JustLooking)
+Buyer Chewy-8 decided not to buy.
+Buyer Luke-9 wants a Performance (WantsOne)
+Buyer Luke-9 decided not to buy.
+Buyer Leia-9 wants a Monster (NeedsOne)
+Buyer Leia-9 is buying! Salesperson Monica gets a bonus of $2,000.00!
+ORIGINAL PRICE: 155118.0
+Buyer Leia-9 bought Clean LikeNew Blue Thunder With addon Satellite Radio. Price: $162,873.90
+No-one on the staff is leaving!
+Vehicles in inventory 24
+Vehicles sold count 13
+Money in the budget $331,034.50
+That's it for the day.

@@ -363,3 +363,44 @@ Vehicles sold count 13
 Money in the budget $540,016.53
 That's it for the day.
 Sorry, FNCD is closed on Sun
+The FNCD is opening...
+Bought Europa-2, a Clean LikeNew Performance for $23,253.00
+Bought Scrambler, a Dirty Used Motorcyclce for $44,255.20
+The FNCD interns are washing...
+Intern Fred washed Bolt Dirty to Clean
+Intern Fred washed Chopper Dirty to Clean
+Intern Ethel washed Alien Invasion Dirty to Clean
+Intern Ethel washed Avenger Dirty to Clean
+Intern Lucy got a bonus of $25.00!
+Intern Lucy washed Scrambler Dirty to Sparkling
+Intern Lucy got a bonus of $20.00!
+Intern Lucy washed Escort Clean to Sparkling
+The FNCD mechanics are repairing...
+Mechanic James did not fix the Used Avenger
+Mechanic James got a bonus of $500.00!
+Mechanic James fixed Bad Company Broken to Used
+Mechanic Scotty got a bonus of $500.00!
+Mechanic Scotty fixed Avenger Used to LikeNew
+Mechanic Scotty did not fix the Used Bad Company
+Mechanic Spock got a bonus of $500.00!
+Mechanic Spock fixed Bad Company Used to LikeNew
+Mechanic Spock did not fix the Used Blue Thunder
+The FNCD salespeople are selling...
+The FNCD has 4 buyers today...
+Buyer Han-6 wants a Performance (WantsOne)
+Buyer Han-6 is buying! Salesperson Rachel gets a bonus of $1,000.00!
+ORIGINAL PRICE: 70261.875
+Buyer Han-6 bought Sparkling LikeNew Cayman With addon Undercoating. With addon Satellite Radio. Price: $77,463.72
+Buyer Chewy-6 wants a Car (NeedsOne)
+Buyer Chewy-6 is buying! Salesperson Monica gets a bonus of $500.00!
+ORIGINAL PRICE: 27147.2
+Buyer Chewy-6 bought Clean Used Probe-2 With addon Extended Warranty. Price: $32,576.64
+Buyer Luke-7 wants a Monster (NeedsOne)
+Buyer Luke-7 decided not to buy.
+Buyer Leia-7 wants a Pickup (NeedsOne)
+Buyer Leia-7 decided not to buy.
+No-one on the staff is leaving!
+Vehicles in inventory 24
+Vehicles sold count 9
+Money in the budget $333,434.50
+That's it for the day.

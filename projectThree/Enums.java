@@ -7,6 +7,7 @@ public class Enums {
     public enum StaffType {Salesperson, Mechanic, Driver, Intern}
     public enum Cleanliness {Clean, Dirty, Sparkling}
     public enum BuyerType {JustLooking, WantsOne, NeedsOne}
+    public enum washingStrategy {Chemical, ElbowGrease, Detailed}
     public enum RaceCars =  
         for (int i = 0; i < VehicleType.size(); i++)
         {

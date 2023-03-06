@@ -67,13 +67,13 @@ public abstract class Staff implements Sysout {
                 //wash the first dirty car I find 
                 if (v.Condition == Enums.Condition.Dirty){
                     if (this.washingStrategy == Enums.WashingStrategy.Chemical){
-                        this.washingStrategy.check(v);
+                        this.washingStrategy.check(v, this.name);
                     }
                     if (this.washingStrategy == Enums.WashingStrategy.ElbowGrease){
-                        this.washingStrategy.check(v);
+                        this.washingStrategy.check(v, this.name);
                     }
                     if (this.washingStrategy == Enums.WashingStrategy.Detailed){
-                        this.washingStrategy.check(v);
+                        this.washingStrategy.check(v, this.name);
                        
                     }
                     washCount+=1;
@@ -84,13 +84,13 @@ public abstract class Staff implements Sysout {
                 //wash the first clean car:
                 if (v.Condition == Enums.Condition.Clean){
                     if (this.washingStrategy == Enums.WashingStrategy.Chemical){
-                        this.washingStrategy.check(v);
+                        this.washingStrategy.check(v, this.name);
                     }
                     if (this.washingStrategy == Enums.WashingStrategy.ElbowGrease){
-                        this.washingStrategy.check(v);
+                        this.washingStrategy.check(v, this.name);
                     }
                     if (this.washingStrategy == Enums.WashingStrategy.Detailed){
-                        this.washingStrategy.check(v);
+                        this.washingStrategy.check(v, this.name);
                     }
                     washCount+=1;
                     }

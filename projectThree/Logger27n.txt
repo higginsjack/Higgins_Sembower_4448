@@ -360,3 +360,35 @@ Vehicles in inventory 12
 Vehicles sold count 50
 Money in the budget $1,548,166.32
 That's it for the day.
+The FNCD is opening...
+The FNCD interns are washing...
+Intern Fred washed Europa-5 Dirty to Clean
+Intern Fred washed Cayman-5 Dirty to Dirty
+Intern Ethel washed Cayman-5 Dirty to Dirty
+Intern Ethel washed F-250-5 Dirty to Clean
+Intern Lucy washed Cayman-5 Dirty to Clean
+Intern Lucy washed Fiesta-4 Clean to Clean
+The FNCD mechanics are repairing...
+Mechanic James did not fix the Used Cayman-5
+Mechanic Scotty got a bonus of $300.00!
+Mechanic Scotty fixed Cayman-5 Used to LikeNew
+The FNCD salespeople are selling...
+The FNCD has 5 buyers today...
+Buyer Chewy-19 wants a PerfCar (WantsOne)
+Buyer Chewy-19 decided not to buy.
+Buyer Luke-20 wants a PerfCar (JustLooking)
+Buyer Luke-20 decided not to buy.
+Buyer Leia-20 wants a Car (NeedsOne)
+Buyer Leia-20 is buying! Salesperson Rachel gets a bonus of $500.00!
+Buyer Leia-20 bought Clean LikeNew Probe-5 for $35,658.00
+Buyer Han-20 wants a Pickup (JustLooking)
+Buyer Han-20 decided not to buy.
+Buyer Chewy-20 wants a Pickup (WantsOne)
+Buyer Chewy-20 is buying! Salesperson Rachel gets a bonus of $750.00!
+Buyer Chewy-20 bought Clean LikeNew Colorado-5 for $36,754.00
+No-one on the staff is leaving!
+Vehicles in inventory 10
+Vehicles sold count 44
+Money in the budget $1,481,535.85
+That's it for the day.
+Sorry, FNCD is closed on Sun

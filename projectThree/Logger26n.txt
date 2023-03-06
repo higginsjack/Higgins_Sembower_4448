@@ -319,3 +319,73 @@ Vehicles in inventory 9
 Vehicles sold count 50
 Money in the budget $1,570,310.82
 That's it for the day.
+The FNCD is opening...
+Bought Probe-5, a Dirty Used Car for $14,263.20
+Bought Europa-5, a Dirty Used PerfCar for $20,654.40
+Bought Cayman-5, a Dirty Broken PerfCar for $12,540.00
+Bought F-250-5, a Dirty Used Pickup for $8,847.20
+Bought Colorado-5, a Dirty LikeNew Pickup for $18,377.00
+The FNCD interns are washing...
+Intern Fred got a bonus of $20.00!
+Intern Fred washed Probe-5 Dirty to Sparkling
+Intern Fred washed Europa-5 Dirty to Clean
+Intern Ethel got a bonus of $100.00!
+Intern Ethel washed Cayman-5 Dirty to Sparkling
+Intern Ethel washed F-250-5 Dirty to Clean
+Intern Lucy washed Colorado-5 Dirty to Clean
+Intern Lucy washed Fiesta-4 Clean to Clean
+The FNCD mechanics are repairing...
+Mechanic James got a bonus of $100.00!
+Mechanic James fixed Probe-5 Used to LikeNew
+Mechanic James got a bonus of $300.00!
+Mechanic James fixed Europa-5 Used to LikeNew
+Mechanic Scotty got a bonus of $300.00!
+Mechanic Scotty fixed Cayman-5 Broken to Used
+Mechanic Scotty got a bonus of $200.00!
+Mechanic Scotty fixed F-250-5 Used to LikeNew
+Mechanic Spock did not fix the Used Cayman-5
+The FNCD salespeople are selling...
+The FNCD has 1 buyers today...
+Buyer Han-19 wants a Car (JustLooking)
+Buyer Han-19 decided not to buy.
+No-one on the staff is leaving!
+Vehicles in inventory 12
+Vehicles sold count 42
+Money in the budget $1,409,933.85
+That's it for the day.
+The FNCD is opening...
+Bought Cybertruck-2, a Sparkling Broken Electric for $167,694.00
+The FNCD interns are washing...
+Intern Fred got a bonus of $25.00!
+Intern Fred washed Scooter-2 Clean to Sparkling
+Intern Fred washed Scrambler-2 Clean to Clean
+Intern Ethel washed Scrambler-2 Clean to Clean
+Intern Lucy washed Scrambler-2 Clean to Clean
+The FNCD mechanics are repairing...
+Mechanic James got a bonus of $300.00!
+Mechanic James fixed Cybertruck-2 Broken to Used
+Mechanic Scotty got a bonus of $300.00!
+Mechanic Scotty fixed Cybertruck-2 Used to LikeNew
+The FNCD salespeople are selling...
+The FNCD has 7 buyers today...
+Buyer Luke-18 wants a Monster (WantsOne)
+Buyer Luke-18 decided not to buy.
+Buyer Leia-18 wants a Performance (JustLooking)
+Buyer Leia-18 decided not to buy.
+Buyer Han-18 wants a Performance (JustLooking)
+Buyer Han-18 decided not to buy.
+Buyer Chewy-18 wants a Performance (WantsOne)
+Buyer Chewy-18 is buying! Salesperson Phoebe gets a bonus of $1,000.00!
+Buyer Chewy-18 bought Sparkling LikeNew Europa-3 for $59,016.00
+Buyer Luke-19 wants a Motorcyclce (NeedsOne)
+Buyer Luke-19 is buying! Salesperson Rachel gets a bonus of $50.00!
+Buyer Luke-19 bought Clean LikeNew Scrambler-2 for $140,784.38
+Buyer Leia-19 wants a Motorcyclce (JustLooking)
+Buyer Leia-19 decided not to buy.
+Buyer Han-19 wants a Monster (JustLooking)
+Buyer Han-19 decided not to buy.
+No-one on the staff is leaving!
+Vehicles in inventory 22
+Vehicles sold count 33
+Money in the budget $4,002,859.98
+That's it for the day.

@@ -304,3 +304,27 @@ Vehicles in inventory 11
 Vehicles sold count 47
 Money in the budget $1,499,622.70
 That's it for the day.
+Sorry, FNCD is closed on Sun
+The FNCD is opening...
+The FNCD interns are washing...
+Intern Fred washed Scrambler-2 Dirty to Clean
+Intern Fred washed Scooter-2 Clean to Clean
+Intern Ethel washed Scooter-2 Clean to Clean
+Intern Ethel got a bonus of $75.00!
+Intern Ethel washed Ranger-3 Clean to Sparkling
+Intern Lucy washed Scooter-2 Clean to Clean
+Intern Lucy got a bonus of $25.00!
+Intern Lucy washed Touring-2 Clean to Sparkling
+The FNCD mechanics are repairing...
+The FNCD salespeople are selling...
+The FNCD has 2 buyers today...
+Buyer Han-17 wants a Performance (JustLooking)
+Buyer Han-17 decided not to buy.
+Buyer Chewy-17 wants a Electric (WantsOne)
+Buyer Chewy-17 is buying! Salesperson Rachel gets a bonus of $1,000.00!
+Buyer Chewy-17 bought Sparkling LikeNew Model S P90D-2 for $933,255.00
+No-one on the staff is leaving!
+Vehicles in inventory 23
+Vehicles sold count 31
+Money in the budget $3,971,953.60
+That's it for the day.

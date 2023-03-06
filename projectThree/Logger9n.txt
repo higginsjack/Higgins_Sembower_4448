@@ -349,3 +349,52 @@ Vehicles sold count 14
 Money in the budget $664,706.53
 That's it for the day.
 Sorry, FNCD is closed on Sun
+The FNCD is opening...
+Bought Escort-3, a Dirty LikeNew Car for $16,417.00
+Bought Corvette-2, a Dirty Used PerfCar for $25,584.80
+The FNCD interns are washing...
+Intern Fred washed Escort-3 Dirty to Clean
+Intern Fred washed Corvette-2 Dirty to Clean
+Intern Ethel got a bonus of $100.00!
+Intern Ethel washed Mustang Clean to Sparkling
+Intern Ethel washed Tundra Clean to Dirty
+Intern Lucy washed Tundra Dirty to Dirty
+Intern Lucy washed Probe-3 Clean to Clean
+The FNCD mechanics are repairing...
+Mechanic James got a bonus of $300.00!
+Mechanic James fixed Corvette-2 Used to LikeNew
+The FNCD salespeople are selling...
+The FNCD has 4 buyers today...
+Buyer Leia-8 wants a PerfCar (JustLooking)
+Buyer Leia-8 decided not to buy.
+Buyer Han-8 wants a PerfCar (JustLooking)
+Buyer Han-8 decided not to buy.
+Buyer Chewy-8 wants a Pickup (JustLooking)
+Buyer Chewy-8 decided not to buy.
+Buyer Luke-9 wants a Pickup (JustLooking)
+Buyer Luke-9 decided not to buy.
+No-one on the staff is leaving!
+Vehicles in inventory 12
+Vehicles sold count 16
+Money in the budget $629,037.60
+That's it for the day.
+The FNCD is opening...
+The FNCD interns are washing...
+Intern Fred washed Corvette-2 Dirty to Clean
+Intern Fred washed Colorado-2 Dirty to Clean
+Intern Ethel washed Escort Clean to Clean
+Intern Ethel got a bonus of $75.00!
+Intern Ethel washed Ranger Clean to Sparkling
+Intern Lucy got a bonus of $20.00!
+Intern Lucy washed Escort Clean to Sparkling
+Intern Lucy washed F-250 Clean to Clean
+The FNCD mechanics are repairing...
+The FNCD salespeople are selling...
+The FNCD has 1 buyers today...
+Buyer Luke-7 wants a Electric (WantsOne)
+Buyer Luke-7 decided not to buy.
+No-one on the staff is leaving!
+Vehicles in inventory 24
+Vehicles sold count 12
+Money in the budget $391,329.50
+That's it for the day.

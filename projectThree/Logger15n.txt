@@ -284,3 +284,56 @@ Vehicles in inventory 8
 Vehicles sold count 32
 Money in the budget $1,136,485.15
 That's it for the day.
+The FNCD is opening...
+The FNCD interns are washing...
+The FNCD mechanics are repairing...
+The FNCD salespeople are selling...
+The FNCD has 5 buyers today...
+Buyer Luke-10 wants a PerfCar (WantsOne)
+Buyer Luke-10 decided not to buy.
+Buyer Leia-10 wants a PerfCar (WantsOne)
+Buyer Leia-10 is buying! Salesperson Rachel gets a bonus of $1,000.00!
+Buyer Leia-10 bought Sparkling LikeNew Corvette-2 for $63,962.00
+Buyer Han-10 wants a PerfCar (WantsOne)
+Buyer Han-10 is buying! Salesperson Monica gets a bonus of $1,000.00!
+Buyer Han-10 bought Sparkling LikeNew Cayman for $48,000.00
+Buyer Chewy-10 wants a PerfCar (WantsOne)
+Buyer Chewy-10 decided not to buy.
+Buyer Luke-11 wants a PerfCar (WantsOne)
+Buyer Luke-11 is buying! Salesperson Phoebe gets a bonus of $1,000.00!
+Buyer Luke-11 bought Sparkling LikeNew Europa for $46,460.00
+No-one on the staff is leaving!
+Vehicles in inventory 9
+Vehicles sold count 21
+Money in the budget $808,913.60
+That's it for the day.
+The FNCD is opening...
+The FNCD interns are washing...
+Intern Fred washed Taycon Turbo S-2 Dirty to Clean
+Intern Fred got a bonus of $25.00!
+Intern Fred washed Scooter Clean to Sparkling
+Intern Ethel got a bonus of $25.00!
+Intern Ethel washed Roadster Clean to Sparkling
+Intern Ethel washed Touring Clean to Clean
+Intern Lucy washed Touring Clean to Clean
+Intern Lucy got a bonus of $350.00!
+Intern Lucy washed Alien Invasion Clean to Sparkling
+The FNCD mechanics are repairing...
+The FNCD salespeople are selling...
+The FNCD has 5 buyers today...
+Buyer Luke-10 wants a Monster (JustLooking)
+Buyer Luke-10 decided not to buy.
+Buyer Leia-10 wants a Electric (JustLooking)
+Buyer Leia-10 decided not to buy.
+Buyer Han-10 wants a Pickup (JustLooking)
+Buyer Han-10 decided not to buy.
+Buyer Chewy-10 wants a Motorcyclce (NeedsOne)
+Buyer Chewy-10 is buying! Salesperson Monica gets a bonus of $50.00!
+Buyer Chewy-10 bought Sparkling LikeNew Roadster for $173,580.00
+Buyer Luke-11 wants a Performance (JustLooking)
+Buyer Luke-11 decided not to buy.
+No-one on the staff is leaving!
+Vehicles in inventory 23
+Vehicles sold count 20
+Money in the budget $2,430,990.78
+That's it for the day.

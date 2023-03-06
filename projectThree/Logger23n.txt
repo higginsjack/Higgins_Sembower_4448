@@ -303,3 +303,75 @@ Vehicles sold count 34
 Money in the budget $1,213,818.12
 That's it for the day.
 Sorry, FNCD is closed on Sun
+The FNCD is opening...
+Bought Cayman-4, a Clean Broken PerfCar for $18,481.50
+The FNCD interns are washing...
+Intern Fred washed Fiesta-4 Dirty to Clean
+Intern Fred got a bonus of $75.00!
+Intern Fred washed F-250-4 Clean to Sparkling
+Intern Ethel washed Colorado-4 Clean to Clean
+Intern Ethel got a bonus of $75.00!
+Intern Ethel washed Ranger-5 Clean to Sparkling
+Intern Lucy washed Colorado-4 Clean to Clean
+Intern Lucy washed Fiesta-4 Clean to Clean
+The FNCD mechanics are repairing...
+Mechanic James got a bonus of $300.00!
+Mechanic James fixed Cayman-4 Broken to Used
+Mechanic Scotty got a bonus of $300.00!
+Mechanic Scotty fixed Cayman-4 Used to LikeNew
+The FNCD salespeople are selling...
+The FNCD has 6 buyers today...
+Buyer Leia-16 wants a PerfCar (JustLooking)
+Buyer Leia-16 decided not to buy.
+Buyer Han-16 wants a PerfCar (JustLooking)
+Buyer Han-16 decided not to buy.
+Buyer Chewy-16 wants a PerfCar (WantsOne)
+Buyer Chewy-16 decided not to buy.
+Buyer Luke-17 wants a PerfCar (NeedsOne)
+Buyer Luke-17 is buying! Salesperson Rachel gets a bonus of $1,000.00!
+Buyer Luke-17 bought Clean LikeNew Europa-4 for $70,952.00
+Buyer Leia-17 wants a PerfCar (NeedsOne)
+Buyer Leia-17 is buying! Salesperson Monica gets a bonus of $1,000.00!
+Buyer Leia-17 bought Dirty LikeNew Cayman-4 for $69,305.62
+Buyer Han-17 wants a Pickup (NeedsOne)
+Buyer Han-17 decided not to buy.
+No-one on the staff is leaving!
+Vehicles in inventory 10
+Vehicles sold count 37
+Money in the budget $1,294,003.85
+That's it for the day.
+The FNCD is opening...
+Bought Roadster-2, a Clean Broken Motorcyclce for $45,004.50
+The FNCD interns are washing...
+Intern Fred washed Mustang-2 Dirty to Clean
+Intern Fred got a bonus of $100.00!
+Intern Fred washed Taycon Turbo S-2 Clean to Sparkling
+Intern Ethel got a bonus of $100.00!
+Intern Ethel washed Mustang-2 Clean to Sparkling
+Intern Ethel washed Europa-3 Clean to Dirty
+Intern Lucy washed Europa-3 Dirty to Clean
+Intern Lucy washed Europa-3 Clean to Clean
+The FNCD mechanics are repairing...
+Mechanic James got a bonus of $150.00!
+Mechanic James fixed Roadster-2 Broken to Used
+Mechanic Scotty got a bonus of $150.00!
+Mechanic Scotty fixed Roadster-2 Used to LikeNew
+The FNCD salespeople are selling...
+The FNCD has 5 buyers today...
+Buyer Leia-16 wants a Monster (JustLooking)
+Buyer Leia-16 decided not to buy.
+Buyer Han-16 wants a Motorcyclce (JustLooking)
+Buyer Han-16 is buying! Salesperson Rachel gets a bonus of $50.00!
+Buyer Han-16 bought Dirty LikeNew Roadster-2 for $168,766.88
+Buyer Chewy-16 wants a Pickup (JustLooking)
+Buyer Chewy-16 decided not to buy.
+Buyer Luke-17 wants a Car (JustLooking)
+Buyer Luke-17 decided not to buy.
+Buyer Leia-17 wants a Motorcyclce (NeedsOne)
+Buyer Leia-17 is buying! Salesperson Monica gets a bonus of $50.00!
+Buyer Leia-17 bought Sparkling LikeNew Cruiser for $110,436.00
+No-one on the staff is leaving!
+Vehicles in inventory 22
+Vehicles sold count 30
+Money in the budget $3,104,156.10
+That's it for the day.

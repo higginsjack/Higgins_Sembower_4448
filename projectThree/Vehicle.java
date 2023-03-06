@@ -12,6 +12,7 @@ public abstract class Vehicle {
     double repair_bonus;
     double wash_bonus;
     double sale_bonus;
+    int range;
     Vehicle () {
         // all vehicles have the same cleanliness arrival chance
         double chance = Utility.rnd();
@@ -67,12 +68,12 @@ class Car extends Vehicle {
     }
 }
 
-class PerfCar extends Vehicle {
+class Performance extends Vehicle {
     static List<String> names = Arrays.asList("Europa","Cayman","Corvette","Mustang");
     static Namer namer = new Namer(names);
-    PerfCar() {
+    Performance() {
         super();
-        type = Enums.VehicleType.PerfCar;
+        type = Enums.VehicleType.Performance;
         name = namer.getNext();  // every new perf car gets a unique new name
         cost = getCost(20000,40000);
         price = cost * 2;
@@ -94,5 +95,52 @@ class Pickup extends Vehicle {
         repair_bonus = 200;
         wash_bonus = 75;
         sale_bonus = 750;
+    }
+}
+
+class Electric extends Vehicle {
+    static List<String> names = Arrays.asList("Model S P90D", "Taycon Turbo S", "Cybertruck", "Bolt", "Model X 100D");
+    static Namer namer = new Namer(names);
+    Electric() {
+        super();
+        type = Enums.VehicleType.Electric;
+        name = namer.getNext();
+        cost = getCost(300000, 500000);
+        price = cost * 2;
+        repair_bonus = 300;
+        wash_bonus = 100;
+        sale_bonus = 1000; 
+        range = Utility.rndFromRange(60, 400);
+    }
+}
+
+//need to add engine size with the proper math involved
+class Motorcyclce extends Vehicle {
+    static List<String> names = Arrays.asList("Chopper", "Scooter", "Roadster", "Touring", "Scrambler", "Cruiser");
+    static Namer namer = new Namer(names);
+    Motorcyclce() {
+        super();
+        type = Enums.VehicleType.Motorcyclce;
+        name = namer.getNext();
+        cost = getCost(100000, 20000);
+        price = cost * 2;
+        repair_bonus = 150;
+        wash_bonus = 25;
+        sale_bonus = 50;
+    }
+}
+//add more names to monster truck names
+class Monster extends Vehicle {
+    static List<String> names = Arrays.asList("Alien Invasion", "Avenger", "Bad Company", "Blue Thunder", "Ghost Rider", "Black Pearl");
+    static Namer namer = new Namer(names);
+    Monster() {
+        super();
+        type = Enums.VehicleType.Monster;
+        name = namer.getNext();
+        cost = getCost(50000, 80000);
+        price = cost * 2;
+        repair_bonus = 500;
+        wash_bonus = 350;
+        sale_bonus = 2000;
     }
 }

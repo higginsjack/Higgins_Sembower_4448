@@ -291,3 +291,36 @@ Vehicles in inventory 12
 Vehicles sold count 35
 Money in the budget $1,121,921.85
 That's it for the day.
+Sorry, FNCD is closed on Sun
+The FNCD is opening...
+The FNCD interns are washing...
+Intern Fred washed Touring Dirty to Clean
+Intern Fred washed Taurus-3 Dirty to Clean
+Intern Ethel washed Touring Clean to Clean
+Intern Ethel got a bonus of $350.00!
+Intern Ethel washed Blue Thunder Clean to Sparkling
+Intern Lucy washed Touring Clean to Clean
+Intern Lucy washed Cayman-2 Clean to Clean
+The FNCD mechanics are repairing...
+The FNCD salespeople are selling...
+The FNCD has 6 buyers today...
+Buyer Leia-12 wants a Car (WantsOne)
+Buyer Leia-12 decided not to buy.
+Buyer Han-12 wants a Monster (WantsOne)
+Buyer Han-12 is buying! Salesperson Monica gets a bonus of $2,000.00!
+Buyer Han-12 bought Clean LikeNew Ghost Rider for $141,506.00
+Buyer Chewy-12 wants a Motorcyclce (NeedsOne)
+Buyer Chewy-12 is buying! Salesperson Monica gets a bonus of $50.00!
+Buyer Chewy-12 bought Clean LikeNew Chopper-2 for $153,669.38
+Buyer Luke-13 wants a Car (JustLooking)
+Buyer Luke-13 is buying! Salesperson Phoebe gets a bonus of $500.00!
+Buyer Luke-13 bought Clean LikeNew Probe-3 for $28,448.00
+Buyer Leia-13 wants a Performance (JustLooking)
+Buyer Leia-13 decided not to buy.
+Buyer Han-13 wants a Car (JustLooking)
+Buyer Han-13 decided not to buy.
+No-one on the staff is leaving!
+Vehicles in inventory 21
+Vehicles sold count 26
+Money in the budget $2,809,944.48
+That's it for the day.

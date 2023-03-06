@@ -254,3 +254,36 @@ Vehicles in inventory 10
 Vehicles sold count 28
 Money in the budget $942,192.65
 That's it for the day.
+The FNCD is opening...
+The FNCD interns are washing...
+The FNCD mechanics are repairing...
+The FNCD salespeople are selling...
+The FNCD has 0 buyers today...
+No-one on the staff is leaving!
+Vehicles in inventory 12
+Vehicles sold count 18
+Money in the budget $651,301.60
+That's it for the day.
+The FNCD is opening...
+Bought Escort-3, a Dirty LikeNew Car for $15,965.00
+Bought Tundra-2, a Clean LikeNew Pickup for $32,840.00
+Bought Taycon Turbo S-2, a Dirty Used Electric for $296,352.00
+Bought Cruiser, a Dirty LikeNew Motorcyclce for $55,218.00
+The FNCD interns are washing...
+Intern Fred washed Ghost Rider Dirty to Clean
+Intern Fred got a bonus of $20.00!
+Intern Fred washed Escort-3 Dirty to Sparkling
+Intern Ethel washed Taycon Turbo S-2 Dirty to Dirty
+Intern Ethel washed Cruiser Dirty to Dirty
+Intern Lucy washed Taycon Turbo S-2 Dirty to Clean
+Intern Lucy washed Cruiser Dirty to Clean
+The FNCD mechanics are repairing...
+Mechanic James got a bonus of $300.00!
+Mechanic James fixed Taycon Turbo S-2 Used to LikeNew
+The FNCD salespeople are selling...
+The FNCD has 0 buyers today...
+No-one on the staff is leaving!
+Vehicles in inventory 24
+Vehicles sold count 19
+Money in the budget $2,258,610.78
+That's it for the day.

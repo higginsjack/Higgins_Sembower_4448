@@ -321,3 +321,32 @@ Vehicles in inventory 11
 Vehicles sold count 37
 Money in the budget $1,172,557.85
 That's it for the day.
+The FNCD is opening...
+Bought Tundra-4, a Dirty LikeNew Pickup for $29,215.00
+The FNCD interns are washing...
+Intern Fred washed Mustang-2 Dirty to Clean
+Intern Fred washed F-250-4 Dirty to Clean
+Intern Ethel washed Colorado-4 Dirty to Clean
+Intern Ethel washed Tundra-4 Dirty to Clean
+Intern Lucy washed Mustang-2 Clean to Clean
+Intern Lucy washed Probe-4 Clean to Clean
+The FNCD mechanics are repairing...
+The FNCD salespeople are selling...
+The FNCD has 4 buyers today...
+Buyer Han-13 wants a Car (NeedsOne)
+Buyer Han-13 is buying! Salesperson Monica gets a bonus of $500.00!
+Buyer Han-13 bought Clean LikeNew Probe-4 for $39,346.00
+Buyer Chewy-13 wants a PerfCar (WantsOne)
+Buyer Chewy-13 is buying! Salesperson Phoebe gets a bonus of $1,000.00!
+Buyer Chewy-13 bought Sparkling LikeNew Cayman-3 for $75,702.00
+Buyer Luke-14 wants a Pickup (WantsOne)
+Buyer Luke-14 is buying! Salesperson Phoebe gets a bonus of $750.00!
+Buyer Luke-14 bought Clean LikeNew Tundra-4 for $58,430.00
+Buyer Leia-14 wants a Car (WantsOne)
+Buyer Leia-14 decided not to buy.
+No-one on the staff is leaving!
+Vehicles in inventory 9
+Vehicles sold count 31
+Money in the budget $1,089,664.05
+That's it for the day.
+Sorry, FNCD is closed on Sun

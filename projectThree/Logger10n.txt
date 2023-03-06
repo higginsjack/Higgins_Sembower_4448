@@ -253,3 +253,56 @@ Vehicles in inventory 11
 Vehicles sold count 22
 Money in the budget $770,168.88
 That's it for the day.
+The FNCD is opening...
+The FNCD interns are washing...
+Intern Fred washed Tundra Dirty to Clean
+Intern Fred washed Corvette-2 Dirty to Clean
+Intern Ethel washed Tundra Clean to Clean
+Intern Ethel got a bonus of $20.00!
+Intern Ethel washed Probe-3 Clean to Sparkling
+Intern Lucy washed Tundra Clean to Clean
+Intern Lucy got a bonus of $75.00!
+Intern Lucy washed Tundra-2 Clean to Sparkling
+The FNCD mechanics are repairing...
+The FNCD salespeople are selling...
+The FNCD has 2 buyers today...
+Buyer Leia-9 wants a Car (NeedsOne)
+Buyer Leia-9 is buying! Salesperson Monica gets a bonus of $500.00!
+Buyer Leia-9 bought Clean LikeNew Escort-3 for $32,834.00
+Buyer Han-9 wants a Car (WantsOne)
+Buyer Han-9 is buying! Salesperson Monica gets a bonus of $500.00!
+Buyer Han-9 bought Sparkling LikeNew Probe-3 for $24,748.00
+No-one on the staff is leaving!
+Vehicles in inventory 10
+Vehicles sold count 18
+Money in the budget $685,809.60
+That's it for the day.
+The FNCD is opening...
+The FNCD interns are washing...
+Intern Fred got a bonus of $75.00!
+Intern Fred washed F-250 Clean to Sparkling
+Intern Fred washed Colorado Clean to Clean
+Intern Ethel got a bonus of $75.00!
+Intern Ethel washed Colorado Clean to Sparkling
+Intern Ethel got a bonus of $100.00!
+Intern Ethel washed Model S P90D Clean to Sparkling
+Intern Lucy washed Taycon Turbo S Clean to Clean
+Intern Lucy washed Cybertruck Clean to Clean
+The FNCD mechanics are repairing...
+The FNCD salespeople are selling...
+The FNCD has 4 buyers today...
+Buyer Leia-7 wants a Electric (JustLooking)
+Buyer Leia-7 is buying! Salesperson Phoebe gets a bonus of $1,000.00!
+Buyer Leia-7 bought Clean LikeNew Bolt for $802,942.50
+Buyer Han-7 wants a Pickup (WantsOne)
+Buyer Han-7 decided not to buy.
+Buyer Chewy-7 wants a Electric (WantsOne)
+Buyer Chewy-7 is buying! Salesperson Rachel gets a bonus of $1,000.00!
+Buyer Chewy-7 bought Sparkling LikeNew Model S P90D for $778,460.62
+Buyer Luke-8 wants a Monster (JustLooking)
+Buyer Luke-8 decided not to buy.
+No-one on the staff is leaving!
+Vehicles in inventory 22
+Vehicles sold count 14
+Money in the budget $1,971,532.62
+That's it for the day.

@@ -312,3 +312,60 @@ Vehicles in inventory 5
 Vehicles sold count 21
 Money in the budget $813,222.58
 That's it for the day.
+The FNCD is opening...
+Bought Colorado-3, a Dirty LikeNew Pickup for $17,193.00
+The FNCD interns are washing...
+Intern Fred got a bonus of $75.00!
+Intern Fred washed Colorado-3 Dirty to Sparkling
+Intern Fred washed Europa Clean to Clean
+Intern Ethel got a bonus of $100.00!
+Intern Ethel washed Europa Clean to Sparkling
+Intern Ethel washed Cayman Clean to Clean
+Intern Lucy got a bonus of $100.00!
+Intern Lucy washed Cayman Clean to Sparkling
+Intern Lucy washed Mustang Clean to Clean
+The FNCD mechanics are repairing...
+The FNCD salespeople are selling...
+The FNCD has 3 buyers today...
+Buyer Han-7 wants a Car (JustLooking)
+Buyer Han-7 is buying! Salesperson Rachel gets a bonus of $500.00!
+Buyer Han-7 bought Sparkling LikeNew Taurus-2 for $26,654.00
+Buyer Chewy-7 wants a Pickup (NeedsOne)
+Buyer Chewy-7 decided not to buy.
+Buyer Luke-8 wants a PerfCar (WantsOne)
+Buyer Luke-8 is buying! Salesperson Monica gets a bonus of $1,000.00!
+Buyer Luke-8 bought Clean LikeNew Cayman-2 for $60,708.75
+No-one on the staff is leaving!
+Vehicles in inventory 10
+Vehicles sold count 16
+Money in the budget $671,849.40
+That's it for the day.
+The FNCD is opening...
+Bought Corvette-2, a Dirty Broken Performance for $18,513.50
+Bought Colorado-2, a Dirty Broken Pickup for $16,693.00
+The FNCD interns are washing...
+Intern Fred washed Cayman Dirty to Clean
+Intern Fred washed Corvette-2 Dirty to Clean
+Intern Ethel washed Colorado-2 Dirty to Clean
+Intern Ethel washed Cayman Clean to Clean
+Intern Lucy got a bonus of $100.00!
+Intern Lucy washed Cayman Clean to Sparkling
+Intern Lucy got a bonus of $100.00!
+Intern Lucy washed Mustang Clean to Sparkling
+The FNCD mechanics are repairing...
+Mechanic James got a bonus of $300.00!
+Mechanic James fixed Corvette-2 Broken to Used
+Mechanic James got a bonus of $200.00!
+Mechanic James fixed Colorado-2 Broken to Used
+Mechanic Scotty did not fix the Used Corvette-2
+Mechanic Scotty got a bonus of $200.00!
+Mechanic Scotty fixed Colorado-2 Used to LikeNew
+Mechanic Spock got a bonus of $300.00!
+Mechanic Spock fixed Corvette-2 Used to LikeNew
+The FNCD salespeople are selling...
+The FNCD has 0 buyers today...
+No-one on the staff is leaving!
+Vehicles in inventory 24
+Vehicles sold count 12
+Money in the budget $392,529.50
+That's it for the day.

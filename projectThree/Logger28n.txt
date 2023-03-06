@@ -301,3 +301,65 @@ Vehicles in inventory 11
 Vehicles sold count 51
 Money in the budget $1,620,843.20
 That's it for the day.
+The FNCD is opening...
+Bought Escort-5, a Dirty Broken Car for $5,525.50
+Bought Tundra-5, a Clean LikeNew Pickup for $34,683.00
+The FNCD interns are washing...
+Intern Fred washed Cayman-5 Dirty to Clean
+Intern Fred washed Escort-5 Dirty to Clean
+Intern Ethel washed Fiesta-4 Clean to Clean
+Intern Ethel got a bonus of $100.00!
+Intern Ethel washed Europa-5 Clean to Sparkling
+Intern Lucy washed Fiesta-4 Clean to Clean
+Intern Lucy washed Cayman-5 Clean to Clean
+The FNCD mechanics are repairing...
+Mechanic James got a bonus of $100.00!
+Mechanic James fixed Escort-5 Broken to Used
+Mechanic Scotty got a bonus of $100.00!
+Mechanic Scotty fixed Escort-5 Used to LikeNew
+The FNCD salespeople are selling...
+The FNCD has 0 buyers today...
+No-one on the staff is leaving!
+Vehicles in inventory 12
+Vehicles sold count 44
+Money in the budget $1,440,517.35
+That's it for the day.
+The FNCD is opening...
+Bought Cayman-3, a Clean Broken Performance for $18,229.00
+Bought Cruiser-2, a Dirty Broken Motorcyclce for $25,162.50
+The FNCD interns are washing...
+Intern Fred washed Cybertruck-2 Dirty to Clean
+Intern Fred washed Cruiser-2 Dirty to Clean
+Intern Ethel washed Cybertruck-2 Clean to Clean
+Intern Ethel washed Cayman-3 Clean to Clean
+Intern Lucy got a bonus of $100.00!
+Intern Lucy washed Cybertruck-2 Clean to Sparkling
+Intern Lucy washed Cayman-3 Clean to Clean
+The FNCD mechanics are repairing...
+Mechanic James got a bonus of $300.00!
+Mechanic James fixed Cayman-3 Broken to Used
+Mechanic James got a bonus of $150.00!
+Mechanic James fixed Cruiser-2 Broken to Used
+Mechanic Scotty got a bonus of $300.00!
+Mechanic Scotty fixed Cayman-3 Used to LikeNew
+Mechanic Scotty got a bonus of $150.00!
+Mechanic Scotty fixed Cruiser-2 Used to LikeNew
+The FNCD salespeople are selling...
+The FNCD has 5 buyers today...
+Buyer Chewy-19 wants a Motorcyclce (NeedsOne)
+Buyer Chewy-19 decided not to buy.
+Buyer Luke-20 wants a Monster (JustLooking)
+Buyer Luke-20 is buying! Salesperson Phoebe gets a bonus of $2,000.00!
+Buyer Luke-20 bought Sparkling LikeNew Black Pearl for $141,042.00
+Buyer Leia-20 wants a Car (NeedsOne)
+Buyer Leia-20 is buying! Salesperson Monica gets a bonus of $500.00!
+Buyer Leia-20 bought Sparkling LikeNew Fiesta-3 for $21,586.00
+Buyer Han-20 wants a Performance (JustLooking)
+Buyer Han-20 decided not to buy.
+Buyer Chewy-20 wants a Electric (JustLooking)
+Buyer Chewy-20 decided not to buy.
+No-one on the staff is leaving!
+Vehicles in inventory 22
+Vehicles sold count 35
+Money in the budget $4,120,896.48
+That's it for the day.

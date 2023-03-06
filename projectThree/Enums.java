@@ -5,10 +5,17 @@
 // I found this nice suggestion for doing all the enums in one spot/file
 // https://stackoverflow.com/questions/10017729/multiple-enum-classes-in-one-java-file
 public class Enums {
+    public enum daysOfTheWeek {Mon, Tue, Wed, Thur, Fri, Sat, Sun}
     public enum Condition {Broken, Used, LikeNew}
-    public enum Cleanliness {Dirty,Clean,Sparkling}
-    public enum BuyerType {JustLooking,WantsOne,NeedsOne}
-    public enum VehicleType {Car, PerfCar, Pickup}
-    public enum StaffType {Intern, Mechanic, Salesperson}
-    public enum DayOfWeek {Mon,Tue,Wed,Thur,Fri,Sat,Sun}
+    public enum VehicleType {Performance, Car, Pickup, Electric, Motorcyclce, Monster}
+    public enum StaffType {Salesperson, Mechanic, Driver, Intern}
+    public enum Cleanliness {Clean, Dirty, Sparkling}
+    public enum BuyerType {JustLooking, WantsOne, NeedsOne}
+    // public enum RaceCars =  
+    //     for (int i = 0; i < VehicleType.size(); i++)
+    //     {
+    //         if (VehicleType != Car && VehicleType != Electric){
+    //             RaceCars[i] = VehicleType[i];
+    //     }
+   //checking to see if they were added to the racecars enum!! System.out.println(RaceCars);
 }

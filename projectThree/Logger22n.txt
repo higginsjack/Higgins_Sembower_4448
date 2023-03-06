@@ -295,3 +295,59 @@ Vehicles in inventory 11
 Vehicles sold count 43
 Money in the budget $1,358,281.15
 That's it for the day.
+The FNCD is opening...
+Bought Fiesta-4, a Clean Broken Car for $5,251.00
+Bought Mustang-3, a Dirty Used PerfCar for $31,226.40
+Bought Europa-4, a Dirty Used PerfCar for $28,380.80
+The FNCD interns are washing...
+Intern Fred washed Taurus-4 Dirty to Dirty
+Intern Fred washed Mustang-3 Dirty to Clean
+Intern Ethel got a bonus of $20.00!
+Intern Ethel washed Taurus-4 Dirty to Sparkling
+Intern Ethel got a bonus of $100.00!
+Intern Ethel washed Europa-4 Dirty to Sparkling
+Intern Lucy washed F-250-4 Clean to Clean
+Intern Lucy washed Colorado-4 Clean to Clean
+The FNCD mechanics are repairing...
+Mechanic James got a bonus of $100.00!
+Mechanic James fixed Fiesta-4 Broken to Used
+Mechanic James did not fix the Used Mustang-3
+Mechanic Scotty got a bonus of $100.00!
+Mechanic Scotty fixed Fiesta-4 Used to LikeNew
+Mechanic Scotty did not fix the Used Mustang-3
+Mechanic Spock got a bonus of $300.00!
+Mechanic Spock fixed Mustang-3 Used to LikeNew
+Mechanic Spock got a bonus of $300.00!
+Mechanic Spock fixed Europa-4 Used to LikeNew
+The FNCD salespeople are selling...
+The FNCD has 2 buyers today...
+Buyer Chewy-15 wants a Pickup (NeedsOne)
+Buyer Chewy-15 decided not to buy.
+Buyer Luke-16 wants a PerfCar (NeedsOne)
+Buyer Luke-16 is buying! Salesperson Monica gets a bonus of $1,000.00!
+Buyer Luke-16 bought Dirty LikeNew Mustang-3 for $78,066.00
+No-one on the staff is leaving!
+Vehicles in inventory 11
+Vehicles sold count 35
+Money in the budget $1,173,037.73
+That's it for the day.
+The FNCD is opening...
+The FNCD interns are washing...
+Intern Fred washed Ranger-3 Dirty to Clean
+Intern Fred washed Taycon Turbo S-2 Clean to Clean
+Intern Ethel washed Taycon Turbo S-2 Clean to Clean
+Intern Ethel got a bonus of $25.00!
+Intern Ethel washed Cruiser Clean to Sparkling
+Intern Lucy washed Taycon Turbo S-2 Clean to Clean
+Intern Lucy washed Mustang-2 Clean to Dirty
+The FNCD mechanics are repairing...
+The FNCD salespeople are selling...
+The FNCD has 1 buyers today...
+Buyer Luke-16 wants a Motorcyclce (WantsOne)
+Buyer Luke-16 is buying! Salesperson Phoebe gets a bonus of $50.00!
+Buyer Luke-16 bought Sparkling LikeNew Touring for $122,411.25
+No-one on the staff is leaving!
+Vehicles in inventory 23
+Vehicles sold count 28
+Money in the budget $2,871,157.73
+That's it for the day.

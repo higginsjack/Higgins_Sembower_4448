@@ -66,7 +66,7 @@ public class FNCD implements Subject {
     // I debated about moving the individual activities out to an Activity class
     // It would make the normal day less of a monster maybe, eh...
 
-    void closedDay(Enums.DayOfWeek day) {   // Nothing really special abthis.observer.update closed days
+    void closedDay(Enums.daysOfTheWeek day) {   // Nothing really special abthis.observer.update closed days
         Logger l = new Logger();
         registerObserver(l);
         notifyObserver(l, "Sorry, FNCD is closed on "+ day);
@@ -79,7 +79,7 @@ public class FNCD implements Subject {
         unregisterObserver(l);
     }
 
-    void normalDay(Enums.DayOfWeek day) {  // On a normal day, we do all the activities
+    void normalDay(Enums.daysOfTheWeek day) {  // On a normal day, we do all the activities
         Logger l = new Logger();
         registerObserver(l);
         // opening
@@ -137,11 +137,11 @@ public class FNCD implements Subject {
     }
 
     // generate buyers
-    ArrayList<Buyer> getBuyers(Enums.DayOfWeek day) {
+    ArrayList<Buyer> getBuyers(Enums.daysOfTheWeek day) {
         // 0 to 5 buyers arrive (2-8 on Fri/Sat)
         int buyerMin = 0;  //normal Mon-Thur
         int buyerMax = 5;
-        if (day == Enums.DayOfWeek.Fri || day == Enums.DayOfWeek.Sat) {
+        if (day == Enums.daysOfTheWeek.Fri || day == Enums.daysOfTheWeek.Sat) {
             buyerMin = 2;
             buyerMax = 8;
         }
@@ -169,6 +169,7 @@ public class FNCD implements Subject {
         if (t == Enums.StaffType.Intern) newStaff = new Intern();
         if (t == Enums.StaffType.Mechanic) newStaff = new Mechanic();
         if (t == Enums.StaffType.Salesperson) newStaff = new Salesperson();
+        if (t == Enums.StaffType.Driver) newStaff = new Driver();
         notifyObserver(observers.get(1), "Hired a new "+newStaff.type+" named "+ newStaff.name);
         staff.add(newStaff);
     }
@@ -188,8 +189,11 @@ public class FNCD implements Subject {
     void addVehicle(Enums.VehicleType t) {
         Vehicle v = null;
         if (t == Enums.VehicleType.Car) v = new Car();
-        if (t == Enums.VehicleType.PerfCar) v = new PerfCar();
+        if (t == Enums.VehicleType.Performance) v = new Performance();
         if (t == Enums.VehicleType.Pickup) v = new Pickup();
+        if (t == Enums.VehicleType.Electric) v = new Electric();
+        if (t == Enums.VehicleType.Motorcyclce) v = new Motorcyclce();
+        if (t == Enums.VehicleType.Monster) v = new Monster();
         moneyOut(v.cost);  // pay for the vehicle
         notifyObserver(observers.get(1), "Bought "+v.name+", a "+v.cleanliness+" "+v.condition+" "+v.type+" for "+Utility.asDollar(v.cost));
         inventory.add(v);

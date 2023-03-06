@@ -134,6 +134,21 @@ class Mechanic extends Staff {
         }
     }
 }
+
+
+class Driver extends Staff {
+    static List<String> names = Arrays.asList("Brock", "Jamar", "Larisa", "Johnny", "Bella", "Olivia", "Greg", "Justin");
+    static Namer namer = new Namer(names);
+    private Boolean injured = false;
+    Driver(){
+        super();
+        type = Enums.StaffType.Driver;
+        name = namer.getNext();
+        salary = 130;
+    }
+    //add driving actibity (race day)
+}
+
 class Salesperson extends Staff {
     static List<String> names = Arrays.asList("Rachel","Monica","Phoebe","Chandler","Ross","Joey");
     static Namer namer = new Namer(names);
@@ -182,7 +197,6 @@ class Salesperson extends Staff {
             }
         }
     }
-
     // Little helper for finding most expensive and not broken in a list of vehicles
     // Used twice by salespeople
     Vehicle getMostExpensiveNotBroken(ArrayList<Vehicle> vList) {

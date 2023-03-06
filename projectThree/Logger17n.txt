@@ -250,3 +250,65 @@ Vehicles in inventory 9
 Vehicles sold count 35
 Money in the budget $1,153,994.85
 That's it for the day.
+The FNCD is opening...
+Bought Tundra-3, a Dirty Used Pickup for $31,713.60
+Bought Ranger-4, a Dirty Broken Pickup for $12,582.00
+The FNCD interns are washing...
+Intern Fred washed Mustang-2 Dirty to Clean
+Intern Fred washed Europa-3 Dirty to Clean
+Intern Ethel washed Tundra-3 Dirty to Clean
+Intern Ethel washed Ranger-4 Dirty to Clean
+Intern Lucy washed Mustang-2 Clean to Clean
+Intern Lucy got a bonus of $100.00!
+Intern Lucy washed Europa-3 Clean to Sparkling
+The FNCD mechanics are repairing...
+Mechanic James got a bonus of $200.00!
+Mechanic James fixed Tundra-3 Used to LikeNew
+Mechanic James got a bonus of $200.00!
+Mechanic James fixed Ranger-4 Broken to Used
+Mechanic Scotty did not fix the Used Ranger-4
+Mechanic Spock did not fix the Used Ranger-4
+The FNCD salespeople are selling...
+The FNCD has 4 buyers today...
+Buyer Luke-12 wants a Car (JustLooking)
+Buyer Luke-12 is buying! Salesperson Monica gets a bonus of $500.00!
+Buyer Luke-12 bought Sparkling LikeNew Fiesta-3 for $36,004.00
+Buyer Leia-12 wants a Car (WantsOne)
+Buyer Leia-12 is buying! Salesperson Phoebe gets a bonus of $500.00!
+Buyer Leia-12 bought Sparkling LikeNew Taurus-3 for $28,152.00
+Buyer Han-12 wants a Pickup (WantsOne)
+Buyer Han-12 is buying! Salesperson Phoebe gets a bonus of $750.00!
+Buyer Han-12 bought Dirty LikeNew Tundra-3 for $79,284.00
+Buyer Chewy-12 wants a Pickup (NeedsOne)
+Buyer Chewy-12 is buying! Salesperson Monica gets a bonus of $750.00!
+Buyer Chewy-12 bought Dirty Used Ranger-4 for $37,746.00
+No-one on the staff is leaving!
+Vehicles in inventory 8
+Vehicles sold count 27
+Money in the budget $959,402.75
+That's it for the day.
+The FNCD is opening...
+Bought Mustang-2, a Sparkling Used Performance for $18,216.80
+Bought Europa-3, a Dirty LikeNew Performance for $29,508.00
+Bought Taurus-3, a Dirty Broken Car for $5,428.00
+The FNCD interns are washing...
+Intern Fred washed Chopper-2 Dirty to Clean
+Intern Fred washed Europa-3 Dirty to Clean
+Intern Ethel washed Taurus-3 Dirty to Clean
+Intern Ethel washed Touring Clean to Clean
+Intern Lucy washed Touring Clean to Dirty
+Intern Lucy washed Blue Thunder Clean to Clean
+The FNCD mechanics are repairing...
+Mechanic James got a bonus of $300.00!
+Mechanic James fixed Mustang-2 Used to LikeNew
+Mechanic James got a bonus of $100.00!
+Mechanic James fixed Taurus-3 Broken to Used
+Mechanic Scotty got a bonus of $100.00!
+Mechanic Scotty fixed Taurus-3 Used to LikeNew
+The FNCD salespeople are selling...
+The FNCD has 0 buyers today...
+No-one on the staff is leaving!
+Vehicles in inventory 24
+Vehicles sold count 23
+Money in the budget $2,487,521.10
+That's it for the day.

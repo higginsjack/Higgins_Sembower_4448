@@ -324,3 +324,40 @@ Vehicles in inventory 10
 Vehicles sold count 10
 Money in the budget $495,862.48
 That's it for the day.
+Sorry, FNCD is closed on Sun
+The FNCD is opening...
+The FNCD interns are washing...
+Intern Fred washed Roadster Dirty to Clean
+Intern Fred washed Touring Dirty to Clean
+Intern Ethel washed Alien Invasion Dirty to Dirty
+Intern Ethel washed Bad Company Dirty to Clean
+Intern Lucy washed Alien Invasion Dirty to Clean
+Intern Lucy washed Scrambler Dirty to Clean
+The FNCD mechanics are repairing...
+Mechanic James got a bonus of $500.00!
+Mechanic James fixed Bad Company Used to LikeNew
+Mechanic James got a bonus of $100.00!
+Mechanic James fixed Probe-2 Used to LikeNew
+Mechanic Scotty got a bonus of $100.00!
+Mechanic Scotty fixed Escort-2 Broken to Used
+Mechanic Scotty got a bonus of $300.00!
+Mechanic Scotty fixed Europa-2 Used to LikeNew
+Mechanic Spock did not fix the Used Escort-2
+Mechanic Spock got a bonus of $300.00!
+Mechanic Spock fixed Cayman-2 Broken to Used
+The FNCD salespeople are selling...
+The FNCD has 3 buyers today...
+Buyer Chewy-3 wants a Car (WantsOne)
+Buyer Chewy-3 is buying! Salesperson Phoebe gets a bonus of $500.00!
+Buyer Chewy-3 bought Dirty Used Escort-2 for $28,798.50
+Buyer Luke-4 wants a Car (WantsOne)
+Buyer Luke-4 is buying! Salesperson Monica gets a bonus of $500.00!
+Buyer Luke-4 bought Clean LikeNew Taurus for $28,350.00
+Buyer Leia-4 wants a Car (NeedsOne)
+Buyer Leia-4 is buying! Salesperson Monica gets a bonus of $500.00!
+Buyer Leia-4 bought Dirty LikeNew Probe-2 for $23,936.00
+No-one on the staff is leaving!
+Vehicles in inventory 21
+Vehicles sold count 9
+Money in the budget $311,543.20
+That's it for the day.

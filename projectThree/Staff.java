@@ -58,6 +58,29 @@ public abstract class Staff implements Sysout {
         }
 
         //use the interface to get print the strategy they were assigned to
+        void washVehicles(Enum t.washingStrategy, ArrayList<Vehicle> vList){
+            int washCount = 0;
+            Enums.Cleanliness startAs;
+            for (Vehicle v:vList) {
+                // wash the first dirty car I see
+                if (v.cleanliness == Enums.Cleanliness.Dirty) {
+                    washCount += 1;
+                    startAs = Enums.Cleanliness.Dirty;
+                    double chance = Utility.rnd();
+                    if (this.washingStrategy == Enums.washingStrategy.Chemical){
+                    if (chance <= .8) v.cleanliness = Enums.Cleanliness.Clean;
+                    if (chance >.8 && chance <=.9) {
+                        v.cleanliness = Enums.Cleanliness.Sparkling;
+                        bonusEarned += v.wash_bonus;
+                        out("Intern "+name+" got a bonus of "+Utility.asDollar(v.wash_bonus)+"!");
+                        out(this.washingMethod());
+                    }
+                    }
+                    out("Intern "+name+" washed "+v.name+" "+startAs+" to "+v.cleanliness);
+                    if (washCount == 2) break;
+                }
+            }
+        }
 
 
 

@@ -3,7 +3,7 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Arrays;
 
-public abstract class Staff implements SysOut {
+public abstract class Staff{
     String name;
     ArrayList<Observer> observers;
     double salary;  // daily salary
@@ -113,7 +113,7 @@ class Intern extends Staff {
         }
         // cleanliness might not get updated - check before after of vehicles
         if (washCount< 2){
-            out(this.washingStrategy.washingMethod());
+            l.update(this.washingStrategy.washingMethod());
             for (Vehicle v:vList) {
                 //wash the first clean car:
                 if (v.cleanliness == Enums.Cleanliness.Clean){

@@ -370,3 +370,110 @@ Vehicles in inventory 23
 Vehicles sold count 29
 Money in the budget $1,765,689.90
 That's it for the day.
+The FNCD is opening...
+The FNCD interns are washing...
+The FNCD mechanics are repairing...
+Mechanic James did not fix the Broken Ranger
+Mechanic James got a bonus of $150.00!
+Mechanic James fixed Roadster Used to LikeNew
+Mechanic Scotty got a bonus of $200.00!
+Mechanic Scotty fixed Ranger Broken to Used
+Mechanic Scotty did not fix the Broken Touring
+Mechanic Spock got a bonus of $200.00!
+Mechanic Spock fixed Ranger Used to LikeNew
+Mechanic Spock did not fix the Broken Touring
+The FNCD salespeople are selling...
+The FNCD has 5 buyers today...
+Buyer Chewy-10 wants a Performance (WantsOne)
+Buyer Chewy-10 decided not to buy.
+Buyer Luke-11 wants a Pickup (WantsOne)
+Buyer Luke-11 decided not to buy.
+Buyer Leia-11 wants a Motorcyclce (JustLooking)
+Buyer Leia-11 is buying! Salesperson Rachel gets a bonus of $50.00!
+ORIGINAL PRICE: 686313.28125
+Buyer Leia-11 bought Dirty LikeNew Roadster With addon Satellite Radio. Price: $720,628.95
+Buyer Han-11 wants a Monster (JustLooking)
+Buyer Han-11 is buying! Salesperson Phoebe gets a bonus of $2,000.00!
+ORIGINAL PRICE: 78718.5
+Buyer Han-11 bought Clean Used Alien Invasion Price: $78,718.50
+Buyer Chewy-11 wants a Monster (WantsOne)
+Buyer Chewy-11 decided not to buy.
+No-one on the staff is leaving!
+Vehicles in inventory 23
+Vehicles sold count 22
+Money in the budget $2,492,651.52
+That's it for the day.
+The FNCD is opening...
+The FNCD interns are washing...
+The FNCD mechanics are repairing...
+The FNCD salespeople are selling...
+The FNCD has 1 buyers today...
+Buyer Luke-11 wants a Electric (NeedsOne)
+Buyer Luke-11 is buying! Salesperson Rachel gets a bonus of $1,000.00!
+ORIGINAL PRICE: 971568.0
+Buyer Luke-11 bought Clean LikeNew Taycon Turbo S Price: $971,568.00
+No-one on the staff is leaving!
+Vehicles in inventory 23
+Vehicles sold count 21
+Money in the budget $2,910,155.35
+That's it for the day.
+The FNCD is opening...
+Bought Escort-2, a Sparkling Used Car for $13,210.40
+Bought Bad Company-2, a Dirty Broken Monster for $30,797.50
+The FNCD interns are washing...
+The FNCD mechanics are repairing...
+Mechanic James got a bonus of $100.00!
+Mechanic James fixed Escort-2 Used to LikeNew
+Mechanic James did not fix the Broken Bad Company-2
+Mechanic Scotty did not fix the Broken Bad Company-2
+Mechanic Spock got a bonus of $500.00!
+Mechanic Spock fixed Bad Company-2 Broken to Used
+The FNCD salespeople are selling...
+The FNCD has 3 buyers today...
+Buyer Leia-13 wants a Monster (NeedsOne)
+Buyer Leia-13 decided not to buy.
+Buyer Han-13 wants a Performance (WantsOne)
+Buyer Han-13 decided not to buy.
+Buyer Chewy-13 wants a Monster (NeedsOne)
+Buyer Chewy-13 is buying! Salesperson Phoebe gets a bonus of $2,000.00!
+ORIGINAL PRICE: 136818.0
+Buyer Chewy-13 bought Clean LikeNew Avenger-2 With addon Satellite Radio. Price: $143,658.90
+No-one on the staff is leaving!
+Vehicles in inventory 24
+Vehicles sold count 26
+Money in the budget $1,104,402.10
+That's it for the day.
+The FNCD is opening...
+The FNCD interns are washing...
+The FNCD mechanics are repairing...
+The FNCD salespeople are selling...
+The FNCD has 4 buyers today...
+Buyer Luke-14 wants a Monster (NeedsOne)
+Buyer Luke-14 is buying! Salesperson Monica gets a bonus of $2,000.00!
+ORIGINAL PRICE: 135678.75
+Buyer Luke-14 bought Clean LikeNew Blue Thunder With addon Extended Warranty. Price: $162,814.50
+Buyer Leia-14 wants a Electric (WantsOne)
+Buyer Leia-14 is buying! Salesperson Phoebe gets a bonus of $1,000.00!
+ORIGINAL PRICE: 726672.0
+Buyer Leia-14 bought Clean LikeNew Model X 100D Price: $726,672.00
+Buyer Han-14 wants a Performance (NeedsOne)
+Buyer Han-14 is buying! Salesperson Rachel gets a bonus of $1,000.00!
+ORIGINAL PRICE: 57542.0
+Buyer Han-14 bought Sparkling LikeNew Europa With addon Undercoating. Price: $60,419.10
+Buyer Chewy-14 wants a Motorcyclce (JustLooking)
+Buyer Chewy-14 decided not to buy.
+No-one on the staff is leaving!
+Vehicles in inventory 23
+Vehicles sold count 33
+Money in the budget $2,877,630.58
+That's it for the day.
+The FNCD is opening...
+The FNCD interns are washing...
+The FNCD mechanics are repairing...
+The FNCD salespeople are selling...
+The FNCD has 0 buyers today...
+No-one on the staff is leaving!
+Vehicles in inventory 24
+Vehicles sold count 21
+Money in the budget $1,477,544.80
+That's it for the day.

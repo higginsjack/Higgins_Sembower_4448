@@ -390,3 +390,65 @@ Vehicles in inventory 23
 Vehicles sold count 37
 Money in the budget $1,884,934.45
 That's it for the day.
+Sorry, FNCD is closed on Sun
+Sorry, FNCD is closed on Sun
+The FNCD is opening...
+Bought Fiesta-2, a Clean LikeNew Car for $15,759.00
+The FNCD interns are washing...
+The FNCD mechanics are repairing...
+Mechanic James got a bonus of $200.00!
+Mechanic James fixed Tundra-2 Used to LikeNew
+The FNCD salespeople are selling...
+The FNCD has 3 buyers today...
+Buyer Leia-16 wants a Monster (NeedsOne)
+Buyer Leia-16 is buying! Salesperson Monica gets a bonus of $2,000.00!
+ORIGINAL PRICE: 136818.0
+Buyer Leia-16 bought Clean LikeNew Avenger-2 With addon Extended Warranty. Price: $164,181.60
+Buyer Han-16 wants a Performance (JustLooking)
+Buyer Han-16 decided not to buy.
+Buyer Chewy-16 wants a Motorcyclce (WantsOne)
+Buyer Chewy-16 decided not to buy.
+No-one on the staff is leaving!
+Vehicles in inventory 24
+Vehicles sold count 34
+Money in the budget $1,196,733.48
+That's it for the day.
+The FNCD is opening...
+Bought Fiesta-2, a Dirty LikeNew Car for $13,833.00
+Bought Colorado-2, a Dirty Used Pickup for $21,284.80
+The FNCD interns are washing...
+The FNCD mechanics are repairing...
+Mechanic James got a bonus of $200.00!
+Mechanic James fixed Colorado-2 Used to LikeNew
+The FNCD salespeople are selling...
+The FNCD has 2 buyers today...
+Buyer Leia-19 wants a Performance (NeedsOne)
+Buyer Leia-19 is buying! Salesperson Rachel gets a bonus of $1,000.00!
+ORIGINAL PRICE: 57542.0
+Buyer Leia-19 bought Sparkling LikeNew Europa With addon Undercoating. With addon Satellite Radio. Price: $63,440.06
+Buyer Han-19 wants a Performance (WantsOne)
+Buyer Han-19 decided not to buy.
+No-one on the staff is leaving!
+Vehicles in inventory 24
+Vehicles sold count 45
+Money in the budget $2,698,923.05
+That's it for the day.
+The FNCD is opening...
+Bought Escort-2, a Dirty Used Car for $14,800.00
+Bought Taurus-2, a Dirty Broken Car for $7,782.50
+The FNCD interns are washing...
+The FNCD mechanics are repairing...
+Mechanic James got a bonus of $100.00!
+Mechanic James fixed Escort-2 Used to LikeNew
+Mechanic James got a bonus of $100.00!
+Mechanic James fixed Taurus-2 Broken to Used
+Mechanic Scotty did not fix the Used Taurus-2
+Mechanic Spock got a bonus of $100.00!
+Mechanic Spock fixed Taurus-2 Used to LikeNew
+The FNCD salespeople are selling...
+The FNCD has 0 buyers today...
+No-one on the staff is leaving!
+Vehicles in inventory 24
+Vehicles sold count 29
+Money in the budget $1,632,180.68
+That's it for the day.

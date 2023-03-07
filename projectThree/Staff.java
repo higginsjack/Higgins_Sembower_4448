@@ -1,4 +1,4 @@
-import javax.lang.model.util.Types;
+// import javax.lang.model.util.Types;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Arrays;
@@ -39,58 +39,104 @@ public abstract class Staff implements SysOut {
 }
 
 class Intern extends Staff {
-    static List<String> names = Arrays.asList("Fred","Ethel","Lucy","Desi");
+    static List<String>names = Arrays.asList("Ben", "Lucas", "Lucy", "Jenn", "Joey", "Jack", "Winthrob", "Samantha", "Karen", "Axel", "Margaret", "Charles", "Ben");
     static Namer namer = new Namer(names);
-    Intern() {
+    private Strategy washingStrategy;
+    Intern(){
         super();
         type = Enums.StaffType.Intern;
-        name = namer.getNext();  // every new intern gets a new name
-        salary = 60; // daily salary
+        name = namer.getNext();
+        salary = 60;
+        int r = Utility.rndFromRange(1,3);
+        if(r == 0){
+            Detailed d = new Detailed();
+            this.washingStrategy = d;
+        }
+        else if(r==1) {
+            Chemical c = new Chemical();
+            this.washingStrategy = c;
+        }
+        else{
+            ElbowGrease e = new ElbowGrease();
+            this.washingStrategy = e;
+        }
     }
-
-    // How an intern washes cars
-    // TODO: There's some duplication in this - it's a little clumsy - refactor me!
-    void washVehicles(ArrayList<Vehicle> vList, Logger l) {
+    //now get to how they wash cars
+    //using the strategy pattern here
+    public String printWashingType(){
+        return washingStrategy.washingMethod();
+    }
+    public void setStrategy(Strategy t){
+        this.washingStrategy = t;
+    }
+    public Strategy getStrategy(){
+        return this.washingStrategy;
+    }
+    //use the interface to get print the strategy they were assigned to
+    void washVehicles(ArrayList<Vehicle> vList){
         int washCount = 0;
-        Enums.Cleanliness startAs;
+        // Enums.Cleanliness startAs;
         for (Vehicle v:vList) {
-            // wash the first dirty car I see
-            if (v.cleanliness == Enums.Cleanliness.Dirty) {
-                washCount += 1;
-                startAs = Enums.Cleanliness.Dirty;
-                double chance = Utility.rnd();
-                if (chance <= .8) v.cleanliness = Enums.Cleanliness.Clean;
-                if (chance >.8 && chance <=.9) {
-                    v.cleanliness = Enums.Cleanliness.Sparkling;
-                    bonusEarned += v.wash_bonus;
-                    l.update("Intern "+name+" got a bonus of "+Utility.asDollar(v.wash_bonus)+"!");
-                }
-                l.update("Intern "+name+" washed "+v.name+" "+startAs+" to "+v.cleanliness);
-                if (washCount == 2) break;
-            }
-        }
-        if (washCount<2) {
-            for (Vehicle v:vList) {
-                // wash the first clean car I see
-                if (v.cleanliness == Enums.Cleanliness.Clean) {
-                    washCount += 1;
-                    startAs = Enums.Cleanliness.Clean;
-                    double chance = Utility.rnd();
-                    if (chance <= .05) v.cleanliness = Enums.Cleanliness.Dirty;
-                    if (chance >.05 && chance <=.35) {
-                        v.cleanliness = Enums.Cleanliness.Sparkling;
+            //wash the first dirty car I find 
+            if (v.cleanliness == Enums.Cleanliness.Dirty){
+                out(this.washingStrategy.washingMethod());
+                if (this.washingStrategy.washingMethod() == "Washing with elbow grease!"){
+                    v = this.getStrategy().check(v);
+                    if(v.cleanliness == Enums.Cleanliness.Sparkling) {
                         bonusEarned += v.wash_bonus;
-                        l.update("Intern "+name+" got a bonus of "+Utility.asDollar(v.wash_bonus)+"!");
+                        out("intern bonus allthat");
                     }
-                    l.update("Intern "+name+" washed "+v.name+" "+startAs+" to "+v.cleanliness);
-                    if (washCount == 2) break;
                 }
+                else if (this.washingStrategy.washingMethod() == "Washing with detailed!"){
+                    v = this.getStrategy().check(v);
+                    if(v.cleanliness == Enums.Cleanliness.Sparkling) {
+                        bonusEarned += v.wash_bonus;
+                        out("intern bonus allthat");
+                    }
+                }
+                else {
+                    this.washingStrategy.check(v);
+                }
+                washCount+=1;
+            }
+            if(washCount ==2) {
+                break;
             }
         }
-    }
+            // cleanliness might not get updated
+            if (washCount< 2){
+                out(this.washingStrategy.washingMethod());
+                for (Vehicle v:vList) {
+                    //wash the first clean car:
+                    if (v.cleanliness == Enums.Cleanliness.Clean){
+                        if (this.washingStrategy.washingMethod() == "Washing with elbow grease!"){
+                            v = this.getStrategy().check(v);
+                            if(v.cleanliness == Enums.Cleanliness.Sparkling) {
+                                bonusEarned += v.wash_bonus;
+                                out("intern bonus allthat");
+                            }
+                        }
+                        else if (this.washingStrategy.washingMethod() == "Washing with detailed!"){
+                            v = this.getStrategy().check(v);
+                            if(v.cleanliness == Enums.Cleanliness.Sparkling) {
+                                bonusEarned += v.wash_bonus;
+                                out("intern bonus allthat");
+                            }
+                            // out(this.washingStrategy.washingMethod());
+                        }
+                        else {
+                            this.washingStrategy.check(v);
+                            // out(this.washingStrategy.washingMethod());
+                        }
+                        washCount+=1;
+                        }
+                    if(washCount ==2) {
+                        break;
+                    }
+                }
+            }
+        }    
 }
-
-
 
 class Mechanic extends Staff {
     static List<String> names = Arrays.asList("James", "Scotty", "Spock", "Uhura");
@@ -141,7 +187,7 @@ class Mechanic extends Staff {
 class Driver extends Staff {
     static List<String> names = Arrays.asList("Brock", "Jamar", "Larisa", "Johnny", "Bella", "Olivia", "Greg", "Justin");
     static Namer namer = new Namer(names);
-    private Boolean injured = false;
+    // private Boolean injured = false;
     Driver(){
         super();
         type = Enums.StaffType.Driver;

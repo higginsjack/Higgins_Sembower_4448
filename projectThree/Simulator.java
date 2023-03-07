@@ -3,7 +3,7 @@ public class Simulator implements SysOut {
     final int numDays;
     Enums.daysOfTheWeek dayOfWeek;
     Simulator() {
-        numDays = 30;  // magic number for days to run here
+        numDays = 30;  // magic number for days to run here CHANGE
         dayOfWeek = Utility.randomEnum(Enums.daysOfTheWeek.class);  // we'll start on a random day (for fun)
     }
 

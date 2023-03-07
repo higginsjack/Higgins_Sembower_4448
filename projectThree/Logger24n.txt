@@ -365,3 +365,110 @@ Vehicles in inventory 23
 Vehicles sold count 40
 Money in the budget $3,158,089.45
 That's it for the day.
+The FNCD is opening...
+The FNCD interns are washing...
+The FNCD mechanics are repairing...
+Mechanic James got a bonus of $300.00!
+Mechanic James fixed Model S P90D-2 Broken to Used
+Mechanic James got a bonus of $500.00!
+Mechanic James fixed Black Pearl Broken to Used
+Mechanic Scotty did not fix the Used Model S P90D-2
+Mechanic Scotty got a bonus of $500.00!
+Mechanic Scotty fixed Black Pearl Used to LikeNew
+Mechanic Spock got a bonus of $300.00!
+Mechanic Spock fixed Model S P90D-2 Used to LikeNew
+Mechanic Spock got a bonus of $100.00!
+Mechanic Spock fixed Probe-2 Broken to Used
+The FNCD salespeople are selling...
+The FNCD has 3 buyers today...
+Buyer Han-16 wants a Motorcyclce (JustLooking)
+Buyer Han-16 decided not to buy.
+Buyer Chewy-16 wants a Electric (WantsOne)
+Buyer Chewy-16 is buying! Salesperson Rachel gets a bonus of $1,000.00!
+ORIGINAL PRICE: 858934.0
+Buyer Chewy-16 bought Sparkling LikeNew Bolt Price: $858,934.00
+Buyer Luke-17 wants a Pickup (WantsOne)
+Buyer Luke-17 decided not to buy.
+No-one on the staff is leaving!
+Vehicles in inventory 23
+Vehicles sold count 32
+Money in the budget $7,303,034.35
+That's it for the day.
+The FNCD is opening...
+The FNCD interns are washing...
+The FNCD mechanics are repairing...
+The FNCD salespeople are selling...
+The FNCD has 3 buyers today...
+Buyer Luke-15 wants a Electric (NeedsOne)
+Buyer Luke-15 decided not to buy.
+Buyer Leia-15 wants a Monster (JustLooking)
+Buyer Leia-15 is buying! Salesperson Monica gets a bonus of $2,000.00!
+ORIGINAL PRICE: 147472.0
+Buyer Leia-15 bought Clean LikeNew Black Pearl Price: $147,472.00
+Buyer Han-15 wants a Motorcyclce (JustLooking)
+Buyer Han-15 decided not to buy.
+No-one on the staff is leaving!
+Vehicles in inventory 23
+Vehicles sold count 28
+Money in the budget $2,756,146.90
+That's it for the day.
+The FNCD is opening...
+Bought Scooter-2, a Clean LikeNew Motorcyclce for $55,166.00
+The FNCD interns are washing...
+The FNCD mechanics are repairing...
+The FNCD salespeople are selling...
+The FNCD has 2 buyers today...
+Buyer Han-18 wants a Motorcyclce (NeedsOne)
+Buyer Han-18 is buying! Salesperson Phoebe gets a bonus of $50.00!
+ORIGINAL PRICE: 117066.0
+Buyer Han-18 bought Clean LikeNew Roadster With addon Undercoating. Price: $122,919.30
+Buyer Chewy-18 wants a Performance (JustLooking)
+Buyer Chewy-18 is buying! Salesperson Monica gets a bonus of $1,000.00!
+ORIGINAL PRICE: 62018.0
+Buyer Chewy-18 bought Clean LikeNew Cayman-2 With addon Extended Warranty. Price: $74,421.60
+No-one on the staff is leaving!
+Vehicles in inventory 24
+Vehicles sold count 38
+Money in the budget $1,330,731.48
+That's it for the day.
+The FNCD is opening...
+The FNCD interns are washing...
+The FNCD mechanics are repairing...
+The FNCD salespeople are selling...
+The FNCD has 0 buyers today...
+No-one on the staff is leaving!
+Vehicles in inventory 24
+Vehicles sold count 51
+Money in the budget $3,255,177.78
+That's it for the day.
+The FNCD is opening...
+Bought Europa-2, a Dirty Broken Performance for $16,806.00
+The FNCD interns are washing...
+The FNCD mechanics are repairing...
+Mechanic James got a bonus of $300.00!
+Mechanic James fixed Europa-2 Broken to Used
+Mechanic Scotty got a bonus of $300.00!
+Mechanic Scotty fixed Europa-2 Used to LikeNew
+The FNCD salespeople are selling...
+The FNCD has 6 buyers today...
+Buyer Han-15 wants a Monster (JustLooking)
+Buyer Han-15 decided not to buy.
+Buyer Chewy-15 wants a Performance (WantsOne)
+Buyer Chewy-15 decided not to buy.
+Buyer Luke-16 wants a Monster (WantsOne)
+Buyer Luke-16 is buying! Salesperson Monica gets a bonus of $2,000.00!
+ORIGINAL PRICE: 123656.0
+Buyer Luke-16 bought Clean LikeNew Ghost Rider With addon Extended Warranty. With addon Undercoating. Price: $155,806.56
+Buyer Leia-16 wants a Pickup (JustLooking)
+Buyer Leia-16 decided not to buy.
+Buyer Han-16 wants a Performance (WantsOne)
+Buyer Han-16 is buying! Salesperson Rachel gets a bonus of $1,000.00!
+ORIGINAL PRICE: 63022.5
+Buyer Han-16 bought Dirty LikeNew Europa-2 With addon Satellite Radio. Price: $66,173.62
+Buyer Chewy-16 wants a Electric (NeedsOne)
+Buyer Chewy-16 decided not to buy.
+No-one on the staff is leaving!
+Vehicles in inventory 24
+Vehicles sold count 34
+Money in the budget $2,237,229.68
+That's it for the day.

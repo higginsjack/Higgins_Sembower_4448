@@ -309,3 +309,84 @@ Vehicles in inventory 24
 Vehicles sold count 26
 Money in the budget $1,687,945.90
 That's it for the day.
+Sorry, FNCD is closed on Sun
+Sorry, FNCD is closed on Sun
+The FNCD is opening...
+Bought Chopper-2, a Clean Used Motorcyclce for $77,105.60
+The FNCD interns are washing...
+The FNCD mechanics are repairing...
+Mechanic James got a bonus of $200.00!
+Mechanic James fixed F-250 Broken to Used
+Mechanic James got a bonus of $200.00!
+Mechanic James fixed Colorado-2 Used to LikeNew
+Mechanic Scotty got a bonus of $200.00!
+Mechanic Scotty fixed F-250 Used to LikeNew
+Mechanic Scotty got a bonus of $150.00!
+Mechanic Scotty fixed Chopper-2 Used to LikeNew
+The FNCD salespeople are selling...
+The FNCD has 4 buyers today...
+Buyer Leia-11 wants a Monster (WantsOne)
+Buyer Leia-11 decided not to buy.
+Buyer Han-11 wants a Performance (JustLooking)
+Buyer Han-11 decided not to buy.
+Buyer Chewy-11 wants a Performance (WantsOne)
+Buyer Chewy-11 decided not to buy.
+Buyer Luke-12 wants a Motorcyclce (WantsOne)
+Buyer Luke-12 is buying! Salesperson Rachel gets a bonus of $50.00!
+ORIGINAL PRICE: 192764.0
+Buyer Luke-12 bought Dirty LikeNew Chopper-2 With addon Extended Warranty. Price: $231,316.80
+No-one on the staff is leaving!
+Vehicles in inventory 24
+Vehicles sold count 23
+Money in the budget $928,011.50
+That's it for the day.
+The FNCD is opening...
+The FNCD interns are washing...
+The FNCD mechanics are repairing...
+The FNCD salespeople are selling...
+The FNCD has 3 buyers today...
+Buyer Luke-12 wants a Electric (JustLooking)
+Buyer Luke-12 is buying! Salesperson Phoebe gets a bonus of $1,000.00!
+ORIGINAL PRICE: 753999.375
+Buyer Luke-12 bought Clean LikeNew Model S P90D-2 Price: $753,999.38
+Buyer Leia-12 wants a Performance (NeedsOne)
+Buyer Leia-12 is buying! Salesperson Rachel gets a bonus of $1,000.00!
+ORIGINAL PRICE: 57542.0
+Buyer Leia-12 bought Sparkling LikeNew Europa With addon Extended Warranty. Price: $69,050.40
+Buyer Han-12 wants a Pickup (JustLooking)
+Buyer Han-12 decided not to buy.
+No-one on the staff is leaving!
+Vehicles in inventory 23
+Vehicles sold count 27
+Money in the budget $2,304,531.08
+That's it for the day.
+The FNCD is opening...
+The FNCD interns are washing...
+The FNCD mechanics are repairing...
+The FNCD salespeople are selling...
+The FNCD has 5 buyers today...
+Buyer Chewy-8 wants a Pickup (NeedsOne)
+Buyer Chewy-8 is buying! Salesperson Monica gets a bonus of $750.00!
+ORIGINAL PRICE: 37034.0
+Buyer Chewy-8 bought Clean LikeNew Ranger Price: $37,034.00
+Buyer Luke-9 wants a Pickup (NeedsOne)
+Buyer Luke-9 is buying! Salesperson Rachel gets a bonus of $750.00!
+ORIGINAL PRICE: 32286.000000000004
+Buyer Luke-9 bought Clean LikeNew Ranger-2 Price: $32,286.00
+Buyer Leia-9 wants a Electric (NeedsOne)
+Buyer Leia-9 is buying! Salesperson Phoebe gets a bonus of $1,000.00!
+ORIGINAL PRICE: 878017.5
+Buyer Leia-9 bought Clean LikeNew Model S P90D Price: $878,017.50
+Buyer Han-9 wants a Electric (NeedsOne)
+Buyer Han-9 is buying! Salesperson Rachel gets a bonus of $1,000.00!
+ORIGINAL PRICE: 809160.0
+Buyer Han-9 bought Clean LikeNew Cybertruck With addon Undercoating. Price: $849,618.00
+Buyer Chewy-9 wants a Electric (NeedsOne)
+Buyer Chewy-9 is buying! Salesperson Rachel gets a bonus of $1,000.00!
+ORIGINAL PRICE: 809160.0
+Buyer Chewy-9 bought Clean LikeNew Cybertruck Price: $809,160.00
+No-one on the staff is leaving!
+Vehicles in inventory 20
+Vehicles sold count 21
+Money in the budget $2,189,823.20
+That's it for the day.

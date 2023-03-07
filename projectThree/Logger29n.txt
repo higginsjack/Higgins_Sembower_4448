@@ -325,3 +325,111 @@ Vehicles sold count 35
 Money in the budget $4,042,905.28
 That's it for the day.
 Sorry, FNCD is closed on Sun
+The FNCD is opening...
+The FNCD interns are washing...
+The FNCD mechanics are repairing...
+Mechanic James got a bonus of $300.00!
+Mechanic James fixed Europa-2 Broken to Used
+Mechanic James got a bonus of $150.00!
+Mechanic James fixed Cruiser Broken to Used
+Mechanic Scotty got a bonus of $300.00!
+Mechanic Scotty fixed Europa-2 Used to LikeNew
+Mechanic Scotty did not fix the Used Cruiser
+Mechanic Spock got a bonus of $150.00!
+Mechanic Spock fixed Cruiser Used to LikeNew
+Mechanic Spock did not fix the Used Taurus-2
+The FNCD salespeople are selling...
+The FNCD has 4 buyers today...
+Buyer Han-20 wants a Electric (WantsOne)
+Buyer Han-20 is buying! Salesperson Phoebe gets a bonus of $1,000.00!
+ORIGINAL PRICE: 803910.0
+Buyer Han-20 bought Clean LikeNew Taycon Turbo S-2 With addon Satellite Radio. Price: $844,105.50
+Buyer Chewy-20 wants a Pickup (JustLooking)
+Buyer Chewy-20 decided not to buy.
+Buyer Luke-21 wants a Monster (JustLooking)
+Buyer Luke-21 decided not to buy.
+Buyer Leia-21 wants a Pickup (JustLooking)
+Buyer Leia-21 decided not to buy.
+No-one on the staff is leaving!
+Vehicles in inventory 24
+Vehicles sold count 38
+Money in the budget $8,251,919.39
+That's it for the day.
+The FNCD is opening...
+Bought Taycon Turbo S-2, a Dirty Used Electric for $371,961.60
+Bought Avenger-2, a Dirty Broken Monster for $29,913.00
+The FNCD interns are washing...
+The FNCD mechanics are repairing...
+Mechanic James got a bonus of $300.00!
+Mechanic James fixed Taycon Turbo S-2 Used to LikeNew
+Mechanic James got a bonus of $500.00!
+Mechanic James fixed Avenger-2 Broken to Used
+Mechanic Scotty got a bonus of $500.00!
+Mechanic Scotty fixed Avenger-2 Used to LikeNew
+The FNCD salespeople are selling...
+The FNCD has 1 buyers today...
+Buyer Han-20 wants a Motorcyclce (JustLooking)
+Buyer Han-20 is buying! Salesperson Monica gets a bonus of $50.00!
+ORIGINAL PRICE: 179604.0
+Buyer Han-20 bought Sparkling LikeNew Chopper Price: $179,604.00
+No-one on the staff is leaving!
+Vehicles in inventory 23
+Vehicles sold count 40
+Money in the budget $4,188,070.45
+That's it for the day.
+The FNCD is opening...
+The FNCD interns are washing...
+The FNCD mechanics are repairing...
+Mechanic James got a bonus of $150.00!
+Mechanic James fixed Touring-2 Used to LikeNew
+The FNCD salespeople are selling...
+The FNCD has 2 buyers today...
+Buyer Leia-21 wants a Monster (JustLooking)
+Buyer Leia-21 decided not to buy.
+Buyer Han-21 wants a Pickup (JustLooking)
+Buyer Han-21 decided not to buy.
+No-one on the staff is leaving!
+Vehicles in inventory 24
+Vehicles sold count 44
+Money in the budget $1,537,593.88
+That's it for the day.
+The FNCD is opening...
+Bought Model X 100D-2, a Dirty Broken Electric for $200,666.50
+Bought Black Pearl, a Dirty LikeNew Monster for $67,613.00
+The FNCD interns are washing...
+The FNCD mechanics are repairing...
+Mechanic James got a bonus of $300.00!
+Mechanic James fixed Model X 100D-2 Broken to Used
+Mechanic James did not fix the Broken Black Pearl
+Mechanic Scotty did not fix the Used Model X 100D-2
+Mechanic Scotty got a bonus of $500.00!
+Mechanic Scotty fixed Black Pearl Broken to Used
+Mechanic Spock got a bonus of $300.00!
+Mechanic Spock fixed Model X 100D-2 Used to LikeNew
+Mechanic Spock got a bonus of $500.00!
+Mechanic Spock fixed Black Pearl Used to LikeNew
+The FNCD salespeople are selling...
+The FNCD has 1 buyers today...
+Buyer Luke-25 wants a Pickup (WantsOne)
+Buyer Luke-25 decided not to buy.
+No-one on the staff is leaving!
+Vehicles in inventory 24
+Vehicles sold count 57
+Money in the budget $3,938,280.78
+That's it for the day.
+The FNCD is opening...
+The FNCD interns are washing...
+The FNCD mechanics are repairing...
+The FNCD salespeople are selling...
+The FNCD has 3 buyers today...
+Buyer Chewy-18 wants a Performance (JustLooking)
+Buyer Chewy-18 decided not to buy.
+Buyer Luke-19 wants a Electric (JustLooking)
+Buyer Luke-19 decided not to buy.
+Buyer Leia-19 wants a Monster (JustLooking)
+Buyer Leia-19 decided not to buy.
+No-one on the staff is leaving!
+Vehicles in inventory 24
+Vehicles sold count 37
+Money in the budget $2,232,429.68
+That's it for the day.

@@ -817,3 +817,245 @@ Vehicles in inventory 23
 Vehicles sold count 1
 Money in the budget $191,078.30
 That's it for the day.
+Sorry, FNCD is closed on Sun
+Sorry, FNCD is closed on Sun
+The FNCD is opening...
+Hired a new Salesperson named Rachel
+Hired a new Salesperson named Monica
+Hired a new Salesperson named Phoebe
+Hired a new Mechanic named James
+Hired a new Mechanic named Scotty
+Hired a new Mechanic named Spock
+Hired a new Driver named Brock
+Hired a new Driver named Jamar
+Hired a new Driver named Larisa
+Hired a new Intern named Ben
+Hired a new Intern named Lucas
+Hired a new Intern named Lucy
+Bought Europa, a Dirty Used Performance for $20,791.20
+Bought Cayman, a Dirty Broken Performance for $14,120.50
+Bought Corvette, a Clean Used Performance for $16,491.20
+Bought Mustang, a Dirty LikeNew Performance for $20,866.00
+Bought Probe, a Dirty LikeNew Car for $14,897.00
+***Budget overrun*** Added $250K, budget now: $243,980.10
+Bought Escort, a Dirty LikeNew Car for $18,854.00
+Bought Taurus, a Dirty LikeNew Car for $17,461.00
+Bought Fiesta, a Clean LikeNew Car for $18,766.00
+Bought Ranger, a Dirty Used Pickup for $19,563.20
+Bought F-250, a Dirty Broken Pickup for $17,120.50
+Bought Colorado, a Dirty Broken Pickup for $16,845.50
+Bought Tundra, a Dirty Broken Pickup for $16,264.00
+***Budget overrun*** Added $250K, budget now: $97,119.10
+Bought Model S P90D, a Dirty Used Electric for $290,840.80
+***Budget overrun*** Added $250K, budget now: $28,550.30
+Bought Taycon Turbo S, a Clean Used Electric for $318,568.80
+***Budget overrun*** Added $250K, budget now: -$58,294.50
+Bought Cybertruck, a Clean Used Electric for $336,844.80
+***Budget overrun*** Added $250K, budget now: -$184,006.50
+Bought Bolt, a Dirty LikeNew Electric for $375,712.00
+***Budget overrun*** Added $250K, budget now: $29,607.50
+Bought Chopper, a Dirty LikeNew Motorcyclce for $36,386.00
+***Budget overrun*** Added $250K, budget now: $208,245.50
+Bought Scooter, a Sparkling LikeNew Motorcyclce for $71,362.00
+Bought Roadster, a Dirty Used Motorcyclce for $46,826.40
+Bought Touring, a Dirty Used Motorcyclce for $54,768.00
+Bought Alien Invasion, a Dirty LikeNew Monster for $74,264.00
+***Budget overrun*** Added $250K, budget now: $214,276.10
+Bought Avenger, a Dirty LikeNew Monster for $68,111.00
+Bought Bad Company, a Clean Broken Monster for $31,333.50
+Bought Blue Thunder, a Dirty Used Monster for $58,382.40
+The FNCD interns are washing...
+The FNCD mechanics are repairing...
+Mechanic James got a bonus of $300.00!
+Mechanic James fixed Europa Used to LikeNew
+Mechanic James got a bonus of $300.00!
+Mechanic James fixed Cayman Broken to Used
+Mechanic Scotty got a bonus of $300.00!
+Mechanic Scotty fixed Cayman Used to LikeNew
+Mechanic Scotty got a bonus of $300.00!
+Mechanic Scotty fixed Corvette Used to LikeNew
+Mechanic Spock got a bonus of $200.00!
+Mechanic Spock fixed Ranger Used to LikeNew
+Mechanic Spock did not fix the Broken Colorado
+The FNCD salespeople are selling...
+The FNCD has 5 buyers today...
+Buyer Luke wants a Monster (WantsOne)
+Buyer Luke decided not to buy.
+Buyer Leia wants a Monster (JustLooking)
+Buyer Leia decided not to buy.
+Buyer Han wants a Motorcyclce (NeedsOne)
+Buyer Han is buying! Salesperson Monica gets a bonus of $50.00!
+ORIGINAL PRICE: 142724.0
+Buyer Han bought Sparkling LikeNew Scooter Price: $142,724.00
+Buyer Chewy wants a Car (WantsOne)
+Buyer Chewy is buying! Salesperson Phoebe gets a bonus of $500.00!
+ORIGINAL PRICE: 37708.0
+Buyer Chewy bought Clean LikeNew Escort Price: $37,708.00
+Buyer Luke-2 wants a Car (NeedsOne)
+Buyer Luke-2 is buying! Salesperson Phoebe gets a bonus of $500.00!
+ORIGINAL PRICE: 37532.0
+Buyer Luke-2 bought Clean LikeNew Fiesta With addon Extended Warranty. Price: $45,038.40
+No-one on the staff is leaving!
+Vehicles in inventory 22
+Vehicles sold count 3
+Money in the budget $303,792.20
+That's it for the day.
+The FNCD is opening...
+Hired a new Salesperson named Rachel
+Hired a new Salesperson named Monica
+Hired a new Salesperson named Phoebe
+Hired a new Mechanic named James
+Hired a new Mechanic named Scotty
+Hired a new Mechanic named Spock
+Hired a new Driver named Brock
+Hired a new Driver named Jamar
+Hired a new Driver named Larisa
+Hired a new Intern named Ben
+Hired a new Intern named Lucas
+Hired a new Intern named Lucy
+Bought Europa, a Dirty LikeNew Performance for $28,771.00
+Bought Cayman, a Sparkling Broken Performance for $14,772.50
+Bought Corvette, a Dirty LikeNew Performance for $31,570.00
+Bought Mustang, a Clean LikeNew Performance for $23,653.00
+***Budget overrun*** Added $250K, budget now: $236,955.50
+Bought Probe, a Dirty LikeNew Car for $14,278.00
+Bought Escort, a Dirty LikeNew Car for $18,470.00
+Bought Taurus, a Dirty LikeNew Car for $12,806.00
+Bought Fiesta, a Dirty Used Car for $9,547.20
+Bought Ranger, a Dirty Used Pickup for $24,743.20
+Bought F-250, a Dirty Broken Pickup for $5,044.50
+Bought Colorado, a Clean Broken Pickup for $13,388.00
+Bought Tundra, a Dirty Broken Pickup for $15,276.50
+***Budget overrun*** Added $250K, budget now: $133,633.70
+Bought Model S P90D, a Clean Used Electric for $254,046.40
+***Budget overrun*** Added $250K, budget now: $190,909.70
+Bought Taycon Turbo S, a Sparkling Broken Electric for $192,724.00
+***Budget overrun*** Added $250K, budget now: $74,511.70
+Bought Cybertruck, a Dirty LikeNew Electric for $366,398.00
+***Budget overrun*** Added $250K, budget now: -$88,057.30
+Bought Bolt, a Dirty LikeNew Electric for $412,569.00
+***Budget overrun*** Added $250K, budget now: $140,795.50
+Bought Chopper, a Dirty Used Motorcyclce for $21,147.20
+Bought Scooter, a Dirty LikeNew Motorcyclce for $40,235.00
+Bought Roadster, a Dirty Broken Motorcyclce for $25,475.00
+Bought Touring, a Clean Used Motorcyclce for $60,693.60
+***Budget overrun*** Added $250K, budget now: $201,878.90
+Bought Alien Invasion, a Dirty LikeNew Monster for $62,513.00
+Bought Avenger, a Dirty Used Monster for $40,090.40
+Bought Bad Company, a Clean Broken Monster for $27,776.00
+Bought Blue Thunder, a Clean Broken Monster for $36,181.00
+The FNCD interns are washing...
+The FNCD mechanics are repairing...
+Mechanic James got a bonus of $300.00!
+Mechanic James fixed Cayman Broken to Used
+Mechanic James got a bonus of $300.00!
+Mechanic James fixed Corvette Broken to Used
+Mechanic Scotty did not fix the Used Cayman
+Mechanic Scotty got a bonus of $300.00!
+Mechanic Scotty fixed Corvette Used to LikeNew
+Mechanic Spock got a bonus of $300.00!
+Mechanic Spock fixed Cayman Used to LikeNew
+Mechanic Spock got a bonus of $100.00!
+Mechanic Spock fixed Fiesta Used to LikeNew
+The FNCD salespeople are selling...
+The FNCD has 5 buyers today...
+Buyer Luke wants a Performance (JustLooking)
+Buyer Luke decided not to buy.
+Buyer Leia wants a Performance (WantsOne)
+Buyer Leia is buying! Salesperson Rachel gets a bonus of $1,000.00!
+ORIGINAL PRICE: 118387.5
+Buyer Leia bought Dirty LikeNew Corvette Price: $118,387.50
+Buyer Han wants a Pickup (WantsOne)
+Buyer Han is buying! Salesperson Monica gets a bonus of $750.00!
+ORIGINAL PRICE: 49486.4
+Buyer Han bought Dirty Used Ranger With addon Satellite Radio. Price: $51,960.72
+Buyer Chewy wants a Monster (JustLooking)
+Buyer Chewy decided not to buy.
+Buyer Luke-2 wants a Motorcyclce (JustLooking)
+Buyer Luke-2 decided not to buy.
+No-one on the staff is leaving!
+Vehicles in inventory 23
+Vehicles sold count 2
+Money in the budget $215,019.00
+That's it for the day.
+Sorry, FNCD is closed on Sun
+Sorry, FNCD is closed on Sun
+Sorry, FNCD is closed on Sun
+Sorry, FNCD is closed on Sun
+The FNCD is opening...
+Hired a new Salesperson named Rachel
+Hired a new Salesperson named Monica
+Hired a new Salesperson named Phoebe
+Hired a new Mechanic named James
+Hired a new Mechanic named Scotty
+Hired a new Mechanic named Spock
+Hired a new Driver named Brock
+Hired a new Driver named Jamar
+Hired a new Driver named Larisa
+Hired a new Intern named Ben
+Hired a new Intern named Lucas
+Hired a new Intern named Lucy
+Bought Europa, a Dirty LikeNew Performance for $22,598.00
+Bought Cayman, a Sparkling Broken Performance for $16,591.00
+Bought Corvette, a Dirty LikeNew Performance for $27,188.00
+Bought Mustang, a Dirty Used Performance for $27,254.40
+***Budget overrun*** Added $250K, budget now: $236,974.60
+Bought Probe, a Clean LikeNew Car for $19,394.00
+Bought Escort, a Dirty Broken Car for $5,701.00
+Bought Taurus, a Clean Used Car for $15,787.20
+Bought Fiesta, a Clean Used Car for $12,495.20
+Bought Ranger, a Sparkling Used Pickup for $14,813.60
+Bought F-250, a Dirty Used Pickup for $11,529.60
+Bought Colorado, a Sparkling LikeNew Pickup for $10,408.00
+Bought Tundra, a Dirty LikeNew Pickup for $30,084.00
+***Budget overrun*** Added $250K, budget now: $152,018.00
+Bought Model S P90D, a Clean Broken Electric for $234,138.00
+***Budget overrun*** Added $250K, budget now: $216,889.50
+Bought Taycon Turbo S, a Clean Broken Electric for $185,128.50
+***Budget overrun*** Added $250K, budget now: $62,309.50
+Bought Cybertruck, a Clean LikeNew Electric for $404,580.00
+***Budget overrun*** Added $250K, budget now: $41,317.50
+Bought Bolt, a Dirty Used Electric for $270,992.00
+Bought Chopper, a Clean Used Motorcyclce for $33,576.00
+***Budget overrun*** Added $250K, budget now: $232,284.00
+Bought Scooter, a Clean Broken Motorcyclce for $25,457.50
+Bought Roadster, a Dirty Used Motorcyclce for $63,300.80
+Bought Touring, a Dirty Used Motorcyclce for $18,552.80
+Bought Alien Invasion, a Dirty Used Monster for $41,080.80
+Bought Avenger, a Dirty LikeNew Monster for $50,826.00
+Bought Bad Company, a Clean Broken Monster for $32,716.00
+***Budget overrun*** Added $250K, budget now: $240,215.10
+Bought Blue Thunder, a Dirty Broken Monster for $35,592.50
+The FNCD interns are washing...
+The FNCD mechanics are repairing...
+Mechanic James got a bonus of $300.00!
+Mechanic James fixed Cayman Broken to Used
+Mechanic James got a bonus of $300.00!
+Mechanic James fixed Mustang Used to LikeNew
+Mechanic Scotty got a bonus of $300.00!
+Mechanic Scotty fixed Cayman Used to LikeNew
+Mechanic Scotty got a bonus of $100.00!
+Mechanic Scotty fixed Escort Broken to Used
+Mechanic Spock got a bonus of $100.00!
+Mechanic Spock fixed Escort Used to LikeNew
+Mechanic Spock got a bonus of $100.00!
+Mechanic Spock fixed Taurus Used to LikeNew
+The FNCD salespeople are selling...
+The FNCD has 4 buyers today...
+Buyer Luke wants a Motorcyclce (JustLooking)
+Buyer Luke decided not to buy.
+Buyer Leia wants a Car (WantsOne)
+Buyer Leia is buying! Salesperson Rachel gets a bonus of $500.00!
+ORIGINAL PRICE: 39468.0
+Buyer Leia bought Dirty LikeNew Taurus Price: $39,468.00
+Buyer Han wants a Pickup (WantsOne)
+Buyer Han is buying! Salesperson Rachel gets a bonus of $750.00!
+ORIGINAL PRICE: 60168.0
+Buyer Han bought Dirty LikeNew Tundra With addon Undercoating. With addon Satellite Radio. Price: $66,335.22
+Buyer Chewy wants a Performance (NeedsOne)
+Buyer Chewy decided not to buy.
+No-one on the staff is leaving!
+Vehicles in inventory 23
+Vehicles sold count 2
+Money in the budget $278,483.10
+That's it for the day.

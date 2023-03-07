@@ -92,7 +92,7 @@ public class FNCD implements Subject {
         ArrayList<Staff> interns = Staff.getStaffByType(staff, Enums.StaffType.Intern);
         for (Staff s:interns) {
             Intern i = (Intern) s;
-            i.washVehicles(inventory, l);
+            i.washVehicles(inventory);
         }
 
         // repairing - tell the mechanics to do their repairing
@@ -166,6 +166,7 @@ public class FNCD implements Subject {
     // smells like we need a factory or something...
     void addStaff(Enums.StaffType t) {
         Staff newStaff = null;
+        Strategy d = new Detailed();
         if (t == Enums.StaffType.Intern) newStaff = new Intern();
         if (t == Enums.StaffType.Mechanic) newStaff = new Mechanic();
         if (t == Enums.StaffType.Salesperson) newStaff = new Salesperson();

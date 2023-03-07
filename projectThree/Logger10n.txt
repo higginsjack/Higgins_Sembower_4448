@@ -333,3 +333,109 @@ Vehicles in inventory 24
 Vehicles sold count 14
 Money in the budget $329,834.50
 That's it for the day.
+The FNCD is opening...
+The FNCD interns are washing...
+The FNCD mechanics are repairing...
+Mechanic James got a bonus of $100.00!
+Mechanic James fixed Taurus Broken to Used
+Mechanic James got a bonus of $100.00!
+Mechanic James fixed Fiesta Broken to Used
+Mechanic Scotty got a bonus of $100.00!
+Mechanic Scotty fixed Taurus Used to LikeNew
+Mechanic Scotty got a bonus of $100.00!
+Mechanic Scotty fixed Fiesta Used to LikeNew
+Mechanic Spock got a bonus of $200.00!
+Mechanic Spock fixed F-250 Broken to Used
+Mechanic Spock got a bonus of $150.00!
+Mechanic Spock fixed Touring Broken to Used
+The FNCD salespeople are selling...
+The FNCD has 0 buyers today...
+No-one on the staff is leaving!
+Vehicles in inventory 24
+Vehicles sold count 13
+Money in the budget $1,166,564.59
+That's it for the day.
+The FNCD is opening...
+The FNCD interns are washing...
+The FNCD mechanics are repairing...
+The FNCD salespeople are selling...
+The FNCD has 1 buyers today...
+Buyer Luke-6 wants a Performance (JustLooking)
+Buyer Luke-6 is buying! Salesperson Phoebe gets a bonus of $1,000.00!
+ORIGINAL PRICE: 72671.25
+Buyer Luke-6 bought Clean LikeNew Corvette Price: $72,671.25
+No-one on the staff is leaving!
+Vehicles in inventory 23
+Vehicles sold count 8
+Money in the budget $264,339.65
+That's it for the day.
+The FNCD is opening...
+The FNCD interns are washing...
+The FNCD mechanics are repairing...
+The FNCD salespeople are selling...
+The FNCD has 8 buyers today...
+Buyer Luke-8 wants a Car (WantsOne)
+Buyer Luke-8 decided not to buy.
+Buyer Leia-8 wants a Motorcyclce (NeedsOne)
+Buyer Leia-8 is buying! Salesperson Rachel gets a bonus of $50.00!
+ORIGINAL PRICE: 171260.0
+Buyer Leia-8 bought Clean LikeNew Scrambler Price: $171,260.00
+Buyer Han-8 wants a Electric (JustLooking)
+Buyer Han-8 decided not to buy.
+Buyer Chewy-8 wants a Pickup (WantsOne)
+Buyer Chewy-8 is buying! Salesperson Rachel gets a bonus of $750.00!
+ORIGINAL PRICE: 60990.0
+Buyer Chewy-8 bought Clean LikeNew Tundra Price: $60,990.00
+Buyer Luke-9 wants a Pickup (WantsOne)
+Buyer Luke-9 decided not to buy.
+Buyer Leia-9 wants a Pickup (NeedsOne)
+Buyer Leia-9 is buying! Salesperson Rachel gets a bonus of $750.00!
+ORIGINAL PRICE: 48908.0
+Buyer Leia-9 bought Sparkling LikeNew Ranger With addon Satellite Radio. Price: $51,353.40
+Buyer Han-9 wants a Motorcyclce (JustLooking)
+Buyer Han-9 decided not to buy.
+Buyer Chewy-9 wants a Motorcyclce (JustLooking)
+Buyer Chewy-9 decided not to buy.
+No-one on the staff is leaving!
+Vehicles in inventory 22
+Vehicles sold count 19
+Money in the budget $876,350.30
+That's it for the day.
+The FNCD is opening...
+The FNCD interns are washing...
+The FNCD mechanics are repairing...
+The FNCD salespeople are selling...
+The FNCD has 4 buyers today...
+Buyer Leia-8 wants a Car (JustLooking)
+Buyer Leia-8 is buying! Salesperson Rachel gets a bonus of $500.00!
+ORIGINAL PRICE: 32098.125
+Buyer Leia-8 bought Clean LikeNew Taurus-2 With addon Road Rescue Coverage. Price: $32,740.09
+Buyer Han-8 wants a Performance (WantsOne)
+Buyer Han-8 is buying! Salesperson Phoebe gets a bonus of $1,000.00!
+ORIGINAL PRICE: 60760.0
+Buyer Han-8 bought Clean LikeNew Corvette-2 Price: $60,760.00
+Buyer Chewy-8 wants a Monster (JustLooking)
+Buyer Chewy-8 decided not to buy.
+Buyer Luke-9 wants a Pickup (NeedsOne)
+Buyer Luke-9 is buying! Salesperson Rachel gets a bonus of $750.00!
+ORIGINAL PRICE: 57286.875
+Buyer Luke-9 bought Clean LikeNew Tundra Price: $57,286.88
+No-one on the staff is leaving!
+Vehicles in inventory 22
+Vehicles sold count 18
+Money in the budget $1,621,087.70
+That's it for the day.
+The FNCD is opening...
+The FNCD interns are washing...
+The FNCD mechanics are repairing...
+The FNCD salespeople are selling...
+The FNCD has 2 buyers today...
+Buyer Luke-7 wants a Pickup (WantsOne)
+Buyer Luke-7 decided not to buy.
+Buyer Leia-7 wants a Performance (NeedsOne)
+Buyer Leia-7 decided not to buy.
+No-one on the staff is leaving!
+Vehicles in inventory 24
+Vehicles sold count 13
+Money in the budget $436,925.70
+That's it for the day.

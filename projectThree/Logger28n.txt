@@ -395,3 +395,65 @@ Vehicles in inventory 23
 Vehicles sold count 46
 Money in the budget $3,039,147.58
 That's it for the day.
+Sorry, FNCD is closed on Sun
+Sorry, FNCD is closed on Sun
+The FNCD is opening...
+Bought Roadster-2, a Dirty LikeNew Motorcyclce for $71,647.00
+Bought Touring-2, a Clean Broken Motorcyclce for $31,133.00
+The FNCD interns are washing...
+The FNCD mechanics are repairing...
+Mechanic James got a bonus of $150.00!
+Mechanic James fixed Touring-2 Broken to Used
+Mechanic Scotty did not fix the Used Touring-2
+Mechanic Spock did not fix the Used Touring-2
+The FNCD salespeople are selling...
+The FNCD has 2 buyers today...
+Buyer Chewy-20 wants a Motorcyclce (JustLooking)
+Buyer Chewy-20 decided not to buy.
+Buyer Luke-21 wants a Pickup (JustLooking)
+Buyer Luke-21 decided not to buy.
+No-one on the staff is leaving!
+Vehicles in inventory 24
+Vehicles sold count 44
+Money in the budget $1,538,793.88
+That's it for the day.
+The FNCD is opening...
+The FNCD interns are washing...
+The FNCD mechanics are repairing...
+The FNCD salespeople are selling...
+The FNCD has 5 buyers today...
+Buyer Chewy-23 wants a Electric (NeedsOne)
+Buyer Chewy-23 is buying! Salesperson Phoebe gets a bonus of $1,000.00!
+ORIGINAL PRICE: 722715.0
+Buyer Chewy-23 bought Sparkling LikeNew Taycon Turbo S Price: $722,715.00
+Buyer Luke-24 wants a Pickup (WantsOne)
+Buyer Luke-24 decided not to buy.
+Buyer Leia-24 wants a Performance (JustLooking)
+Buyer Leia-24 decided not to buy.
+Buyer Han-24 wants a Monster (NeedsOne)
+Buyer Han-24 is buying! Salesperson Phoebe gets a bonus of $2,000.00!
+ORIGINAL PRICE: 125026.0
+Buyer Han-24 bought Clean LikeNew Alien Invasion Price: $125,026.00
+Buyer Chewy-24 wants a Electric (NeedsOne)
+Buyer Chewy-24 decided not to buy.
+No-one on the staff is leaving!
+Vehicles in inventory 22
+Vehicles sold count 57
+Money in the budget $4,207,760.28
+That's it for the day.
+The FNCD is opening...
+The FNCD interns are washing...
+The FNCD mechanics are repairing...
+The FNCD salespeople are selling...
+The FNCD has 2 buyers today...
+Buyer Leia-18 wants a Performance (WantsOne)
+Buyer Leia-18 is buying! Salesperson Rachel gets a bonus of $1,000.00!
+ORIGINAL PRICE: 63022.5
+Buyer Leia-18 bought Clean LikeNew Europa-2 With addon Satellite Radio. Price: $66,173.62
+Buyer Han-18 wants a Performance (JustLooking)
+Buyer Han-18 decided not to buy.
+No-one on the staff is leaving!
+Vehicles in inventory 24
+Vehicles sold count 37
+Money in the budget $2,233,629.68
+That's it for the day.

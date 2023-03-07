@@ -408,3 +408,108 @@ Vehicles in inventory 23
 Vehicles sold count 39
 Money in the budget $2,617,216.95
 That's it for the day.
+The FNCD is opening...
+The FNCD interns are washing...
+The FNCD mechanics are repairing...
+Mechanic James did not fix the Broken Ghost Rider
+Mechanic James did not fix the Broken F-250-2
+Mechanic Scotty got a bonus of $500.00!
+Mechanic Scotty fixed Ghost Rider Broken to Used
+Mechanic Scotty got a bonus of $200.00!
+Mechanic Scotty fixed F-250-2 Broken to Used
+Mechanic Spock got a bonus of $500.00!
+Mechanic Spock fixed Ghost Rider Used to LikeNew
+Mechanic Spock got a bonus of $200.00!
+Mechanic Spock fixed F-250-2 Used to LikeNew
+The FNCD salespeople are selling...
+The FNCD has 2 buyers today...
+Buyer Luke-16 wants a Performance (WantsOne)
+Buyer Luke-16 decided not to buy.
+Buyer Leia-16 wants a Performance (JustLooking)
+Buyer Leia-16 decided not to buy.
+No-one on the staff is leaving!
+Vehicles in inventory 24
+Vehicles sold count 31
+Money in the budget $6,445,300.35
+That's it for the day.
+The FNCD is opening...
+The FNCD interns are washing...
+The FNCD mechanics are repairing...
+The FNCD salespeople are selling...
+The FNCD has 2 buyers today...
+Buyer Han-14 wants a Car (WantsOne)
+Buyer Han-14 decided not to buy.
+Buyer Chewy-14 wants a Car (JustLooking)
+Buyer Chewy-14 decided not to buy.
+No-one on the staff is leaving!
+Vehicles in inventory 24
+Vehicles sold count 27
+Money in the budget $2,609,874.90
+That's it for the day.
+The FNCD is opening...
+The FNCD interns are washing...
+The FNCD mechanics are repairing...
+The FNCD salespeople are selling...
+The FNCD has 5 buyers today...
+Buyer Leia-17 wants a Electric (WantsOne)
+Buyer Leia-17 decided not to buy.
+Buyer Han-17 wants a Electric (JustLooking)
+Buyer Han-17 decided not to buy.
+Buyer Chewy-17 wants a Performance (WantsOne)
+Buyer Chewy-17 is buying! Salesperson Rachel gets a bonus of $1,000.00!
+ORIGINAL PRICE: 62018.0
+Buyer Chewy-17 bought Clean LikeNew Cayman-2 With addon Satellite Radio. Price: $65,118.90
+Buyer Luke-18 wants a Pickup (WantsOne)
+Buyer Luke-18 decided not to buy.
+Buyer Leia-18 wants a Motorcyclce (NeedsOne)
+Buyer Leia-18 is buying! Salesperson Phoebe gets a bonus of $50.00!
+ORIGINAL PRICE: 192764.0
+Buyer Leia-18 bought Clean LikeNew Chopper-2 Price: $192,764.00
+No-one on the staff is leaving!
+Vehicles in inventory 23
+Vehicles sold count 36
+Money in the budget $1,387,097.48
+That's it for the day.
+The FNCD is opening...
+Bought Probe-3, a Dirty Used Car for $11,858.40
+Bought Escort-3, a Dirty Broken Car for $7,861.50
+Bought Bolt-2, a Dirty Broken Electric for $225,231.00
+The FNCD interns are washing...
+The FNCD mechanics are repairing...
+Mechanic James did not fix the Broken Probe-3
+Mechanic Scotty got a bonus of $100.00!
+Mechanic Scotty fixed Probe-3 Broken to Used
+Mechanic Spock got a bonus of $100.00!
+Mechanic Spock fixed Probe-3 Used to LikeNew
+The FNCD salespeople are selling...
+The FNCD has 2 buyers today...
+Buyer Luke-21 wants a Performance (JustLooking)
+Buyer Luke-21 is buying! Salesperson Phoebe gets a bonus of $1,000.00!
+ORIGINAL PRICE: 57542.0
+Buyer Luke-21 bought Sparkling LikeNew Europa With addon Extended Warranty. Price: $69,050.40
+Buyer Leia-21 wants a Monster (NeedsOne)
+Buyer Leia-21 is buying! Salesperson Phoebe gets a bonus of $2,000.00!
+ORIGINAL PRICE: 125026.0
+Buyer Leia-21 bought Clean LikeNew Alien Invasion With addon Satellite Radio. Price: $131,277.30
+No-one on the staff is leaving!
+Vehicles in inventory 24
+Vehicles sold count 51
+Money in the budget $3,256,377.78
+That's it for the day.
+The FNCD is opening...
+Bought Taycon Turbo S-2, a Clean LikeNew Electric for $418,485.00
+The FNCD interns are washing...
+The FNCD mechanics are repairing...
+The FNCD salespeople are selling...
+The FNCD has 2 buyers today...
+Buyer Luke-15 wants a Car (JustLooking)
+Buyer Luke-15 decided not to buy.
+Buyer Leia-15 wants a Performance (NeedsOne)
+Buyer Leia-15 is buying! Salesperson Phoebe gets a bonus of $1,000.00!
+ORIGINAL PRICE: 68136.0
+Buyer Leia-15 bought Sparkling LikeNew Mustang Price: $68,136.00
+No-one on the staff is leaving!
+Vehicles in inventory 23
+Vehicles sold count 32
+Money in the budget $2,255,235.68
+That's it for the day.

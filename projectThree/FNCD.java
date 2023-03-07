@@ -1,5 +1,7 @@
 import java.util.ArrayList;
+import java.util.Collections;
 // import java.util.concurrent.Flow.Subscriber;
+import java.util.List;
 
 // This represents the FNCD business and things they would control
 public class FNCD implements Subject {
@@ -80,6 +82,60 @@ public class FNCD implements Subject {
         unregisterObserver(l);
     }
 
+    void raceDay(Enums.daysOfTheWeek day) {  
+        // Nothing really special about closed days
+        Logger l = new Logger();
+        registerObserver(l);
+        ArrayList<Integer> positions = getRaceCars();
+        Collections.shuffle(positions);
+        ArrayList<Integer> places = new ArrayList<>();
+        for(int n = 1; n < 21; n++) {
+            places.add(n);
+        }
+        Collections.shuffle(places);
+
+        ArrayList<Staff> drivers = Staff.getStaffByType(staff, Enums.StaffType.Driver);
+        int iterator = 0;
+        String msg = "";
+        for (int x = 0; x < drivers.size(); x++) {
+            msg="";
+            Staff s = drivers.get(x);
+            Driver i = (Driver) s;
+            Vehicle v = i.race(inventory.get(positions.get(iterator)), places.get(iterator));
+            msg+= "Driver " + i.name + " raced.";
+            if(places.get(iterator) < 4) {
+                moneyOut(2000);
+                observers.get(0).update("staff" + 2000);
+                msg += " They placed " + places.get(iterator)+ " and won! This is win #" + i.wins + "They received bonus of $2000.00";
+                v.wins++;
+            }
+            else if (places.get(iterator) > 14){
+                if(i.getInjured()) {
+                    msg += " They placed " + places.get(iterator)+ ". They got injured!";
+                }
+                else{
+                    msg += " They placed " + places.get(iterator)+ ". They were not injured";
+                }
+            }
+            else{
+                msg += " They placed " + places.get(iterator)+ ".";
+            }
+            observers.get(1).update(msg);
+            // observers.get(0).update("staff" + b);
+            // moneyOut(b); //will take bonus money off of budget
+            iterator++;
+        }
+        notifyObserver(observers.get(0), "day");
+        // notifyObserver(observers.get(0), null);
+        Logger.increaseDay();
+        if(Logger.getday() == 30) {
+            unregisterObserver(observers.get(0));
+        }
+        observers.get(0).reportOut("");
+        unregisterObserver(l);
+
+    }
+
     void normalDay(Enums.daysOfTheWeek day) {  // On a normal day, we do all the activities
         Logger l = new Logger();
         registerObserver(l);
@@ -132,7 +188,7 @@ public class FNCD implements Subject {
         // pay all the staff their salaries
         payStaff();
         // anyone quitting? replace with an intern (if not an intern)
-        checkForQuitters();
+        checkForQuitters(l);
         // daily report
         // reportOut();
         notifyObserver(observers.get(0), "day");
@@ -208,6 +264,16 @@ public class FNCD implements Subject {
         inventory.add(v);
     }
 
+    ArrayList<Integer> getRaceCars(){
+        ArrayList<Integer> raceCars = new ArrayList<>();
+        for(int i = 0; i < inventory.size(); i++) {
+            if(inventory.get(i).condition != Enums.Condition.Broken && inventory.get(i).type != Enums.VehicleType.Electric && inventory.get(i).type != Enums.VehicleType.Car) {
+                raceCars.add(i);
+            }
+        }
+        return raceCars;
+    }
+
     // pay salary to staff and update days worked
     void payStaff() {
         for (Staff s: staff) {
@@ -220,15 +286,86 @@ public class FNCD implements Subject {
 
     // Huh - no one wants to quit my FNCD!
     // I left this as an exercise to the reader...
-    void checkForQuitters() {
-        notifyObserver(observers.get(1), "No-one on the staff is leaving!");
-
+    void checkForQuitters(Logger l) {
+        // notifyObserver(observers.get(1), "No-one on the staff is leaving!");
         // I would check the percentages here
         // Move quitters to the departedStaff list
         // If an intern quits, you're good
         // If a mechanic or a salesperson quits
         // Remove an intern from the staff and use their properties to
         // create the new mechanic or salesperson
+
+        // for(Buyer b: buyers) {
+        //     notifyObserver(l, "Buyer "+b.name+" wants a "+b.preference+" ("+b.type+")");
+        //     int randomSeller = Utility.rndFromRange(0,salespeople.size()-1);
+        //     Salesperson seller = (Salesperson) salespeople.get(randomSeller);
+        //     Vehicle vSold = seller.sellVehicle(b, inventory, l);
+        //     // What the FNCD needs to do if a car is sold - change budget and inventory
+        //     if (vSold != null) {
+        //         moneyOut(vSold.sale_bonus);
+        //         observers.get(0).update("staff"+vSold.sale_bonus);
+        //         soldVehicles.add(vSold);
+        //         moneyIn(vSold.price);
+        //         inventory.removeIf ( n -> n.name == vSold.name);
+        //     }
+        // }
+        int chance = Utility.rndFromRange(1,100);
+        ArrayList<Staff> interns = Staff.getStaffByType(staff, Enums.StaffType.Intern);
+        ArrayList<Staff> drivers = Staff.getStaffByType(staff, Enums.StaffType.Driver);
+        ArrayList<Staff> mechanics = Staff.getStaffByType(staff, Enums.StaffType.Mechanic);
+        ArrayList<Staff> salesPeople = Staff.getStaffByType(staff, Enums.StaffType.Salesperson);
+        
+        // inventory.removeIf ( n -> n.name == vSold.name);
+
+        if(chance < 11) {
+            int randomIntern = Utility.rndFromRange(0,interns.size()-1);
+            Intern intern = (Intern) interns.get(randomIntern);
+            departedStaff.add(intern);
+            staff.removeIf ( n -> n.name == intern.name);
+            l.update("Intern: " + intern.name + " has left FNCD.");
+        }
+        chance = Utility.rndFromRange(1,100);
+        if(chance < 11) {
+            int randomMechanic = Utility.rndFromRange(0,mechanics.size()-1);
+            Mechanic mechanic = (Mechanic) mechanics.get(randomMechanic);
+            departedStaff.add(mechanic);
+            staff.removeIf ( n -> n.name == mechanic.name);
+
+            int randomIntern = Utility.rndFromRange(0,interns.size()-1);
+            Intern intern = (Intern) interns.get(randomIntern);
+            departedStaff.add(intern);
+            Mechanic mech2 = new Mechanic(); // add promtion method
+            mech2.promotion(intern);
+            staff.removeIf ( n -> n.name == mech2.name);
+            staff.add(mech2);
+            l.update("Mecahnic: " + mechanic.name + " has left FNCD.");
+            l.update("Intern: " + intern.name + " has been promoted to mechanic");
+        }
+        chance = Utility.rndFromRange(1,100);
+        if(chance < 11) {
+            int randomSales = Utility.rndFromRange(0,salesPeople.size()-1);
+            Salesperson sales = (Salesperson) salesPeople.get(randomSales);
+            departedStaff.add(sales);
+            staff.removeIf ( n -> n.name == sales.name);
+
+            int randomIntern = Utility.rndFromRange(0,interns.size()-1);
+            Intern intern = (Intern) interns.get(randomIntern);
+            departedStaff.add(intern);
+            Salesperson sales2 = new Salesperson();
+            sales2.promotion(intern);
+            staff.removeIf ( n -> n.name == sales2.name);
+            staff.add(sales2);
+            l.update("Salesperson: " + sales.name + " has left FNCD.");
+            l.update("Intern: " + intern.name + " has been promoted to mechanic");
+        }
+        for(int i = 0; i < drivers.size(); i++) {
+            Driver driver = (Driver) drivers.get(i);
+            if(driver.getInjured()) {
+                departedStaff.add(driver);
+                staff.removeIf ( n -> n.name == driver.name);
+                l.update("Driver: " + driver.name + " has left FNCD.");
+            }
+        }
     }
 
     void reportOut() {

@@ -1,83 +1,25 @@
 The FNCD is opening...
-Bought Taurus-2, a Dirty Broken Car for $7,110.00
-The FNCD interns are washing...
-The FNCD mechanics are repairing...
-Mechanic James got a bonus of $100.00!
-Mechanic James fixed Taurus-2 Broken to Used
-Mechanic Scotty got a bonus of $100.00!
-Mechanic Scotty fixed Taurus-2 Used to LikeNew
-The FNCD salespeople are selling...
-The FNCD has 3 buyers today...
-Buyer Han-12 wants a Performance (JustLooking)
-Buyer Han-12 decided not to buy.
-Buyer Chewy-12 wants a Electric (JustLooking)
-Buyer Chewy-12 is buying! Salesperson Monica gets a bonus of $1,000.00!
-ORIGINAL PRICE: 867254.0
-Buyer Chewy-12 bought Clean LikeNew Model S P90D-2 With addon Undercoating. Price: $910,616.70
-Buyer Luke-13 wants a Car (WantsOne)
-Buyer Luke-13 decided not to buy.
-No-one on the staff is leaving!
-Vehicles in inventory 24
-Vehicles sold count 23
-Money in the budget $1,935,146.52
-That's it for the day.
-The FNCD is opening...
-The FNCD interns are washing...
-Washing with chemical!
-The FNCD mechanics are repairing...
-Mechanic James got a bonus of $300.00!
-Mechanic James fixed Taycon Turbo S-2 Broken to Used
-Mechanic Scotty got a bonus of $300.00!
-Mechanic Scotty fixed Taycon Turbo S-2 Used to LikeNew
-The FNCD salespeople are selling...
-The FNCD has 5 buyers today...
-Buyer Han-9 wants a Car (NeedsOne)
-Buyer Han-9 is buying! Salesperson Monica gets a bonus of $500.00!
-ORIGINAL PRICE: 34386.0
-Buyer Han-9 bought Clean LikeNew Escort With addon Extended Warranty. With addon Satellite Radio. Price: $43,326.36
-Buyer Chewy-9 wants a Car (NeedsOne)
-Buyer Chewy-9 decided not to buy.
-Buyer Luke-10 wants a Monster (NeedsOne)
-Buyer Luke-10 is buying! Salesperson Rachel gets a bonus of $2,000.00!
-ORIGINAL PRICE: 139818.0
-Buyer Luke-10 bought Clean LikeNew Bad Company With addon Undercoating. Price: $146,808.90
-Buyer Leia-10 wants a Monster (WantsOne)
-Buyer Leia-10 is buying! Salesperson Monica gets a bonus of $2,000.00!
-ORIGINAL PRICE: 139818.0
-Buyer Leia-10 bought Clean LikeNew Bad Company With addon Road Rescue Coverage. Price: $142,614.36
-Buyer Han-10 wants a Performance (JustLooking)
-Buyer Han-10 decided not to buy.
-No-one on the staff is leaving!
-Vehicles in inventory 24
-Vehicles sold count 20
-Money in the budget $2,185,665.38
-That's it for the day.
-Sorry, FNCD is closed on Sun
-The FNCD is opening...
+Bought Ranger-2, a Dirty LikeNew Pickup for $14,450.00
+Bought Model S P90D-2, a Clean Broken Electric for $241,357.50
 The FNCD interns are washing...
 Washing with elbow grease!
-Washing with chemical!
-Washing with chemical!
+Washing with elbow grease!
+Washing with elbow grease!
+Washing with elbow grease!
+Washing with elbow grease!
+Washing with elbow grease!
 The FNCD mechanics are repairing...
+Mechanic James got a bonus of $150.00!
+Mechanic James fixed Scrambler Broken to Used
+Mechanic James got a bonus of $300.00!
+Mechanic James fixed Model S P90D-2 Broken to Used
+Mechanic Scotty got a bonus of $150.00!
+Mechanic Scotty fixed Scrambler Used to LikeNew
+Mechanic Scotty got a bonus of $300.00!
+Mechanic Scotty fixed Model S P90D-2 Used to LikeNew
 The FNCD salespeople are selling...
 The FNCD has 1 buyers today...
-Buyer Han-12 wants a Monster (NeedsOne)
-Buyer Han-12 is buying! Salesperson Rachel gets a bonus of $2,000.00!
-ORIGINAL PRICE: 133270.0
-Buyer Han-12 bought Clean LikeNew Avenger With addon Satellite Radio. Price: $139,933.50
-No-one on the staff is leaving!
-The FNCD is opening...
-The FNCD interns are washing...
-Intern Ben got a bonus of $100.00!
-The FNCD mechanics are repairing...
-The FNCD salespeople are selling...
-The FNCD has 3 buyers today...
-Buyer Chewy-13 wants a Car (JustLooking)
-Buyer Chewy-13 is buying! Salesperson Rachel gets a bonus of $500.00!
-ORIGINAL PRICE: 69566.25
-Buyer Chewy-13 bought Sparkling LikeNew Escort With addon Satellite Radio. Price: $73,044.56
-Buyer Luke-14 wants a Pickup (WantsOne)
-Buyer Luke-14 decided not to buy.
-Buyer Leia-14 wants a Car (NeedsOne)
-Buyer Leia-14 decided not to buy.
-No-one on the staff is leaving!
+Buyer Chewy-10 wants a Monster (WantsOne)
+Buyer Chewy-10 is buying! Salesperson Ben gets a bonus of $2,000.00!
+Buyer Chewy-10 bought Clean LikeNew Bad Company With addon Satellite Radio. Price: $253,228.50
+Intern: Lucas has left FNCD.

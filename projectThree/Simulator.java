@@ -22,7 +22,7 @@ public class Simulator implements SysOut {
         FNCD fncd = new FNCD();
         for (int day = 1; day <= numDays; ++day) {
             out(">>> Start Simulation Day "+day+" "+dayOfWeek);
-            if (dayOfWeek == Enums.daysOfTheWeek.Sun) fncd.closedDay(dayOfWeek);  // no work on Sunday
+            if (dayOfWeek == Enums.daysOfTheWeek.Sun || dayOfWeek == Enums.daysOfTheWeek.Wed) fncd.raceDay(dayOfWeek);  // no work on Sunday
             else fncd.normalDay(dayOfWeek);  // normal stuff on other days
             out(">>> End Simulation Day "+day+" "+dayOfWeek+"\n");
             dayOfWeek = getNextDay(dayOfWeek);  // increment to the next day

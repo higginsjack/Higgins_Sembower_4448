@@ -1,99 +1,18 @@
 The FNCD is opening...
-Bought Corvette-2, a Dirty LikeNew Performance for $21,709.00
 The FNCD interns are washing...
-Intern Lucas got a bonus of $20.00!
-Intern Lucy got a bonus of $20.00!
-The FNCD mechanics are repairing...
-The FNCD salespeople are selling...
-The FNCD has 4 buyers today...
-Buyer Leia-8 wants a Performance (NeedsOne)
-Buyer Leia-8 is buying! Salesperson Phoebe gets a bonus of $1,000.00!
-ORIGINAL PRICE: 73276.0
-Buyer Leia-8 bought Clean LikeNew Europa-2 Price: $73,276.00
-Buyer Han-8 wants a Electric (JustLooking)
-Buyer Han-8 decided not to buy.
-Buyer Chewy-8 wants a Pickup (JustLooking)
-Buyer Chewy-8 decided not to buy.
-Buyer Luke-9 wants a Electric (NeedsOne)
-Buyer Luke-9 is buying! Salesperson Phoebe gets a bonus of $1,000.00!
-ORIGINAL PRICE: 913344.0
-Buyer Luke-9 bought Clean LikeNew Taycon Turbo S Price: $913,344.00
-No-one on the staff is leaving!
-Vehicles in inventory 22
-Vehicles sold count 15
-Money in the budget $2,190,781.75
-That's it for the day.
-The FNCD is opening...
-Bought Cruiser, a Dirty Used Motorcyclce for $56,563.20
-The FNCD interns are washing...
-Washing with chemical!
+Washing with elbow grease!
+Washing with elbow grease!
+Washing with elbow grease!
+Washing with elbow grease!
+Washing with elbow grease!
 Washing with elbow grease!
 The FNCD mechanics are repairing...
 Mechanic James got a bonus of $150.00!
-Mechanic James fixed Cruiser Used to LikeNew
+Mechanic James fixed Scrambler Used to LikeNew
+Mechanic James got a bonus of $100.00!
+Mechanic James fixed Escort-2 Used to LikeNew
 The FNCD salespeople are selling...
-The FNCD has 2 buyers today...
-Buyer Leia-6 wants a Car (NeedsOne)
-Buyer Leia-6 is buying! Salesperson Phoebe gets a bonus of $500.00!
-ORIGINAL PRICE: 34386.0
-Buyer Leia-6 bought Clean LikeNew Escort With addon Extended Warranty. Price: $41,263.20
-Buyer Han-6 wants a Pickup (NeedsOne)
-Buyer Han-6 is buying! Salesperson Monica gets a bonus of $750.00!
-ORIGINAL PRICE: 70466.25
-Buyer Han-6 bought Clean LikeNew Ranger Price: $70,466.25
-No-one on the staff is leaving!
-Vehicles in inventory 23
-Vehicles sold count 14
-Money in the budget $1,069,540.38
-That's it for the day.
-Sorry, FNCD is closed on Sun
-The FNCD is opening...
-Bought Ghost Rider, a Clean LikeNew Monster for $64,214.00
-The FNCD interns are washing...
-Washing with elbow grease!
-Washing with chemical!
-The FNCD mechanics are repairing...
-Mechanic James got a bonus of $150.00!
-Mechanic James fixed Scrambler Broken to Used
-Mechanic Scotty got a bonus of $150.00!
-Mechanic Scotty fixed Scrambler Used to LikeNew
-The FNCD salespeople are selling...
-The FNCD has 0 buyers today...
-No-one on the staff is leaving!
-The FNCD is opening...
-The FNCD interns are washing...
-Washing with chemical!
-Washing with chemical!
-Intern Ben got a bonus of $20.00!
-Washing with chemical!
-Intern Lucy got a bonus of $100.00!
-The FNCD mechanics are repairing...
-The FNCD salespeople are selling...
-The FNCD has 8 buyers today...
-Buyer Leia-8 wants a Motorcyclce (NeedsOne)
-Buyer Leia-8 is buying! Salesperson Monica gets a bonus of $50.00!
-ORIGINAL PRICE: 134084.0
-Buyer Leia-8 bought Clean LikeNew Roadster With addon Satellite Radio. Price: $140,788.20
-Buyer Han-8 wants a Motorcyclce (JustLooking)
-Buyer Han-8 is buying! Salesperson Rachel gets a bonus of $50.00!
-ORIGINAL PRICE: 134084.0
-Buyer Han-8 bought Clean LikeNew Roadster With addon Satellite Radio. Price: $140,788.20
-Buyer Chewy-8 wants a Electric (WantsOne)
-Buyer Chewy-8 is buying! Salesperson Phoebe gets a bonus of $1,000.00!
-ORIGINAL PRICE: 979142.0000000001
-Buyer Chewy-8 bought Clean LikeNew Model X 100D Price: $979,142.00
-Buyer Luke-9 wants a Electric (WantsOne)
-Buyer Luke-9 decided not to buy.
-Buyer Leia-9 wants a Pickup (JustLooking)
-Buyer Leia-9 decided not to buy.
-Buyer Han-9 wants a Electric (JustLooking)
-Buyer Han-9 decided not to buy.
-Buyer Chewy-9 wants a Monster (NeedsOne)
-Buyer Chewy-9 is buying! Salesperson Rachel gets a bonus of $2,000.00!
-ORIGINAL PRICE: 246311.71875
-Buyer Chewy-9 bought Clean LikeNew Blue Thunder With addon Extended Warranty. Price: $295,574.06
-Buyer Luke-10 wants a Motorcyclce (WantsOne)
-Buyer Luke-10 is buying! Salesperson Monica gets a bonus of $50.00!
-ORIGINAL PRICE: 134084.0
-Buyer Luke-10 bought Clean LikeNew Roadster Price: $134,084.00
-No-one on the staff is leaving!
+The FNCD has 1 buyers today...
+Buyer Leia-7 wants a Electric (NeedsOne)
+Buyer Leia-7 is buying! Salesperson Monica gets a bonus of $1,000.00!
+Buyer Leia-7 bought Dirty LikeNew Model X 100D With addon Satellite Radio. Price: $953,784.56

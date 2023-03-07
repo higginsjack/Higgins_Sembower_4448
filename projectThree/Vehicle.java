@@ -13,6 +13,7 @@ public abstract class Vehicle {
     double wash_bonus;
     double sale_bonus;
     int range;
+    int wins;
     Vehicle () {
         // all vehicles have the same cleanliness arrival chance
         double chance = Utility.rnd();
@@ -36,6 +37,7 @@ public abstract class Vehicle {
     double getOriginalCost(){
         return cost;
     }
+
     // utility for getting Vehicles by Type
     // You could do this with getClass instead of Type, but I use the enum
     // because it's clearer to me (less Java-y)
@@ -70,6 +72,7 @@ class Car extends Vehicle {
         repair_bonus = 100;
         wash_bonus = 20;
         sale_bonus = 500;
+        wins = 0;
     }
 }
 
@@ -85,6 +88,7 @@ class Performance extends Vehicle {
         repair_bonus = 300;
         wash_bonus = 100;
         sale_bonus = 1000;
+        wins = 0;
     }
 }
 
@@ -100,6 +104,7 @@ class Pickup extends Vehicle {
         repair_bonus = 200;
         wash_bonus = 75;
         sale_bonus = 750;
+        wins = 0;
     }
 }
 
@@ -116,6 +121,7 @@ class Electric extends Vehicle {
         wash_bonus = 100;
         sale_bonus = 1000; 
         range = Utility.rndFromRange(60, 400);
+        wins = 0;
     }
 }
 
@@ -132,7 +138,24 @@ class Motorcyclce extends Vehicle {
         repair_bonus = 150;
         wash_bonus = 25;
         sale_bonus = 50;
+        truncatedNormalValue = truncatedNormalDistribution(700, 300, 50);
+        wins = 0;
     }
+    public static double truncatedNormalDistribution(int mean, double stdDev, double min) {
+        double result = 0;
+        double cumulativeProb = 0;
+        double sample = 0;
+        while (cumulativeProb <= 0.5) {
+            sample = mean + stdDev * Math.random();
+            if (sample >= min) {
+                cumulativeProb += (1 / (stdDev * Math.sqrt(2 * Math.PI))) * Math.exp(-0.5 * Math.pow(((sample - mean) / stdDev), 2));
+                result = sample;
+            }
+        }
+        return result;
+    }
+    
+    double truncatedNormalValue = truncatedNormalDistribution(700, 300, 50);
 }
 //add more names to monster truck names
 class Monster extends Vehicle {
@@ -147,5 +170,6 @@ class Monster extends Vehicle {
         repair_bonus = 500;
         wash_bonus = 350;
         sale_bonus = 2000;
+        wins = 0;
     }
 }

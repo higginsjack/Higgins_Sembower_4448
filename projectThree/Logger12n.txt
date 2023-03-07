@@ -1,81 +1,18 @@
 The FNCD is opening...
-Bought Probe-2, a Clean Broken Car for $9,806.50
-Bought Alien Invasion-2, a Clean Broken Monster for $27,200.50
+Hired a new Intern named Joey
 The FNCD interns are washing...
-Intern Lucy got a bonus of $75.00!
-Intern Lucy got a bonus of $75.00!
+Washing with elbow grease!
+Washing with elbow grease!
+Washing with elbow grease!
+Intern Jenn got a bonus of $100.00!
+Washing with elbow grease!
 The FNCD mechanics are repairing...
-Mechanic James got a bonus of $100.00!
-Mechanic James fixed Probe-2 Broken to Used
 Mechanic James got a bonus of $500.00!
-Mechanic James fixed Alien Invasion-2 Broken to Used
-Mechanic Scotty did not fix the Used Probe-2
-Mechanic Scotty got a bonus of $500.00!
-Mechanic Scotty fixed Alien Invasion-2 Used to LikeNew
-Mechanic Spock got a bonus of $100.00!
-Mechanic Spock fixed Probe-2 Used to LikeNew
-The FNCD salespeople are selling...
-The FNCD has 3 buyers today...
-Buyer Leia-10 wants a Car (NeedsOne)
-Buyer Leia-10 is buying! Salesperson Monica gets a bonus of $500.00!
-ORIGINAL PRICE: 37060.0
-Buyer Leia-10 bought Sparkling LikeNew Taurus Price: $37,060.00
-Buyer Han-10 wants a Performance (JustLooking)
-Buyer Han-10 decided not to buy.
-Buyer Chewy-10 wants a Electric (WantsOne)
-Buyer Chewy-10 decided not to buy.
-No-one on the staff is leaving!
-Vehicles in inventory 23
-Vehicles sold count 18
-Money in the budget $1,923,751.15
-That's it for the day.
-The FNCD is opening...
-The FNCD interns are washing...
-The FNCD mechanics are repairing...
-Mechanic James got a bonus of $300.00!
-Mechanic James fixed Europa Broken to Used
-Mechanic Scotty got a bonus of $300.00!
-Mechanic Scotty fixed Europa Used to LikeNew
+Mechanic James fixed Ghost Rider Broken to Used
+Mechanic Scotty did not fix the Used Ghost Rider
+Mechanic Spock got a bonus of $500.00!
+Mechanic Spock fixed Ghost Rider Used to LikeNew
 The FNCD salespeople are selling...
 The FNCD has 1 buyers today...
-Buyer Han-7 wants a Monster (JustLooking)
+Buyer Han-7 wants a Electric (NeedsOne)
 Buyer Han-7 decided not to buy.
-No-one on the staff is leaving!
-Vehicles in inventory 24
-Vehicles sold count 15
-Money in the budget $1,045,613.38
-That's it for the day.
-The FNCD is opening...
-The FNCD interns are washing...
-Washing with chemical!
-Washing with chemical!
-Washing with elbow grease!
-Washing with elbow grease!
-Intern Lucy got a bonus of $20.00!
-The FNCD mechanics are repairing...
-Mechanic James got a bonus of $300.00!
-Mechanic James fixed Cayman-2 Broken to Used
-Mechanic James got a bonus of $200.00!
-Mechanic James fixed Tundra-2 Used to LikeNew
-Mechanic Scotty got a bonus of $300.00!
-Mechanic Scotty fixed Cayman-2 Used to LikeNew
-The FNCD salespeople are selling...
-The FNCD has 1 buyers today...
-Buyer Luke-10 wants a Electric (NeedsOne)
-Buyer Luke-10 is buying! Salesperson Phoebe gets a bonus of $1,000.00!
-ORIGINAL PRICE: 859598.0
-Buyer Luke-10 bought Clean LikeNew Model S P90D With addon Extended Warranty. With addon Satellite Radio. Price: $1,083,093.48
-No-one on the staff is leaving!
-Sorry, FNCD is closed on Sun
-The FNCD is opening...
-The FNCD interns are washing...
-Washing with chemical!
-Washing with chemical!
-Washing with chemical!
-Intern Lucas got a bonus of $100.00!
-The FNCD mechanics are repairing...
-The FNCD salespeople are selling...
-The FNCD has 1 buyers today...
-Buyer Luke-12 wants a Pickup (NeedsOne)
-Buyer Luke-12 decided not to buy.
-No-one on the staff is leaving!

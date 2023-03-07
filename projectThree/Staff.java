@@ -11,6 +11,7 @@ public abstract class Staff{
     double bonusEarned;
     Enums.StaffType type;
     int daysWorked;
+    int wins;
     Staff() {
         salaryEarned = 0;
         bonusEarned = 0;
@@ -164,6 +165,13 @@ class Mechanic extends Staff {
         salary = 120; // daily salary
     }
 
+    public void promotion(Intern p) {
+        name = p.name;
+        salaryEarned = p.salaryEarned;
+        bonusEarned = p.bonusEarned;
+        daysWorked = p.daysWorked;
+    }
+
     // how Mechanics repair Vehicles - not as complicated as the Wash thing above
     // returns bonus to take off of budget
     double repairVehicles(ArrayList<Vehicle> vList, Logger l) {
@@ -207,14 +215,33 @@ class Mechanic extends Staff {
 class Driver extends Staff {
     static List<String> names = Arrays.asList("Brock", "Jamar", "Larisa", "Johnny", "Bella", "Olivia", "Greg", "Justin");
     static Namer namer = new Namer(names);
-    // private Boolean injured = false;
+    private Boolean injured = false;
     Driver(){
         super();
         type = Enums.StaffType.Driver;
         name = namer.getNext();
         salary = 130;
+        wins = 0;
     }
     //add driving actibity (race day)
+    Vehicle race(Vehicle v, int position) {
+        if(position < 4) {
+            bonusEarned+=2000; // race win bonus
+            wins++;
+            v.wins++;
+        }
+        else if(position > 14) {
+            v.condition=Enums.Condition.Broken;
+            if(Utility.rndFromRange(1, 100) < 31) {
+                this.injured = true;
+            }
+        }
+        return v;
+    }
+    Boolean getInjured(){
+        return this.injured;
+    }
+
 }
 
 class Salesperson extends Staff {
@@ -227,6 +254,12 @@ class Salesperson extends Staff {
         salary = 90; // daily salary
     }
 
+    public void promotion(Intern p) {
+        name = p.name;
+        salaryEarned = p.salaryEarned;
+        bonusEarned = p.bonusEarned;
+        daysWorked = p.daysWorked;
+    }
     // Someone is asking this Salesperson to sell to this Buyer
     // We'll return any car we sell for the FNCD to keep track of (null if no sale)
     Vehicle sellVehicle(Buyer b, ArrayList<Vehicle> vList, Logger l) {
@@ -252,13 +285,14 @@ class Salesperson extends Staff {
         else { //sell this car!
             if (v.condition == Enums.Condition.LikeNew) saleChance += .1;
             if (v.cleanliness == Enums.Cleanliness.Sparkling) saleChance += .1;
+            if (v.wins > 0) saleChance += .1; //if vehicle has won races add chance
             double chance = Utility.rnd();
             if (chance<=saleChance) {  // sold!
                 bonusEarned += v.sale_bonus;
                 String msg = "Buyer "+b.name+" bought "+v.cleanliness+" "+v.condition+" "+v.name;
                 //add addons
                 l.update("Buyer "+b.name+" is buying! Salesperson "+name+" gets a bonus of "+Utility.asDollar(v.sale_bonus)+"!");
-                l.update("ORIGINAL PRICE: " + v.getSalesPrice());//DELETE
+                // l.update("ORIGINAL PRICE: " + v.getSalesPrice());//DELETE
                 int addonChance = Utility.rndFromRange(1, 100);
                 if(addonChance < 21) {
                     msg += " With addon Extended Warranty.";

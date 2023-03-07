@@ -30,4 +30,5 @@ public interface Utility {
         int x = new Random().nextInt(clazz.getEnumConstants().length);
         return clazz.getEnumConstants()[x];
     }
+
 }

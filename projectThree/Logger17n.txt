@@ -1,108 +1,14 @@
 The FNCD is opening...
+Hired a new Intern named Jack
 The FNCD interns are washing...
-Intern Lucy got a bonus of $75.00!
-The FNCD mechanics are repairing...
-The FNCD salespeople are selling...
-The FNCD has 1 buyers today...
-Buyer Leia-13 wants a Car (JustLooking)
-Buyer Leia-13 is buying! Salesperson Rachel gets a bonus of $500.00!
-ORIGINAL PRICE: 33848.0
-Buyer Leia-13 bought Sparkling LikeNew Probe Price: $33,848.00
-No-one on the staff is leaving!
-Vehicles in inventory 23
-Vehicles sold count 24
-Money in the budget $1,967,794.52
-That's it for the day.
-The FNCD is opening...
-The FNCD interns are washing...
-Washing with chemical!
-Washing with chemical!
-Intern Ben got a bonus of $100.00!
-Intern Lucy got a bonus of $100.00!
-Intern Lucy got a bonus of $100.00!
-The FNCD mechanics are repairing...
-The FNCD salespeople are selling...
-The FNCD has 2 buyers today...
-Buyer Chewy-10 wants a Monster (WantsOne)
-Buyer Chewy-10 is buying! Salesperson Monica gets a bonus of $2,000.00!
-ORIGINAL PRICE: 139818.0
-Buyer Chewy-10 bought Clean LikeNew Bad Company Price: $139,818.00
-Buyer Luke-11 wants a Electric (JustLooking)
-Buyer Luke-11 is buying! Salesperson Rachel gets a bonus of $1,000.00!
-ORIGINAL PRICE: 1680785.15625
-Buyer Luke-11 bought Sparkling LikeNew Taycon Turbo S-2 With addon Satellite Radio. Price: $1,764,824.41
-No-one on the staff is leaving!
-Vehicles in inventory 23
-Vehicles sold count 22
-Money in the budget $2,321,983.38
-That's it for the day.
-The FNCD is opening...
-The FNCD interns are washing...
-Washing with chemical!
-Washing with chemical!
-Intern Lucas got a bonus of $100.00!
+Washing with elbow grease!
+Washing with elbow grease!
+Washing with elbow grease!
+Washing with elbow grease!
+Washing with elbow grease!
 Washing with elbow grease!
 The FNCD mechanics are repairing...
 The FNCD salespeople are selling...
-The FNCD has 5 buyers today...
-Buyer Luke-12 wants a Pickup (JustLooking)
-Buyer Luke-12 decided not to buy.
-Buyer Leia-12 wants a Electric (WantsOne)
-Buyer Leia-12 is buying! Salesperson Monica gets a bonus of $1,000.00!
-ORIGINAL PRICE: 859598.0
-Buyer Leia-12 bought Sparkling LikeNew Model S P90D Price: $859,598.00
-Buyer Han-12 wants a Pickup (NeedsOne)
-Buyer Han-12 is buying! Salesperson Phoebe gets a bonus of $750.00!
-ORIGINAL PRICE: 46644.0
-Buyer Han-12 bought Clean LikeNew F-250-2 With addon Extended Warranty. Price: $55,972.80
-Buyer Chewy-12 wants a Electric (NeedsOne)
-Buyer Chewy-12 decided not to buy.
-Buyer Luke-13 wants a Pickup (WantsOne)
-Buyer Luke-13 is buying! Salesperson Phoebe gets a bonus of $750.00!
-ORIGINAL PRICE: 46644.0
-Buyer Luke-13 bought Clean LikeNew F-250-2 Price: $46,644.00
-No-one on the staff is leaving!
-The FNCD is opening...
-The FNCD interns are washing...
-Washing with chemical!
-The FNCD mechanics are repairing...
-The FNCD salespeople are selling...
-The FNCD has 4 buyers today...
-Buyer Chewy-12 wants a Monster (NeedsOne)
-Buyer Chewy-12 is buying! Salesperson Phoebe gets a bonus of $2,000.00!
-ORIGINAL PRICE: 133270.0
-Buyer Chewy-12 bought Clean LikeNew Avenger Price: $133,270.00
-Buyer Luke-13 wants a Performance (WantsOne)
-Buyer Luke-13 is buying! Salesperson Rachel gets a bonus of $1,000.00!
-ORIGINAL PRICE: 72662.0
-Buyer Luke-13 bought Sparkling LikeNew Europa Price: $72,662.00
-Buyer Leia-13 wants a Monster (WantsOne)
-Buyer Leia-13 decided not to buy.
-Buyer Han-13 wants a Car (NeedsOne)
-Buyer Han-13 is buying! Salesperson Phoebe gets a bonus of $500.00!
-ORIGINAL PRICE: 74850.0
-Buyer Han-13 bought Clean LikeNew Fiesta Price: $74,850.00
-No-one on the staff is leaving!
-The FNCD is opening...
-The FNCD interns are washing...
-Intern Ben got a bonus of $75.00!
-The FNCD mechanics are repairing...
-The FNCD salespeople are selling...
-The FNCD has 5 buyers today...
-Buyer Han-14 wants a Performance (JustLooking)
-Buyer Han-14 decided not to buy.
-Buyer Chewy-14 wants a Monster (NeedsOne)
-Buyer Chewy-14 is buying! Salesperson Rachel gets a bonus of $2,000.00!
-ORIGINAL PRICE: 156152.0
-Buyer Chewy-14 bought Clean LikeNew Avenger Price: $156,152.00
-Buyer Luke-15 wants a Motorcyclce (JustLooking)
-Buyer Luke-15 decided not to buy.
-Buyer Leia-15 wants a Motorcyclce (WantsOne)
-Buyer Leia-15 is buying! Salesperson Phoebe gets a bonus of $50.00!
-ORIGINAL PRICE: 84798.75
-Buyer Leia-15 bought Clean LikeNew Scooter Price: $84,798.75
-Buyer Han-15 wants a Performance (NeedsOne)
-Buyer Han-15 is buying! Salesperson Phoebe gets a bonus of $1,000.00!
-ORIGINAL PRICE: 190568.84765625
-Buyer Han-15 bought Sparkling LikeNew Mustang With addon Road Rescue Coverage. With addon Satellite Radio. Price: $204,099.24
-No-one on the staff is leaving!
+The FNCD has 1 buyers today...
+Buyer Luke-11 wants a Electric (WantsOne)
+Buyer Luke-11 decided not to buy.

@@ -1,88 +1,27 @@
 The FNCD is opening...
-The FNCD interns are washing...
-The FNCD mechanics are repairing...
-Mechanic James got a bonus of $300.00!
-Mechanic James fixed Model X 100D Broken to Used
-Mechanic Scotty got a bonus of $300.00!
-Mechanic Scotty fixed Model X 100D Used to LikeNew
-The FNCD salespeople are selling...
-The FNCD has 1 buyers today...
-Buyer Luke-19 wants a Performance (WantsOne)
-Buyer Luke-19 is buying! Salesperson Phoebe gets a bonus of $1,000.00!
-ORIGINAL PRICE: 76357.5
-Buyer Luke-19 bought Clean LikeNew Mustang-2 With addon Satellite Radio. Price: $80,175.38
-No-one on the staff is leaving!
-Vehicles in inventory 24
-Vehicles sold count 39
-Money in the budget $2,823,135.48
-That's it for the day.
-The FNCD is opening...
+Hired a new Intern named Winthrob
 The FNCD interns are washing...
 Washing with elbow grease!
-The FNCD mechanics are repairing...
-The FNCD salespeople are selling...
-The FNCD has 5 buyers today...
-Buyer Han-18 wants a Electric (NeedsOne)
-Buyer Han-18 is buying! Salesperson Monica gets a bonus of $1,000.00!
-ORIGINAL PRICE: 933282.0
-Buyer Han-18 bought Clean LikeNew Model S P90D-2 With addon Road Rescue Coverage. With addon Satellite Radio. Price: $999,545.02
-Buyer Chewy-18 wants a Motorcyclce (WantsOne)
-Buyer Chewy-18 decided not to buy.
-Buyer Luke-19 wants a Motorcyclce (NeedsOne)
-Buyer Luke-19 decided not to buy.
-Buyer Leia-19 wants a Performance (WantsOne)
-Buyer Leia-19 is buying! Salesperson Rachel gets a bonus of $1,000.00!
-ORIGINAL PRICE: 88818.75
-Buyer Leia-19 bought Sparkling LikeNew Europa With addon Satellite Radio. Price: $93,259.69
-Buyer Han-19 wants a Monster (JustLooking)
-Buyer Han-19 is buying! Salesperson Rachel gets a bonus of $2,000.00!
-ORIGINAL PRICE: 127888.125
-Buyer Han-19 bought Clean LikeNew Avenger Price: $127,888.12
-No-one on the staff is leaving!
-Vehicles in inventory 23
-Vehicles sold count 37
-Money in the budget $4,116,061.36
-That's it for the day.
-The FNCD is opening...
-Bought Ghost Rider, a Dirty Used Monster for $48,685.60
-The FNCD interns are washing...
-Washing with chemical!
-Intern Ben got a bonus of $100.00!
-Washing with chemical!
-The FNCD mechanics are repairing...
-Mechanic James did not fix the Used Ghost Rider
-Mechanic Scotty did not fix the Used Ghost Rider
-Mechanic Spock got a bonus of $500.00!
-Mechanic Spock fixed Ghost Rider Used to LikeNew
-The FNCD salespeople are selling...
-The FNCD has 3 buyers today...
-Buyer Luke-19 wants a Electric (NeedsOne)
-Buyer Luke-19 is buying! Salesperson Monica gets a bonus of $1,000.00!
-ORIGINAL PRICE: 1337321.25
-Buyer Luke-19 bought Sparkling LikeNew Taycon Turbo S Price: $1,337,321.25
-Buyer Leia-19 wants a Performance (NeedsOne)
-Buyer Leia-19 is buying! Salesperson Monica gets a bonus of $1,000.00!
-ORIGINAL PRICE: 273297.65625
-Buyer Leia-19 bought Clean LikeNew Cayman-2 With addon Road Rescue Coverage. With addon Satellite Radio. Price: $292,701.79
-Buyer Han-19 wants a Car (NeedsOne)
-Buyer Han-19 is buying! Salesperson Rachel gets a bonus of $500.00!
-ORIGINAL PRICE: 38426.0
-Buyer Han-19 bought Clean LikeNew Escort-2 Price: $38,426.00
-No-one on the staff is leaving!
-Sorry, FNCD is closed on Sun
-The FNCD is opening...
-The FNCD interns are washing...
-Washing with chemical!
-Intern Lucas got a bonus of $350.00!
+Intern Jenn got a bonus of $20.00!
+Washing with elbow grease!
+Washing with elbow grease!
 The FNCD mechanics are repairing...
 Mechanic James got a bonus of $500.00!
-Mechanic James fixed Alien Invasion Broken to Used
-Mechanic Scotty got a bonus of $500.00!
-Mechanic Scotty fixed Alien Invasion Used to LikeNew
+Mechanic James fixed Black Pearl Broken to Used
+Mechanic Scotty did not fix the Used Black Pearl
+Mechanic Spock got a bonus of $500.00!
+Mechanic Spock fixed Black Pearl Used to LikeNew
 The FNCD salespeople are selling...
-The FNCD has 1 buyers today...
-Buyer Leia-21 wants a Pickup (NeedsOne)
-Buyer Leia-21 is buying! Salesperson Phoebe gets a bonus of $750.00!
-ORIGINAL PRICE: 57202.0
-Buyer Leia-21 bought Clean LikeNew Ranger-2 Price: $57,202.00
-No-one on the staff is leaving!
+The FNCD has 4 buyers today...
+Buyer Luke-14 wants a Car (JustLooking)
+Buyer Luke-14 decided not to buy.
+Buyer Leia-14 wants a Motorcyclce (NeedsOne)
+Buyer Leia-14 is buying! Salesperson Rachel gets a bonus of $50.00!
+Buyer Leia-14 bought Clean LikeNew Scrambler With addon Satellite Radio. Price: $258,848.79
+Buyer Han-14 wants a Motorcyclce (WantsOne)
+Buyer Han-14 is buying! Salesperson Rachel gets a bonus of $50.00!
+Buyer Han-14 bought Clean LikeNew Scrambler With addon Extended Warranty. With addon Satellite Radio. Price: $310,618.55
+Buyer Chewy-14 wants a Performance (NeedsOne)
+Buyer Chewy-14 is buying! Salesperson Rachel gets a bonus of $1,000.00!
+Buyer Chewy-14 bought Clean LikeNew Cayman-2 With addon Extended Warranty. With addon Satellite Radio. Price: $77,378.96
+Driver: Larisa has left FNCD.

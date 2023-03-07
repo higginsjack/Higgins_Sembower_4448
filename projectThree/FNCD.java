@@ -52,7 +52,7 @@ public class FNCD implements Subject {
         budget += cash;
     }
     void moneyOut(double cash) {   // I check for budget overruns on every payout
-        notifyObserver(observers.get(0), "budget"+(-cash));
+        // notifyObserver(observers.get(0), "budget"+(-cash));
         budget -= cash;
         // notifyObserver(observers.get(0), "b"+250000);
         if (budget<0) {
@@ -76,6 +76,7 @@ public class FNCD implements Subject {
         if(Logger.getday() == 30) {
             unregisterObserver(observers.get(0));
         }
+        observers.get(0).reportOut("");
         unregisterObserver(l);
     }
 
@@ -92,7 +93,9 @@ public class FNCD implements Subject {
         ArrayList<Staff> interns = Staff.getStaffByType(staff, Enums.StaffType.Intern);
         for (Staff s:interns) {
             Intern i = (Intern) s;
-            i.washVehicles(inventory);
+            double b = i.washVehicles(inventory, l);
+            observers.get(0).update("staff" + b);
+            moneyOut(b); //will take bonus money off of budget
         }
 
         // repairing - tell the mechanics to do their repairing
@@ -100,7 +103,9 @@ public class FNCD implements Subject {
         ArrayList<Staff> mechanics = Staff.getStaffByType(staff, Enums.StaffType.Mechanic);
         for (Staff s:mechanics) {
             Mechanic m = (Mechanic) s;
-            m.repairVehicles(inventory, l);
+            double b = m.repairVehicles(inventory, l);
+            observers.get(0).update("staff" + b);
+            moneyOut(b); //will take bonus money off of budget
         }
 
         // selling
@@ -112,9 +117,11 @@ public class FNCD implements Subject {
             notifyObserver(l, "Buyer "+b.name+" wants a "+b.preference+" ("+b.type+")");
             int randomSeller = Utility.rndFromRange(0,salespeople.size()-1);
             Salesperson seller = (Salesperson) salespeople.get(randomSeller);
-            Vehicle vSold = seller.sellVehicle(b, inventory,l);
+            Vehicle vSold = seller.sellVehicle(b, inventory, l);
             // What the FNCD needs to do if a car is sold - change budget and inventory
             if (vSold != null) {
+                moneyOut(vSold.sale_bonus);
+                observers.get(0).update("staff"+vSold.sale_bonus);
                 soldVehicles.add(vSold);
                 moneyIn(vSold.price);
                 inventory.removeIf ( n -> n.name == vSold.name);
@@ -127,8 +134,9 @@ public class FNCD implements Subject {
         // anyone quitting? replace with an intern (if not an intern)
         checkForQuitters();
         // daily report
-        reportOut();
+        // reportOut();
         notifyObserver(observers.get(0), "day");
+        observers.get(0).reportOut("");
         unregisterObserver(l);
         Logger.increaseDay();
         if(Logger.getday() == 30) {

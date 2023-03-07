@@ -7,7 +7,7 @@ public class Logger implements Observer{
     private static int day = 0;
 
     public void update(String msg) {
-        System.out.println(msg);
+        reportOut(msg);
         try {
             String filename = "Logger" + getday() + "n.txt";
             File myObj = new File(filename);
@@ -31,5 +31,8 @@ public class Logger implements Observer{
     }
     public static void increaseDay(){
         day++;
+    }
+    public void reportOut(String msg){
+        System.out.println(msg);
     }
 }

@@ -19,10 +19,12 @@ public class Tracker implements Observer{
         else{
             this.day++;
         }
-        if(this.day == 30) {
-            System.out.println();
-            System.out.println("DAY: " + this.day + " | Staff Money: " + Utility.asDollar(this.staffMoney) + " | Budget: " + Utility.asDollar(this.budget)); //hack, update
-        }
+        // if(this.day == 30) {
+        // }
         // throw new UnsupportedOperationException("Unimplemented method 'update'");
+    }
+    public void reportOut(String msg){
+        System.out.println();
+        System.out.println("Day: " + this.day + " | Staff Money Made: " + Utility.asDollar(this.staffMoney) + " | FNCD Money Made: " + Utility.asDollar(this.budget)); //hack, update
     }
 }

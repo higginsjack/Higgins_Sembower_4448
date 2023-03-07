@@ -73,29 +73,37 @@ class Intern extends Staff {
         return this.washingStrategy;
     }
     //use the interface to get print the strategy they were assigned to
-    void washVehicles(ArrayList<Vehicle> vList){
+    double washVehicles(ArrayList<Vehicle> vList, Logger l){
         int washCount = 0;
+        int bonusDay = 0;
         // Enums.Cleanliness startAs;
         for (Vehicle v:vList) {
             //wash the first dirty car I find 
             if (v.cleanliness == Enums.Cleanliness.Dirty){
-                out(this.washingStrategy.washingMethod());
+                l.update(this.washingStrategy.washingMethod());
                 if (this.washingStrategy.washingMethod() == "Washing with elbow grease!"){
                     v = this.getStrategy().check(v);
                     if(v.cleanliness == Enums.Cleanliness.Sparkling) {
                         bonusEarned += v.wash_bonus;
-                        out("intern bonus allthat");
+                        bonusDay += v.wash_bonus;
+                        l.update("Intern "+name+" got a bonus of "+Utility.asDollar(v.wash_bonus)+"!");
                     }
                 }
                 else if (this.washingStrategy.washingMethod() == "Washing with detailed!"){
                     v = this.getStrategy().check(v);
                     if(v.cleanliness == Enums.Cleanliness.Sparkling) {
                         bonusEarned += v.wash_bonus;
-                        out("intern bonus allthat");
+                        bonusDay += v.wash_bonus;
+                        l.update("Intern "+name+" got a bonus of "+Utility.asDollar(v.wash_bonus)+"!");
                     }
                 }
                 else {
-                    this.washingStrategy.check(v);
+                    v = this.getStrategy().check(v);
+                    if(v.cleanliness == Enums.Cleanliness.Sparkling) {
+                        bonusEarned += v.wash_bonus;
+                        bonusDay += v.wash_bonus;
+                        l.update("Intern "+name+" got a bonus of "+Utility.asDollar(v.wash_bonus)+"!");
+                    }
                 }
                 washCount+=1;
             }
@@ -103,39 +111,47 @@ class Intern extends Staff {
                 break;
             }
         }
-            // cleanliness might not get updated
-            if (washCount< 2){
-                out(this.washingStrategy.washingMethod());
-                for (Vehicle v:vList) {
-                    //wash the first clean car:
-                    if (v.cleanliness == Enums.Cleanliness.Clean){
-                        if (this.washingStrategy.washingMethod() == "Washing with elbow grease!"){
-                            v = this.getStrategy().check(v);
-                            if(v.cleanliness == Enums.Cleanliness.Sparkling) {
-                                bonusEarned += v.wash_bonus;
-                                out("intern bonus allthat");
-                            }
+        // cleanliness might not get updated - check before after of vehicles
+        if (washCount< 2){
+            out(this.washingStrategy.washingMethod());
+            for (Vehicle v:vList) {
+                //wash the first clean car:
+                if (v.cleanliness == Enums.Cleanliness.Clean){
+                    if (this.washingStrategy.washingMethod() == "Washing with elbow grease!"){
+                        v = this.getStrategy().check(v);
+                        if(v.cleanliness == Enums.Cleanliness.Sparkling) {
+                            bonusEarned += v.wash_bonus;
+                            bonusDay += v.wash_bonus;
+                            l.update("Intern "+name+" got a bonus of "+Utility.asDollar(v.wash_bonus)+"!");
                         }
-                        else if (this.washingStrategy.washingMethod() == "Washing with detailed!"){
-                            v = this.getStrategy().check(v);
-                            if(v.cleanliness == Enums.Cleanliness.Sparkling) {
-                                bonusEarned += v.wash_bonus;
-                                out("intern bonus allthat");
-                            }
-                            // out(this.washingStrategy.washingMethod());
-                        }
-                        else {
-                            this.washingStrategy.check(v);
-                            // out(this.washingStrategy.washingMethod());
-                        }
-                        washCount+=1;
-                        }
-                    if(washCount ==2) {
-                        break;
                     }
+                    else if (this.washingStrategy.washingMethod() == "Washing with detailed!"){
+                        v = this.getStrategy().check(v);
+                        if(v.cleanliness == Enums.Cleanliness.Sparkling) {
+                            bonusEarned += v.wash_bonus;
+                            bonusDay += v.wash_bonus;
+                            l.update("Intern "+name+" got a bonus of "+Utility.asDollar(v.wash_bonus)+"!");
+                        }
+                        // out(this.washingStrategy.washingMethod());
+                    }
+                    else {
+                        v = this.washingStrategy.check(v);
+                        if(v.cleanliness == Enums.Cleanliness.Sparkling) {
+                            bonusEarned += v.wash_bonus;
+                            bonusDay += v.wash_bonus;
+                            l.update("Intern "+name+" got a bonus of "+Utility.asDollar(v.wash_bonus)+"!");
+                        }
+                        // out(this.washingStrategy.washingMethod());
+                    }
+                    washCount+=1;
+                    }
+                if(washCount ==2) {
+                    return bonusDay;
                 }
             }
-        }    
+        }
+        return bonusDay;
+    }    
 }
 
 class Mechanic extends Staff {
@@ -149,8 +165,10 @@ class Mechanic extends Staff {
     }
 
     // how Mechanics repair Vehicles - not as complicated as the Wash thing above
-    void repairVehicles(ArrayList<Vehicle> vList, Logger l) {
+    // returns bonus to take off of budget
+    double repairVehicles(ArrayList<Vehicle> vList, Logger l) {
         int fixCount = 0;
+        double bonusDay = 0;
         Enums.Condition startAs;
         // I'm just grabbing the first Vehicle I find - would be easy to randomly pick one
         for (Vehicle v: vList) {
@@ -170,6 +188,7 @@ class Mechanic extends Staff {
                         v.price = v.price * 1.5;  // 50% increase for Broken to Used
                     }
                     bonusEarned += v.repair_bonus;
+                    bonusDay += v.repair_bonus;
                     l.update("Mechanic "+name+" got a bonus of "+Utility.asDollar(v.repair_bonus)+"!");
                     l.update("Mechanic "+name+" fixed "+v.name+" "+startAs+" to "+v.condition);
                 }
@@ -180,6 +199,7 @@ class Mechanic extends Staff {
             }
             if (fixCount==2) break;
         }
+        return bonusDay;
     }
 }
 

@@ -186,7 +186,7 @@ class Super extends Vehicle {
     static Namer namer = new Namer(names);
     Super() {
         super();
-        type = Enums.VehicleType.F1;
+        type = Enums.VehicleType.Super;
         name = namer.getNext();
         cost = getCost(80000, 90000);
         price = cost * 2;

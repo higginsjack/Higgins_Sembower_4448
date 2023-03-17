@@ -50,6 +50,7 @@ public class Simulator implements SysOut {
                 fncd2.ending(dayOfWeek);
                 System.out.println();
             }
+            Logger.increaseDay();
             out(">>> End Simulation Day "+day+" "+dayOfWeek+"\n");
             dayOfWeek = getNextDay(dayOfWeek);  // increment to the next day
         }

@@ -232,3 +232,63 @@ Intern: Ben has left FNCD North.
 Driver Brock raced. They placed 17. They got injured!
 Driver Jamar raced. They placed 8.
 Driver Larisa raced. They placed 7.
+The FNCD North is opening...
+Hired a new Intern named Winthrob
+Hired a new Intern named Samantha
+The FNCD South is opening...
+Hired a new Salesperson named Phoebe-2
+Hired a new Intern named Karen
+The FNCD North interns are washing...
+Washing with chemical!
+Washing with chemical!
+Washing with elbow grease!
+Washing with elbow grease!
+Washing with elbow grease!
+Washing with elbow grease!
+The FNCD South interns are washing...
+Washing with elbow grease!
+Washing with elbow grease!
+Washing with elbow grease!
+Washing with elbow grease!
+Washing with elbow grease!
+Washing with elbow grease!
+The FNCD North mechanics are repairing...
+Mechanic James got a bonus of $300.00!
+Mechanic James fixed Europa Broken to Used
+Mechanic James got a bonus of $300.00!
+Mechanic James fixed Corvette Used to LikeNew
+Mechanic Scotty did not fix the Used Europa
+Mechanic Scotty did not fix the Broken Ranger
+Mechanic Ben got a bonus of $300.00!
+Mechanic Ben fixed Europa Used to LikeNew
+Mechanic Ben got a bonus of $200.00!
+Mechanic Ben fixed Ranger Broken to Used
+The FNCD South mechanics are repairing...
+Mechanic Uhura got a bonus of $300.00!
+Mechanic Uhura fixed Taycon Turbo S-2 Broken to Used
+Mechanic Uhura got a bonus of $150.00!
+Mechanic Uhura fixed Scrambler Used to LikeNew
+Mechanic James-2 got a bonus of $300.00!
+Mechanic James-2 fixed Taycon Turbo S-2 Used to LikeNew
+Mechanic James-2 got a bonus of $150.00!
+Mechanic James-2 fixed Cruiser Broken to Used
+Mechanic Scotty-2 got a bonus of $150.00!
+Mechanic Scotty-2 fixed Cruiser Used to LikeNew
+Mechanic Scotty-2 did not fix the Broken Chopper-2
+The FNCD North salespeople are selling...
+The FNCD North has 2 buyers today...
+Buyer Leia-5 wants a Motorcyclce (NeedsOne)
+Buyer Leia-5 is buying! Salesperson Lucas gets a bonus of $50.00!
+Buyer Leia-5 bought Clean Used Scooter With addon Extended Warranty. Price: $180,983.04
+Buyer Han-5 wants a Motorcyclce (WantsOne)
+Buyer Han-5 decided not to buy.
+The FNCD South salespeople are selling...
+The FNCD South has 3 buyers today...
+Buyer Chewy-5 wants a Motorcyclce (NeedsOne)
+Buyer Chewy-5 decided not to buy.
+Buyer Luke-6 wants a Performance (NeedsOne)
+Buyer Luke-6 is buying! Salesperson Phoebe-2 gets a bonus of $1,000.00!
+Buyer Luke-6 bought Clean LikeNew Corvette-2 Price: $70,449.38
+Buyer Leia-6 wants a Motorcyclce (JustLooking)
+Buyer Leia-6 is buying! Salesperson Ross gets a bonus of $50.00!
+Buyer Leia-6 bought Dirty LikeNew Scrambler With addon Satellite Radio. Price: $194,132.40

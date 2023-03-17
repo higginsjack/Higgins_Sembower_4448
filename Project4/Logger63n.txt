@@ -1,0 +1,147 @@
+The FNCD North is opening...
+Hired a new Driver named Jamar-2
+Hired a new Driver named Larisa-2
+The FNCD South is opening...
+Hired a new Driver named Johnny-2
+Hired a new Intern named Ben-2
+Bought Probe-4, a Sparkling LikeNew Car for $14,016.00
+The FNCD North interns are washing...
+Washing with chemical!
+Washing with chemical!
+Washing with chemical!
+Washing with chemical!
+Intern Ben got a bonus of $20.00!
+The FNCD South interns are washing...
+Washing with elbow grease!
+Washing with elbow grease!
+Washing with elbow grease!
+Washing with elbow grease!
+Washing with elbow grease!
+Intern Ben-2 got a bonus of $350.00!
+The FNCD North mechanics are repairing...
+Mechanic James did not fix the Broken Escort
+Mechanic James got a bonus of $150.00!
+Mechanic James fixed Chopper Broken to Used
+Mechanic Scotty got a bonus of $100.00!
+Mechanic Scotty fixed Escort Broken to Used
+Mechanic Scotty did not fix the Used Chopper
+Mechanic Samantha got a bonus of $100.00!
+Mechanic Samantha fixed Escort Used to LikeNew
+Mechanic Samantha got a bonus of $150.00!
+Mechanic Samantha fixed Chopper Used to LikeNew
+The FNCD South mechanics are repairing...
+Mechanic Uhura got a bonus of $200.00!
+Mechanic Uhura fixed Ranger-4 Used to LikeNew
+The FNCD North salespeople are selling...
+The FNCD North has 7 buyers today...
+Buyer Han-27 wants a Electric (WantsOne)
+Buyer Han-27 decided not to buy.
+Buyer Chewy-27 wants a Electric (WantsOne)
+Buyer Chewy-27 is buying! Salesperson Ben gets a bonus of $1,000.00!
+Buyer Chewy-27 bought Clean LikeNew Cybertruck Price: $837,098.00
+Buyer Luke-28 wants a Car (JustLooking)
+Buyer Luke-28 is buying! Salesperson Rachel gets a bonus of $500.00!
+Buyer Luke-28 bought Dirty LikeNew Escort With addon Satellite Radio. Price: $57,377.25
+Buyer Leia-28 wants a Performance (NeedsOne)
+Buyer Leia-28 decided not to buy.
+Buyer Han-28 wants a Performance (WantsOne)
+Buyer Han-28 is buying! Salesperson Ben gets a bonus of $1,000.00!
+Buyer Han-28 bought Clean LikeNew Corvette-3 Price: $56,830.00
+Buyer Chewy-28 wants a Performance (NeedsOne)
+Buyer Chewy-28 is buying! Salesperson Rachel gets a bonus of $1,000.00!
+Buyer Chewy-28 bought Clean LikeNew Europa-5 With addon Undercoating. Price: $59,423.70
+Buyer Luke-29 wants a Car (NeedsOne)
+Buyer Luke-29 decided not to buy.
+The FNCD South salespeople are selling...
+The FNCD South has 7 buyers today...
+Buyer Leia-29 wants a Pickup (NeedsOne)
+Buyer Leia-29 is buying! Salesperson Monica-2 gets a bonus of $750.00!
+Buyer Leia-29 bought Dirty LikeNew Ranger-4 With addon Undercoating. With addon Road Rescue Coverage. With addon Satellite Radio. Price: $103,963.24
+Buyer Han-29 wants a Motorcyclce (NeedsOne)
+Buyer Han-29 is buying! Salesperson Joey gets a bonus of $50.00!
+Buyer Han-29 bought Clean LikeNew Chopper-3 With addon Satellite Radio. Price: $146,804.70
+Buyer Chewy-29 wants a Motorcyclce (JustLooking)
+Buyer Chewy-29 decided not to buy.
+Buyer Luke-30 wants a Pickup (WantsOne)
+Buyer Luke-30 is buying! Salesperson Monica-2 gets a bonus of $750.00!
+Buyer Luke-30 bought Dirty LikeNew Ranger-4 Price: $92,448.75
+Buyer Leia-30 wants a Monster (JustLooking)
+Buyer Leia-30 is buying! Salesperson Monica-2 gets a bonus of $2,000.00!
+Buyer Leia-30 bought Sparkling LikeNew Ghost Rider With addon Satellite Radio. Price: $196,102.27
+Buyer Han-30 wants a Performance (JustLooking)
+Buyer Han-30 decided not to buy.
+Buyer Chewy-30 wants a Monster (WantsOne)
+Buyer Chewy-30 is buying! Salesperson Joey gets a bonus of $2,000.00!
+Buyer Chewy-30 bought Sparkling LikeNew Ghost Rider Price: $186,764.06
+The FNCD North is opening...
+Bought Europa-4, a Dirty Used Performance for $17,986.40
+Bought Fiesta-3, a Dirty Used Car for $11,025.60
+The FNCD South is opening...
+Bought Probe-4, a Clean Broken Car for $8,923.50
+Bought Alien Invasion-3, a Dirty Used Monster for $44,802.40
+Bought Avenger-3, a Clean Used Monster for $52,060.80
+The FNCD North interns are washing...
+Washing with elbow grease!
+Washing with elbow grease!
+Washing with chemical!
+Washing with chemical!
+Washing with elbow grease!
+The FNCD South interns are washing...
+Washing with chemical!
+Washing with chemical!
+Washing with elbow grease!
+Washing with elbow grease!
+Washing with elbow grease!
+Intern Charles got a bonus of $20.00!
+The FNCD North mechanics are repairing...
+Mechanic James got a bonus of $300.00!
+Mechanic James fixed Europa-4 Used to LikeNew
+Mechanic James did not fix the Used Fiesta-3
+Mechanic Scotty did not fix the Used Fiesta-3
+Mechanic Spock got a bonus of $100.00!
+Mechanic Spock fixed Fiesta-3 Used to LikeNew
+The FNCD South mechanics are repairing...
+Mechanic Uhura did not fix the Broken Probe-4
+Mechanic Uhura got a bonus of $500.00!
+Mechanic Uhura fixed Alien Invasion-3 Used to LikeNew
+Mechanic James-2 got a bonus of $100.00!
+Mechanic James-2 fixed Probe-4 Broken to Used
+Mechanic James-2 got a bonus of $500.00!
+Mechanic James-2 fixed Avenger-3 Used to LikeNew
+Mechanic Scotty-2 got a bonus of $100.00!
+Mechanic Scotty-2 fixed Probe-4 Used to LikeNew
+The FNCD North salespeople are selling...
+The FNCD North has 6 buyers today...
+Buyer Luke-32 wants a Monster (NeedsOne)
+Buyer Luke-32 is buying! Salesperson Rachel gets a bonus of $2,000.00!
+Buyer Luke-32 bought Clean LikeNew Alien Invasion With addon Extended Warranty. Price: $311,926.50
+Buyer Leia-32 wants a Car (WantsOne)
+Buyer Leia-32 decided not to buy.
+Buyer Han-32 wants a Pickup (JustLooking)
+Buyer Han-32 is buying! Salesperson Phoebe gets a bonus of $750.00!
+Buyer Han-32 bought Clean LikeNew F-250 Price: $73,770.12
+Buyer Chewy-32 wants a Performance (WantsOne)
+Buyer Chewy-32 decided not to buy.
+Buyer Luke-33 wants a Motorcyclce (JustLooking)
+Buyer Luke-33 is buying! Salesperson Monica gets a bonus of $50.00!
+Buyer Luke-33 bought Clean LikeNew Chopper With addon Undercoating. Price: $182,953.48
+Buyer Leia-33 wants a Pickup (WantsOne)
+Buyer Leia-33 decided not to buy.
+The FNCD South salespeople are selling...
+The FNCD South has 6 buyers today...
+Buyer Han-33 wants a Motorcyclce (WantsOne)
+Buyer Han-33 decided not to buy.
+Buyer Chewy-33 wants a Monster (WantsOne)
+Buyer Chewy-33 is buying! Salesperson Rachel-2 gets a bonus of $2,000.00!
+Buyer Chewy-33 bought Dirty LikeNew Avenger-3 With addon Undercoating. With addon Satellite Radio. Price: $143,492.58
+Buyer Luke-34 wants a Electric (NeedsOne)
+Buyer Luke-34 is buying! Salesperson Ross gets a bonus of $1,000.00!
+Buyer Luke-34 bought Clean LikeNew Taycon Turbo S-2 With addon Satellite Radio. Price: $769,838.34
+Buyer Leia-34 wants a Pickup (JustLooking)
+Buyer Leia-34 decided not to buy.
+Buyer Han-34 wants a Performance (NeedsOne)
+Buyer Han-34 is buying! Salesperson Rachel-2 gets a bonus of $1,000.00!
+Buyer Han-34 bought Sparkling LikeNew Corvette-3 Price: $67,878.00
+Buyer Chewy-34 wants a Motorcyclce (JustLooking)
+Buyer Chewy-34 is buying! Salesperson Rachel-2 gets a bonus of $50.00!
+Buyer Chewy-34 bought Clean LikeNew Cruiser-2 Price: $297,787.50

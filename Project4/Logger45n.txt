@@ -1,0 +1,63 @@
+The FNCD North is opening...
+The FNCD South is opening...
+Bought Corvette-4, a Dirty Used Performance for $26,262.40
+Bought Taurus-3, a Sparkling LikeNew Car for $15,935.00
+Bought Ranger-4, a Dirty LikeNew Pickup for $24,653.00
+Bought F-250-4, a Dirty Broken Pickup for $18,865.50
+Bought Bolt-3, a Clean LikeNew Electric for $482,322.00
+Bought Chopper-3, a Dirty LikeNew Motorcyclce for $69,907.00
+The FNCD North interns are washing...
+Washing with elbow grease!
+Washing with elbow grease!
+Washing with elbow grease!
+Washing with elbow grease!
+Washing with chemical!
+Washing with chemical!
+The FNCD South interns are washing...
+Washing with elbow grease!
+Washing with elbow grease!
+Washing with elbow grease!
+Washing with elbow grease!
+Washing with elbow grease!
+Washing with elbow grease!
+The FNCD North mechanics are repairing...
+Mechanic James got a bonus of $150.00!
+Mechanic James fixed Touring-2 Broken to Used
+Mechanic Scotty did not fix the Used Touring-2
+Mechanic Spock got a bonus of $150.00!
+Mechanic Spock fixed Touring-2 Used to LikeNew
+The FNCD South mechanics are repairing...
+Mechanic Uhura got a bonus of $300.00!
+Mechanic Uhura fixed Corvette-4 Used to LikeNew
+Mechanic Uhura got a bonus of $200.00!
+Mechanic Uhura fixed F-250-4 Broken to Used
+Mechanic Scotty-2 got a bonus of $200.00!
+Mechanic Scotty-2 fixed F-250-4 Used to LikeNew
+The FNCD North salespeople are selling...
+The FNCD North has 5 buyers today...
+Buyer Han-22 wants a Car (NeedsOne)
+Buyer Han-22 is buying! Salesperson Monica gets a bonus of $500.00!
+Buyer Han-22 bought Clean LikeNew Probe-3 Price: $37,968.00
+Buyer Chewy-22 wants a Motorcyclce (NeedsOne)
+Buyer Chewy-22 is buying! Salesperson Monica gets a bonus of $50.00!
+Buyer Chewy-22 bought Dirty LikeNew Touring-2 With addon Satellite Radio. Price: $264,485.81
+Buyer Luke-23 wants a Performance (NeedsOne)
+Buyer Luke-23 is buying! Salesperson Rachel gets a bonus of $1,000.00!
+Buyer Luke-23 bought Clean LikeNew Corvette Price: $98,932.50
+Buyer Leia-23 wants a Performance (JustLooking)
+Buyer Leia-23 decided not to buy.
+Buyer Han-23 wants a Motorcyclce (JustLooking)
+Buyer Han-23 decided not to buy.
+The FNCD South salespeople are selling...
+The FNCD South has 3 buyers today...
+Buyer Chewy-23 wants a Monster (NeedsOne)
+Buyer Chewy-23 decided not to buy.
+Buyer Luke-24 wants a Monster (JustLooking)
+Buyer Luke-24 decided not to buy.
+Buyer Leia-24 wants a Car (NeedsOne)
+Buyer Leia-24 decided not to buy.
+Salesperson: Monica has left FNCD North.
+Intern: Ben has been promoted to mechanic
+Driver Jamar-2 raced. They placed 6.
+Driver Larisa-2 raced. They placed 14.
+Driver Johnny-2 raced. They placed 11.

@@ -280,3 +280,60 @@ Intern: Lucas has been promoted to mechanic
 Driver Jamar raced. They placed 5.
 Driver Larisa raced. They placed 19. They were not injured
 Driver Greg raced. They placed 14.
+The FNCD North is opening...
+Hired a new Intern named Axel
+Bought Probe-3, a Clean Used Car for $11,646.40
+Bought Roadster-2, a Clean Used Motorcyclce for $26,171.20
+The FNCD South is opening...
+The FNCD North interns are washing...
+Washing with chemical!
+Intern Lucy got a bonus of $100.00!
+Washing with chemical!
+Washing with elbow grease!
+Washing with elbow grease!
+Washing with elbow grease!
+Washing with elbow grease!
+The FNCD South interns are washing...
+Washing with elbow grease!
+Washing with elbow grease!
+Washing with elbow grease!
+Washing with elbow grease!
+Washing with elbow grease!
+Washing with elbow grease!
+The FNCD North mechanics are repairing...
+Mechanic James got a bonus of $200.00!
+Mechanic James fixed F-250 Broken to Used
+Mechanic James got a bonus of $150.00!
+Mechanic James fixed Chopper Used to LikeNew
+Mechanic Scotty did not fix the Used F-250
+Mechanic Scotty did not fix the Broken Roadster
+Mechanic Ben got a bonus of $200.00!
+Mechanic Ben fixed F-250 Used to LikeNew
+Mechanic Ben got a bonus of $150.00!
+Mechanic Ben fixed Roadster Broken to Used
+The FNCD South mechanics are repairing...
+Mechanic Uhura got a bonus of $500.00!
+Mechanic Uhura fixed Ghost Rider Broken to Used
+Mechanic Uhura got a bonus of $500.00!
+Mechanic Uhura fixed Avenger-2 Broken to Used
+Mechanic James-2 got a bonus of $500.00!
+Mechanic James-2 fixed Ghost Rider Used to LikeNew
+Mechanic James-2 got a bonus of $500.00!
+Mechanic James-2 fixed Avenger-2 Used to LikeNew
+Mechanic Scotty-2 got a bonus of $300.00!
+Mechanic Scotty-2 fixed Europa-3 Broken to Used
+The FNCD North salespeople are selling...
+The FNCD North has 2 buyers today...
+Buyer Han-8 wants a Monster (WantsOne)
+Buyer Han-8 is buying! Salesperson Phoebe gets a bonus of $2,000.00!
+Buyer Han-8 bought Clean LikeNew Blue Thunder With addon Extended Warranty. Price: $163,903.20
+Buyer Chewy-8 wants a Monster (WantsOne)
+Buyer Chewy-8 is buying! Salesperson Monica gets a bonus of $2,000.00!
+Buyer Chewy-8 bought Clean LikeNew Blue Thunder Price: $136,586.00
+The FNCD South salespeople are selling...
+The FNCD South has 2 buyers today...
+Buyer Luke-9 wants a Motorcyclce (NeedsOne)
+Buyer Luke-9 is buying! Salesperson Joey gets a bonus of $50.00!
+Buyer Luke-9 bought Clean LikeNew Scrambler Price: $184,888.00
+Buyer Leia-9 wants a Motorcyclce (NeedsOne)
+Buyer Leia-9 decided not to buy.

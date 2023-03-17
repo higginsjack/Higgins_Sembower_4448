@@ -190,3 +190,5 @@ Driver Justin raced. They placed 2 and won! This is win #1They received bonus of
 Driver Johnny raced. They placed 11.
 Driver Bella raced. They placed 1 and won! This is win #1They received bonus of $2000.00
 Driver Justin raced. They placed 2 and won! This is win #1They received bonus of $2000.00
+Mecahnic: Scotty-2 has left FNCD South.
+Intern: Karen has been promoted to mechanic

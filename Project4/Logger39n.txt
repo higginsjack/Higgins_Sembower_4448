@@ -1,0 +1,129 @@
+The FNCD North is opening...
+The FNCD South is opening...
+Bought Tundra-3, a Dirty LikeNew Pickup for $27,290.00
+Bought Taycon Turbo S-3, a Dirty Used Electric for $278,075.20
+The FNCD North interns are washing...
+Washing with elbow grease!
+Washing with elbow grease!
+Washing with elbow grease!
+Washing with chemical!
+Washing with chemical!
+The FNCD South interns are washing...
+Washing with elbow grease!
+Washing with elbow grease!
+Washing with elbow grease!
+Washing with elbow grease!
+Washing with elbow grease!
+Washing with elbow grease!
+The FNCD North mechanics are repairing...
+Mechanic James got a bonus of $500.00!
+Mechanic James fixed Bad Company-2 Broken to Used
+Mechanic Scotty got a bonus of $500.00!
+Mechanic Scotty fixed Bad Company-2 Used to LikeNew
+The FNCD South mechanics are repairing...
+Mechanic Uhura got a bonus of $200.00!
+Mechanic Uhura fixed F-250-2 Broken to Used
+Mechanic Uhura did not fix the Used Taycon Turbo S-3
+Mechanic Scotty-2 got a bonus of $200.00!
+Mechanic Scotty-2 fixed F-250-2 Used to LikeNew
+Mechanic Scotty-2 did not fix the Used Taycon Turbo S-3
+Mechanic Jack got a bonus of $300.00!
+Mechanic Jack fixed Taycon Turbo S-3 Used to LikeNew
+The FNCD North salespeople are selling...
+The FNCD North has 5 buyers today...
+Buyer Chewy-17 wants a Motorcyclce (WantsOne)
+Buyer Chewy-17 decided not to buy.
+Buyer Luke-18 wants a Performance (JustLooking)
+Buyer Luke-18 decided not to buy.
+Buyer Leia-18 wants a Pickup (WantsOne)
+Buyer Leia-18 decided not to buy.
+Buyer Han-18 wants a Car (WantsOne)
+Buyer Han-18 decided not to buy.
+Buyer Chewy-18 wants a Motorcyclce (NeedsOne)
+Buyer Chewy-18 is buying! Salesperson Rachel gets a bonus of $50.00!
+Buyer Chewy-18 bought Clean LikeNew Touring Price: $122,383.12
+The FNCD South salespeople are selling...
+The FNCD South has 4 buyers today...
+Buyer Luke-19 wants a Electric (NeedsOne)
+Buyer Luke-19 is buying! Salesperson Joey gets a bonus of $1,000.00!
+Buyer Luke-19 bought Clean LikeNew Model X 100D Price: $803,626.88
+Buyer Leia-19 wants a Performance (NeedsOne)
+Buyer Leia-19 is buying! Salesperson Monica-2 gets a bonus of $1,000.00!
+Buyer Leia-19 bought Clean LikeNew Cayman-4 With addon Extended Warranty. Price: $75,460.80
+Buyer Han-19 wants a Motorcyclce (NeedsOne)
+Buyer Han-19 is buying! Salesperson Monica-2 gets a bonus of $50.00!
+Buyer Han-19 bought Clean LikeNew Scrambler Price: $372,858.75
+Buyer Chewy-19 wants a Motorcyclce (JustLooking)
+Buyer Chewy-19 is buying! Salesperson Chandler gets a bonus of $50.00!
+Buyer Chewy-19 bought Clean LikeNew Chopper-2 Price: $111,214.00
+Driver: Brock has left FNCD North.
+The FNCD North is opening...
+Hired a new Driver named Johnny-2
+Hired a new Intern named Karen
+Bought Model X 100D-3, a Clean Used Electric for $320,732.00
+The FNCD South is opening...
+Bought Ghost Rider-2, a Dirty Broken Monster for $34,472.00
+The FNCD North interns are washing...
+Washing with elbow grease!
+Washing with elbow grease!
+Washing with elbow grease!
+Washing with elbow grease!
+Washing with chemical!
+Intern Karen got a bonus of $100.00!
+The FNCD South interns are washing...
+Washing with elbow grease!
+Washing with elbow grease!
+Washing with chemical!
+Washing with chemical!
+Washing with chemical!
+The FNCD North mechanics are repairing...
+Mechanic James got a bonus of $200.00!
+Mechanic James fixed Tundra Used to LikeNew
+Mechanic James got a bonus of $300.00!
+Mechanic James fixed Model X 100D-3 Used to LikeNew
+The FNCD South mechanics are repairing...
+Mechanic Uhura got a bonus of $300.00!
+Mechanic Uhura fixed Cayman-2 Broken to Used
+Mechanic Uhura got a bonus of $500.00!
+Mechanic Uhura fixed Ghost Rider-2 Broken to Used
+Mechanic James-2 got a bonus of $300.00!
+Mechanic James-2 fixed Cayman-2 Used to LikeNew
+Mechanic James-2 got a bonus of $500.00!
+Mechanic James-2 fixed Ghost Rider-2 Used to LikeNew
+The FNCD North salespeople are selling...
+The FNCD North has 8 buyers today...
+Buyer Chewy-18 wants a Performance (NeedsOne)
+Buyer Chewy-18 is buying! Salesperson Monica gets a bonus of $1,000.00!
+Buyer Chewy-18 bought Clean LikeNew Mustang With addon Undercoating. Price: $111,250.12
+Buyer Luke-19 wants a Monster (WantsOne)
+Buyer Luke-19 decided not to buy.
+Buyer Leia-19 wants a Monster (WantsOne)
+Buyer Leia-19 decided not to buy.
+Buyer Han-19 wants a Performance (WantsOne)
+Buyer Han-19 is buying! Salesperson Phoebe gets a bonus of $1,000.00!
+Buyer Han-19 bought Clean LikeNew Mustang With addon Extended Warranty. Price: $127,143.00
+Buyer Chewy-19 wants a Pickup (WantsOne)
+Buyer Chewy-19 is buying! Salesperson Monica gets a bonus of $750.00!
+Buyer Chewy-19 bought Dirty LikeNew Tundra Price: $171,478.12
+Buyer Luke-20 wants a Motorcyclce (JustLooking)
+Buyer Luke-20 decided not to buy.
+Buyer Leia-20 wants a Electric (JustLooking)
+Buyer Leia-20 decided not to buy.
+Buyer Han-20 wants a Car (JustLooking)
+Buyer Han-20 decided not to buy.
+The FNCD South salespeople are selling...
+The FNCD South has 5 buyers today...
+Buyer Chewy-20 wants a Performance (NeedsOne)
+Buyer Chewy-20 is buying! Salesperson Joey gets a bonus of $1,000.00!
+Buyer Chewy-20 bought Dirty LikeNew Cayman-2 Price: $84,798.75
+Buyer Luke-21 wants a Pickup (NeedsOne)
+Buyer Luke-21 is buying! Salesperson Chandler gets a bonus of $750.00!
+Buyer Luke-21 bought Clean LikeNew F-250-2 With addon Undercoating. Price: $80,112.90
+Buyer Leia-21 wants a Performance (WantsOne)
+Buyer Leia-21 is buying! Salesperson Ross gets a bonus of $1,000.00!
+Buyer Leia-21 bought Clean LikeNew Mustang-2 Price: $76,100.00
+Buyer Han-21 wants a Electric (WantsOne)
+Buyer Han-21 is buying! Salesperson Ross gets a bonus of $1,000.00!
+Buyer Han-21 bought Clean LikeNew Taycon Turbo S-2 With addon Satellite Radio. Price: $769,838.34
+Buyer Chewy-21 wants a Car (WantsOne)
+Buyer Chewy-21 decided not to buy.

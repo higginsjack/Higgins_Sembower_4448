@@ -1,0 +1,5 @@
+Salesperson: Monica-2 has left FNCD South.
+Intern: Ben-2 has been promoted to mechanic
+Driver Johnny raced. They placed 7.
+Driver Bella raced. They placed 12.
+Driver Brock-2 raced. They placed 16. They got injured!

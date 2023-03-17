@@ -146,3 +146,9 @@ Driver Jamar raced. They placed 17. They were not injured
 Driver Johnny raced. They placed 15. They got injured!
 Salesperson: Joey has left FNCD South.
 Intern: Joey has been promoted to mechanic
+Driver Johnny raced. They placed 9.
+Driver Bella raced. They placed 15. They were not injured
+Driver Olivia raced. They placed 10.
+Driver Johnny raced. They placed 5.
+Driver Bella raced. They placed 11.
+Driver Brock-2 raced. They placed 9.

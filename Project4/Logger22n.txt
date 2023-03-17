@@ -206,3 +206,61 @@ Buyer Chewy-18 decided not to buy.
 Driver Jamar raced. They placed 14.
 Driver Larisa raced. They placed 7.
 Driver Greg raced. They placed 12.
+The FNCD North is opening...
+The FNCD South is opening...
+The FNCD North interns are washing...
+Washing with chemical!
+Washing with chemical!
+Washing with elbow grease!
+Washing with elbow grease!
+Washing with elbow grease!
+Washing with elbow grease!
+The FNCD South interns are washing...
+Washing with elbow grease!
+Intern Jenn got a bonus of $100.00!
+Intern Jenn got a bonus of $100.00!
+Washing with elbow grease!
+Washing with elbow grease!
+The FNCD North mechanics are repairing...
+Mechanic James got a bonus of $500.00!
+Mechanic James fixed Blue Thunder-2 Broken to Used
+Mechanic James did not fix the Used F-250-3
+Mechanic Scotty did not fix the Used Blue Thunder-2
+Mechanic Scotty got a bonus of $200.00!
+Mechanic Scotty fixed F-250-3 Used to LikeNew
+Mechanic Ben got a bonus of $500.00!
+Mechanic Ben fixed Blue Thunder-2 Used to LikeNew
+The FNCD South mechanics are repairing...
+The FNCD North salespeople are selling...
+The FNCD North has 6 buyers today...
+Buyer Luke-11 wants a Car (WantsOne)
+Buyer Luke-11 decided not to buy.
+Buyer Leia-11 wants a Performance (WantsOne)
+Buyer Leia-11 decided not to buy.
+Buyer Han-11 wants a Monster (NeedsOne)
+Buyer Han-11 is buying! Salesperson Lucas gets a bonus of $2,000.00!
+Buyer Han-11 bought Clean LikeNew Bad Company-2 With addon Satellite Radio. Price: $116,551.97
+Buyer Chewy-11 wants a Performance (NeedsOne)
+Buyer Chewy-11 is buying! Salesperson Phoebe gets a bonus of $1,000.00!
+Buyer Chewy-11 bought Sparkling LikeNew Corvette Price: $119,580.00
+Buyer Luke-12 wants a Monster (WantsOne)
+Buyer Luke-12 is buying! Salesperson Lucas gets a bonus of $2,000.00!
+Buyer Luke-12 bought Clean LikeNew Bad Company-2 Price: $111,001.88
+Buyer Leia-12 wants a Pickup (JustLooking)
+Buyer Leia-12 decided not to buy.
+The FNCD South salespeople are selling...
+The FNCD South has 5 buyers today...
+Buyer Han-12 wants a Monster (WantsOne)
+Buyer Han-12 is buying! Salesperson Ross gets a bonus of $2,000.00!
+Buyer Han-12 bought Clean LikeNew Ghost Rider With addon Extended Warranty. With addon Satellite Radio. Price: $302,381.10
+Buyer Chewy-12 wants a Performance (JustLooking)
+Buyer Chewy-12 decided not to buy.
+Buyer Luke-13 wants a Performance (JustLooking)
+Buyer Luke-13 decided not to buy.
+Buyer Leia-13 wants a Car (NeedsOne)
+Buyer Leia-13 is buying! Salesperson Joey gets a bonus of $500.00!
+Buyer Leia-13 bought Clean LikeNew Taurus-2 With addon Undercoating. With addon Satellite Radio. Price: $37,901.88
+Buyer Han-13 wants a Car (JustLooking)
+Buyer Han-13 decided not to buy.
+Mecahnic: Scotty has left FNCD North.
+Intern: Winthrob has been promoted to mechanic

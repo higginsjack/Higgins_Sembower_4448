@@ -105,3 +105,6 @@ Intern: Jenn has been promoted to mechanic
 Driver Johnny raced. They placed 9.
 Driver Olivia raced. They placed 2 and won! This is win #2They received bonus of $2000.00
 Driver Greg raced. They placed 6.
+Driver Johnny raced. They placed 11.
+Driver Bella raced. They placed 1 and won! This is win #1They received bonus of $2000.00
+Driver Olivia raced. They placed 4.

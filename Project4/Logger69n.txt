@@ -1,0 +1,52 @@
+Driver Greg raced. They placed 12.
+Driver Jamar-2 raced. They placed 15. They got injured!
+Driver Larisa-2 raced. They placed 16. They were not injured
+The FNCD North is opening...
+Bought Colorado-3, a Clean LikeNew Pickup for $18,842.00
+The FNCD South is opening...
+Bought Cayman-4, a Dirty Used Performance for $25,276.80
+Bought Chopper-3, a Dirty LikeNew Motorcyclce for $61,102.00
+The FNCD North interns are washing...
+Washing with elbow grease!
+Washing with elbow grease!
+Washing with chemical!
+Washing with chemical!
+Washing with elbow grease!
+Washing with elbow grease!
+The FNCD South interns are washing...
+Washing with chemical!
+Washing with chemical!
+Washing with elbow grease!
+Washing with elbow grease!
+Washing with elbow grease!
+Washing with elbow grease!
+The FNCD North mechanics are repairing...
+Mechanic James got a bonus of $150.00!
+Mechanic James fixed Chopper Broken to Used
+Mechanic Scotty got a bonus of $150.00!
+Mechanic Scotty fixed Chopper Used to LikeNew
+The FNCD South mechanics are repairing...
+Mechanic Uhura got a bonus of $300.00!
+Mechanic Uhura fixed Cayman-3 Broken to Used
+Mechanic Uhura got a bonus of $300.00!
+Mechanic Uhura fixed Cayman-4 Used to LikeNew
+Mechanic James-2 got a bonus of $300.00!
+Mechanic James-2 fixed Cayman-3 Used to LikeNew
+The FNCD North salespeople are selling...
+The FNCD North has 4 buyers today...
+Buyer Luke-35 wants a Pickup (JustLooking)
+Buyer Luke-35 decided not to buy.
+Buyer Leia-35 wants a Pickup (JustLooking)
+Buyer Leia-35 decided not to buy.
+Buyer Han-35 wants a Pickup (NeedsOne)
+Buyer Han-35 decided not to buy.
+Buyer Chewy-35 wants a Pickup (NeedsOne)
+Buyer Chewy-35 is buying! Salesperson Phoebe gets a bonus of $750.00!
+Buyer Chewy-35 bought Clean LikeNew Colorado-3 With addon Road Rescue Coverage. With addon Satellite Radio. Price: $40,359.56
+The FNCD South salespeople are selling...
+The FNCD South has 2 buyers today...
+Buyer Luke-36 wants a Performance (WantsOne)
+Buyer Luke-36 decided not to buy.
+Buyer Leia-36 wants a Car (WantsOne)
+Buyer Leia-36 is buying! Salesperson Ross gets a bonus of $500.00!
+Buyer Leia-36 bought Clean LikeNew Probe-4 With addon Satellite Radio. Price: $35,136.28

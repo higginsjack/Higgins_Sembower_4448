@@ -53,6 +53,13 @@ public class Client {
                     System.out.println("h: Get commands list");
                     break;
                 case "1":
+                    if(fncd == fncds[0]) {
+                        fncd= fncds[1];
+                    }
+                    else{
+                        fncd=fncds[0];
+                    }
+                    System.out.println("Switched FNCDS");
                     break;
                 case "2":
                     Command askNameCom = new askNameCommand(fncd);

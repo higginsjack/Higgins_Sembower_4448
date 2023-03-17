@@ -399,3 +399,42 @@ Buyer Chewy-14 wants a Motorcyclce (WantsOne)
 Buyer Chewy-14 is buying! Salesperson Chandler gets a bonus of $50.00!
 Buyer Chewy-14 bought Clean LikeNew Scooter-2 Price: $170,202.00
 Intern: Winthrob has left FNCD North.
+The FNCD North is opening...
+Bought F-250-3, a Dirty Used Pickup for $19,149.60
+The FNCD South is opening...
+The FNCD North interns are washing...
+Washing with chemical!
+Washing with chemical!
+Washing with elbow grease!
+Washing with elbow grease!
+Washing with elbow grease!
+Intern Axel got a bonus of $100.00!
+The FNCD South interns are washing...
+Washing with elbow grease!
+Washing with elbow grease!
+Washing with elbow grease!
+Intern Karen got a bonus of $100.00!
+Washing with elbow grease!
+The FNCD North mechanics are repairing...
+Mechanic James got a bonus of $200.00!
+Mechanic James fixed Ranger-3 Used to LikeNew
+Mechanic James got a bonus of $300.00!
+Mechanic James fixed Bolt-2 Used to LikeNew
+Mechanic Scotty got a bonus of $500.00!
+Mechanic Scotty fixed Bad Company-2 Broken to Used
+Mechanic Scotty got a bonus of $100.00!
+Mechanic Scotty fixed Probe-3 Used to LikeNew
+Mechanic Ben got a bonus of $500.00!
+Mechanic Ben fixed Bad Company-2 Used to LikeNew
+Mechanic Ben got a bonus of $150.00!
+Mechanic Ben fixed Roadster-2 Used to LikeNew
+The FNCD South mechanics are repairing...
+The FNCD North salespeople are selling...
+The FNCD North has 0 buyers today...
+The FNCD South salespeople are selling...
+The FNCD South has 2 buyers today...
+Buyer Han-10 wants a Car (WantsOne)
+Buyer Han-10 is buying! Salesperson Ross gets a bonus of $500.00!
+Buyer Han-10 bought Clean LikeNew Taurus-2 With addon Extended Warranty. Price: $41,253.75
+Buyer Chewy-10 wants a Pickup (WantsOne)
+Buyer Chewy-10 decided not to buy.

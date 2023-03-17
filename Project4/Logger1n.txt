@@ -198,3 +198,5 @@ Buyer Chewy-2 is buying! Salesperson Phoebe gets a bonus of $50.00!
 Buyer Chewy-2 bought Dirty LikeNew Scooter Price: $136,852.00
 Salesperson: Monica has left FNCD.
 Intern: Lucas has been promoted to mechanic
+Salesperson: Ross has left FNCD South.
+Intern: Joey has been promoted to mechanic

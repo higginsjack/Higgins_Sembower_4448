@@ -1,0 +1,47 @@
+The FNCD North is opening...
+Hired a new Driver named Greg
+The FNCD South is opening...
+The FNCD North interns are washing...
+Washing with elbow grease!
+Washing with elbow grease!
+Washing with elbow grease!
+Intern Samantha got a bonus of $100.00!
+Washing with chemical!
+The FNCD South interns are washing...
+Washing with elbow grease!
+Washing with elbow grease!
+Intern Jenn got a bonus of $100.00!
+Washing with elbow grease!
+Washing with elbow grease!
+The FNCD North mechanics are repairing...
+Mechanic James got a bonus of $300.00!
+Mechanic James fixed Corvette Broken to Used
+Mechanic Scotty got a bonus of $300.00!
+Mechanic Scotty fixed Corvette Used to LikeNew
+The FNCD South mechanics are repairing...
+Mechanic Uhura got a bonus of $500.00!
+Mechanic Uhura fixed Ghost Rider Used to LikeNew
+The FNCD North salespeople are selling...
+The FNCD North has 1 buyers today...
+Buyer Leia-16 wants a Pickup (JustLooking)
+Buyer Leia-16 is buying! Salesperson Phoebe gets a bonus of $750.00!
+Buyer Leia-16 bought Clean LikeNew F-250-3 With addon Extended Warranty. Price: $47,929.20
+The FNCD South salespeople are selling...
+The FNCD South has 5 buyers today...
+Buyer Han-16 wants a Motorcyclce (JustLooking)
+Buyer Han-16 decided not to buy.
+Buyer Chewy-16 wants a Pickup (NeedsOne)
+Buyer Chewy-16 is buying! Salesperson Chandler gets a bonus of $750.00!
+Buyer Chewy-16 bought Clean LikeNew Colorado-2 Price: $74,480.00
+Buyer Luke-17 wants a Pickup (WantsOne)
+Buyer Luke-17 is buying! Salesperson Joey gets a bonus of $750.00!
+Buyer Luke-17 bought Clean LikeNew F-250-2 With addon Satellite Radio. Price: $69,350.40
+Buyer Leia-17 wants a Electric (NeedsOne)
+Buyer Leia-17 is buying! Salesperson Chandler gets a bonus of $1,000.00!
+Buyer Leia-17 bought Sparkling LikeNew Taycon Turbo S-2 Price: $826,860.00
+Buyer Han-17 wants a Performance (WantsOne)
+Buyer Han-17 is buying! Salesperson Monica-2 gets a bonus of $1,000.00!
+Buyer Han-17 bought Clean LikeNew Cayman-4 With addon Road Rescue Coverage. Price: $64,141.68
+Driver Jamar raced. They placed 17. They got injured!
+Driver Jamar-2 raced. They placed 6.
+Driver Larisa-2 raced. They placed 15. They were not injured

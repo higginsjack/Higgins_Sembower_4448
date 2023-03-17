@@ -408,3 +408,63 @@ Buyer Han-9 is buying! Salesperson Chandler gets a bonus of $1,000.00!
 Buyer Han-9 bought Clean LikeNew Cybertruck-2 Price: $771,931.88
 Mecahnic: Scotty has left FNCD North.
 Intern: Samantha has been promoted to mechanic
+Driver Brock raced. They placed 6.
+Driver Jamar raced. They placed 18. They were not injured
+Driver Larisa raced. They placed 20. They were not injured
+The FNCD North is opening...
+Bought Roadster-2, a Dirty Used Motorcyclce for $22,886.40
+Bought Bad Company-2, a Dirty Broken Monster for $29,063.00
+The FNCD South is opening...
+The FNCD North interns are washing...
+Washing with elbow grease!
+Washing with elbow grease!
+Washing with elbow grease!
+Washing with elbow grease!
+Washing with elbow grease!
+Washing with elbow grease!
+The FNCD South interns are washing...
+Washing with elbow grease!
+Washing with elbow grease!
+Washing with elbow grease!
+Washing with elbow grease!
+Washing with elbow grease!
+Washing with elbow grease!
+The FNCD North mechanics are repairing...
+Mechanic James got a bonus of $150.00!
+Mechanic James fixed Scooter Used to LikeNew
+Mechanic James got a bonus of $150.00!
+Mechanic James fixed Touring Broken to Used
+Mechanic Scotty got a bonus of $150.00!
+Mechanic Scotty fixed Touring Used to LikeNew
+Mechanic Scotty got a bonus of $500.00!
+Mechanic Scotty fixed Avenger Broken to Used
+Mechanic Spock got a bonus of $500.00!
+Mechanic Spock fixed Avenger Used to LikeNew
+Mechanic Spock did not fix the Used Blue Thunder
+The FNCD South mechanics are repairing...
+Mechanic Uhura got a bonus of $300.00!
+Mechanic Uhura fixed Model X 100D Used to LikeNew
+Mechanic Uhura got a bonus of $500.00!
+Mechanic Uhura fixed Ghost Rider Broken to Used
+Mechanic James-2 got a bonus of $500.00!
+Mechanic James-2 fixed Ghost Rider Used to LikeNew
+Mechanic James-2 got a bonus of $500.00!
+Mechanic James-2 fixed Black Pearl Used to LikeNew
+Mechanic Scotty-2 got a bonus of $500.00!
+Mechanic Scotty-2 fixed Avenger-2 Broken to Used
+The FNCD North salespeople are selling...
+The FNCD North has 0 buyers today...
+The FNCD South salespeople are selling...
+The FNCD South has 3 buyers today...
+Buyer Han-6 wants a Monster (WantsOne)
+Buyer Han-6 decided not to buy.
+Buyer Chewy-6 wants a Car (WantsOne)
+Buyer Chewy-6 is buying! Salesperson Joey gets a bonus of $500.00!
+Buyer Chewy-6 bought Clean LikeNew Fiesta-2 With addon Extended Warranty. Price: $47,344.80
+Buyer Luke-7 wants a Monster (NeedsOne)
+Buyer Luke-7 is buying! Salesperson Joey gets a bonus of $2,000.00!
+Buyer Luke-7 bought Clean LikeNew Alien Invasion-2 Price: $152,422.00
+Intern: Lucy has left FNCD North.
+Driver Jamar raced. They placed 11.
+Driver Greg raced. They placed 17. They got injured!
+Driver Justin raced. They placed 5.

@@ -160,3 +160,69 @@ Mecahnic: James-2 has left FNCD South.
 Intern: Karen has been promoted to mechanic
 Mecahnic: Jenn has left FNCD South.
 Intern: Ben has been promoted to mechanic
+Driver Johnny raced. They placed 8.
+Driver Bella raced. They placed 12.
+Driver Olivia raced. They placed 9.
+Driver Brock raced. They placed 8.
+Driver Jamar raced. They placed 10.
+Driver Larisa raced. They placed 19. They got injured!
+The FNCD North is opening...
+The FNCD South is opening...
+Bought Taycon Turbo S-3, a Clean Broken Electric for $195,112.50
+Bought Bad Company-2, a Dirty Used Monster for $40,305.60
+The FNCD North interns are washing...
+Washing with elbow grease!
+Washing with elbow grease!
+Washing with elbow grease!
+Washing with elbow grease!
+Washing with elbow grease!
+Washing with elbow grease!
+The FNCD South interns are washing...
+Washing with elbow grease!
+Washing with elbow grease!
+Washing with chemical!
+Washing with chemical!
+Washing with chemical!
+Washing with chemical!
+Intern Samantha got a bonus of $100.00!
+The FNCD North mechanics are repairing...
+Mechanic James did not fix the Broken Tundra
+Mechanic James got a bonus of $500.00!
+Mechanic James fixed Avenger Used to LikeNew
+Mechanic Scotty got a bonus of $200.00!
+Mechanic Scotty fixed Tundra Broken to Used
+Mechanic Spock did not fix the Used Tundra
+The FNCD South mechanics are repairing...
+Mechanic Uhura got a bonus of $300.00!
+Mechanic Uhura fixed Corvette-2 Broken to Used
+Mechanic Uhura got a bonus of $200.00!
+Mechanic Uhura fixed Ranger-3 Used to LikeNew
+Mechanic James-2 got a bonus of $300.00!
+Mechanic James-2 fixed Corvette-2 Used to LikeNew
+Mechanic James-2 got a bonus of $300.00!
+Mechanic James-2 fixed Model S P90D-3 Used to LikeNew
+Mechanic Scotty-2 got a bonus of $300.00!
+Mechanic Scotty-2 fixed Taycon Turbo S-3 Broken to Used
+Mechanic Scotty-2 got a bonus of $500.00!
+Mechanic Scotty-2 fixed Bad Company-2 Used to LikeNew
+The FNCD North salespeople are selling...
+The FNCD North has 2 buyers today...
+Buyer Luke-14 wants a Car (WantsOne)
+Buyer Luke-14 is buying! Salesperson Monica gets a bonus of $500.00!
+Buyer Luke-14 bought Clean LikeNew Escort Price: $39,016.00
+Buyer Leia-14 wants a Car (NeedsOne)
+Buyer Leia-14 decided not to buy.
+The FNCD South salespeople are selling...
+The FNCD South has 5 buyers today...
+Buyer Han-14 wants a Monster (NeedsOne)
+Buyer Han-14 is buying! Salesperson Joey gets a bonus of $2,000.00!
+Buyer Han-14 bought Clean LikeNew Black Pearl Price: $135,161.25
+Buyer Chewy-14 wants a Monster (JustLooking)
+Buyer Chewy-14 decided not to buy.
+Buyer Luke-15 wants a Motorcyclce (JustLooking)
+Buyer Luke-15 decided not to buy.
+Buyer Leia-15 wants a Car (WantsOne)
+Buyer Leia-15 decided not to buy.
+Buyer Han-15 wants a Performance (JustLooking)
+Buyer Han-15 decided not to buy.
+Driver: Justin has left FNCD North.

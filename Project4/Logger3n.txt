@@ -210,3 +210,67 @@ Driver Bella raced. They placed 15. They got injured!
 Driver Olivia raced. They placed 1 and won! This is win #1They received bonus of $2000.00
 Salesperson: Joey has left FNCD South.
 Intern: Jenn has been promoted to mechanic
+The FNCD North is opening...
+The FNCD South is opening...
+Hired a new Salesperson named Monica-2
+Hired a new Intern named Winthrob
+Bought Europa-3, a Clean LikeNew Performance for $31,829.00
+Bought Cayman-3, a Clean LikeNew Performance for $30,620.00
+The FNCD North interns are washing...
+Washing with elbow grease!
+Washing with elbow grease!
+Washing with elbow grease!
+Washing with elbow grease!
+Washing with elbow grease!
+Washing with elbow grease!
+The FNCD South interns are washing...
+Washing with elbow grease!
+Washing with elbow grease!
+Washing with elbow grease!
+Washing with elbow grease!
+Washing with elbow grease!
+Washing with elbow grease!
+The FNCD North mechanics are repairing...
+Mechanic James got a bonus of $200.00!
+Mechanic James fixed Ranger Used to LikeNew
+Mechanic James got a bonus of $200.00!
+Mechanic James fixed F-250 Used to LikeNew
+Mechanic Scotty got a bonus of $200.00!
+Mechanic Scotty fixed Colorado Broken to Used
+Mechanic Scotty got a bonus of $200.00!
+Mechanic Scotty fixed Tundra Broken to Used
+Mechanic Spock got a bonus of $200.00!
+Mechanic Spock fixed Colorado Used to LikeNew
+Mechanic Spock got a bonus of $200.00!
+Mechanic Spock fixed Tundra Used to LikeNew
+The FNCD South mechanics are repairing...
+Mechanic Uhura got a bonus of $100.00!
+Mechanic Uhura fixed Taurus-2 Used to LikeNew
+Mechanic Uhura did not fix the Used Fiesta-2
+Mechanic James-2 did not fix the Used Fiesta-2
+Mechanic James-2 did not fix the Used Colorado-2
+Mechanic Scotty-2 did not fix the Used Fiesta-2
+Mechanic Scotty-2 got a bonus of $200.00!
+Mechanic Scotty-2 fixed Colorado-2 Used to LikeNew
+The FNCD North salespeople are selling...
+The FNCD North has 3 buyers today...
+Buyer Chewy-3 wants a Performance (NeedsOne)
+Buyer Chewy-3 is buying! Salesperson Monica gets a bonus of $1,000.00!
+Buyer Chewy-3 bought Clean LikeNew Europa With addon Undercoating. Price: $63,811.12
+Buyer Luke-4 wants a Car (JustLooking)
+Buyer Luke-4 is buying! Salesperson Rachel gets a bonus of $500.00!
+Buyer Luke-4 bought Clean LikeNew Fiesta Price: $33,360.00
+Buyer Leia-4 wants a Electric (JustLooking)
+Buyer Leia-4 decided not to buy.
+The FNCD South salespeople are selling...
+The FNCD South has 2 buyers today...
+Buyer Han-4 wants a Monster (WantsOne)
+Buyer Han-4 is buying! Salesperson Chandler gets a bonus of $2,000.00!
+Buyer Han-4 bought Dirty LikeNew Alien Invasion-2 With addon Undercoating. Price: $160,043.10
+Buyer Chewy-4 wants a Electric (NeedsOne)
+Buyer Chewy-4 is buying! Salesperson Chandler gets a bonus of $1,000.00!
+Buyer Chewy-4 bought Clean LikeNew Model S P90D-2 Price: $960,572.00
+Intern: Lucas has left FNCD North.
+Driver Brock raced. They placed 19. They got injured!
+Driver Jamar raced. They placed 17. They were not injured
+Driver Larisa raced. They placed 18. They got injured!

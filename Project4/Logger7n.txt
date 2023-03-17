@@ -135,3 +135,9 @@ Mecahnic: James-2 has left FNCD South.
 Intern: Joey has been promoted to mechanic
 Intern: Jack has left FNCD South.
 Driver: Bella has left FNCD South.
+Salesperson: Chandler has left FNCD South.
+Intern: Joey has been promoted to mechanic
+Driver Johnny raced. They placed 9.
+Driver Bella raced. They placed 1 and won! This is win #1They received bonus of $2000.00
+Driver Olivia raced. They placed 8.
+Driver: Olivia has left FNCD South.

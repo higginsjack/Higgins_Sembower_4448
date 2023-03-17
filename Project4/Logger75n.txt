@@ -1,0 +1,52 @@
+The FNCD North is opening...
+Hired a new Driver named Bella-2
+Bought Corvette-5, a Dirty LikeNew Performance for $20,198.00
+The FNCD South is opening...
+Hired a new Intern named Lucy-2
+The FNCD North interns are washing...
+Washing with chemical!
+Washing with chemical!
+Washing with chemical!
+Intern Charles got a bonus of $100.00!
+Washing with chemical!
+Washing with chemical!
+Intern Ben got a bonus of $20.00!
+The FNCD South interns are washing...
+Washing with elbow grease!
+Washing with elbow grease!
+Washing with elbow grease!
+Washing with elbow grease!
+The FNCD North mechanics are repairing...
+Mechanic James did not fix the Used Model X 100D-3
+Mechanic Scotty got a bonus of $300.00!
+Mechanic Scotty fixed Model X 100D-3 Used to LikeNew
+The FNCD South mechanics are repairing...
+The FNCD North salespeople are selling...
+The FNCD North has 3 buyers today...
+Buyer Han-34 wants a Pickup (WantsOne)
+Buyer Han-34 is buying! Salesperson Rachel gets a bonus of $750.00!
+Buyer Han-34 bought Clean LikeNew F-250-3 Price: $39,941.00
+Buyer Chewy-34 wants a Performance (NeedsOne)
+Buyer Chewy-34 is buying! Salesperson Rachel gets a bonus of $1,000.00!
+Buyer Chewy-34 bought Clean LikeNew Europa-5 With addon Undercoating. Price: $59,423.70
+Buyer Luke-35 wants a Monster (WantsOne)
+Buyer Luke-35 is buying! Salesperson Rachel gets a bonus of $2,000.00!
+Buyer Luke-35 bought Clean LikeNew Avenger With addon Extended Warranty. Price: $306,842.34
+The FNCD South salespeople are selling...
+The FNCD South has 5 buyers today...
+Buyer Leia-35 wants a Car (NeedsOne)
+Buyer Leia-35 is buying! Salesperson Ben-2 gets a bonus of $500.00!
+Buyer Leia-35 bought Sparkling LikeNew Taurus-3 Price: $31,870.00
+Buyer Han-35 wants a Electric (WantsOne)
+Buyer Han-35 decided not to buy.
+Buyer Chewy-35 wants a Pickup (NeedsOne)
+Buyer Chewy-35 is buying! Salesperson Jenn gets a bonus of $750.00!
+Buyer Chewy-35 bought Clean LikeNew F-250-4 With addon Satellite Radio. Price: $74,282.91
+Buyer Luke-36 wants a Motorcyclce (NeedsOne)
+Buyer Luke-36 decided not to buy.
+Buyer Leia-36 wants a Motorcyclce (WantsOne)
+Buyer Leia-36 is buying! Salesperson Lucas-2 gets a bonus of $50.00!
+Buyer Leia-36 bought Clean LikeNew Chopper-3 Price: $262,151.25
+Driver Jamar-2 raced. They placed 17. They were not injured
+Driver Larisa-2 raced. They placed 7.
+Driver Johnny-2 raced. They placed 16. They got injured!

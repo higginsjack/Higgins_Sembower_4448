@@ -282,3 +282,6 @@ Buyer Leia-16 wants a Monster (JustLooking)
 Buyer Leia-16 decided not to buy.
 Salesperson: Lucas has left FNCD North.
 Intern: Charles has been promoted to mechanic
+Driver Brock raced. They placed 4.
+Driver Jamar raced. They placed 2 and won! This is win #1They received bonus of $2000.00
+Driver Larisa raced. They placed 11.

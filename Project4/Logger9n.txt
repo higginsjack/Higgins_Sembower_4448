@@ -204,3 +204,119 @@ Driver Olivia raced. They placed 13.
 Driver Johnny raced. They placed 8.
 Driver Bella raced. They placed 20. They were not injured
 Driver Olivia raced. They placed 13.
+The FNCD North is opening...
+Hired a new Intern named Samantha
+Bought Probe-3, a Clean Used Car for $15,187.20
+The FNCD South is opening...
+Bought Bolt-2, a Dirty LikeNew Electric for $311,914.00
+The FNCD North interns are washing...
+Washing with elbow grease!
+Washing with elbow grease!
+Washing with elbow grease!
+Washing with elbow grease!
+Washing with elbow grease!
+Washing with elbow grease!
+The FNCD South interns are washing...
+Washing with elbow grease!
+Washing with elbow grease!
+Washing with elbow grease!
+Washing with elbow grease!
+Washing with elbow grease!
+Washing with elbow grease!
+The FNCD North mechanics are repairing...
+Mechanic James got a bonus of $300.00!
+Mechanic James fixed Model S P90D Broken to Used
+Mechanic James got a bonus of $300.00!
+Mechanic James fixed Cybertruck Used to LikeNew
+Mechanic Scotty got a bonus of $300.00!
+Mechanic Scotty fixed Model S P90D Used to LikeNew
+Mechanic Scotty got a bonus of $150.00!
+Mechanic Scotty fixed Chopper Used to LikeNew
+Mechanic Spock got a bonus of $150.00!
+Mechanic Spock fixed Scooter Broken to Used
+Mechanic Spock got a bonus of $150.00!
+Mechanic Spock fixed Roadster Used to LikeNew
+The FNCD South mechanics are repairing...
+Mechanic Uhura got a bonus of $100.00!
+Mechanic Uhura fixed Fiesta-2 Used to LikeNew
+Mechanic Uhura got a bonus of $200.00!
+Mechanic Uhura fixed Tundra-2 Used to LikeNew
+Mechanic James-2 did not fix the Broken Model X 100D
+Mechanic James-2 got a bonus of $150.00!
+Mechanic James-2 fixed Scooter-2 Broken to Used
+Mechanic Scotty-2 got a bonus of $300.00!
+Mechanic Scotty-2 fixed Model X 100D Broken to Used
+Mechanic Scotty-2 got a bonus of $150.00!
+Mechanic Scotty-2 fixed Scooter-2 Used to LikeNew
+The FNCD North salespeople are selling...
+The FNCD North has 3 buyers today...
+Buyer Luke-5 wants a Monster (NeedsOne)
+Buyer Luke-5 is buying! Salesperson Phoebe gets a bonus of $2,000.00!
+Buyer Luke-5 bought Dirty Used Alien Invasion Price: $120,478.40
+Buyer Leia-5 wants a Motorcyclce (WantsOne)
+Buyer Leia-5 is buying! Salesperson Rachel gets a bonus of $50.00!
+Buyer Leia-5 bought Dirty LikeNew Roadster Price: $159,334.00
+Buyer Han-5 wants a Performance (NeedsOne)
+Buyer Han-5 is buying! Salesperson Rachel gets a bonus of $1,000.00!
+Buyer Han-5 bought Clean LikeNew Europa With addon Extended Warranty. Price: $72,927.00
+The FNCD South salespeople are selling...
+The FNCD South has 3 buyers today...
+Buyer Chewy-5 wants a Performance (NeedsOne)
+Buyer Chewy-5 is buying! Salesperson Chandler gets a bonus of $1,000.00!
+Buyer Chewy-5 bought Clean LikeNew Europa-3 With addon Satellite Radio. Price: $66,840.90
+Buyer Luke-6 wants a Electric (JustLooking)
+Buyer Luke-6 decided not to buy.
+Buyer Leia-6 wants a Car (JustLooking)
+Buyer Leia-6 decided not to buy.
+The FNCD North is opening...
+Hired a new Driver named Greg
+Hired a new Driver named Justin
+The FNCD South is opening...
+Hired a new Driver named Brock-2
+The FNCD North interns are washing...
+Washing with elbow grease!
+Washing with elbow grease!
+Washing with elbow grease!
+Washing with elbow grease!
+Washing with elbow grease!
+Washing with elbow grease!
+The FNCD South interns are washing...
+Washing with chemical!
+Washing with chemical!
+Washing with elbow grease!
+Washing with elbow grease!
+Washing with chemical!
+Washing with chemical!
+The FNCD North mechanics are repairing...
+Mechanic James got a bonus of $200.00!
+Mechanic James fixed Tundra Used to LikeNew
+Mechanic James got a bonus of $300.00!
+Mechanic James fixed Taycon Turbo S Broken to Used
+Mechanic Scotty did not fix the Used Taycon Turbo S
+Mechanic Scotty did not fix the Broken Cybertruck
+Mechanic Spock got a bonus of $300.00!
+Mechanic Spock fixed Taycon Turbo S Used to LikeNew
+Mechanic Spock got a bonus of $300.00!
+Mechanic Spock fixed Cybertruck Broken to Used
+The FNCD South mechanics are repairing...
+Mechanic Uhura got a bonus of $200.00!
+Mechanic Uhura fixed Ranger-2 Used to LikeNew
+Mechanic Uhura got a bonus of $200.00!
+Mechanic Uhura fixed Colorado-2 Broken to Used
+Mechanic James-2 got a bonus of $200.00!
+Mechanic James-2 fixed Colorado-2 Used to LikeNew
+Mechanic James-2 got a bonus of $200.00!
+Mechanic James-2 fixed Tundra-2 Used to LikeNew
+Mechanic Scotty-2 got a bonus of $300.00!
+Mechanic Scotty-2 fixed Model X 100D Used to LikeNew
+Mechanic Scotty-2 got a bonus of $300.00!
+Mechanic Scotty-2 fixed Model S P90D-2 Used to LikeNew
+The FNCD North salespeople are selling...
+The FNCD North has 0 buyers today...
+The FNCD South salespeople are selling...
+The FNCD South has 2 buyers today...
+Buyer Chewy-5 wants a Monster (JustLooking)
+Buyer Chewy-5 decided not to buy.
+Buyer Luke-6 wants a Motorcyclce (NeedsOne)
+Buyer Luke-6 is buying! Salesperson Ross gets a bonus of $50.00!
+Buyer Luke-6 bought Clean LikeNew Cruiser Price: $186,966.00

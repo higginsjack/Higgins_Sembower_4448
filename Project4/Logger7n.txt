@@ -1,0 +1,137 @@
+The FNCD is opening...
+Hired a new Driver named Bella
+The FNCD interns are washing...
+Washing with elbow grease!
+Washing with elbow grease!
+Washing with elbow grease!
+Washing with elbow grease!
+Washing with elbow grease!
+Washing with elbow grease!
+The FNCD mechanics are repairing...
+Mechanic James got a bonus of $300.00!
+Mechanic James fixed Mustang Used to LikeNew
+Mechanic James got a bonus of $300.00!
+Mechanic James fixed Bolt Used to LikeNew
+Mechanic Scotty got a bonus of $150.00!
+Mechanic Scotty fixed Chopper Broken to Used
+Mechanic Scotty got a bonus of $150.00!
+Mechanic Scotty fixed Scooter Used to LikeNew
+Mechanic Lucas got a bonus of $150.00!
+Mechanic Lucas fixed Chopper Used to LikeNew
+Mechanic Lucas did not fix the Broken Roadster
+The FNCD salespeople are selling...
+The FNCD has 0 buyers today...
+Mecahnic: James has left FNCD.
+Intern: Jenn has been promoted to mechanic
+The FNCD is opening...
+The FNCD interns are washing...
+Washing with elbow grease!
+Washing with elbow grease!
+Washing with elbow grease!
+Washing with elbow grease!
+Washing with elbow grease!
+Washing with elbow grease!
+The FNCD mechanics are repairing...
+Mechanic Lucy got a bonus of $500.00!
+Mechanic Lucy fixed Blue Thunder Broken to Used
+Mechanic Lucy got a bonus of $200.00!
+Mechanic Lucy fixed Ranger-2 Used to LikeNew
+Mechanic Joey got a bonus of $500.00!
+Mechanic Joey fixed Blue Thunder Used to LikeNew
+Mechanic Joey got a bonus of $500.00!
+Mechanic Joey fixed Ghost Rider Used to LikeNew
+The FNCD salespeople are selling...
+The FNCD has 2 buyers today...
+Buyer Chewy-6 wants a Performance (JustLooking)
+Buyer Chewy-6 decided not to buy.
+Buyer Luke-7 wants a Electric (WantsOne)
+Buyer Luke-7 decided not to buy.
+Intern: Jack has left FNCD.
+The FNCD is opening...
+Hired a new Intern named Winthrob
+The FNCD interns are washing...
+Washing with chemical!
+Washing with chemical!
+Washing with chemical!
+Washing with chemical!
+Washing with elbow grease!
+Washing with elbow grease!
+The FNCD mechanics are repairing...
+Mechanic Lucy got a bonus of $500.00!
+Mechanic Lucy fixed Alien Invasion Used to LikeNew
+Mechanic Lucy got a bonus of $500.00!
+Mechanic Lucy fixed Avenger Broken to Used
+Mechanic Joey did not fix the Used Avenger
+Mechanic Joey got a bonus of $500.00!
+Mechanic Joey fixed Bad Company Broken to Used
+Mechanic Jenn got a bonus of $500.00!
+Mechanic Jenn fixed Avenger Used to LikeNew
+Mechanic Jenn got a bonus of $500.00!
+Mechanic Jenn fixed Bad Company Used to LikeNew
+The FNCD salespeople are selling...
+The FNCD has 3 buyers today...
+Buyer Luke-6 wants a Car (WantsOne)
+Buyer Luke-6 is buying! Salesperson Rachel gets a bonus of $500.00!
+Buyer Luke-6 bought Clean LikeNew Escort Price: $35,992.00
+Buyer Leia-6 wants a Pickup (WantsOne)
+Buyer Leia-6 is buying! Salesperson Phoebe gets a bonus of $750.00!
+Buyer Leia-6 bought Clean LikeNew Ranger With addon Extended Warranty. With addon Undercoating. With addon Satellite Radio. Price: $149,723.08
+Buyer Han-6 wants a Pickup (WantsOne)
+Buyer Han-6 is buying! Salesperson Rachel gets a bonus of $750.00!
+Buyer Han-6 bought Clean LikeNew Ranger Price: $113,169.38
+The FNCD is opening...
+Hired a new Intern named Joey
+The FNCD interns are washing...
+Washing with elbow grease!
+Washing with elbow grease!
+Washing with chemical!
+Washing with chemical!
+Washing with chemical!
+Washing with chemical!
+The FNCD mechanics are repairing...
+The FNCD salespeople are selling...
+The FNCD has 2 buyers today...
+Buyer Chewy-5 wants a Motorcyclce (WantsOne)
+Buyer Chewy-5 is buying! Salesperson Phoebe gets a bonus of $50.00!
+Buyer Chewy-5 bought Clean LikeNew Roadster Price: $162,596.00
+Buyer Luke-6 wants a Electric (WantsOne)
+Buyer Luke-6 is buying! Salesperson Rachel gets a bonus of $1,000.00!
+Buyer Luke-6 bought Clean LikeNew Model X 100D Price: $941,214.00
+Driver Brock raced. They placed 20. They got injured!
+Driver Jamar raced. They placed 13.
+Driver Johnny raced. They placed 12.
+Driver Jamar raced. They placed 5.
+Driver Larisa raced. They placed 13.
+Driver Johnny raced. They placed 6.
+The FNCD is opening...
+The FNCD interns are washing...
+Washing with elbow grease!
+Washing with elbow grease!
+Washing with elbow grease!
+Washing with elbow grease!
+Washing with chemical!
+Washing with chemical!
+Intern Joey got a bonus of $100.00!
+The FNCD mechanics are repairing...
+Mechanic Scotty got a bonus of $500.00!
+Mechanic Scotty fixed Ghost Rider Broken to Used
+Mechanic Scotty got a bonus of $100.00!
+Mechanic Scotty fixed Escort-2 Used to LikeNew
+Mechanic Spock did not fix the Used Ghost Rider
+Mechanic Spock did not fix the Used Cruiser
+Mechanic Jenn got a bonus of $500.00!
+Mechanic Jenn fixed Ghost Rider Used to LikeNew
+Mechanic Jenn got a bonus of $150.00!
+Mechanic Jenn fixed Cruiser Used to LikeNew
+The FNCD salespeople are selling...
+The FNCD has 1 buyers today...
+Buyer Leia-5 wants a Pickup (WantsOne)
+Buyer Leia-5 is buying! Salesperson Phoebe gets a bonus of $750.00!
+Buyer Leia-5 bought Clean LikeNew Ranger-2 Price: $65,318.00
+Driver: Larisa has left FNCD.
+Salesperson: Joey has left FNCD South.
+Intern: Joey has been promoted to mechanic
+Mecahnic: James-2 has left FNCD South.
+Intern: Joey has been promoted to mechanic
+Intern: Jack has left FNCD South.
+Driver: Bella has left FNCD South.

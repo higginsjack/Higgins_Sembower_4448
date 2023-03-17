@@ -1,0 +1,147 @@
+The FNCD is opening...
+The FNCD interns are washing...
+Washing with elbow grease!
+Washing with elbow grease!
+Washing with elbow grease!
+Washing with elbow grease!
+Washing with elbow grease!
+Washing with elbow grease!
+The FNCD mechanics are repairing...
+Mechanic Scotty got a bonus of $200.00!
+Mechanic Scotty fixed Ranger-2 Broken to Used
+Mechanic Scotty got a bonus of $300.00!
+Mechanic Scotty fixed Model X 100D Used to LikeNew
+Mechanic Lucas got a bonus of $200.00!
+Mechanic Lucas fixed Ranger-2 Used to LikeNew
+Mechanic Lucas got a bonus of $500.00!
+Mechanic Lucas fixed Ghost Rider Used to LikeNew
+The FNCD salespeople are selling...
+The FNCD has 5 buyers today...
+Buyer Han-9 wants a Performance (JustLooking)
+Buyer Han-9 decided not to buy.
+Buyer Chewy-9 wants a Performance (NeedsOne)
+Buyer Chewy-9 is buying! Salesperson Rachel gets a bonus of $1,000.00!
+Buyer Chewy-9 bought Clean LikeNew Mustang With addon Extended Warranty. With addon Satellite Radio. Price: $150,671.39
+Buyer Luke-10 wants a Monster (JustLooking)
+Buyer Luke-10 decided not to buy.
+Buyer Leia-10 wants a Performance (NeedsOne)
+Buyer Leia-10 is buying! Salesperson Ben gets a bonus of $1,000.00!
+Buyer Leia-10 bought Clean LikeNew Mustang Price: $119,580.47
+Buyer Han-10 wants a Motorcyclce (NeedsOne)
+Buyer Han-10 decided not to buy.
+The FNCD is opening...
+Bought Model X 100D, a Clean LikeNew Electric for $312,066.00
+The FNCD interns are washing...
+Washing with elbow grease!
+Washing with elbow grease!
+Washing with elbow grease!
+Washing with elbow grease!
+Intern Samantha got a bonus of $100.00!
+Washing with elbow grease!
+Intern Karen got a bonus of $100.00!
+The FNCD mechanics are repairing...
+The FNCD salespeople are selling...
+The FNCD has 4 buyers today...
+Buyer Luke-9 wants a Performance (NeedsOne)
+Buyer Luke-9 is buying! Salesperson Phoebe gets a bonus of $1,000.00!
+Buyer Luke-9 bought Clean LikeNew Europa-2 With addon Satellite Radio. Price: $64,667.40
+Buyer Leia-9 wants a Electric (NeedsOne)
+Buyer Leia-9 decided not to buy.
+Buyer Han-9 wants a Car (NeedsOne)
+Buyer Han-9 is buying! Salesperson Monica gets a bonus of $500.00!
+Buyer Han-9 bought Clean LikeNew Probe-2 With addon Undercoating. With addon Satellite Radio. Price: $39,958.73
+Buyer Chewy-9 wants a Performance (JustLooking)
+Buyer Chewy-9 decided not to buy.
+Driver Brock raced. They placed 10.
+Driver Larisa raced. They placed 20. They were not injured
+Driver Johnny raced. They placed 14.
+The FNCD is opening...
+The FNCD interns are washing...
+Washing with elbow grease!
+Intern Ben got a bonus of $100.00!
+Washing with chemical!
+Washing with chemical!
+The FNCD mechanics are repairing...
+The FNCD salespeople are selling...
+The FNCD has 5 buyers today...
+Buyer Leia-7 wants a Motorcyclce (JustLooking)
+Buyer Leia-7 is buying! Salesperson Phoebe gets a bonus of $50.00!
+Buyer Leia-7 bought Sparkling LikeNew Chopper-2 Price: $120,210.00
+Buyer Han-7 wants a Motorcyclce (NeedsOne)
+Buyer Han-7 decided not to buy.
+Buyer Chewy-7 wants a Pickup (WantsOne)
+Buyer Chewy-7 decided not to buy.
+Buyer Luke-8 wants a Motorcyclce (JustLooking)
+Buyer Luke-8 decided not to buy.
+Buyer Leia-8 wants a Monster (NeedsOne)
+Buyer Leia-8 is buying! Salesperson Phoebe gets a bonus of $2,000.00!
+Buyer Leia-8 bought Clean LikeNew Ghost Rider Price: $136,656.00
+Intern: Lucas has left FNCD.
+The FNCD is opening...
+Hired a new Intern named Jenn
+The FNCD interns are washing...
+Washing with elbow grease!
+Washing with elbow grease!
+Washing with chemical!
+Washing with chemical!
+Washing with chemical!
+Washing with chemical!
+The FNCD mechanics are repairing...
+Mechanic James got a bonus of $200.00!
+Mechanic James fixed Ranger Broken to Used
+Mechanic James got a bonus of $500.00!
+Mechanic James fixed Alien Invasion Broken to Used
+Mechanic Spock got a bonus of $200.00!
+Mechanic Spock fixed Ranger Used to LikeNew
+Mechanic Spock got a bonus of $500.00!
+Mechanic Spock fixed Alien Invasion Used to LikeNew
+Mechanic Lucy got a bonus of $500.00!
+Mechanic Lucy fixed Avenger Used to LikeNew
+Mechanic Lucy got a bonus of $500.00!
+Mechanic Lucy fixed Blue Thunder Broken to Used
+The FNCD salespeople are selling...
+The FNCD has 5 buyers today...
+Buyer Han-6 wants a Electric (WantsOne)
+Buyer Han-6 is buying! Salesperson Rachel gets a bonus of $1,000.00!
+Buyer Han-6 bought Clean LikeNew Taycon Turbo S Price: $781,751.25
+Buyer Chewy-6 wants a Electric (JustLooking)
+Buyer Chewy-6 decided not to buy.
+Buyer Luke-7 wants a Pickup (NeedsOne)
+Buyer Luke-7 is buying! Salesperson Rachel gets a bonus of $750.00!
+Buyer Luke-7 bought Clean LikeNew Colorado With addon Undercoating. Price: $165,500.51
+Buyer Leia-7 wants a Pickup (WantsOne)
+Buyer Leia-7 decided not to buy.
+Buyer Han-7 wants a Car (JustLooking)
+Buyer Han-7 decided not to buy.
+Driver Jamar raced. They placed 11.
+Driver Larisa raced. They placed 19. They were not injured
+Driver Johnny raced. They placed 12.
+The FNCD is opening...
+Hired a new Intern named Jack
+The FNCD interns are washing...
+Washing with elbow grease!
+Washing with elbow grease!
+Washing with chemical!
+Washing with elbow grease!
+The FNCD mechanics are repairing...
+Mechanic Scotty got a bonus of $150.00!
+Mechanic Scotty fixed Roadster Broken to Used
+Mechanic Scotty got a bonus of $500.00!
+Mechanic Scotty fixed Bad Company Broken to Used
+Mechanic Spock got a bonus of $150.00!
+Mechanic Spock fixed Roadster Used to LikeNew
+Mechanic Spock got a bonus of $500.00!
+Mechanic Spock fixed Bad Company Used to LikeNew
+The FNCD salespeople are selling...
+The FNCD has 0 buyers today...
+Intern: Jack has left FNCD.
+Mecahnic: Scotty has left FNCD.
+Intern: Jack has been promoted to mechanic
+Salesperson: Lucas has left FNCD.
+Intern: Joey has been promoted to mechanic
+Driver Johnny raced. They placed 17. They were not injured
+Driver Olivia raced. They placed 4.
+Driver Greg raced. They placed 10.
+Driver Johnny raced. They placed 5.
+Driver Olivia raced. They placed 1 and won! This is win #1They received bonus of $2000.00
+Driver Greg raced. They placed 6.

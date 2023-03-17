@@ -1,0 +1,81 @@
+Driver Bella raced. They placed 5.
+Driver Olivia raced. They placed 7.
+Driver Greg raced. They placed 6.
+Driver Larisa raced. They placed 16. They were not injured
+Driver Johnny raced. They placed 6.
+Driver Olivia raced. They placed 20. They were not injured
+Driver Brock raced. They placed 14.
+Driver Larisa raced. They placed 8.
+Driver Johnny raced. They placed 12.
+Driver Brock raced. They placed 7.
+Driver Larisa raced. They placed 19. They got injured!
+Driver Johnny raced. They placed 2 and won! This is win #1They received bonus of $2000.00
+The FNCD is opening...
+The FNCD interns are washing...
+Washing with elbow grease!
+Intern Ben got a bonus of $20.00!
+Washing with chemical!
+Washing with chemical!
+The FNCD mechanics are repairing...
+Mechanic James got a bonus of $100.00!
+Mechanic James fixed Probe Broken to Used
+Mechanic Spock got a bonus of $100.00!
+Mechanic Spock fixed Probe Used to LikeNew
+The FNCD salespeople are selling...
+The FNCD has 0 buyers today...
+The FNCD is opening...
+The FNCD interns are washing...
+Washing with elbow grease!
+Washing with elbow grease!
+Washing with elbow grease!
+Washing with elbow grease!
+The FNCD mechanics are repairing...
+The FNCD salespeople are selling...
+The FNCD has 4 buyers today...
+Buyer Han-7 wants a Motorcyclce (NeedsOne)
+Buyer Han-7 is buying! Salesperson Phoebe gets a bonus of $50.00!
+Buyer Han-7 bought Clean LikeNew Chopper With addon Extended Warranty. Price: $197,937.60
+Buyer Chewy-7 wants a Monster (JustLooking)
+Buyer Chewy-7 is buying! Salesperson Rachel gets a bonus of $2,000.00!
+Buyer Chewy-7 bought Clean LikeNew Ghost Rider With addon Extended Warranty. With addon Undercoating. Price: $182,492.35
+Buyer Luke-8 wants a Electric (WantsOne)
+Buyer Luke-8 is buying! Salesperson Monica gets a bonus of $1,000.00!
+Buyer Luke-8 bought Clean LikeNew Bolt With addon Extended Warranty. Price: $955,255.20
+Buyer Leia-8 wants a Electric (WantsOne)
+Buyer Leia-8 decided not to buy.
+The FNCD is opening...
+Hired a new Driver named Bella
+The FNCD interns are washing...
+Washing with elbow grease!
+Washing with elbow grease!
+Washing with chemical!
+Washing with chemical!
+Washing with elbow grease!
+The FNCD mechanics are repairing...
+The FNCD salespeople are selling...
+The FNCD has 6 buyers today...
+Buyer Luke-10 wants a Car (NeedsOne)
+Buyer Luke-10 is buying! Salesperson Phoebe gets a bonus of $500.00!
+Buyer Luke-10 bought Clean LikeNew Escort-2 Price: $32,733.75
+Buyer Leia-10 wants a Electric (WantsOne)
+Buyer Leia-10 decided not to buy.
+Buyer Han-10 wants a Pickup (JustLooking)
+Buyer Han-10 decided not to buy.
+Buyer Chewy-10 wants a Monster (JustLooking)
+Buyer Chewy-10 decided not to buy.
+Buyer Luke-11 wants a Car (JustLooking)
+Buyer Luke-11 decided not to buy.
+Buyer Leia-11 wants a Electric (NeedsOne)
+Buyer Leia-11 is buying! Salesperson Joey gets a bonus of $1,000.00!
+Buyer Leia-11 bought Clean LikeNew Taycon Turbo S With addon Satellite Radio. Price: $1,018,512.60
+Driver Johnny raced. They placed 17. They were not injured
+Driver Bella raced. They placed 14.
+Driver Olivia raced. They placed 7.
+Mecahnic: Uhura has left FNCD South.
+Intern: Jack has been promoted to mechanic
+Driver Johnny raced. They placed 16. They got injured!
+Driver Bella raced. They placed 18. They got injured!
+Driver Olivia raced. They placed 6.
+Driver Johnny raced. They placed 3 and won! This is win #1They received bonus of $2000.00
+Driver Bella raced. They placed 8.
+Driver Olivia raced. They placed 16. They got injured!

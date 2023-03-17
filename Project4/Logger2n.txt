@@ -1,0 +1,768 @@
+The FNCD is opening...
+Hired a new Intern named Jenn
+The FNCD interns are washing...
+Washing with elbow grease!
+Washing with elbow grease!
+Washing with elbow grease!
+Washing with elbow grease!
+Washing with elbow grease!
+Washing with elbow grease!
+The FNCD mechanics are repairing...
+Mechanic James did not fix the Broken Mustang
+Mechanic James got a bonus of $100.00!
+Mechanic James fixed Escort Used to LikeNew
+Mechanic Scotty did not fix the Broken Mustang
+Mechanic Scotty got a bonus of $100.00!
+Mechanic Scotty fixed Taurus Broken to Used
+Mechanic Lucas got a bonus of $300.00!
+Mechanic Lucas fixed Mustang Broken to Used
+Mechanic Lucas got a bonus of $100.00!
+Mechanic Lucas fixed Taurus Used to LikeNew
+The FNCD salespeople are selling...
+The FNCD has 4 buyers today...
+Buyer Chewy wants a Pickup (JustLooking)
+Buyer Chewy decided not to buy.
+Buyer Luke-2 wants a Electric (JustLooking)
+Buyer Luke-2 decided not to buy.
+Buyer Leia-2 wants a Pickup (JustLooking)
+Buyer Leia-2 decided not to buy.
+Buyer Han-2 wants a Pickup (JustLooking)
+Buyer Han-2 decided not to buy.
+Driver: Larisa has left FNCD.
+The FNCD is opening...
+Hired a new Intern named Jenn
+Hired a new Intern named Joey
+The FNCD interns are washing...
+Washing with elbow grease!
+Washing with elbow grease!
+Washing with elbow grease!
+Washing with elbow grease!
+Washing with chemical!
+Washing with chemical!
+The FNCD mechanics are repairing...
+Mechanic James got a bonus of $200.00!
+Mechanic James fixed Ranger Broken to Used
+Mechanic James got a bonus of $200.00!
+Mechanic James fixed F-250 Used to LikeNew
+Mechanic Spock got a bonus of $200.00!
+Mechanic Spock fixed Ranger Used to LikeNew
+Mechanic Spock got a bonus of $200.00!
+Mechanic Spock fixed Colorado Broken to Used
+Mechanic Lucy got a bonus of $200.00!
+Mechanic Lucy fixed Colorado Used to LikeNew
+Mechanic Lucy got a bonus of $200.00!
+Mechanic Lucy fixed Tundra Used to LikeNew
+The FNCD salespeople are selling...
+The FNCD has 2 buyers today...
+Buyer Leia wants a Performance (JustLooking)
+Buyer Leia is buying! Salesperson Phoebe gets a bonus of $1,000.00!
+Buyer Leia bought Clean LikeNew Cayman With addon Satellite Radio. Price: $63,781.20
+Buyer Han wants a Electric (JustLooking)
+Buyer Han decided not to buy.
+Intern: Jenn has left FNCD.
+Mecahnic: Spock has left FNCD.
+Intern: Joey has been promoted to mechanic
+Driver: Jamar has left FNCD.
+The FNCD is opening...
+Hired a new Intern named Jenn
+The FNCD interns are washing...
+Washing with elbow grease!
+Washing with elbow grease!
+Washing with chemical!
+Washing with chemical!
+Washing with elbow grease!
+Washing with elbow grease!
+The FNCD mechanics are repairing...
+Mechanic Scotty got a bonus of $300.00!
+Mechanic Scotty fixed Europa Used to LikeNew
+Mechanic Scotty got a bonus of $300.00!
+Mechanic Scotty fixed Corvette Used to LikeNew
+Mechanic Spock did not fix the Broken Mustang
+Mechanic Spock did not fix the Used Probe
+Mechanic Lucy got a bonus of $300.00!
+Mechanic Lucy fixed Mustang Broken to Used
+Mechanic Lucy got a bonus of $100.00!
+Mechanic Lucy fixed Probe Used to LikeNew
+The FNCD salespeople are selling...
+The FNCD has 5 buyers today...
+Buyer Chewy-2 wants a Car (JustLooking)
+Buyer Chewy-2 is buying! Salesperson Rachel gets a bonus of $500.00!
+Buyer Chewy-2 bought Clean Used Escort With addon Extended Warranty. Price: $34,552.32
+Buyer Luke-3 wants a Pickup (JustLooking)
+Buyer Luke-3 decided not to buy.
+Buyer Leia-3 wants a Performance (NeedsOne)
+Buyer Leia-3 is buying! Salesperson Monica gets a bonus of $1,000.00!
+Buyer Leia-3 bought Dirty LikeNew Corvette Price: $78,214.00
+Buyer Han-3 wants a Pickup (JustLooking)
+Buyer Han-3 decided not to buy.
+Buyer Chewy-3 wants a Performance (NeedsOne)
+Buyer Chewy-3 is buying! Salesperson Phoebe gets a bonus of $1,000.00!
+Buyer Chewy-3 bought Clean LikeNew Cayman With addon Extended Warranty. Price: $84,816.00
+The FNCD is opening...
+Hired a new Intern named Jenn
+The FNCD interns are washing...
+Washing with elbow grease!
+Washing with elbow grease!
+Washing with chemical!
+Washing with chemical!
+Washing with elbow grease!
+Washing with elbow grease!
+The FNCD mechanics are repairing...
+Mechanic James got a bonus of $200.00!
+Mechanic James fixed Colorado Used to LikeNew
+Mechanic James got a bonus of $200.00!
+Mechanic James fixed Tundra Broken to Used
+Mechanic Scotty got a bonus of $200.00!
+Mechanic Scotty fixed Tundra Used to LikeNew
+Mechanic Scotty got a bonus of $300.00!
+Mechanic Scotty fixed Model S P90D Used to LikeNew
+Mechanic Spock got a bonus of $300.00!
+Mechanic Spock fixed Cybertruck Used to LikeNew
+Mechanic Spock got a bonus of $300.00!
+Mechanic Spock fixed Bolt Used to LikeNew
+The FNCD salespeople are selling...
+The FNCD has 5 buyers today...
+Buyer Han wants a Car (WantsOne)
+Buyer Han decided not to buy.
+Buyer Chewy wants a Car (NeedsOne)
+Buyer Chewy is buying! Salesperson Rachel gets a bonus of $500.00!
+Buyer Chewy bought Clean LikeNew Fiesta Price: $36,142.00
+Buyer Luke-2 wants a Pickup (JustLooking)
+Buyer Luke-2 is buying! Salesperson Phoebe gets a bonus of $750.00!
+Buyer Luke-2 bought Dirty LikeNew F-250 Price: $57,946.00
+Buyer Leia-2 wants a Motorcyclce (WantsOne)
+Buyer Leia-2 decided not to buy.
+Buyer Han-2 wants a Car (WantsOne)
+Buyer Han-2 decided not to buy.
+The FNCD is opening...
+The FNCD interns are washing...
+Washing with elbow grease!
+Washing with elbow grease!
+Washing with chemical!
+Washing with chemical!
+Washing with chemical!
+Washing with chemical!
+The FNCD mechanics are repairing...
+Mechanic James did not fix the Used Mustang
+Mechanic James did not fix the Used Fiesta
+Mechanic Scotty got a bonus of $300.00!
+Mechanic Scotty fixed Mustang Used to LikeNew
+Mechanic Scotty got a bonus of $100.00!
+Mechanic Scotty fixed Fiesta Used to LikeNew
+Mechanic Spock did not fix the Used F-250
+Mechanic Spock got a bonus of $200.00!
+Mechanic Spock fixed Tundra Broken to Used
+The FNCD salespeople are selling...
+The FNCD has 3 buyers today...
+Buyer Luke wants a Car (JustLooking)
+Buyer Luke decided not to buy.
+Buyer Leia wants a Car (NeedsOne)
+Buyer Leia is buying! Salesperson Rachel gets a bonus of $500.00!
+Buyer Leia bought Dirty LikeNew Fiesta With addon Satellite Radio. Price: $34,843.20
+Buyer Han wants a Pickup (NeedsOne)
+Buyer Han decided not to buy.
+The FNCD is opening...
+Bought Ghost Rider, a Dirty Used Monster for $48,278.40
+The FNCD interns are washing...
+Washing with elbow grease!
+Washing with elbow grease!
+Washing with elbow grease!
+Washing with elbow grease!
+Washing with chemical!
+Washing with chemical!
+The FNCD mechanics are repairing...
+Mechanic James got a bonus of $300.00!
+Mechanic James fixed Mustang Broken to Used
+Mechanic James got a bonus of $100.00!
+Mechanic James fixed Fiesta Broken to Used
+Mechanic Scotty got a bonus of $300.00!
+Mechanic Scotty fixed Mustang Used to LikeNew
+Mechanic Scotty got a bonus of $100.00!
+Mechanic Scotty fixed Fiesta Used to LikeNew
+Mechanic Spock did not fix the Broken F-250
+Mechanic Spock got a bonus of $200.00!
+Mechanic Spock fixed Colorado Used to LikeNew
+The FNCD salespeople are selling...
+The FNCD has 8 buyers today...
+Buyer Leia-2 wants a Car (NeedsOne)
+Buyer Leia-2 is buying! Salesperson Rachel gets a bonus of $500.00!
+Buyer Leia-2 bought Clean LikeNew Probe With addon Extended Warranty. Price: $39,902.40
+Buyer Han-2 wants a Pickup (WantsOne)
+Buyer Han-2 is buying! Salesperson Rachel gets a bonus of $750.00!
+Buyer Han-2 bought Dirty LikeNew Colorado With addon Undercoating. Price: $60,564.00
+Buyer Chewy-2 wants a Performance (NeedsOne)
+Buyer Chewy-2 is buying! Salesperson Monica gets a bonus of $1,000.00!
+Buyer Chewy-2 bought Dirty LikeNew Mustang Price: $92,778.75
+Buyer Luke-3 wants a Motorcyclce (WantsOne)
+Buyer Luke-3 is buying! Salesperson Rachel gets a bonus of $50.00!
+Buyer Luke-3 bought Dirty Used Chopper With addon Satellite Radio. Price: $138,556.32
+Buyer Leia-3 wants a Electric (WantsOne)
+Buyer Leia-3 decided not to buy.
+Buyer Han-3 wants a Car (JustLooking)
+Buyer Han-3 decided not to buy.
+Buyer Chewy-3 wants a Car (NeedsOne)
+Buyer Chewy-3 is buying! Salesperson Rachel gets a bonus of $500.00!
+Buyer Chewy-3 bought Clean LikeNew Probe Price: $33,252.00
+Buyer Luke-4 wants a Car (JustLooking)
+Buyer Luke-4 decided not to buy.
+Mecahnic: Scotty has left FNCD.
+Intern: Ben has been promoted to mechanic
+The FNCD is opening...
+Hired a new Intern named Jenn
+Bought Europa-2, a Dirty LikeNew Performance for $39,116.00
+Bought Probe-2, a Clean LikeNew Car for $10,013.00
+Bought Scrambler, a Clean LikeNew Motorcyclce for $30,895.00
+Bought Ghost Rider, a Dirty LikeNew Monster for $66,496.00
+The FNCD interns are washing...
+Washing with elbow grease!
+Washing with elbow grease!
+Washing with elbow grease!
+Washing with elbow grease!
+Washing with chemical!
+Washing with chemical!
+The FNCD mechanics are repairing...
+Mechanic James got a bonus of $300.00!
+Mechanic James fixed Cybertruck Used to LikeNew
+Mechanic James got a bonus of $300.00!
+Mechanic James fixed Bolt Used to LikeNew
+Mechanic Scotty got a bonus of $150.00!
+Mechanic Scotty fixed Chopper Used to LikeNew
+Mechanic Scotty got a bonus of $150.00!
+Mechanic Scotty fixed Roadster Broken to Used
+Mechanic Spock got a bonus of $150.00!
+Mechanic Spock fixed Roadster Used to LikeNew
+Mechanic Spock did not fix the Used Touring
+The FNCD salespeople are selling...
+The FNCD has 4 buyers today...
+Buyer Luke-3 wants a Car (NeedsOne)
+Buyer Luke-3 is buying! Salesperson Rachel gets a bonus of $500.00!
+Buyer Luke-3 bought Clean LikeNew Escort Price: $35,506.00
+Buyer Leia-3 wants a Performance (WantsOne)
+Buyer Leia-3 is buying! Salesperson Phoebe gets a bonus of $1,000.00!
+Buyer Leia-3 bought Dirty LikeNew Europa-2 Price: $78,232.00
+Buyer Han-3 wants a Pickup (JustLooking)
+Buyer Han-3 decided not to buy.
+Buyer Chewy-3 wants a Performance (WantsOne)
+Buyer Chewy-3 is buying! Salesperson Rachel gets a bonus of $1,000.00!
+Buyer Chewy-3 bought Clean LikeNew Corvette Price: $58,202.00
+The FNCD North is opening...
+Hired a new Salesperson named Rachel
+Hired a new Salesperson named Monica
+Hired a new Salesperson named Phoebe
+Hired a new Mechanic named James
+Hired a new Mechanic named Scotty
+Hired a new Mechanic named Spock
+Hired a new Driver named Brock
+Hired a new Driver named Jamar
+Hired a new Driver named Larisa
+Hired a new Intern named Ben
+Hired a new Intern named Lucas
+Hired a new Intern named Lucy
+Bought Europa, a Clean LikeNew Performance for $35,426.00
+Bought Cayman, a Clean Broken Performance for $14,152.50
+Bought Corvette, a Dirty LikeNew Performance for $30,133.00
+***Budget overrun*** Added $250K, budget now: $246,916.50
+Bought Mustang, a Dirty LikeNew Performance for $23,372.00
+Bought Probe, a Dirty Used Car for $13,128.00
+Bought Escort, a Clean Broken Car for $7,184.00
+Bought Taurus, a Dirty LikeNew Car for $12,980.00
+Bought Fiesta, a Clean LikeNew Car for $18,859.00
+Bought Ranger, a Dirty LikeNew Pickup for $19,062.00
+Bought F-250, a Clean LikeNew Pickup for $14,685.00
+Bought Colorado, a Dirty Used Pickup for $16,967.20
+Bought Tundra, a Clean Used Pickup for $24,196.80
+***Budget overrun*** Added $250K, budget now: $3,849.50
+Bought Model S P90D, a Dirty LikeNew Electric for $366,005.00
+***Budget overrun*** Added $250K, budget now: $46,493.50
+Bought Taycon Turbo S, a Dirty Broken Electric for $207,356.00
+***Budget overrun*** Added $250K, budget now: $18,507.90
+Bought Cybertruck, a Dirty Used Electric for $277,985.60
+***Budget overrun*** Added $250K, budget now: -$176,092.10
+Bought Bolt, a Dirty LikeNew Electric for $444,600.00
+***Budget overrun*** Added $250K, budget now: $21,594.90
+Bought Chopper, a Clean LikeNew Motorcyclce for $52,313.00
+Bought Scooter, a Clean Broken Motorcyclce for $11,782.00
+***Budget overrun*** Added $250K, budget now: $222,333.90
+Bought Roadster, a Clean LikeNew Motorcyclce for $37,479.00
+Bought Touring, a Dirty Broken Motorcyclce for $22,088.50
+Bought Alien Invasion, a Dirty Broken Monster for $36,271.50
+Bought Avenger, a Clean Broken Monster for $26,087.50
+Bought Bad Company, a Clean LikeNew Monster for $64,843.00
+Bought Blue Thunder, a Dirty Broken Monster for $39,950.00
+The FNCD South is opening...
+Hired a new Salesperson named Chandler
+Hired a new Salesperson named Ross
+Hired a new Salesperson named Joey
+Hired a new Mechanic named Uhura
+Hired a new Mechanic named James-2
+Hired a new Mechanic named Scotty-2
+Hired a new Driver named Johnny
+Hired a new Driver named Bella
+Hired a new Driver named Olivia
+Hired a new Intern named Jenn
+Hired a new Intern named Joey
+Hired a new Intern named Jack
+Bought Europa-2, a Sparkling LikeNew Performance for $36,427.00
+Bought Cayman-2, a Clean Broken Performance for $14,654.50
+Bought Corvette-2, a Dirty Broken Performance for $17,522.50
+Bought Mustang-2, a Clean Used Performance for $27,228.00
+***Budget overrun*** Added $250K, budget now: $244,966.00
+Bought Probe-2, a Dirty Broken Car for $9,202.00
+Bought Escort-2, a Dirty LikeNew Car for $12,332.00
+Bought Taurus-2, a Dirty Used Car for $13,565.60
+Bought Fiesta-2, a Dirty Broken Car for $8,502.00
+Bought Ranger-2, a Clean LikeNew Pickup for $30,016.00
+Bought F-250-2, a Dirty LikeNew Pickup for $36,596.00
+Bought Colorado-2, a Clean Broken Pickup for $11,502.00
+Bought Tundra-2, a Clean Broken Pickup for $10,525.00
+***Budget overrun*** Added $250K, budget now: -$23,634.20
+Bought Model X 100D, a Clean Used Electric for $395,561.60
+***Budget overrun*** Added $250K, budget now: -$169,011.00
+Bought Model S P90D-2, a Clean Used Electric for $395,376.80
+***Budget overrun*** Added $250K, budget now: -$316,263.00
+Bought Taycon Turbo S-2, a Dirty LikeNew Electric for $397,252.00
+***Budget overrun*** Added $250K, budget now: -$465,697.40
+Bought Cybertruck-2, a Dirty Used Electric for $399,434.40
+***Budget overrun*** Added $250K, budget now: -$238,493.40
+Bought Scrambler, a Dirty LikeNew Motorcyclce for $22,796.00
+***Budget overrun*** Added $250K, budget now: -$14,201.90
+Bought Cruiser, a Dirty Broken Motorcyclce for $25,708.50
+***Budget overrun*** Added $250K, budget now: $157,521.30
+Bought Chopper-2, a Sparkling Used Motorcyclce for $78,276.80
+Bought Scooter-2, a Dirty LikeNew Motorcyclce for $23,038.00
+Bought Ghost Rider, a Dirty Broken Monster for $39,863.00
+Bought Black Pearl, a Dirty Broken Monster for $31,742.00
+***Budget overrun*** Added $250K, budget now: $245,734.30
+Bought Alien Invasion-2, a Clean LikeNew Monster for $67,144.00
+Bought Avenger-2, a Dirty Broken Monster for $34,898.00
+The FNCD North interns are washing...
+Washing with chemical!
+Washing with chemical!
+Washing with elbow grease!
+Washing with elbow grease!
+Washing with elbow grease!
+Washing with elbow grease!
+The FNCD South interns are washing...
+Washing with elbow grease!
+Washing with elbow grease!
+Washing with elbow grease!
+Washing with elbow grease!
+Washing with elbow grease!
+Washing with elbow grease!
+The FNCD North mechanics are repairing...
+Mechanic James got a bonus of $300.00!
+Mechanic James fixed Cayman Broken to Used
+Mechanic James got a bonus of $100.00!
+Mechanic James fixed Probe Used to LikeNew
+Mechanic Scotty got a bonus of $300.00!
+Mechanic Scotty fixed Cayman Used to LikeNew
+Mechanic Scotty did not fix the Broken Escort
+Mechanic Spock got a bonus of $100.00!
+Mechanic Spock fixed Escort Broken to Used
+Mechanic Spock got a bonus of $200.00!
+Mechanic Spock fixed Colorado Used to LikeNew
+The FNCD South mechanics are repairing...
+Mechanic Uhura got a bonus of $300.00!
+Mechanic Uhura fixed Cayman-2 Broken to Used
+Mechanic Uhura got a bonus of $300.00!
+Mechanic Uhura fixed Corvette-2 Broken to Used
+Mechanic James-2 got a bonus of $300.00!
+Mechanic James-2 fixed Cayman-2 Used to LikeNew
+Mechanic James-2 got a bonus of $300.00!
+Mechanic James-2 fixed Corvette-2 Used to LikeNew
+Mechanic Scotty-2 did not fix the Used Mustang-2
+Mechanic Scotty-2 got a bonus of $100.00!
+Mechanic Scotty-2 fixed Probe-2 Broken to Used
+The FNCD North salespeople are selling...
+The FNCD North has 1 buyers today...
+Buyer Luke wants a Car (NeedsOne)
+Buyer Luke is buying! Salesperson Rachel gets a bonus of $500.00!
+Buyer Luke bought Clean LikeNew Fiesta With addon Satellite Radio. Price: $39,603.90
+The FNCD South salespeople are selling...
+The FNCD South has 4 buyers today...
+Buyer Leia wants a Electric (JustLooking)
+Buyer Leia decided not to buy.
+Buyer Han wants a Monster (WantsOne)
+Buyer Han is buying! Salesperson Chandler gets a bonus of $2,000.00!
+Buyer Han bought Clean LikeNew Alien Invasion-2 With addon Road Rescue Coverage. With addon Satellite Radio. Price: $143,822.45
+Buyer Chewy wants a Electric (NeedsOne)
+Buyer Chewy is buying! Salesperson Ross gets a bonus of $1,000.00!
+Buyer Chewy bought Dirty Used Cybertruck-2 With addon Satellite Radio. Price: $838,812.24
+Buyer Luke-2 wants a Motorcyclce (WantsOne)
+Buyer Luke-2 decided not to buy.
+Driver Brock raced. They placed 13.
+Driver Jamar raced. They placed 2 and won! This is win #1They received bonus of $2000.00
+Driver Larisa raced. They placed 8.
+The FNCD North is opening...
+Hired a new Salesperson named Rachel
+Hired a new Salesperson named Monica
+Hired a new Salesperson named Phoebe
+Hired a new Mechanic named James
+Hired a new Mechanic named Scotty
+Hired a new Mechanic named Spock
+Hired a new Driver named Brock
+Hired a new Driver named Jamar
+Hired a new Driver named Larisa
+Hired a new Intern named Ben
+Hired a new Intern named Lucas
+Hired a new Intern named Lucy
+Bought Europa, a Dirty Broken Performance for $17,334.50
+Bought Cayman, a Dirty Used Performance for $23,702.40
+Bought Corvette, a Clean LikeNew Performance for $39,712.00
+Bought Mustang, a Sparkling Broken Performance for $12,691.50
+***Budget overrun*** Added $250K, budget now: $240,147.60
+Bought Probe, a Dirty LikeNew Car for $16,412.00
+Bought Escort, a Dirty LikeNew Car for $10,357.00
+Bought Taurus, a Dirty Used Car for $14,239.20
+Bought Fiesta, a Dirty Broken Car for $9,573.50
+Bought Ranger, a Sparkling Broken Pickup for $6,552.00
+Bought F-250, a Clean Broken Pickup for $6,554.50
+Bought Colorado, a Dirty Used Pickup for $19,406.40
+Bought Tundra, a Clean Broken Pickup for $10,518.00
+***Budget overrun*** Added $250K, budget now: -$55,599.00
+Bought Model S P90D, a Dirty LikeNew Electric for $468,546.00
+***Budget overrun*** Added $250K, budget now: -$107,747.80
+Bought Taycon Turbo S, a Dirty Used Electric for $302,148.80
+***Budget overrun*** Added $250K, budget now: -$76,498.80
+Bought Cybertruck, a Dirty Broken Electric for $218,751.00
+***Budget overrun*** Added $250K, budget now: -$44,042.30
+Bought Bolt, a Clean Broken Electric for $217,543.50
+***Budget overrun*** Added $250K, budget now: $192,907.70
+Bought Chopper, a Clean Broken Motorcyclce for $13,050.00
+Bought Scooter, a Clean Used Motorcyclce for $28,848.00
+Bought Roadster, a Dirty LikeNew Motorcyclce for $20,058.00
+Bought Touring, a Sparkling LikeNew Motorcyclce for $68,822.00
+Bought Alien Invasion, a Dirty LikeNew Monster for $67,768.00
+***Budget overrun*** Added $250K, budget now: $232,246.20
+Bought Avenger, a Dirty Broken Monster for $25,165.50
+Bought Bad Company, a Dirty LikeNew Monster for $57,312.00
+Bought Blue Thunder, a Sparkling Broken Monster for $25,901.50
+The FNCD South is opening...
+Hired a new Salesperson named Chandler
+Hired a new Salesperson named Ross
+Hired a new Salesperson named Joey
+Hired a new Mechanic named Uhura
+Hired a new Mechanic named James-2
+Hired a new Mechanic named Scotty-2
+Hired a new Driver named Johnny
+Hired a new Driver named Bella
+Hired a new Driver named Olivia
+Hired a new Intern named Jenn
+Hired a new Intern named Joey
+Hired a new Intern named Jack
+Bought Europa-2, a Clean LikeNew Performance for $26,810.00
+Bought Cayman-2, a Sparkling LikeNew Performance for $33,104.00
+Bought Corvette-2, a Clean LikeNew Performance for $26,966.00
+Bought Mustang-2, a Clean Broken Performance for $11,243.00
+***Budget overrun*** Added $250K, budget now: $237,930.60
+Bought Probe-2, a Dirty Used Car for $13,946.40
+Bought Escort-2, a Clean LikeNew Car for $17,442.00
+Bought Taurus-2, a Dirty Broken Car for $6,241.00
+Bought Fiesta-2, a Dirty Broken Car for $6,127.00
+Bought Ranger-2, a Dirty Used Pickup for $29,316.00
+Bought F-250-2, a Dirty Broken Pickup for $5,754.50
+Bought Colorado-2, a Dirty Used Pickup for $13,451.20
+Bought Tundra-2, a Clean LikeNew Pickup for $19,566.00
+***Budget overrun*** Added $250K, budget now: $138,778.50
+Bought Model X 100D, a Clean Used Electric for $251,254.40
+***Budget overrun*** Added $250K, budget now: -$13,591.50
+Bought Model S P90D-2, a Clean LikeNew Electric for $402,370.00
+***Budget overrun*** Added $250K, budget now: -$42,609.90
+Bought Taycon Turbo S-2, a Dirty Used Electric for $279,018.40
+***Budget overrun*** Added $250K, budget now: -$177,018.70
+Bought Cybertruck-2, a Dirty Used Electric for $384,408.80
+***Budget overrun*** Added $250K, budget now: $33,262.80
+Bought Scrambler, a Dirty Broken Motorcyclce for $39,718.50
+***Budget overrun*** Added $250K, budget now: $213,210.00
+Bought Cruiser, a Clean Used Motorcyclce for $70,052.80
+Bought Chopper-2, a Dirty Used Motorcyclce for $75,997.60
+Bought Scooter-2, a Dirty Used Motorcyclce for $38,562.40
+Bought Ghost Rider, a Clean Broken Monster for $33,368.00
+***Budget overrun*** Added $250K, budget now: $238,842.00
+Bought Black Pearl, a Dirty LikeNew Monster for $76,440.00
+Bought Alien Invasion-2, a Dirty Used Monster for $56,599.20
+Bought Avenger-2, a Clean LikeNew Monster for $70,698.00
+The FNCD North interns are washing...
+Washing with chemical!
+Washing with chemical!
+Washing with elbow grease!
+Washing with elbow grease!
+Washing with elbow grease!
+Washing with elbow grease!
+The FNCD South interns are washing...
+Washing with elbow grease!
+Washing with elbow grease!
+Washing with elbow grease!
+Washing with elbow grease!
+Washing with elbow grease!
+Washing with elbow grease!
+The FNCD North mechanics are repairing...
+Mechanic James got a bonus of $300.00!
+Mechanic James fixed Europa Broken to Used
+Mechanic James got a bonus of $300.00!
+Mechanic James fixed Cayman Used to LikeNew
+Mechanic Scotty did not fix the Used Europa
+Mechanic Scotty got a bonus of $300.00!
+Mechanic Scotty fixed Mustang Broken to Used
+Mechanic Spock got a bonus of $300.00!
+Mechanic Spock fixed Europa Used to LikeNew
+Mechanic Spock got a bonus of $300.00!
+Mechanic Spock fixed Mustang Used to LikeNew
+The FNCD South mechanics are repairing...
+Mechanic Uhura got a bonus of $300.00!
+Mechanic Uhura fixed Mustang-2 Broken to Used
+Mechanic Uhura got a bonus of $100.00!
+Mechanic Uhura fixed Probe-2 Used to LikeNew
+Mechanic James-2 got a bonus of $300.00!
+Mechanic James-2 fixed Mustang-2 Used to LikeNew
+Mechanic James-2 got a bonus of $100.00!
+Mechanic James-2 fixed Taurus-2 Broken to Used
+Mechanic Scotty-2 did not fix the Used Taurus-2
+Mechanic Scotty-2 got a bonus of $100.00!
+Mechanic Scotty-2 fixed Fiesta-2 Broken to Used
+The FNCD North salespeople are selling...
+The FNCD North has 2 buyers today...
+Buyer Luke wants a Car (JustLooking)
+Buyer Luke decided not to buy.
+Buyer Leia wants a Electric (NeedsOne)
+Buyer Leia is buying! Salesperson Monica gets a bonus of $1,000.00!
+Buyer Leia bought Dirty LikeNew Model S P90D Price: $937,092.00
+The FNCD South salespeople are selling...
+The FNCD South has 0 buyers today...
+The FNCD North is opening...
+The FNCD South is opening...
+The FNCD North interns are washing...
+Washing with chemical!
+Washing with chemical!
+Washing with chemical!
+Washing with chemical!
+Washing with chemical!
+Washing with chemical!
+The FNCD South interns are washing...
+Washing with chemical!
+Washing with chemical!
+Washing with chemical!
+Washing with chemical!
+Washing with elbow grease!
+Washing with elbow grease!
+The FNCD North mechanics are repairing...
+Mechanic James did not fix the Broken Mustang
+Mechanic James got a bonus of $100.00!
+Mechanic James fixed Probe Used to LikeNew
+Mechanic Scotty got a bonus of $300.00!
+Mechanic Scotty fixed Mustang Broken to Used
+Mechanic Scotty got a bonus of $100.00!
+Mechanic Scotty fixed Taurus Used to LikeNew
+Mechanic Spock got a bonus of $300.00!
+Mechanic Spock fixed Mustang Used to LikeNew
+Mechanic Spock did not fix the Broken F-250
+The FNCD South mechanics are repairing...
+Mechanic Uhura got a bonus of $300.00!
+Mechanic Uhura fixed Mustang-2 Broken to Used
+Mechanic Uhura did not fix the Broken Probe-2
+Mechanic James-2 got a bonus of $300.00!
+Mechanic James-2 fixed Mustang-2 Used to LikeNew
+Mechanic James-2 got a bonus of $100.00!
+Mechanic James-2 fixed Probe-2 Broken to Used
+Mechanic Scotty-2 got a bonus of $100.00!
+Mechanic Scotty-2 fixed Probe-2 Used to LikeNew
+Mechanic Scotty-2 got a bonus of $100.00!
+Mechanic Scotty-2 fixed Taurus-2 Broken to Used
+The FNCD North salespeople are selling...
+The FNCD North has 8 buyers today...
+Buyer Luke-4 wants a Motorcyclce (JustLooking)
+Buyer Luke-4 decided not to buy.
+Buyer Leia-4 wants a Pickup (WantsOne)
+Buyer Leia-4 is buying! Salesperson Phoebe gets a bonus of $750.00!
+Buyer Leia-4 bought Clean LikeNew Ranger With addon Satellite Radio. Price: $76,343.40
+Buyer Han-4 wants a Motorcyclce (NeedsOne)
+Buyer Han-4 is buying! Salesperson Monica gets a bonus of $50.00!
+Buyer Han-4 bought Clean Used Chopper With addon Road Rescue Coverage. Price: $152,988.58
+Buyer Chewy-4 wants a Monster (NeedsOne)
+Buyer Chewy-4 is buying! Salesperson Monica gets a bonus of $2,000.00!
+Buyer Chewy-4 bought Dirty LikeNew Alien Invasion Price: $138,762.00
+Buyer Luke-5 wants a Monster (WantsOne)
+Buyer Luke-5 decided not to buy.
+Buyer Leia-5 wants a Performance (JustLooking)
+Buyer Leia-5 is buying! Salesperson Rachel gets a bonus of $1,000.00!
+Buyer Leia-5 bought Clean LikeNew Europa With addon Satellite Radio. Price: $71,601.60
+Buyer Han-5 wants a Electric (NeedsOne)
+Buyer Han-5 is buying! Salesperson Phoebe gets a bonus of $1,000.00!
+Buyer Han-5 bought Clean LikeNew Model S P90D Price: $933,142.00
+Buyer Chewy-5 wants a Pickup (NeedsOne)
+Buyer Chewy-5 is buying! Salesperson Monica gets a bonus of $750.00!
+Buyer Chewy-5 bought Clean LikeNew Ranger Price: $72,708.00
+The FNCD South salespeople are selling...
+The FNCD South has 7 buyers today...
+Buyer Luke-6 wants a Motorcyclce (NeedsOne)
+Buyer Luke-6 is buying! Salesperson Joey gets a bonus of $50.00!
+Buyer Luke-6 bought Clean LikeNew Cruiser Price: $119,892.00
+Buyer Leia-6 wants a Monster (JustLooking)
+Buyer Leia-6 decided not to buy.
+Buyer Han-6 wants a Motorcyclce (WantsOne)
+Buyer Han-6 decided not to buy.
+Buyer Chewy-6 wants a Car (JustLooking)
+Buyer Chewy-6 decided not to buy.
+Buyer Luke-7 wants a Electric (NeedsOne)
+Buyer Luke-7 is buying! Salesperson Chandler gets a bonus of $1,000.00!
+Buyer Luke-7 bought Clean LikeNew Model X 100D With addon Satellite Radio. Price: $852,257.70
+Buyer Leia-7 wants a Electric (JustLooking)
+Buyer Leia-7 decided not to buy.
+Buyer Han-7 wants a Car (JustLooking)
+Buyer Han-7 decided not to buy.
+Salesperson: Rachel has left FNCD North.
+Intern: Lucy has been promoted to mechanic
+The FNCD North is opening...
+Hired a new Salesperson named Rachel
+Hired a new Salesperson named Monica
+Hired a new Salesperson named Phoebe
+Hired a new Mechanic named James
+Hired a new Mechanic named Scotty
+Hired a new Mechanic named Spock
+Hired a new Driver named Brock
+Hired a new Driver named Jamar
+Hired a new Driver named Larisa
+Hired a new Intern named Ben
+Hired a new Intern named Lucas
+Hired a new Intern named Lucy
+Bought Europa, a Dirty LikeNew Performance for $27,587.00
+Bought Cayman, a Dirty Broken Performance for $10,268.50
+Bought Corvette, a Clean LikeNew Performance for $21,594.00
+Bought Mustang, a Dirty Used Performance for $20,706.40
+Bought Probe, a Dirty LikeNew Car for $13,020.00
+***Budget overrun*** Added $250K, budget now: $248,936.60
+Bought Escort, a Clean Broken Car for $7,887.50
+Bought Taurus, a Dirty LikeNew Car for $17,927.00
+Bought Fiesta, a Dirty LikeNew Car for $14,369.00
+Bought Ranger, a Sparkling Broken Pickup for $6,537.50
+Bought F-250, a Dirty LikeNew Pickup for $26,511.00
+Bought Colorado, a Dirty Broken Pickup for $7,190.00
+Bought Tundra, a Dirty Broken Pickup for $10,622.00
+***Budget overrun*** Added $250K, budget now: $62,197.10
+Bought Model S P90D, a Clean LikeNew Electric for $353,583.00
+***Budget overrun*** Added $250K, budget now: -$151,857.90
+Bought Taycon Turbo S, a Dirty LikeNew Electric for $464,055.00
+***Budget overrun*** Added $250K, budget now: -$129,945.40
+Bought Cybertruck, a Clean Broken Electric for $228,087.50
+***Budget overrun*** Added $250K, budget now: -$213,063.00
+Bought Bolt, a Clean Used Electric for $333,117.60
+***Budget overrun*** Added $250K, budget now: $2,690.00
+Bought Chopper, a Dirty Broken Motorcyclce for $34,247.00
+***Budget overrun*** Added $250K, budget now: $163,441.00
+Bought Scooter, a Dirty LikeNew Motorcyclce for $89,249.00
+Bought Roadster, a Clean Broken Motorcyclce for $14,100.00
+Bought Touring, a Clean LikeNew Motorcyclce for $21,663.00
+Bought Alien Invasion, a Dirty LikeNew Monster for $62,899.00
+***Budget overrun*** Added $250K, budget now: $243,753.00
+Bought Avenger, a Dirty LikeNew Monster for $71,026.00
+Bought Bad Company, a Dirty LikeNew Monster for $53,963.00
+Bought Blue Thunder, a Dirty Used Monster for $49,864.00
+The FNCD South is opening...
+Hired a new Salesperson named Chandler
+Hired a new Salesperson named Ross
+Hired a new Salesperson named Joey
+Hired a new Mechanic named Uhura
+Hired a new Mechanic named James-2
+Hired a new Mechanic named Scotty-2
+Hired a new Driver named Johnny
+Hired a new Driver named Bella
+Hired a new Driver named Olivia
+Hired a new Intern named Jenn
+Hired a new Intern named Joey
+Hired a new Intern named Jack
+Bought Europa-2, a Dirty Used Performance for $20,248.00
+Bought Cayman-2, a Clean Broken Performance for $13,717.50
+Bought Corvette-2, a Sparkling Used Performance for $27,340.80
+Bought Mustang-2, a Dirty Broken Performance for $12,060.00
+Bought Probe-2, a Dirty Broken Car for $7,821.00
+Bought Escort-2, a Clean Broken Car for $9,885.50
+***Budget overrun*** Added $250K, budget now: $239,635.20
+Bought Taurus-2, a Clean LikeNew Car for $19,292.00
+Bought Fiesta-2, a Dirty Used Car for $9,881.60
+Bought Ranger-2, a Clean LikeNew Pickup for $11,298.00
+Bought F-250-2, a Dirty Broken Pickup for $5,226.00
+Bought Colorado-2, a Dirty Used Pickup for $21,967.20
+Bought Tundra-2, a Dirty Used Pickup for $9,487.20
+***Budget overrun*** Added $250K, budget now: $21,372.20
+Bought Model X 100D, a Dirty LikeNew Electric for $410,403.00
+***Budget overrun*** Added $250K, budget now: -$146,036.80
+Bought Model S P90D-2, a Clean LikeNew Electric for $417,409.00
+***Budget overrun*** Added $250K, budget now: -$46,259.80
+Bought Taycon Turbo S-2, a Sparkling Broken Electric for $150,223.00
+***Budget overrun*** Added $250K, budget now: -$2,108.30
+Bought Cybertruck-2, a Dirty Broken Electric for $205,848.50
+***Budget overrun*** Added $250K, budget now: $186,197.70
+Bought Scrambler, a Clean LikeNew Motorcyclce for $61,694.00
+Bought Cruiser, a Dirty Broken Motorcyclce for $42,795.50
+Bought Chopper-2, a Clean Used Motorcyclce for $41,921.60
+Bought Scooter-2, a Clean Used Motorcyclce for $68,080.80
+Bought Ghost Rider, a Dirty Broken Monster for $32,658.00
+***Budget overrun*** Added $250K, budget now: $197,691.80
+Bought Black Pearl, a Dirty LikeNew Monster for $53,050.00
+Bought Alien Invasion-2, a Clean Used Monster for $50,733.60
+Bought Avenger-2, a Dirty Broken Monster for $35,359.00
+The FNCD North interns are washing...
+Washing with chemical!
+Intern Ben got a bonus of $100.00!
+Washing with chemical!
+Washing with elbow grease!
+Washing with elbow grease!
+Washing with elbow grease!
+Washing with elbow grease!
+The FNCD South interns are washing...
+Washing with chemical!
+Washing with chemical!
+Washing with chemical!
+Washing with chemical!
+Washing with elbow grease!
+Washing with elbow grease!
+The FNCD North mechanics are repairing...
+Mechanic James got a bonus of $300.00!
+Mechanic James fixed Cayman Broken to Used
+Mechanic James got a bonus of $300.00!
+Mechanic James fixed Mustang Used to LikeNew
+Mechanic Scotty got a bonus of $300.00!
+Mechanic Scotty fixed Cayman Used to LikeNew
+Mechanic Scotty got a bonus of $100.00!
+Mechanic Scotty fixed Escort Broken to Used
+Mechanic Spock got a bonus of $100.00!
+Mechanic Spock fixed Escort Used to LikeNew
+Mechanic Spock got a bonus of $200.00!
+Mechanic Spock fixed Ranger Broken to Used
+The FNCD South mechanics are repairing...
+Mechanic Uhura got a bonus of $300.00!
+Mechanic Uhura fixed Europa-2 Used to LikeNew
+Mechanic Uhura got a bonus of $300.00!
+Mechanic Uhura fixed Cayman-2 Broken to Used
+Mechanic James-2 got a bonus of $300.00!
+Mechanic James-2 fixed Cayman-2 Used to LikeNew
+Mechanic James-2 got a bonus of $300.00!
+Mechanic James-2 fixed Corvette-2 Used to LikeNew
+Mechanic Scotty-2 got a bonus of $300.00!
+Mechanic Scotty-2 fixed Mustang-2 Broken to Used
+Mechanic Scotty-2 got a bonus of $100.00!
+Mechanic Scotty-2 fixed Escort-2 Broken to Used
+The FNCD North salespeople are selling...
+The FNCD North has 3 buyers today...
+Buyer Luke wants a Performance (WantsOne)
+Buyer Luke decided not to buy.
+Buyer Leia wants a Electric (NeedsOne)
+Buyer Leia is buying! Salesperson Rachel gets a bonus of $1,000.00!
+Buyer Leia bought Dirty LikeNew Taycon Turbo S With addon Road Rescue Coverage. With addon Satellite Radio. Price: $994,005.81
+Buyer Han wants a Performance (NeedsOne)
+Buyer Han is buying! Salesperson Rachel gets a bonus of $1,000.00!
+Buyer Han bought Sparkling LikeNew Europa Price: $55,174.00
+The FNCD South salespeople are selling...
+The FNCD South has 3 buyers today...
+Buyer Chewy wants a Electric (WantsOne)
+Buyer Chewy is buying! Salesperson Chandler gets a bonus of $1,000.00!
+Buyer Chewy bought Clean LikeNew Model S P90D-2 Price: $834,818.00
+Buyer Luke-2 wants a Motorcyclce (JustLooking)
+Buyer Luke-2 decided not to buy.
+Buyer Leia-2 wants a Motorcyclce (NeedsOne)
+Buyer Leia-2 is buying! Salesperson Joey gets a bonus of $50.00!
+Buyer Leia-2 bought Clean Used Scooter-2 With addon Extended Warranty. With addon Satellite Radio. Price: $171,563.62
+Mecahnic: James has left FNCD North.
+Intern: Lucy has been promoted to mechanic
+Salesperson: Rachel has left FNCD North.
+Intern: Lucas has been promoted to mechanic

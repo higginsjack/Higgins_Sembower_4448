@@ -1,7 +1,7 @@
 public class StaffFactory {
     public Staff makeVehicle(Enums.StaffType sType) {
         Staff newStaff = null;
-        switch (sType):
+        switch (sType){
         case Salesperson:
             return new Salesperson();
         case Intern:
@@ -13,4 +13,6 @@ public class StaffFactory {
         default:
             throw new IllegalArgumentException("Invalid Staff Type");
     }
+}
+
 }

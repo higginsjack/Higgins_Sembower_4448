@@ -1,7 +1,7 @@
 public class VehicleFactory {
     public Vehicle makeVehicle(Enums.VehicleType vType) {
         Vehicle newVehicle = null;
-        switch (vType):
+        switch (vType){
         case Car:
             return new Car();
         case Motorcycle:
@@ -21,4 +21,5 @@ public class VehicleFactory {
         default:
             throw new IllegalArgumentException("Invalid Vehicle Type");
     }
+}
 }

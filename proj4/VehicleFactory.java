@@ -1,42 +1,43 @@
 public class VehicleFactory {
-    public Vehicle makeVehicle(String vType) {
+    public Vehicle makeVehicle(Enums.VehicleType vType) {
         Vehicle newVehicle = null;
 
-        if (vType.equals("Car")) {
+        if (vType == Car)) {
             return new Car();
         }
         else 
-            if (vType.equals("Performance")){
+            if (vType == Performance){
                 return new Performance();
             
         }
         else 
-            if (vType.equals("Motorcycle")){
+            if (vType == Motorcycle){
                 return new Motorcycle();
             }
         else 
-            if (vType.equals("Monster")){
+            if (vType == Monster){
                 return new Monster();
             }
         else
-            if (vType.equals("Pickup")){
+            if (vType == Pickup){
                 return new Pickup();
             }
         else 
-            if (vType.equals("Electric")){
+            if (vType == Electric){
                 return new Electric();
             }
         else 
-            if (vType.equals("Super")){
+            if (vType == Super){
                 return new Super();
             }
         else
-            if (vType.equals("F1")){
+            if (vType == F1){
                 return new F1();
             }
         else
-            if (vType.equals("Hyper")){
+            if (vType == Hyper){
                 return new Hyper();
             }
+        else {System.out.println("please enter a valid vehicle type");}
     }
 }

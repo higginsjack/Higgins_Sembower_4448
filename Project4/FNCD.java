@@ -3,6 +3,7 @@ import java.util.Collections;
 // import java.util.concurrent.Flow.Subscriber;
 import java.util.List;
 
+import org.junit.Test;
 // This represents the FNCD business and things they would control
 public class FNCD implements Subject {
     ArrayList<Observer> observers;
@@ -10,9 +11,8 @@ public class FNCD implements Subject {
     ArrayList<Staff> departedStaff;   // folks that left
     ArrayList<Vehicle> inventory;   // vehicles at the FNCD
     ArrayList<Vehicle> soldVehicles;   // vehicles the buyers bought
-    Salesperson hciSales; //human computer interactive salesperson
-    private double budget;   // big money pil
-    String name;
+    private double budget;   // big money pile
+    
     @Override
     public void registerObserver(Observer obs) {
         observers.add(obs);        
@@ -36,16 +36,15 @@ public class FNCD implements Subject {
             }
         }  
     }
+    
 
-    FNCD(String n) {
-        name=n;
+    FNCD() {
         staff = new ArrayList<>();
         departedStaff = new ArrayList<>();
         inventory = new ArrayList<>();
         soldVehicles = new ArrayList<>();
         budget = 100000;  // I changed this just to see additions to the budget happen
         observers = new ArrayList<Observer>();
-        hciSales=null;
         registerObserver(new Tracker());
     }
     double getBudget() {
@@ -73,7 +72,7 @@ public class FNCD implements Subject {
     void closedDay(Enums.daysOfTheWeek day) {   // Nothing really special abthis.observer.update closed days
         Logger l = new Logger();
         registerObserver(l);
-        notifyObserver(l, "Sorry, FNCD " + this.name +" is closed on "+ day);
+        notifyObserver(l, "Sorry, FNCD is closed on "+ day);
         notifyObserver(observers.get(0), "day");
         // notifyObserver(observers.get(0), null);
         Logger.increaseDay();
@@ -138,32 +137,26 @@ public class FNCD implements Subject {
 
     }
 
-    // void normalDay(Enums.daysOfTheWeek day) {  // On a normal day, we do all the activities
-    void opening(Enums.daysOfTheWeek day) {
+    void normalDay(Enums.daysOfTheWeek day) {  // On a normal day, we do all the activities
         Logger l = new Logger();
         registerObserver(l);
         // opening
-        notifyObserver(l, "The FNCD " + this.name +" is opening...");
+        notifyObserver(l, "The FNCD is opening...");
         hireNewStaff();    // hire up to 3 of each staff type
         updateInventory();  // buy up to 4 of each type
-    }
-    void washing(Enums.daysOfTheWeek day) {
+
         // washing - tell the interns to do the washing up
-        Logger l= (Logger) observers.get(1);
-        notifyObserver(l, "The FNCD " + this.name +" interns are washing...");
+        notifyObserver(l, "The FNCD interns are washing...");
         ArrayList<Staff> interns = Staff.getStaffByType(staff, Enums.StaffType.Intern);
         for (Staff s:interns) {
             Intern i = (Intern) s;
-            double b = i.washVehicles(inventory, (Logger)observers.get(1));
+            double b = i.washVehicles(inventory, l);
             observers.get(0).update("staff" + b);
             moneyOut(b); //will take bonus money off of budget
         }
-    }
 
-    void repairing(Enums.daysOfTheWeek day) {
-        Logger l= (Logger) observers.get(1);
         // repairing - tell the mechanics to do their repairing
-        notifyObserver(l, "The FNCD " + this.name +" mechanics are repairing...");
+        notifyObserver(l, "The FNCD mechanics are repairing...");
         ArrayList<Staff> mechanics = Staff.getStaffByType(staff, Enums.StaffType.Mechanic);
         for (Staff s:mechanics) {
             Mechanic m = (Mechanic) s;
@@ -171,16 +164,14 @@ public class FNCD implements Subject {
             observers.get(0).update("staff" + b);
             moneyOut(b); //will take bonus money off of budget
         }
-    }
-    void selling(Enums.daysOfTheWeek day) {
+
         // selling
-        Logger l= (Logger) observers.get(1);
-        notifyObserver(observers.get(1), "The FNCD " + this.name +" salespeople are selling...");
+        notifyObserver(l, "The FNCD salespeople are selling...");
         ArrayList<Buyer> buyers = getBuyers(day);
         ArrayList<Staff> salespeople = Staff.getStaffByType(staff, Enums.StaffType.Salesperson);
         // tell a random salesperson to sell each buyer a car - may get bonus
         for(Buyer b: buyers) {
-            notifyObserver(observers.get(1), "Buyer "+b.name+" wants a "+b.preference+" ("+b.type+")");
+            notifyObserver(l, "Buyer "+b.name+" wants a "+b.preference+" ("+b.type+")");
             int randomSeller = Utility.rndFromRange(0,salespeople.size()-1);
             Salesperson seller = (Salesperson) salespeople.get(randomSeller);
             Vehicle vSold = seller.sellVehicle(b, inventory, l);
@@ -193,11 +184,9 @@ public class FNCD implements Subject {
                 inventory.removeIf ( n -> n.name == vSold.name);
             }
         }
-    }
-    void ending(Enums.daysOfTheWeek day) {
+
         // ending
         // pay all the staff their salaries
-        Logger l = (Logger) observers.get(1);
         payStaff();
         // anyone quitting? replace with an intern (if not an intern)
         checkForQuitters(l);
@@ -205,7 +194,7 @@ public class FNCD implements Subject {
         // reportOut();
         notifyObserver(observers.get(0), "day");
         observers.get(0).reportOut("");
-        unregisterObserver(observers.get(1));
+        unregisterObserver(l);
         Logger.increaseDay();
         if(Logger.getday() == 30) {
             unregisterObserver(observers.get(0));
@@ -224,7 +213,7 @@ public class FNCD implements Subject {
         ArrayList<Buyer> buyers = new ArrayList<Buyer>();
         int buyerCount = Utility.rndFromRange(buyerMin,buyerMax);
         for (int i=1; i<=buyerCount; ++i) buyers.add(new Buyer());
-        notifyObserver(observers.get(1), "The FNCD " + this.name +" has "+buyerCount+" buyers today...");
+        notifyObserver(observers.get(1), "The FNCD has "+buyerCount+" buyers today...");
         return buyers;
     }
 
@@ -241,14 +230,14 @@ public class FNCD implements Subject {
     // adding staff
     // smells like we need a factory or something...
     void addStaff(Enums.StaffType t) {
-        Staff newStaff = null;
+
+        Staff newStaff = StaffFactory.makeVehicle(t);
         Strategy d = new Detailed();
-        if (t == Enums.StaffType.Intern) newStaff = new Intern();
-        if (t == Enums.StaffType.Mechanic) newStaff = new Mechanic();
-        if (t == Enums.StaffType.Salesperson) newStaff = new Salesperson();
-        if (t == Enums.StaffType.Driver) newStaff = new Driver();
         notifyObserver(observers.get(1), "Hired a new "+newStaff.type+" named "+ newStaff.name);
         staff.add(newStaff);
+
+
+
     }
 
     // see if we need any vehicles
@@ -263,14 +252,9 @@ public class FNCD implements Subject {
     }
 
     // add a vehicle of a type to the inventory
+    //adding VehicleFactory
     void addVehicle(Enums.VehicleType t) {
-        Vehicle v = null;
-        if (t == Enums.VehicleType.Car) v = new Car();
-        if (t == Enums.VehicleType.Performance) v = new Performance();
-        if (t == Enums.VehicleType.Pickup) v = new Pickup();
-        if (t == Enums.VehicleType.Electric) v = new Electric();
-        if (t == Enums.VehicleType.Motorcyclce) v = new Motorcyclce();
-        if (t == Enums.VehicleType.Monster) v = new Monster();
+        Vehicle v = VehicleFactory.makeVehicle(t);
         moneyOut(v.cost);  // pay for the vehicle
         notifyObserver(observers.get(1), "Bought "+v.name+", a "+v.cleanliness+" "+v.condition+" "+v.type+" for "+Utility.asDollar(v.cost));
         inventory.add(v);
@@ -334,7 +318,7 @@ public class FNCD implements Subject {
             Intern intern = (Intern) interns.get(randomIntern);
             departedStaff.add(intern);
             staff.removeIf ( n -> n.name == intern.name);
-            l.update("Intern: " + intern.name + " has left FNCD " + this.name +".");
+            l.update("Intern: " + intern.name + " has left FNCD.");
         }
         chance = Utility.rndFromRange(1,100);
         if(chance < 11) {
@@ -350,7 +334,7 @@ public class FNCD implements Subject {
             mech2.promotion(intern);
             staff.removeIf ( n -> n.name == mech2.name);
             staff.add(mech2);
-            l.update("Mecahnic: " + mechanic.name + " has left FNCD " + this.name +".");
+            l.update("Mecahnic: " + mechanic.name + " has left FNCD.");
             l.update("Intern: " + intern.name + " has been promoted to mechanic");
         }
         chance = Utility.rndFromRange(1,100);
@@ -367,7 +351,7 @@ public class FNCD implements Subject {
             sales2.promotion(intern);
             staff.removeIf ( n -> n.name == sales2.name);
             staff.add(sales2);
-            l.update("Salesperson: " + sales.name + " has left FNCD " + this.name +".");
+            l.update("Salesperson: " + sales.name + " has left FNCD.");
             l.update("Intern: " + intern.name + " has been promoted to mechanic");
         }
         for(int i = 0; i < drivers.size(); i++) {
@@ -375,7 +359,7 @@ public class FNCD implements Subject {
             if(driver.getInjured()) {
                 departedStaff.add(driver);
                 staff.removeIf ( n -> n.name == driver.name);
-                l.update("Driver: " + driver.name + " has left FNCD " + this.name +".");
+                l.update("Driver: " + driver.name + " has left FNCD.");
             }
         }
     }

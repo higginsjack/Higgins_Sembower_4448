@@ -1,314 +1,49 @@
 The FNCD North is opening...
-Hired a new Intern named Karen
-***Budget overrun*** Added $250K, budget now: $225,777.70
-Bought Europa-25, a Clean LikeNew Super for $39,658.00
-Bought Cayman-25, a Dirty LikeNew Super for $22,133.00
-Bought Corvette-25, a Dirty Broken Super for $17,323.00
-Bought Mustang-25, a Clean LikeNew Super for $22,341.00
-Bought Europa-26, a Dirty Broken Super for $12,992.50
-Bought Cayman-26, a Dirty Broken Super for $17,275.50
+Hired a new Intern named Lucas-2
 The FNCD South is opening...
-Bought Corvette-26, a Clean LikeNew Super for $21,492.00
-Bought Mustang-26, a Dirty Broken Super for $18,784.50
-Bought Europa-27, a Clean Broken Super for $13,212.50
-Bought Cayman-27, a Dirty Broken Super for $17,369.00
-Bought Corvette-27, a Clean LikeNew Super for $24,141.00
-Bought Mustang-27, a Clean Used Super for $26,455.20
-Bought Model S P90D-4, a Dirty Used Electric for $248,892.00
+Bought Lamborghini Huracan STO-2, a Clean LikeNew Supercar for $88,925.00
 The FNCD North interns are washing...
 Washing with elbow grease!
 Washing with elbow grease!
 Washing with elbow grease!
 Washing with elbow grease!
-Washing with chemical!
-Washing with chemical!
+Washing with elbow grease!
+Washing with elbow grease!
 The FNCD South interns are washing...
 Washing with elbow grease!
 Washing with elbow grease!
-Washing with chemical!
-Washing with chemical!
 Washing with elbow grease!
 Washing with elbow grease!
+Washing with chemical!
+Washing with chemical!
 The FNCD North mechanics are repairing...
-Mechanic James got a bonus of $1,000.00!
-Mechanic James fixed McLaren P1 Used to LikeNew
-Mechanic James got a bonus of $1,000.00!
-Mechanic James fixed McLaren F1 Broken to Used
+Mechanic Scotty did not fix the Broken F1-75
 Mechanic Scotty got a bonus of $1,000.00!
-Mechanic Scotty fixed McLaren F1 Used to LikeNew
-Mechanic Scotty got a bonus of $1,000.00!
-Mechanic Scotty fixed Koenigsegg Agera RS Used to LikeNew
-Mechanic Lucy got a bonus of $1,000.00!
-Mechanic Lucy fixed F1-75 Broken to Used
-Mechanic Lucy got a bonus of $1,000.00!
-Mechanic Lucy fixed MCL36 Used to LikeNew
+Mechanic Scotty fixed A522 Used to LikeNew
+Mechanic Ben got a bonus of $1,000.00!
+Mechanic Ben fixed F1-75 Broken to Used
+Mechanic Ben got a bonus of $1,000.00!
+Mechanic Ben fixed AT03 Broken to Used
+Mechanic Margaret did not fix the Used F1-75
+Mechanic Margaret got a bonus of $1,000.00!
+Mechanic Margaret fixed AT03 Used to LikeNew
 The FNCD South mechanics are repairing...
-Mechanic Uhura did not fix the Used Bugatti Chiron-2
-Mechanic Uhura got a bonus of $1,000.00!
-Mechanic Uhura fixed Ferrari Enzo-2 Used to LikeNew
-Mechanic James-2 got a bonus of $1,000.00!
-Mechanic James-2 fixed Bugatti Chiron-2 Used to LikeNew
-Mechanic James-2 got a bonus of $1,000.00!
-Mechanic James-2 fixed McLaren P1-2 Used to LikeNew
-Mechanic Scotty-2 got a bonus of $1,000.00!
-Mechanic Scotty-2 fixed McLaren F1-2 Used to LikeNew
-Mechanic Scotty-2 got a bonus of $1,000.00!
-Mechanic Scotty-2 fixed A522 Used to LikeNew
-The FNCD North salespeople are selling...
-The FNCD North has 2 buyers today...
-Buyer Luke-16 wants a Electric (NeedsOne)
-Buyer Luke-16 is buying! Salesperson Winthrob gets a bonus of $1,000.00!
-Buyer Luke-16 bought Clean LikeNew Model X 100D With addon Road Rescue Coverage. With addon Satellite Radio. Price: $920,680.87
-Buyer Leia-16 wants a Hyper (NeedsOne)
-Buyer Leia-16 decided not to buy.
-The FNCD South salespeople are selling...
-The FNCD South has 0 buyers today...
-Salesperson: Joey has left FNCD South.
-Intern: Jenn has been promoted to mechanic
-Driver Brock raced. They placed 5.
-Driver Larisa raced. They placed 3 and won! This is win #1They received bonus of $2000.00
-Driver Greg raced. They placed 16. They were not injured
-Driver Bella raced. They placed 10.
-Driver Olivia raced. They placed 9.
-Driver Justin raced. They placed 18. They were not injured
-The FNCD North is opening...
-Bought Europa-25, a Dirty LikeNew Super for $23,056.00
-Bought Cayman-25, a Dirty Used Super for $25,840.00
-Bought Corvette-25, a Dirty LikeNew Super for $33,060.00
-Bought Mustang-25, a Dirty Used Super for $17,506.40
-Bought Europa-26, a Clean LikeNew Super for $25,046.00
-Bought Cayman-26, a Dirty Used Super for $19,158.40
-The FNCD South is opening...
-Bought Corvette-26, a Clean Used Super for $16,478.40
-Bought Mustang-26, a Sparkling Broken Super for $15,831.50
-***Budget overrun*** Added $250K, budget now: $236,592.90
-Bought Europa-27, a Dirty LikeNew Super for $25,698.00
-Bought Cayman-27, a Dirty Used Super for $16,545.60
-Bought Corvette-27, a Dirty LikeNew Super for $25,466.00
-Bought Mustang-27, a Dirty Broken Super for $11,007.00
-The FNCD North interns are washing...
-Washing with elbow grease!
-Washing with elbow grease!
-Washing with elbow grease!
-Washing with elbow grease!
-Washing with chemical!
-Washing with chemical!
-The FNCD South interns are washing...
-Washing with elbow grease!
-Washing with elbow grease!
-Washing with chemical!
-Washing with chemical!
-Washing with elbow grease!
-Washing with elbow grease!
-The FNCD North mechanics are repairing...
-Mechanic Scotty did not fix the Used Koenigsegg Agera RS
-Mechanic Scotty did not fix the Broken C42
-Mechanic Spock got a bonus of $1,000.00!
-Mechanic Spock fixed Koenigsegg Agera RS Used to LikeNew
-Mechanic Spock got a bonus of $1,000.00!
-Mechanic Spock fixed C42 Broken to Used
-Mechanic Samantha got a bonus of $1,000.00!
-Mechanic Samantha fixed C42 Used to LikeNew
-Mechanic Samantha got a bonus of $300.00!
-Mechanic Samantha fixed Europa-4 Broken to Used
-The FNCD South mechanics are repairing...
+Mechanic Uhura got a bonus of $150.00!
+Mechanic Uhura fixed Scrambler-2 Broken to Used
 Mechanic Uhura got a bonus of $500.00!
 Mechanic Uhura fixed Blue Thunder-2 Used to LikeNew
-Mechanic Uhura did not fix the Used Ghost Rider-2
-Mechanic James-2 got a bonus of $500.00!
-Mechanic James-2 fixed Ghost Rider-2 Used to LikeNew
-Mechanic James-2 got a bonus of $1,000.00!
-Mechanic James-2 fixed Bugatti Chiron-2 Used to LikeNew
-Mechanic Scotty-2 got a bonus of $1,000.00!
-Mechanic Scotty-2 fixed Bugatti Veyron-2 Used to LikeNew
-Mechanic Scotty-2 got a bonus of $1,000.00!
-Mechanic Scotty-2 fixed Ferrari Enzo-2 Used to LikeNew
-The FNCD North salespeople are selling...
-The FNCD North has 2 buyers today...
-Buyer Han-11 wants a Hyper (WantsOne)
-Buyer Han-11 decided not to buy.
-Buyer Chewy-11 wants a Motorcyclce (WantsOne)
-Buyer Chewy-11 decided not to buy.
-The FNCD South salespeople are selling...
-The FNCD South has 6 buyers today...
-Buyer Luke-12 wants a Performance (NeedsOne)
-Buyer Luke-12 is buying! Salesperson Winthrob gets a bonus of $1,000.00!
-Buyer Luke-12 bought Clean LikeNew Bolt-2 With addon Undercoating. Price: $1,048,536.30
-Buyer Leia-12 wants a Hyper (WantsOne)
-Buyer Leia-12 is buying! Salesperson Winthrob gets a bonus of $3,000.00!
-Buyer Leia-12 bought Dirty LikeNew Ferrari Enzo-2 With addon Extended Warranty. With addon Undercoating. With addon Road Rescue Coverage. With addon Satellite Radio. Price: $496,002.12
-Buyer Han-12 wants a Performance (JustLooking)
-Buyer Han-12 decided not to buy.
-Buyer Chewy-12 wants a Car (NeedsOne)
-Buyer Chewy-12 is buying! Salesperson Joey gets a bonus of $500.00!
-Buyer Chewy-12 bought Clean LikeNew Probe-3 With addon Extended Warranty. Price: $43,684.80
-Buyer Luke-13 wants a Electric (WantsOne)
-Buyer Luke-13 is buying! Salesperson Winthrob gets a bonus of $1,000.00!
-Buyer Luke-13 bought Clean LikeNew Bolt-2 Price: $998,606.00
-Buyer Leia-13 wants a Motorcyclce (JustLooking)
-Buyer Leia-13 decided not to buy.
-Intern: Joey has left FNCD South.
-Driver Greg raced. They placed 7.
-Driver Justin raced. They placed 13.
-Driver Brock-2 raced. They placed 9.
-Driver Johnny raced. They placed 1 and won! This is win #1They received bonus of $2000.00
-Driver Bella raced. They placed 10.
-Driver Olivia raced. They placed 7.
-The FNCD North is opening...
-Hired a new Intern named Margaret
-Bought Europa-25, a Clean Used Super for $20,248.00
-Bought Cayman-25, a Dirty Used Super for $19,407.20
-Bought Corvette-25, a Dirty LikeNew Super for $33,517.00
-Bought Mustang-25, a Dirty Used Super for $31,660.00
-Bought Europa-26, a Dirty Broken Super for $10,924.50
-Bought Cayman-26, a Dirty LikeNew Super for $36,829.00
-The FNCD South is opening...
-Hired a new Intern named Charles
-Bought Corvette-26, a Clean Used Super for $31,943.20
-Bought Mustang-26, a Clean Used Super for $17,852.80
-Bought Europa-27, a Clean Broken Super for $19,804.00
-Bought Cayman-27, a Clean Broken Super for $17,456.00
-Bought Corvette-27, a Dirty Used Super for $19,903.20
-Bought Mustang-27, a Dirty Used Super for $25,884.00
-The FNCD North interns are washing...
-Washing with elbow grease!
-Washing with elbow grease!
-Washing with elbow grease!
-Washing with elbow grease!
-Washing with elbow grease!
-Washing with elbow grease!
-The FNCD South interns are washing...
-Washing with elbow grease!
-Washing with elbow grease!
-Washing with chemical!
-Washing with chemical!
-Intern Axel got a bonus of $25.00!
-Washing with chemical!
-Washing with chemical!
-The FNCD North mechanics are repairing...
-Mechanic James got a bonus of $1,000.00!
-Mechanic James fixed Ferrari Enzo Broken to Used
-Mechanic James did not fix the Used McLaren F1
-Mechanic Scotty got a bonus of $1,000.00!
-Mechanic Scotty fixed Ferrari Enzo Used to LikeNew
-Mechanic Scotty did not fix the Used McLaren F1
-Mechanic Spock got a bonus of $1,000.00!
-Mechanic Spock fixed McLaren F1 Used to LikeNew
-Mechanic Spock got a bonus of $1,000.00!
-Mechanic Spock fixed MCL36 Broken to Used
-The FNCD South mechanics are repairing...
-Mechanic Uhura got a bonus of $200.00!
-Mechanic Uhura fixed Colorado-2 Used to LikeNew
-Mechanic Uhura got a bonus of $150.00!
-Mechanic Uhura fixed Cruiser-2 Used to LikeNew
-Mechanic Scotty-2 got a bonus of $500.00!
-Mechanic Scotty-2 fixed Ghost Rider-2 Broken to Used
-Mechanic Scotty-2 did not fix the Used Black Pearl-2
-Mechanic Jenn got a bonus of $500.00!
-Mechanic Jenn fixed Ghost Rider-2 Used to LikeNew
-Mechanic Jenn got a bonus of $500.00!
-Mechanic Jenn fixed Black Pearl-2 Used to LikeNew
-The FNCD North salespeople are selling...
-The FNCD North has 2 buyers today...
-Buyer Han-16 wants a Car (NeedsOne)
-Buyer Han-16 is buying! Salesperson Rachel gets a bonus of $500.00!
-Buyer Han-16 bought Dirty LikeNew Probe-4 With addon Satellite Radio. Price: $36,831.90
-Buyer Chewy-16 wants a Electric (NeedsOne)
-Buyer Chewy-16 is buying! Salesperson Monica gets a bonus of $1,000.00!
-Buyer Chewy-16 bought Clean LikeNew Model S P90D-2 With addon Satellite Radio. Price: $965,357.40
-The FNCD South salespeople are selling...
-The FNCD South has 4 buyers today...
-Buyer Luke-17 wants a Car (WantsOne)
-Buyer Luke-17 decided not to buy.
-Buyer Leia-17 wants a Monster (JustLooking)
-Buyer Leia-17 decided not to buy.
-Buyer Han-17 wants a Motorcyclce (JustLooking)
-Buyer Han-17 decided not to buy.
-Buyer Chewy-17 wants a Super (JustLooking)
-Buyer Chewy-17 is buying! Salesperson Rachel-2 gets a bonus of $1,000.00!
-Buyer Chewy-17 bought Clean LikeNew Mustang-21 With addon Satellite Radio. Price: $70,843.50
-Driver Brock raced. They placed 17. They got injured!
-Driver Larisa raced. They placed 7.
-Driver Greg raced. They placed 6.
-Driver Johnny raced. They placed 7.
-Driver Bella raced. They placed 20. They were not injured
-Driver Olivia raced. They placed 1 and won! This is win #3They received bonus of $2000.00
-The FNCD North is opening...
-***Budget overrun*** Added $250K, budget now: $241,019.50
-Bought Europa-22, a Clean Broken Super for $19,696.00
-Bought Cayman-22, a Clean LikeNew Super for $23,727.00
-Bought Corvette-22, a Dirty Broken Super for $12,209.00
-Bought Mustang-22, a Dirty Broken Super for $10,934.00
-Bought Europa-23, a Clean Used Super for $31,476.80
-Bought Cayman-23, a Dirty Broken Super for $17,667.00
-The FNCD South is opening...
-Bought Corvette-23, a Dirty Broken Super for $17,618.00
-Bought Mustang-23, a Dirty Broken Super for $17,782.00
-Bought Europa-24, a Dirty Used Super for $30,096.80
-Bought Cayman-24, a Clean Used Super for $25,809.60
-Bought Corvette-24, a Dirty Broken Super for $14,793.00
-Bought Mustang-24, a Dirty Broken Super for $19,766.50
-The FNCD North interns are washing...
-Washing with elbow grease!
-Washing with elbow grease!
-Washing with chemical!
-Washing with chemical!
-Washing with chemical!
-Washing with chemical!
-The FNCD South interns are washing...
-Washing with chemical!
-Washing with chemical!
-Washing with elbow grease!
-Washing with elbow grease!
-Washing with chemical!
-Washing with chemical!
-The FNCD North mechanics are repairing...
-Mechanic James did not fix the Broken Ranger-2
-Mechanic James got a bonus of $150.00!
-Mechanic James fixed Roadster Broken to Used
-Mechanic Scotty got a bonus of $200.00!
-Mechanic Scotty fixed Ranger-2 Broken to Used
-Mechanic Scotty got a bonus of $150.00!
-Mechanic Scotty fixed Roadster Used to LikeNew
-Mechanic Spock got a bonus of $200.00!
-Mechanic Spock fixed Ranger-2 Used to LikeNew
-Mechanic Spock did not fix the Used Scrambler
-The FNCD South mechanics are repairing...
-Mechanic Uhura got a bonus of $300.00!
-Mechanic Uhura fixed Taycon Turbo S-3 Used to LikeNew
-Mechanic Uhura got a bonus of $150.00!
-Mechanic Uhura fixed Scooter-2 Used to LikeNew
-Mechanic James-2 got a bonus of $150.00!
-Mechanic James-2 fixed Roadster-2 Used to LikeNew
-Mechanic James-2 got a bonus of $150.00!
-Mechanic James-2 fixed Touring-2 Broken to Used
-Mechanic Scotty-2 got a bonus of $150.00!
-Mechanic Scotty-2 fixed Touring-2 Used to LikeNew
 Mechanic Scotty-2 got a bonus of $150.00!
 Mechanic Scotty-2 fixed Scrambler-2 Used to LikeNew
+Mechanic Scotty-2 got a bonus of $500.00!
+Mechanic Scotty-2 fixed Ghost Rider-2 Used to LikeNew
+Mechanic Jack got a bonus of $500.00!
+Mechanic Jack fixed Black Pearl-2 Broken to Used
+Mechanic Jack got a bonus of $1,000.00!
+Mechanic Jack fixed Bugatti Chiron-2 Broken to Used
 The FNCD North salespeople are selling...
 The FNCD North has 0 buyers today...
 The FNCD South salespeople are selling...
-The FNCD South has 2 buyers today...
-Buyer Luke-15 wants a Hyper (WantsOne)
-Buyer Luke-15 decided not to buy.
-Buyer Leia-15 wants a Monster (JustLooking)
-Buyer Leia-15 decided not to buy.
-Driver Brock raced. They placed 5.
-Driver Jamar raced. They placed 12.
-Driver Larisa raced. They placed 14.
-Driver Bella raced. They placed 17. They got injured!
-Driver Olivia raced. They placed 16. They were not injured
-Driver Greg raced. They placed 6.
-Driver Brock raced. They placed 18. They were not injured
-Driver Jamar raced. They placed 16. They got injured!
-Driver Larisa raced. They placed 13.
-Driver Bella raced. They placed 9.
-Driver Olivia raced. They placed 4.
-Driver Greg raced. They placed 3 and won! This is win #1They received bonus of $2000.00
-Driver Brock raced. They placed 14.
-Driver Jamar raced. They placed 1 and won! This is win #2They received bonus of $2000.00
-Driver Greg raced. They placed 16. They got injured!
-Driver Johnny raced. They placed 7.
-Driver Bella raced. They placed 5.
-Driver Olivia raced. They placed 16. They were not injured
+The FNCD South has 0 buyers today...
+Salesperson: Monica has left FNCD North.
+Intern: Winthrob has been promoted to mechanic
+Intern: Axel has left FNCD South.

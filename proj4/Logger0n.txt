@@ -1,0 +1,1463 @@
+The FNCD North is opening...
+Hired a new Salesperson named Rachel
+Hired a new Salesperson named Monica
+Hired a new Salesperson named Phoebe
+Hired a new Mechanic named James
+Hired a new Mechanic named Scotty
+Hired a new Mechanic named Spock
+Hired a new Driver named Brock
+Hired a new Driver named Jamar
+Hired a new Driver named Larisa
+Hired a new Intern named Ben
+Hired a new Intern named Lucas
+Hired a new Intern named Lucy
+Bought Europa, a Dirty LikeNew Super for $37,910.00
+Bought Cayman, a Dirty Broken Super for $17,006.00
+Bought Corvette, a Clean Broken Super for $19,313.00
+Bought Mustang, a Dirty Used Super for $18,968.00
+***Budget overrun*** Added $250K, budget now: $229,366.00
+Bought Europa-2, a Dirty LikeNew Super for $27,437.00
+Bought Cayman-2, a Clean Broken Super for $11,342.00
+Bought Probe, a Clean LikeNew Car for $18,340.00
+Bought Escort, a Sparkling Used Car for $9,584.00
+Bought Taurus, a Dirty Used Car for $8,375.20
+Bought Fiesta, a Clean LikeNew Car for $18,974.00
+Bought Probe-2, a Dirty Broken Car for $9,119.00
+Bought Escort-2, a Dirty Used Car for $15,441.60
+Bought Ranger, a Dirty Broken Pickup for $13,082.00
+Bought F-250, a Dirty Used Pickup for $24,634.40
+Bought Colorado, a Dirty Used Pickup for $20,013.60
+Bought Tundra, a Dirty Used Pickup for $30,140.00
+Bought Ranger-2, a Clean Broken Pickup for $17,642.50
+Bought F-250-2, a Dirty Broken Pickup for $6,753.00
+***Budget overrun*** Added $250K, budget now: $23,837.50
+Bought Model S P90D, a Clean Used Electric for $252,087.20
+***Budget overrun*** Added $250K, budget now: $68,110.50
+Bought Taycon Turbo S, a Dirty Broken Electric for $205,727.00
+***Budget overrun*** Added $250K, budget now: $163,600.50
+Bought Cybertruck, a Dirty Broken Electric for $154,510.00
+***Budget overrun*** Added $250K, budget now: $78,742.50
+Bought Bolt, a Dirty LikeNew Electric for $334,858.00
+***Budget overrun*** Added $250K, budget now: -$101,080.50
+Bought Model X 100D, a Clean LikeNew Electric for $429,823.00
+***Budget overrun*** Added $250K, budget now: -$142,043.70
+Bought Model S P90D-2, a Clean Used Electric for $290,963.20
+***Budget overrun*** Added $250K, budget now: $70,833.80
+Bought Chopper, a Clean Broken Motorcyclce for $37,122.50
+Bought Scooter, a Dirty Used Motorcyclce for $33,104.80
+***Budget overrun*** Added $250K, budget now: $217,520.20
+Bought Roadster, a Dirty Used Motorcyclce for $70,208.80
+Bought Touring, a Clean Used Motorcyclce for $43,668.00
+Bought Scrambler, a Dirty LikeNew Motorcyclce for $78,171.00
+Bought Cruiser, a Dirty Broken Motorcyclce for $13,331.50
+Bought Alien Invasion, a Clean Broken Monster for $26,781.50
+***Budget overrun*** Added $250K, budget now: $245,478.20
+Bought Avenger, a Clean LikeNew Monster for $60,090.00
+Bought Bad Company, a Clean Used Monster for $59,500.80
+Bought Blue Thunder, a Dirty Used Monster for $45,612.80
+Bought Ghost Rider, a Dirty LikeNew Monster for $63,917.00
+Bought Black Pearl, a Dirty Used Monster for $51,494.40
+***Budget overrun*** Added $250K, budget now: $123,927.20
+Bought Bugatti Chiron, a Dirty LikeNew Hyper for $151,026.00
+Bought Bugatti Veyron, a Dirty Broken Hyper for $87,591.50
+***Budget overrun*** Added $250K, budget now: $201,273.70
+Bought Ferrari Enzo, a Dirty Broken Hyper for $85,062.00
+Bought McLaren P1, a Clean Broken Hyper for $95,307.00
+***Budget overrun*** Added $250K, budget now: $231,565.70
+Bought McLaren F1, a Dirty LikeNew Hyper for $124,401.00
+Bought Koenigsegg Agera RS, a Dirty Used Hyper for $143,612.80
+Bought F1-75, a Clean Broken F1 for $65,696.50
+***Budget overrun*** Added $250K, budget now: $154,930.00
+Bought MCL36, a Dirty Used F1 for $117,326.40
+Bought A522, a Dirty Broken F1 for $80,218.50
+Bought AT03, a Dirty Broken F1 for $68,240.00
+***Budget overrun*** Added $250K, budget now: $72,377.50
+Bought C42, a Clean LikeNew F1 for $184,094.00
+Bought VF-22, a Dirty Broken F1 for $59,836.00
+The FNCD South is opening...
+Hired a new Salesperson named Chandler
+Hired a new Salesperson named Ross
+Hired a new Salesperson named Joey
+Hired a new Mechanic named Uhura
+Hired a new Mechanic named James-2
+Hired a new Mechanic named Scotty-2
+Hired a new Driver named Johnny
+Hired a new Driver named Bella
+Hired a new Driver named Olivia
+Hired a new Intern named Jenn
+Hired a new Intern named Joey
+Hired a new Intern named Jack
+Bought Corvette-2, a Dirty Broken Super for $12,740.00
+Bought Mustang-2, a Dirty Broken Super for $13,807.50
+Bought Europa-3, a Dirty Broken Super for $10,543.50
+Bought Cayman-3, a Clean LikeNew Super for $26,019.00
+***Budget overrun*** Added $250K, budget now: $248,934.00
+Bought Corvette-3, a Dirty LikeNew Super for $37,956.00
+Bought Mustang-3, a Dirty Broken Super for $12,102.50
+Bought Taurus-2, a Dirty LikeNew Car for $14,151.00
+Bought Fiesta-2, a Clean Broken Car for $9,124.00
+Bought Probe-3, a Dirty LikeNew Car for $16,777.00
+Bought Escort-3, a Dirty LikeNew Car for $17,943.00
+Bought Taurus-3, a Clean LikeNew Car for $10,771.00
+Bought Fiesta-3, a Dirty LikeNew Car for $17,795.00
+Bought Colorado-2, a Clean Broken Pickup for $12,305.00
+Bought Tundra-2, a Clean Broken Pickup for $15,699.50
+Bought Ranger-3, a Clean LikeNew Pickup for $13,983.00
+Bought F-250-3, a Clean LikeNew Pickup for $29,820.00
+Bought Colorado-3, a Dirty Broken Pickup for $14,034.50
+Bought Tundra-3, a Dirty Broken Pickup for $17,876.50
+***Budget overrun*** Added $250K, budget now: $48,181.00
+Bought Taycon Turbo S-2, a Dirty Broken Electric for $248,371.00
+***Budget overrun*** Added $250K, budget now: -$117,083.00
+Bought Cybertruck-2, a Dirty LikeNew Electric for $415,264.00
+***Budget overrun*** Added $250K, budget now: -$317,495.00
+Bought Bolt-2, a Dirty LikeNew Electric for $450,412.00
+***Budget overrun*** Added $250K, budget now: -$527,863.00
+Bought Model X 100D-2, a Clean LikeNew Electric for $460,368.00
+***Budget overrun*** Added $250K, budget now: -$553,929.40
+Bought Model S P90D-3, a Dirty Used Electric for $276,066.40
+***Budget overrun*** Added $250K, budget now: -$517,177.40
+Bought Taycon Turbo S-3, a Sparkling Broken Electric for $213,248.00
+***Budget overrun*** Added $250K, budget now: -$304,061.40
+Bought Chopper-2, a Clean Broken Motorcyclce for $36,884.00
+***Budget overrun*** Added $250K, budget now: -$80,531.90
+Bought Scooter-2, a Dirty Broken Motorcyclce for $26,470.50
+***Budget overrun*** Added $250K, budget now: $78,196.10
+Bought Roadster-2, a Clean LikeNew Motorcyclce for $91,272.00
+Bought Touring-2, a Clean LikeNew Motorcyclce for $34,601.00
+***Budget overrun*** Added $250K, budget now: $198,475.10
+Bought Scrambler-2, a Dirty LikeNew Motorcyclce for $95,120.00
+Bought Cruiser-2, a Dirty LikeNew Motorcyclce for $84,922.00
+Bought Alien Invasion-2, a Dirty LikeNew Monster for $71,951.00
+Bought Avenger-2, a Dirty Broken Monster for $34,120.00
+***Budget overrun*** Added $250K, budget now: $193,492.50
+Bought Bad Company-2, a Clean Used Monster for $63,989.60
+Bought Blue Thunder-2, a Dirty Used Monster for $43,635.20
+Bought Ghost Rider-2, a Clean Used Monster for $51,899.20
+Bought Black Pearl-2, a Dirty LikeNew Monster for $76,125.00
+***Budget overrun*** Added $250K, budget now: $200,676.60
+Bought Bugatti Chiron-2, a Clean Broken Hyper for $71,156.50
+Bought Bugatti Veyron-2, a Dirty Broken Hyper for $60,067.50
+***Budget overrun*** Added $250K, budget now: $249,036.30
+Bought Ferrari Enzo-2, a Dirty Used Hyper for $141,572.80
+Bought McLaren P1-2, a Clean Used Hyper for $84,944.00
+Bought McLaren F1-2, a Clean Used Hyper for $118,988.00
+***Budget overrun*** Added $250K, budget now: $174,994.30
+Bought Koenigsegg Agera RS-2, a Dirty LikeNew Hyper for $120,110.00
+Bought A522, a Dirty Used F1 for $144,630.40
+***Budget overrun*** Added $250K, budget now: $146,330.90
+Bought RB18, a Dirty LikeNew F1 for $134,033.00
+***Budget overrun*** Added $250K, budget now: $246,162.90
+Bought F1-75-2, a Clean LikeNew F1 for $150,168.00
+Bought MCL36-2, a Clean Used F1 for $94,560.80
+Bought A522-2, a Clean Used F1 for $124,144.80
+***Budget overrun*** Added $250K, budget now: $206,720.30
+Bought AT03-2, a Dirty Broken F1 for $70,737.00
+The FNCD North interns are washing...
+Washing with elbow grease!
+Washing with elbow grease!
+Washing with elbow grease!
+Washing with elbow grease!
+Washing with elbow grease!
+Washing with elbow grease!
+The FNCD South interns are washing...
+Washing with elbow grease!
+Washing with elbow grease!
+Washing with chemical!
+Washing with chemical!
+Washing with elbow grease!
+Washing with elbow grease!
+The FNCD North mechanics are repairing...
+Mechanic James got a bonus of $300.00!
+Mechanic James fixed Cayman Broken to Used
+Mechanic James got a bonus of $300.00!
+Mechanic James fixed Corvette Broken to Used
+Mechanic Scotty got a bonus of $300.00!
+Mechanic Scotty fixed Cayman Used to LikeNew
+Mechanic Scotty got a bonus of $300.00!
+Mechanic Scotty fixed Corvette Used to LikeNew
+Mechanic Spock got a bonus of $300.00!
+Mechanic Spock fixed Cayman-2 Broken to Used
+Mechanic Spock got a bonus of $100.00!
+Mechanic Spock fixed Escort Used to LikeNew
+The FNCD South mechanics are repairing...
+Mechanic Uhura got a bonus of $300.00!
+Mechanic Uhura fixed Mustang-2 Broken to Used
+Mechanic Uhura did not fix the Broken Europa-3
+Mechanic James-2 got a bonus of $300.00!
+Mechanic James-2 fixed Mustang-2 Used to LikeNew
+Mechanic James-2 got a bonus of $300.00!
+Mechanic James-2 fixed Europa-3 Broken to Used
+Mechanic Scotty-2 did not fix the Used Europa-3
+Mechanic Scotty-2 got a bonus of $300.00!
+Mechanic Scotty-2 fixed Mustang-3 Broken to Used
+The FNCD North salespeople are selling...
+The FNCD North has 2 buyers today...
+Buyer Luke wants a Car (WantsOne)
+Buyer Luke is buying! Salesperson Rachel gets a bonus of $500.00!
+Buyer Luke bought Clean LikeNew Fiesta Price: $37,948.00
+Buyer Leia wants a Monster (JustLooking)
+Buyer Leia decided not to buy.
+The FNCD South salespeople are selling...
+The FNCD South has 5 buyers today...
+Buyer Han wants a Super (JustLooking)
+Buyer Han decided not to buy.
+Buyer Chewy wants a Performance (JustLooking)
+Buyer Chewy decided not to buy.
+Buyer Luke-2 wants a Electric (JustLooking)
+Buyer Luke-2 decided not to buy.
+Buyer Leia-2 wants a F1 (WantsOne)
+Buyer Leia-2 is buying! Salesperson Joey gets a bonus of $3,000.00!
+Buyer Leia-2 bought Clean LikeNew F1-75-2 Price: $300,336.00
+Buyer Han-2 wants a Performance (NeedsOne)
+Buyer Han-2 is buying! Salesperson Ross gets a bonus of $1,000.00!
+Buyer Han-2 bought Clean LikeNew Model X 100D-2 With addon Satellite Radio. Price: $966,772.80
+The FNCD North is opening...
+Hired a new Salesperson named Rachel
+Hired a new Salesperson named Monica
+Hired a new Salesperson named Phoebe
+Hired a new Mechanic named James
+Hired a new Mechanic named Scotty
+Hired a new Mechanic named Spock
+Hired a new Driver named Brock
+Hired a new Driver named Jamar
+Hired a new Driver named Larisa
+Hired a new Intern named Ben
+Hired a new Intern named Lucas
+Hired a new Intern named Lucy
+Bought Europa, a Dirty Broken Super for $10,316.50
+Bought Cayman, a Clean Used Super for $23,064.00
+Bought Corvette, a Clean Used Super for $22,240.80
+Bought Mustang, a Dirty Broken Super for $11,412.50
+Bought Europa-2, a Clean LikeNew Super for $22,206.00
+***Budget overrun*** Added $250K, budget now: $235,282.20
+Bought Cayman-2, a Clean LikeNew Super for $25,478.00
+Bought Probe, a Dirty LikeNew Car for $14,219.00
+Bought Escort, a Sparkling LikeNew Car for $13,275.00
+Bought Taurus, a Clean LikeNew Car for $13,811.00
+Bought Fiesta, a Clean LikeNew Car for $13,454.00
+Bought Probe-2, a Dirty Used Car for $14,709.60
+Bought Escort-2, a Clean Broken Car for $5,844.50
+Bought Ranger, a Dirty LikeNew Pickup for $31,199.00
+Bought F-250, a Sparkling Used Pickup for $10,167.20
+Bought Colorado, a Dirty Broken Pickup for $19,877.50
+Bought Tundra, a Clean Broken Pickup for $15,327.50
+Bought Ranger-2, a Clean Used Pickup for $16,712.00
+Bought F-250-2, a Dirty Used Pickup for $18,287.20
+***Budget overrun*** Added $250K, budget now: $88,695.70
+Bought Model S P90D, a Dirty Broken Electric for $209,703.00
+***Budget overrun*** Added $250K, budget now: $83,443.70
+Bought Taycon Turbo S, a Clean Used Electric for $255,252.00
+***Budget overrun*** Added $250K, budget now: $32,734.90
+Bought Cybertruck, a Dirty Used Electric for $300,708.80
+***Budget overrun*** Added $250K, budget now: $78,706.40
+Bought Bolt, a Dirty Broken Electric for $204,028.50
+***Budget overrun*** Added $250K, budget now: -$133,814.60
+Bought Model X 100D, a Dirty LikeNew Electric for $462,521.00
+***Budget overrun*** Added $250K, budget now: -$214,123.40
+Bought Model S P90D-2, a Clean Used Electric for $330,308.80
+***Budget overrun*** Added $250K, budget now: $6,123.60
+Bought Chopper, a Clean Broken Motorcyclce for $29,753.00
+***Budget overrun*** Added $250K, budget now: $177,984.40
+Bought Scooter, a Dirty Used Motorcyclce for $78,139.20
+Bought Roadster, a Clean LikeNew Motorcyclce for $98,885.00
+Bought Touring, a Dirty Used Motorcyclce for $31,270.40
+***Budget overrun*** Added $250K, budget now: $248,049.00
+Bought Scrambler, a Dirty Used Motorcyclce for $49,780.00
+Bought Cruiser, a Dirty LikeNew Motorcyclce for $82,600.00
+Bought Alien Invasion, a Clean Used Monster for $44,338.40
+Bought Avenger, a Dirty Broken Monster for $37,973.00
+Bought Bad Company, a Dirty LikeNew Monster for $65,556.00
+***Budget overrun*** Added $250K, budget now: $216,085.60
+Bought Blue Thunder, a Dirty Used Monster for $51,496.00
+Bought Ghost Rider, a Dirty Broken Monster for $37,446.00
+Bought Black Pearl, a Clean LikeNew Monster for $76,334.00
+***Budget overrun*** Added $250K, budget now: $190,522.60
+Bought Bugatti Chiron, a Sparkling LikeNew Hyper for $161,783.00
+Bought Bugatti Veyron, a Clean Used Hyper for $159,443.20
+***Budget overrun*** Added $250K, budget now: $174,666.60
+Bought Ferrari Enzo, a Dirty Used Hyper for $106,412.80
+Bought McLaren P1, a Dirty Used Hyper for $120,960.80
+***Budget overrun*** Added $250K, budget now: $144,945.00
+Bought McLaren F1, a Dirty Used Hyper for $158,760.80
+Bought Koenigsegg Agera RS, a Dirty Broken Hyper for $77,821.50
+***Budget overrun*** Added $250K, budget now: $235,035.00
+Bought F1-75, a Clean Broken F1 for $82,088.50
+Bought MCL36, a Clean LikeNew F1 for $138,279.00
+***Budget overrun*** Added $250K, budget now: $220,789.00
+Bought A522, a Clean LikeNew F1 for $125,967.00
+Bought AT03, a Dirty LikeNew F1 for $188,628.00
+***Budget overrun*** Added $250K, budget now: $193,334.00
+Bought C42, a Dirty Broken F1 for $88,827.00
+Bought VF-22, a Clean LikeNew F1 for $176,940.00
+The FNCD South is opening...
+Hired a new Salesperson named Chandler
+Hired a new Salesperson named Ross
+Hired a new Salesperson named Joey
+Hired a new Mechanic named Uhura
+Hired a new Mechanic named James-2
+Hired a new Mechanic named Scotty-2
+Hired a new Driver named Johnny
+Hired a new Driver named Bella
+Hired a new Driver named Olivia
+Hired a new Intern named Jenn
+Hired a new Intern named Joey
+Hired a new Intern named Jack
+Bought Corvette-2, a Dirty Broken Super for $16,083.50
+Bought Mustang-2, a Dirty Broken Super for $12,576.00
+Bought Europa-3, a Dirty LikeNew Super for $25,284.00
+Bought Cayman-3, a Dirty Used Super for $18,701.60
+Bought Corvette-3, a Sparkling LikeNew Super for $26,043.00
+***Budget overrun*** Added $250K, budget now: $234,885.40
+Bought Mustang-3, a Dirty Broken Super for $16,426.50
+Bought Taurus-2, a Dirty Used Car for $12,522.40
+Bought Fiesta-2, a Clean LikeNew Car for $12,875.00
+Bought Probe-3, a Clean Used Car for $14,561.60
+Bought Escort-3, a Clean LikeNew Car for $13,202.00
+Bought Taurus-3, a Dirty Used Car for $13,254.40
+Bought Fiesta-3, a Dirty Used Car for $9,076.80
+Bought Colorado-2, a Dirty Used Pickup for $30,502.40
+Bought Tundra-2, a Dirty Used Pickup for $16,962.40
+Bought Ranger-3, a Clean Broken Pickup for $8,544.00
+Bought F-250-3, a Clean Used Pickup for $31,566.40
+Bought Colorado-3, a Dirty LikeNew Pickup for $18,785.00
+Bought Tundra-3, a Dirty Broken Pickup for $11,783.00
+***Budget overrun*** Added $250K, budget now: -$135,011.00
+Bought Taycon Turbo S-2, a Dirty LikeNew Electric for $426,261.00
+***Budget overrun*** Added $250K, budget now: -$347,946.00
+Bought Cybertruck-2, a Clean LikeNew Electric for $462,935.00
+***Budget overrun*** Added $250K, budget now: -$597,249.00
+Bought Bolt-2, a Dirty LikeNew Electric for $499,303.00
+***Budget overrun*** Added $250K, budget now: -$526,770.50
+Bought Model X 100D-2, a Dirty Broken Electric for $179,521.50
+***Budget overrun*** Added $250K, budget now: -$703,398.50
+Bought Model S P90D-3, a Clean LikeNew Electric for $426,628.00
+***Budget overrun*** Added $250K, budget now: -$651,470.50
+Bought Taycon Turbo S-3, a Clean Broken Electric for $198,072.00
+***Budget overrun*** Added $250K, budget now: -$416,815.50
+Bought Chopper-2, a Clean Broken Motorcyclce for $15,345.00
+***Budget overrun*** Added $250K, budget now: -$242,509.90
+Bought Scooter-2, a Dirty Used Motorcyclce for $75,694.40
+***Budget overrun*** Added $250K, budget now: -$44,941.90
+Bought Roadster-2, a Dirty Used Motorcyclce for $52,432.00
+***Budget overrun*** Added $250K, budget now: $166,980.10
+Bought Touring-2, a Dirty Broken Motorcyclce for $38,078.00
+Bought Scrambler-2, a Sparkling Used Motorcyclce for $29,640.00
+Bought Cruiser-2, a Dirty Broken Motorcyclce for $31,505.00
+Bought Alien Invasion-2, a Dirty Used Monster for $57,344.80
+Bought Avenger-2, a Sparkling Used Monster for $47,576.80
+***Budget overrun*** Added $250K, budget now: $173,356.50
+Bought Bad Company-2, a Dirty LikeNew Monster for $77,557.00
+Bought Blue Thunder-2, a Dirty Broken Monster for $32,303.00
+Bought Ghost Rider-2, a Clean Broken Monster for $38,645.00
+Bought Black Pearl-2, a Dirty LikeNew Monster for $66,913.00
+***Budget overrun*** Added $250K, budget now: $167,400.30
+Bought Bugatti Chiron-2, a Dirty Used Hyper for $118,095.20
+Bought Bugatti Veyron-2, a Dirty Used Hyper for $134,304.80
+***Budget overrun*** Added $250K, budget now: $136,073.10
+Bought Ferrari Enzo-2, a Clean Used Hyper for $147,022.40
+Bought McLaren P1-2, a Clean Used Hyper for $127,589.60
+***Budget overrun*** Added $250K, budget now: $165,651.50
+Bought McLaren F1-2, a Dirty Used Hyper for $92,832.00
+Bought Koenigsegg Agera RS-2, a Dirty Broken Hyper for $65,867.00
+***Budget overrun*** Added $250K, budget now: $244,682.50
+Bought A522, a Clean LikeNew F1 for $105,102.00
+Bought RB18, a Dirty Used F1 for $145,061.60
+Bought F1-75-2, a Clean Broken F1 for $95,503.00
+***Budget overrun*** Added $250K, budget now: $178,834.40
+Bought MCL36-2, a Clean Broken F1 for $75,283.50
+Bought A522-2, a Dirty Broken F1 for $62,002.00
+***Budget overrun*** Added $250K, budget now: $183,927.40
+Bought AT03-2, a Clean LikeNew F1 for $182,905.00
+The FNCD North interns are washing...
+Washing with elbow grease!
+Washing with elbow grease!
+Washing with elbow grease!
+Washing with elbow grease!
+Washing with elbow grease!
+Washing with elbow grease!
+The FNCD South interns are washing...
+Washing with elbow grease!
+Washing with elbow grease!
+Washing with elbow grease!
+Washing with elbow grease!
+Washing with chemical!
+Intern Jack got a bonus of $100.00!
+Washing with chemical!
+The FNCD North mechanics are repairing...
+Mechanic James got a bonus of $300.00!
+Mechanic James fixed Europa Broken to Used
+Mechanic James got a bonus of $300.00!
+Mechanic James fixed Cayman Used to LikeNew
+Mechanic Scotty got a bonus of $300.00!
+Mechanic Scotty fixed Europa Used to LikeNew
+Mechanic Scotty got a bonus of $300.00!
+Mechanic Scotty fixed Corvette Used to LikeNew
+Mechanic Spock did not fix the Broken Mustang
+Mechanic Spock got a bonus of $100.00!
+Mechanic Spock fixed Probe-2 Used to LikeNew
+The FNCD South mechanics are repairing...
+Mechanic Uhura got a bonus of $300.00!
+Mechanic Uhura fixed Corvette-2 Broken to Used
+Mechanic Uhura got a bonus of $300.00!
+Mechanic Uhura fixed Mustang-2 Broken to Used
+Mechanic James-2 did not fix the Used Corvette-2
+Mechanic James-2 got a bonus of $300.00!
+Mechanic James-2 fixed Mustang-2 Used to LikeNew
+Mechanic Scotty-2 got a bonus of $300.00!
+Mechanic Scotty-2 fixed Corvette-2 Used to LikeNew
+Mechanic Scotty-2 got a bonus of $300.00!
+Mechanic Scotty-2 fixed Cayman-3 Used to LikeNew
+The FNCD North salespeople are selling...
+The FNCD North has 5 buyers today...
+Buyer Luke wants a Pickup (JustLooking)
+Buyer Luke decided not to buy.
+Buyer Leia wants a Motorcyclce (NeedsOne)
+Buyer Leia is buying! Salesperson Rachel gets a bonus of $50.00!
+Buyer Leia bought Clean LikeNew Roadster Price: $197,770.00
+Buyer Han wants a Performance (WantsOne)
+Buyer Han is buying! Salesperson Rachel gets a bonus of $1,000.00!
+Buyer Han bought Dirty LikeNew Model X 100D With addon Satellite Radio. Price: $971,294.10
+Buyer Chewy wants a Motorcyclce (WantsOne)
+Buyer Chewy is buying! Salesperson Phoebe gets a bonus of $50.00!
+Buyer Chewy bought Dirty LikeNew Cruiser Price: $165,200.00
+Buyer Luke-2 wants a Performance (NeedsOne)
+Buyer Luke-2 is buying! Salesperson Phoebe gets a bonus of $1,000.00!
+Buyer Luke-2 bought Dirty LikeNew Model X 100D With addon Extended Warranty. Price: $1,110,050.40
+The FNCD South salespeople are selling...
+The FNCD South has 1 buyers today...
+Buyer Leia-2 wants a Super (JustLooking)
+Buyer Leia-2 is buying! Salesperson Joey gets a bonus of $1,000.00!
+Buyer Leia-2 bought Dirty LikeNew Corvette-2 With addon Satellite Radio. Price: $63,328.78
+Salesperson: Ross has left FNCD South.
+Intern: Jenn has been promoted to mechanic
+The FNCD North is opening...
+Hired a new Salesperson named Rachel
+Hired a new Salesperson named Monica
+Hired a new Salesperson named Phoebe
+Hired a new Mechanic named James
+Hired a new Mechanic named Scotty
+Hired a new Mechanic named Spock
+Hired a new Driver named Brock
+Hired a new Driver named Jamar
+Hired a new Driver named Larisa
+Hired a new Intern named Ben
+Hired a new Intern named Lucas
+Hired a new Intern named Lucy
+Bought Europa, a Dirty LikeNew Super for $27,402.00
+Bought Cayman, a Clean Broken Super for $14,919.50
+Bought Corvette, a Dirty Used Super for $21,305.60
+Bought Mustang, a Dirty Used Super for $30,180.00
+***Budget overrun*** Added $250K, budget now: $227,156.90
+Bought Europa-2, a Clean LikeNew Super for $29,036.00
+Bought Cayman-2, a Dirty LikeNew Super for $33,128.00
+Bought Probe, a Dirty LikeNew Car for $15,428.00
+Bought Escort, a Clean LikeNew Car for $19,813.00
+Bought Taurus, a Dirty LikeNew Car for $15,864.00
+Bought Fiesta, a Clean LikeNew Car for $14,966.00
+Bought Probe-2, a Clean Broken Car for $5,949.50
+Bought Escort-2, a Clean Broken Car for $7,848.00
+Bought Ranger, a Dirty Broken Pickup for $19,708.00
+Bought F-250, a Sparkling Used Pickup for $20,217.60
+Bought Colorado, a Dirty Broken Pickup for $16,591.50
+Bought Tundra, a Dirty LikeNew Pickup for $28,229.00
+Bought Ranger-2, a Clean LikeNew Pickup for $18,597.00
+***Budget overrun*** Added $250K, budget now: $246,602.80
+Bought F-250-2, a Clean Broken Pickup for $14,214.50
+***Budget overrun*** Added $250K, budget now: $15,079.80
+Bought Model S P90D, a Dirty LikeNew Electric for $481,523.00
+***Budget overrun*** Added $250K, budget now: $8,322.20
+Bought Taycon Turbo S, a Clean Used Electric for $256,757.60
+***Budget overrun*** Added $250K, budget now: $65,463.20
+Bought Cybertruck, a Sparkling Broken Electric for $192,859.00
+***Budget overrun*** Added $250K, budget now: $26,849.60
+Bought Bolt, a Dirty Used Electric for $288,613.60
+***Budget overrun*** Added $250K, budget now: $66,181.60
+Bought Model X 100D, a Clean Broken Electric for $210,668.00
+***Budget overrun*** Added $250K, budget now: $5,109.60
+Bought Model S P90D-2, a Clean LikeNew Electric for $311,072.00
+***Budget overrun*** Added $250K, budget now: $242,207.10
+Bought Chopper, a Clean Broken Motorcyclce for $12,902.50
+Bought Scooter, a Sparkling Used Motorcyclce for $33,662.40
+Bought Roadster, a Dirty Broken Motorcyclce for $35,091.50
+Bought Touring, a Clean LikeNew Motorcyclce for $92,774.00
+Bought Scrambler, a Clean Broken Motorcyclce for $46,444.50
+***Budget overrun*** Added $250K, budget now: $184,702.70
+Bought Cruiser, a Dirty LikeNew Motorcyclce for $99,532.00
+Bought Alien Invasion, a Sparkling Broken Monster for $29,171.00
+Bought Avenger, a Sparkling LikeNew Monster for $67,663.00
+Bought Bad Company, a Dirty Used Monster for $55,435.20
+***Budget overrun*** Added $250K, budget now: $246,385.00
+Bought Blue Thunder, a Dirty Broken Monster for $36,048.50
+Bought Ghost Rider, a Clean LikeNew Monster for $53,962.00
+Bought Black Pearl, a Dirty Broken Monster for $31,718.50
+Bought Bugatti Chiron, a Dirty Broken Hyper for $80,755.00
+***Budget overrun*** Added $250K, budget now: $173,398.50
+Bought Bugatti Veyron, a Sparkling LikeNew Hyper for $156,551.00
+Bought Ferrari Enzo, a Clean Used Hyper for $118,390.40
+***Budget overrun*** Added $250K, budget now: $204,070.10
+Bought McLaren P1, a Sparkling LikeNew Hyper for $100,938.00
+Bought McLaren F1, a Dirty Broken Hyper for $74,607.00
+***Budget overrun*** Added $250K, budget now: $234,991.10
+Bought Koenigsegg Agera RS, a Clean LikeNew Hyper for $144,472.00
+Bought F1-75, a Clean Used F1 for $152,736.00
+***Budget overrun*** Added $250K, budget now: $173,347.90
+Bought MCL36, a Clean Used F1 for $158,907.20
+Bought A522, a Dirty Broken F1 for $87,872.00
+***Budget overrun*** Added $250K, budget now: $137,485.90
+Bought AT03, a Dirty LikeNew F1 for $197,990.00
+Bought C42, a Dirty Used F1 for $111,119.20
+***Budget overrun*** Added $250K, budget now: $186,753.10
+Bought VF-22, a Clean Used F1 for $89,613.60
+The FNCD South is opening...
+Hired a new Salesperson named Chandler
+Hired a new Salesperson named Ross
+Hired a new Salesperson named Joey
+Hired a new Mechanic named Uhura
+Hired a new Mechanic named James-2
+Hired a new Mechanic named Scotty-2
+Hired a new Driver named Johnny
+Hired a new Driver named Bella
+Hired a new Driver named Olivia
+Hired a new Intern named Jenn
+Hired a new Intern named Joey
+Hired a new Intern named Jack
+Bought Corvette-2, a Clean Used Super for $16,974.40
+Bought Mustang-2, a Dirty Broken Super for $12,925.00
+Bought Europa-3, a Clean Broken Super for $19,869.50
+Bought Cayman-3, a Dirty Used Super for $28,699.20
+Bought Corvette-3, a Dirty Broken Super for $13,280.00
+***Budget overrun*** Added $250K, budget now: $241,101.90
+Bought Mustang-3, a Clean Broken Super for $17,150.00
+Bought Taurus-2, a Dirty LikeNew Car for $15,281.00
+Bought Fiesta-2, a Clean Used Car for $14,777.60
+Bought Probe-3, a Dirty LikeNew Car for $11,458.00
+Bought Escort-3, a Clean Broken Car for $8,961.00
+Bought Taurus-3, a Clean Broken Car for $8,096.00
+Bought Fiesta-3, a Dirty Broken Car for $8,420.50
+Bought Colorado-2, a Dirty LikeNew Pickup for $26,175.00
+Bought Tundra-2, a Dirty Used Pickup for $8,105.60
+Bought Ranger-3, a Dirty LikeNew Pickup for $14,126.00
+Bought F-250-3, a Dirty Broken Pickup for $9,532.50
+Bought Colorado-3, a Dirty LikeNew Pickup for $26,277.00
+Bought Tundra-3, a Dirty Used Pickup for $29,012.00
+***Budget overrun*** Added $250K, budget now: $136,701.20
+Bought Taycon Turbo S-2, a Dirty Broken Electric for $174,178.50
+***Budget overrun*** Added $250K, budget now: $172,116.70
+Bought Cybertruck-2, a Clean Broken Electric for $214,584.50
+***Budget overrun*** Added $250K, budget now: $11,610.70
+Bought Bolt-2, a Dirty LikeNew Electric for $410,506.00
+***Budget overrun*** Added $250K, budget now: -$212,381.30
+Bought Model X 100D-2, a Clean LikeNew Electric for $473,992.00
+***Budget overrun*** Added $250K, budget now: -$233,234.90
+Bought Model S P90D-3, a Dirty Used Electric for $270,853.60
+***Budget overrun*** Added $250K, budget now: -$191,700.40
+Bought Taycon Turbo S-3, a Dirty Broken Electric for $208,465.50
+***Budget overrun*** Added $250K, budget now: $12,301.10
+Bought Chopper-2, a Dirty Broken Motorcyclce for $45,998.50
+***Budget overrun*** Added $250K, budget now: $249,786.10
+Bought Scooter-2, a Clean Broken Motorcyclce for $12,515.00
+Bought Roadster-2, a Clean Broken Motorcyclce for $21,562.00
+Bought Touring-2, a Dirty Used Motorcyclce for $58,006.40
+Bought Scrambler-2, a Clean LikeNew Motorcyclce for $33,424.00
+Bought Cruiser-2, a Dirty Used Motorcyclce for $79,396.80
+Bought Alien Invasion-2, a Dirty Broken Monster for $28,619.00
+***Budget overrun*** Added $250K, budget now: $231,668.30
+Bought Avenger-2, a Dirty Used Monster for $47,109.60
+Bought Bad Company-2, a Clean Used Monster for $43,194.40
+Bought Blue Thunder-2, a Clean LikeNew Monster for $66,486.00
+Bought Ghost Rider-2, a Dirty Broken Monster for $37,267.00
+Bought Black Pearl-2, a Dirty Broken Monster for $33,345.00
+***Budget overrun*** Added $250K, budget now: $202,440.40
+Bought Bugatti Chiron-2, a Dirty Broken Hyper for $98,935.50
+Bought Bugatti Veyron-2, a Dirty Broken Hyper for $65,368.00
+Bought Ferrari Enzo-2, a Dirty Broken Hyper for $95,104.00
+***Budget overrun*** Added $250K, budget now: $214,736.90
+Bought McLaren P1-2, a Dirty Broken Hyper for $77,231.50
+Bought McLaren F1-2, a Dirty Used Hyper for $99,072.80
+***Budget overrun*** Added $250K, budget now: $178,968.10
+Bought Koenigsegg Agera RS-2, a Dirty LikeNew Hyper for $186,696.00
+Bought A522, a Dirty LikeNew F1 for $153,742.00
+***Budget overrun*** Added $250K, budget now: $126,565.10
+Bought RB18, a Dirty LikeNew F1 for $148,661.00
+Bought F1-75-2, a Clean Broken F1 for $50,456.50
+***Budget overrun*** Added $250K, budget now: $217,834.60
+Bought MCL36-2, a Dirty LikeNew F1 for $108,274.00
+Bought A522-2, a Clean Broken F1 for $85,398.00
+***Budget overrun*** Added $250K, budget now: $224,285.60
+Bought AT03-2, a Dirty LikeNew F1 for $158,151.00
+The FNCD North interns are washing...
+Washing with elbow grease!
+Washing with elbow grease!
+Washing with elbow grease!
+Washing with elbow grease!
+Washing with elbow grease!
+Washing with elbow grease!
+The FNCD South interns are washing...
+Washing with chemical!
+Washing with chemical!
+Washing with elbow grease!
+Washing with elbow grease!
+Washing with elbow grease!
+Washing with elbow grease!
+The FNCD North mechanics are repairing...
+Mechanic James got a bonus of $300.00!
+Mechanic James fixed Cayman Broken to Used
+Mechanic James did not fix the Used Corvette
+Mechanic Scotty got a bonus of $300.00!
+Mechanic Scotty fixed Cayman Used to LikeNew
+Mechanic Scotty got a bonus of $300.00!
+Mechanic Scotty fixed Corvette Used to LikeNew
+Mechanic Spock got a bonus of $100.00!
+Mechanic Spock fixed Probe-2 Broken to Used
+Mechanic Spock got a bonus of $100.00!
+Mechanic Spock fixed Escort-2 Broken to Used
+The FNCD South mechanics are repairing...
+Mechanic Uhura got a bonus of $300.00!
+Mechanic Uhura fixed Corvette-2 Used to LikeNew
+Mechanic Uhura did not fix the Broken Mustang-2
+Mechanic James-2 got a bonus of $300.00!
+Mechanic James-2 fixed Mustang-2 Broken to Used
+Mechanic James-2 did not fix the Broken Europa-3
+Mechanic Scotty-2 got a bonus of $300.00!
+Mechanic Scotty-2 fixed Mustang-2 Used to LikeNew
+Mechanic Scotty-2 got a bonus of $300.00!
+Mechanic Scotty-2 fixed Europa-3 Broken to Used
+The FNCD North salespeople are selling...
+The FNCD North has 5 buyers today...
+Buyer Luke wants a Car (NeedsOne)
+Buyer Luke is buying! Salesperson Monica gets a bonus of $500.00!
+Buyer Luke bought Clean LikeNew Escort With addon Road Rescue Coverage. With addon Satellite Radio. Price: $42,439.45
+Buyer Leia wants a Monster (JustLooking)
+Buyer Leia decided not to buy.
+Buyer Han wants a Super (JustLooking)
+Buyer Han decided not to buy.
+Buyer Chewy wants a Motorcyclce (JustLooking)
+Buyer Chewy decided not to buy.
+Buyer Luke-2 wants a Hyper (JustLooking)
+Buyer Luke-2 decided not to buy.
+The FNCD South salespeople are selling...
+The FNCD South has 7 buyers today...
+Buyer Leia-2 wants a Performance (WantsOne)
+Buyer Leia-2 decided not to buy.
+Buyer Han-2 wants a Electric (WantsOne)
+Buyer Han-2 is buying! Salesperson Chandler gets a bonus of $1,000.00!
+Buyer Han-2 bought Clean LikeNew Model X 100D-2 Price: $947,984.00
+Buyer Chewy-2 wants a Hyper (NeedsOne)
+Buyer Chewy-2 is buying! Salesperson Ross gets a bonus of $3,000.00!
+Buyer Chewy-2 bought Dirty LikeNew Koenigsegg Agera RS-2 With addon Satellite Radio. Price: $392,061.60
+Buyer Luke-3 wants a Motorcyclce (NeedsOne)
+Buyer Luke-3 is buying! Salesperson Joey gets a bonus of $50.00!
+Buyer Luke-3 bought Dirty Used Cruiser-2 Price: $158,793.60
+Buyer Leia-3 wants a Pickup (WantsOne)
+Buyer Leia-3 is buying! Salesperson Joey gets a bonus of $750.00!
+Buyer Leia-3 bought Dirty Used Tundra-3 Price: $58,024.00
+Buyer Han-3 wants a Car (WantsOne)
+Buyer Han-3 is buying! Salesperson Joey gets a bonus of $500.00!
+Buyer Han-3 bought Clean LikeNew Taurus-2 With addon Extended Warranty. Price: $36,674.40
+Buyer Chewy-3 wants a Pickup (WantsOne)
+Buyer Chewy-3 decided not to buy.
+Mecahnic: Scotty-2 has left FNCD South.
+Intern: Jack has been promoted to mechanic
+The FNCD North is opening...
+Hired a new Salesperson named Rachel
+Hired a new Salesperson named Monica
+Hired a new Salesperson named Phoebe
+Hired a new Mechanic named James
+Hired a new Mechanic named Scotty
+Hired a new Mechanic named Spock
+Hired a new Driver named Brock
+Hired a new Driver named Jamar
+Hired a new Driver named Larisa
+Hired a new Intern named Ben
+Hired a new Intern named Lucas
+Hired a new Intern named Lucy
+Bought Europa, a Dirty Used Super for $18,991.20
+Bought Cayman, a Clean Used Super for $29,173.60
+Bought Corvette, a Dirty LikeNew Super for $30,953.00
+***Budget overrun*** Added $250K, budget now: $240,351.20
+Bought Mustang, a Clean LikeNew Super for $30,531.00
+Bought Europa-2, a Dirty Broken Super for $13,062.00
+Bought Cayman-2, a Clean Broken Super for $13,668.00
+Bought Probe, a Clean LikeNew Car for $13,667.00
+Bought Escort, a Clean Broken Car for $9,366.50
+Bought Taurus, a Dirty LikeNew Car for $16,448.00
+Bought Fiesta, a Sparkling LikeNew Car for $13,492.00
+Bought Probe-2, a Dirty Used Car for $8,340.80
+Bought Escort-2, a Sparkling Broken Car for $8,041.50
+Bought Ranger, a Dirty Broken Pickup for $12,937.50
+Bought F-250, a Clean Broken Pickup for $19,020.50
+Bought Colorado, a Clean Broken Pickup for $11,854.00
+Bought Tundra, a Dirty Broken Pickup for $11,645.50
+Bought Ranger-2, a Dirty LikeNew Pickup for $37,210.00
+Bought F-250-2, a Clean LikeNew Pickup for $38,087.00
+***Budget overrun*** Added $250K, budget now: $84,773.90
+Bought Model S P90D, a Dirty Broken Electric for $178,737.00
+***Budget overrun*** Added $250K, budget now: -$72,868.10
+Bought Taycon Turbo S, a Dirty LikeNew Electric for $407,642.00
+***Budget overrun*** Added $250K, budget now: -$136,486.10
+Bought Cybertruck, a Clean LikeNew Electric for $313,618.00
+***Budget overrun*** Added $250K, budget now: -$289,897.10
+Bought Bolt, a Clean LikeNew Electric for $403,411.00
+***Budget overrun*** Added $250K, budget now: -$376,502.70
+Bought Model X 100D, a Clean Used Electric for $336,605.60
+***Budget overrun*** Added $250K, budget now: -$586,196.70
+Bought Model S P90D-2, a Dirty LikeNew Electric for $459,694.00
+***Budget overrun*** Added $250K, budget now: -$384,374.30
+Bought Chopper, a Clean Used Motorcyclce for $48,177.60
+***Budget overrun*** Added $250K, budget now: -$210,399.10
+Bought Scooter, a Clean Used Motorcyclce for $76,024.80
+***Budget overrun*** Added $250K, budget now: -$26,635.10
+Bought Roadster, a Dirty Used Motorcyclce for $66,236.00
+***Budget overrun*** Added $250K, budget now: $176,436.90
+Bought Touring, a Clean Used Motorcyclce for $46,928.00
+Bought Scrambler, a Dirty Used Motorcyclce for $63,904.00
+Bought Cruiser, a Dirty Broken Motorcyclce for $21,497.00
+Bought Alien Invasion, a Clean Broken Monster for $33,351.50
+Bought Avenger, a Dirty Broken Monster for $37,920.50
+***Budget overrun*** Added $250K, budget now: $230,986.90
+Bought Bad Company, a Dirty Broken Monster for $38,777.00
+Bought Blue Thunder, a Clean LikeNew Monster for $63,569.00
+Bought Ghost Rider, a Clean LikeNew Monster for $60,001.00
+Bought Black Pearl, a Clean Broken Monster for $39,776.00
+Bought Bugatti Chiron, a Clean Broken Hyper for $65,287.00
+***Budget overrun*** Added $250K, budget now: $105,107.50
+Bought Bugatti Veyron, a Dirty Used Hyper for $147,246.40
+Bought Ferrari Enzo, a Dirty Broken Hyper for $59,081.00
+***Budget overrun*** Added $250K, budget now: $124,419.50
+Bought McLaren P1, a Dirty LikeNew Hyper for $171,607.00
+Bought McLaren F1, a Clean Used Hyper for $96,744.00
+***Budget overrun*** Added $250K, budget now: $145,949.90
+Bought Koenigsegg Agera RS, a Dirty Used Hyper for $131,725.60
+***Budget overrun*** Added $250K, budget now: $245,970.70
+Bought F1-75, a Sparkling Used F1 for $149,979.20
+Bought MCL36, a Dirty Broken F1 for $50,521.00
+Bought A522, a Clean Used F1 for $96,284.00
+Bought AT03, a Clean Used F1 for $85,895.20
+***Budget overrun*** Added $250K, budget now: $206,095.00
+Bought C42, a Clean Broken F1 for $57,175.50
+Bought VF-22, a Dirty Broken F1 for $78,355.50
+The FNCD South is opening...
+Hired a new Salesperson named Chandler
+Hired a new Salesperson named Ross
+Hired a new Salesperson named Joey
+Hired a new Mechanic named Uhura
+Hired a new Mechanic named James-2
+Hired a new Mechanic named Scotty-2
+Hired a new Driver named Johnny
+Hired a new Driver named Bella
+Hired a new Driver named Olivia
+Hired a new Intern named Jenn
+Hired a new Intern named Joey
+Hired a new Intern named Jack
+Bought Corvette-2, a Dirty Used Super for $25,003.20
+Bought Mustang-2, a Dirty LikeNew Super for $36,082.00
+Bought Europa-3, a Dirty Used Super for $25,147.20
+***Budget overrun*** Added $250K, budget now: $238,164.40
+Bought Cayman-3, a Dirty Used Super for $25,603.20
+Bought Corvette-3, a Dirty Used Super for $17,872.00
+Bought Mustang-3, a Dirty LikeNew Super for $23,257.00
+Bought Taurus-2, a Dirty Broken Car for $6,371.50
+Bought Fiesta-2, a Dirty Used Car for $13,184.00
+Bought Probe-3, a Clean Used Car for $12,424.80
+Bought Escort-3, a Clean Used Car for $12,379.20
+Bought Taurus-3, a Clean Broken Car for $9,880.50
+Bought Fiesta-3, a Clean LikeNew Car for $16,369.00
+Bought Colorado-2, a Dirty Used Pickup for $18,039.20
+Bought Tundra-2, a Dirty Broken Pickup for $5,366.50
+Bought Ranger-3, a Dirty Broken Pickup for $15,002.00
+Bought F-250-3, a Clean Used Pickup for $13,468.80
+Bought Colorado-3, a Dirty Used Pickup for $31,524.00
+Bought Tundra-3, a Clean Used Pickup for $18,127.20
+***Budget overrun*** Added $250K, budget now: $96,616.20
+Bought Taycon Turbo S-2, a Clean Broken Electric for $178,282.50
+***Budget overrun*** Added $250K, budget now: $183,636.20
+Bought Cybertruck-2, a Dirty Broken Electric for $162,980.00
+***Budget overrun*** Added $250K, budget now: $68,347.40
+Bought Bolt-2, a Dirty Used Electric for $365,288.80
+***Budget overrun*** Added $250K, budget now: -$42,711.00
+Bought Model X 100D-2, a Sparkling Used Electric for $361,058.40
+***Budget overrun*** Added $250K, budget now: -$123,580.60
+Bought Model S P90D-3, a Clean Used Electric for $330,869.60
+***Budget overrun*** Added $250K, budget now: -$89,293.60
+Bought Taycon Turbo S-3, a Dirty Broken Electric for $215,713.00
+***Budget overrun*** Added $250K, budget now: $101,340.00
+Bought Chopper-2, a Dirty Used Motorcyclce for $59,366.40
+Bought Scooter-2, a Dirty Broken Motorcyclce for $48,468.00
+Bought Roadster-2, a Dirty Broken Motorcyclce for $34,136.00
+***Budget overrun*** Added $250K, budget now: $186,676.00
+Bought Touring-2, a Dirty LikeNew Motorcyclce for $82,060.00
+Bought Scrambler-2, a Clean Used Motorcyclce for $21,182.40
+Bought Cruiser-2, a Clean Broken Motorcyclce for $12,950.50
+Bought Alien Invasion-2, a Dirty LikeNew Monster for $64,156.00
+Bought Avenger-2, a Dirty LikeNew Monster for $58,948.00
+***Budget overrun*** Added $250K, budget now: $199,925.10
+Bought Bad Company-2, a Clean LikeNew Monster for $79,514.00
+Bought Blue Thunder-2, a Clean LikeNew Monster for $54,885.00
+Bought Ghost Rider-2, a Dirty Broken Monster for $38,141.50
+Bought Black Pearl-2, a Dirty Used Monster for $58,736.00
+***Budget overrun*** Added $250K, budget now: $150,225.00
+Bought Bugatti Chiron-2, a Dirty Used Hyper for $147,937.60
+***Budget overrun*** Added $250K, budget now: $246,109.80
+Bought Bugatti Veyron-2, a Clean Used Hyper for $154,115.20
+Bought Ferrari Enzo-2, a Dirty Used Hyper for $114,526.40
+Bought McLaren P1-2, a Clean LikeNew Hyper for $107,137.00
+***Budget overrun*** Added $250K, budget now: $197,975.40
+Bought McLaren F1-2, a Dirty Broken Hyper for $76,471.00
+Bought Koenigsegg Agera RS-2, a Dirty LikeNew Hyper for $123,303.00
+***Budget overrun*** Added $250K, budget now: $231,340.40
+Bought A522, a Dirty Broken F1 for $93,332.00
+Bought RB18, a Clean Broken F1 for $92,119.50
+Bought F1-75-2, a Dirty LikeNew F1 for $138,394.00
+***Budget overrun*** Added $250K, budget now: $106,862.90
+Bought MCL36-2, a Dirty Used F1 for $143,964.00
+***Budget overrun*** Added $250K, budget now: $246,577.30
+Bought A522-2, a Dirty Used F1 for $110,285.60
+Bought AT03-2, a Dirty LikeNew F1 for $174,215.00
+The FNCD North interns are washing...
+Washing with chemical!
+Washing with chemical!
+Washing with elbow grease!
+Washing with elbow grease!
+Washing with elbow grease!
+Washing with elbow grease!
+The FNCD South interns are washing...
+Washing with elbow grease!
+Washing with elbow grease!
+Washing with elbow grease!
+Washing with elbow grease!
+Washing with elbow grease!
+Washing with elbow grease!
+The FNCD North mechanics are repairing...
+Mechanic James got a bonus of $300.00!
+Mechanic James fixed Europa Used to LikeNew
+Mechanic James did not fix the Used Cayman
+Mechanic Scotty got a bonus of $300.00!
+Mechanic Scotty fixed Cayman Used to LikeNew
+Mechanic Scotty got a bonus of $300.00!
+Mechanic Scotty fixed Europa-2 Broken to Used
+Mechanic Spock got a bonus of $300.00!
+Mechanic Spock fixed Europa-2 Used to LikeNew
+Mechanic Spock got a bonus of $300.00!
+Mechanic Spock fixed Cayman-2 Broken to Used
+The FNCD South mechanics are repairing...
+Mechanic Uhura got a bonus of $300.00!
+Mechanic Uhura fixed Corvette-2 Used to LikeNew
+Mechanic Uhura did not fix the Used Europa-3
+Mechanic James-2 got a bonus of $300.00!
+Mechanic James-2 fixed Europa-3 Used to LikeNew
+Mechanic James-2 got a bonus of $300.00!
+Mechanic James-2 fixed Cayman-3 Used to LikeNew
+Mechanic Scotty-2 did not fix the Used Corvette-3
+Mechanic Scotty-2 did not fix the Broken Taurus-2
+The FNCD North salespeople are selling...
+The FNCD North has 8 buyers today...
+Buyer Luke wants a Performance (JustLooking)
+Buyer Luke decided not to buy.
+Buyer Leia wants a Performance (NeedsOne)
+Buyer Leia decided not to buy.
+Buyer Han wants a Motorcyclce (NeedsOne)
+Buyer Han is buying! Salesperson Phoebe gets a bonus of $50.00!
+Buyer Han bought Clean Used Scooter With addon Satellite Radio. Price: $159,652.08
+Buyer Chewy wants a Pickup (WantsOne)
+Buyer Chewy decided not to buy.
+Buyer Luke-2 wants a Performance (NeedsOne)
+Buyer Luke-2 is buying! Salesperson Phoebe gets a bonus of $1,000.00!
+Buyer Luke-2 bought Dirty LikeNew Model S P90D-2 With addon Satellite Radio. Price: $965,357.40
+Buyer Leia-2 wants a F1 (JustLooking)
+Buyer Leia-2 decided not to buy.
+Buyer Han-2 wants a Super (JustLooking)
+Buyer Han-2 is buying! Salesperson Monica gets a bonus of $1,000.00!
+Buyer Han-2 bought Dirty LikeNew Cayman With addon Satellite Radio. Price: $76,580.70
+Buyer Chewy-2 wants a Hyper (JustLooking)
+Buyer Chewy-2 decided not to buy.
+The FNCD South salespeople are selling...
+The FNCD South has 3 buyers today...
+Buyer Luke-3 wants a Pickup (JustLooking)
+Buyer Luke-3 decided not to buy.
+Buyer Leia-3 wants a Electric (NeedsOne)
+Buyer Leia-3 is buying! Salesperson Ross gets a bonus of $1,000.00!
+Buyer Leia-3 bought Dirty Used Bolt-2 With addon Satellite Radio. Price: $767,106.48
+Buyer Han-3 wants a F1 (JustLooking)
+Buyer Han-3 decided not to buy.
+The FNCD North is opening...
+Hired a new Salesperson named Rachel
+Hired a new Salesperson named Monica
+Hired a new Salesperson named Phoebe
+Hired a new Mechanic named James
+Hired a new Mechanic named Scotty
+Hired a new Mechanic named Spock
+Hired a new Driver named Brock
+Hired a new Driver named Jamar
+Hired a new Driver named Larisa
+Hired a new Intern named Ben
+Hired a new Intern named Lucas
+Hired a new Intern named Lucy
+Bought Europa, a Dirty Broken Super for $16,694.50
+Bought Cayman, a Dirty Used Super for $19,964.00
+Bought Corvette, a Clean Broken Super for $18,386.00
+Bought Mustang, a Clean Used Super for $18,396.80
+***Budget overrun*** Added $250K, budget now: $238,246.70
+Bought Europa-2, a Clean LikeNew Super for $38,312.00
+Bought Cayman-2, a Clean Broken Super for $11,546.50
+Bought Probe, a Dirty Used Car for $10,075.20
+Bought Escort, a Dirty Used Car for $15,736.80
+Bought Taurus, a Dirty Broken Car for $7,979.00
+Bought Fiesta, a Clean Broken Car for $9,465.50
+Bought Probe-2, a Clean LikeNew Car for $14,405.00
+Bought Escort-2, a Dirty LikeNew Car for $18,467.00
+Bought Ranger, a Dirty Used Pickup for $12,964.00
+Bought F-250, a Clean Broken Pickup for $10,284.50
+Bought Colorado, a Dirty Used Pickup for $27,628.80
+Bought Tundra, a Dirty Used Pickup for $27,763.20
+Bought Ranger-2, a Dirty LikeNew Pickup for $32,681.00
+Bought F-250-2, a Clean Broken Pickup for $5,344.00
+***Budget overrun*** Added $250K, budget now: $46,413.70
+Bought Model S P90D, a Clean Broken Electric for $237,492.50
+***Budget overrun*** Added $250K, budget now: $111,640.70
+Bought Taycon Turbo S, a Sparkling Broken Electric for $184,773.00
+***Budget overrun*** Added $250K, budget now: $198,922.20
+Bought Cybertruck, a Clean Broken Electric for $162,718.50
+Bought Bolt, a Clean Broken Electric for $185,862.50
+***Budget overrun*** Added $250K, budget now: -$144,794.30
+Bought Model X 100D, a Clean LikeNew Electric for $407,854.00
+***Budget overrun*** Added $250K, budget now: -$330,916.30
+Bought Model S P90D-2, a Dirty LikeNew Electric for $436,122.00
+***Budget overrun*** Added $250K, budget now: -$142,082.30
+Bought Chopper, a Dirty LikeNew Motorcyclce for $61,166.00
+***Budget overrun*** Added $250K, budget now: $32,880.10
+Bought Scooter, a Clean Used Motorcyclce for $75,037.60
+Bought Roadster, a Dirty Broken Motorcyclce for $11,100.00
+Bought Touring, a Clean Used Motorcyclce for $17,817.60
+***Budget overrun*** Added $250K, budget now: $192,198.50
+Bought Scrambler, a Dirty LikeNew Motorcyclce for $61,764.00
+Bought Cruiser, a Dirty LikeNew Motorcyclce for $46,055.00
+Bought Alien Invasion, a Dirty LikeNew Monster for $54,192.00
+Bought Avenger, a Clean Used Monster for $47,496.80
+***Budget overrun*** Added $250K, budget now: $229,493.70
+Bought Bad Company, a Dirty LikeNew Monster for $64,961.00
+Bought Blue Thunder, a Sparkling Broken Monster for $28,490.50
+Bought Ghost Rider, a Dirty LikeNew Monster for $76,628.00
+Bought Black Pearl, a Dirty Broken Monster for $32,451.50
+Bought Bugatti Chiron, a Dirty Broken Hyper for $85,756.00
+***Budget overrun*** Added $250K, budget now: $97,496.50
+Bought Bugatti Veyron, a Dirty Used Hyper for $158,671.20
+***Budget overrun*** Added $250K, budget now: $187,582.10
+Bought Ferrari Enzo, a Dirty Used Hyper for $159,914.40
+Bought McLaren P1, a Dirty Used Hyper for $84,925.60
+***Budget overrun*** Added $250K, budget now: $249,861.30
+Bought McLaren F1, a Clean Used Hyper for $102,795.20
+Bought Koenigsegg Agera RS, a Dirty LikeNew Hyper for $184,133.00
+***Budget overrun*** Added $250K, budget now: $183,444.30
+Bought F1-75, a Dirty Used F1 for $132,284.00
+Bought MCL36, a Dirty Used F1 for $107,228.80
+***Budget overrun*** Added $250K, budget now: $177,608.30
+Bought A522, a Clean Used F1 for $148,607.20
+Bought AT03, a Dirty LikeNew F1 for $151,469.00
+***Budget overrun*** Added $250K, budget now: $99,780.30
+Bought C42, a Clean LikeNew F1 for $176,359.00
+***Budget overrun*** Added $250K, budget now: $150,500.30
+Bought VF-22, a Dirty LikeNew F1 for $199,280.00
+The FNCD South is opening...
+Hired a new Salesperson named Chandler
+Hired a new Salesperson named Ross
+Hired a new Salesperson named Joey
+Hired a new Mechanic named Uhura
+Hired a new Mechanic named James-2
+Hired a new Mechanic named Scotty-2
+Hired a new Driver named Johnny
+Hired a new Driver named Bella
+Hired a new Driver named Olivia
+Hired a new Intern named Jenn
+Hired a new Intern named Joey
+Hired a new Intern named Jack
+Bought Corvette-2, a Dirty Broken Super for $17,862.00
+Bought Mustang-2, a Dirty Used Super for $29,111.20
+Bought Europa-3, a Dirty LikeNew Super for $20,034.00
+Bought Cayman-3, a Dirty Used Super for $21,889.60
+***Budget overrun*** Added $250K, budget now: $221,862.20
+Bought Corvette-3, a Dirty LikeNew Super for $39,241.00
+Bought Mustang-3, a Clean LikeNew Super for $25,633.00
+Bought Taurus-2, a Sparkling Broken Car for $6,403.00
+Bought Fiesta-2, a Dirty Broken Car for $9,538.50
+Bought Probe-3, a Dirty Used Car for $10,048.00
+Bought Escort-3, a Dirty Broken Car for $7,907.00
+Bought Taurus-3, a Dirty LikeNew Car for $18,012.00
+Bought Fiesta-3, a Dirty LikeNew Car for $12,964.00
+Bought Colorado-2, a Sparkling LikeNew Pickup for $24,821.00
+Bought Tundra-2, a Dirty Broken Pickup for $12,992.00
+Bought Ranger-3, a Clean Broken Pickup for $11,527.00
+Bought F-250-3, a Dirty Used Pickup for $16,992.80
+Bought Colorado-3, a Clean Used Pickup for $19,868.00
+Bought Tundra-3, a Dirty Used Pickup for $10,064.00
+***Budget overrun*** Added $250K, budget now: -$207,720.10
+Bought Taycon Turbo S-2, a Dirty LikeNew Electric for $492,812.00
+***Budget overrun*** Added $250K, budget now: -$178,549.10
+Bought Cybertruck-2, a Clean Broken Electric for $220,829.00
+***Budget overrun*** Added $250K, budget now: -$383,819.10
+Bought Bolt-2, a Clean LikeNew Electric for $455,270.00
+***Budget overrun*** Added $250K, budget now: -$490,501.50
+Bought Model X 100D-2, a Dirty Used Electric for $356,682.40
+***Budget overrun*** Added $250K, budget now: -$587,873.50
+Bought Model S P90D-3, a Dirty LikeNew Electric for $347,372.00
+***Budget overrun*** Added $250K, budget now: -$534,523.50
+Bought Taycon Turbo S-3, a Dirty Broken Electric for $196,650.00
+***Budget overrun*** Added $250K, budget now: -$315,430.50
+Bought Chopper-2, a Dirty LikeNew Motorcyclce for $30,907.00
+***Budget overrun*** Added $250K, budget now: -$144,691.50
+Bought Scooter-2, a Dirty LikeNew Motorcyclce for $79,261.00
+***Budget overrun*** Added $250K, budget now: $67,246.50
+Bought Roadster-2, a Dirty Broken Motorcyclce for $38,062.00
+Bought Touring-2, a Clean Broken Motorcyclce for $21,298.00
+Bought Scrambler-2, a Clean Used Motorcyclce for $41,261.60
+***Budget overrun*** Added $250K, budget now: $227,813.90
+Bought Cruiser-2, a Clean Broken Motorcyclce for $26,873.00
+Bought Alien Invasion-2, a Clean Broken Monster for $38,105.00
+Bought Avenger-2, a Dirty Broken Monster for $26,825.50
+Bought Bad Company-2, a Dirty Used Monster for $48,849.60
+Bought Blue Thunder-2, a Clean Broken Monster for $31,866.50
+Bought Ghost Rider-2, a Dirty LikeNew Monster for $56,698.00
+***Budget overrun*** Added $250K, budget now: $206,788.30
+Bought Black Pearl-2, a Dirty LikeNew Monster for $68,681.00
+Bought Bugatti Chiron-2, a Clean LikeNew Hyper for $104,303.00
+***Budget overrun*** Added $250K, budget now: $191,955.30
+Bought Bugatti Veyron-2, a Clean LikeNew Hyper for $160,530.00
+Bought Ferrari Enzo-2, a Clean Used Hyper for $121,180.00
+***Budget overrun*** Added $250K, budget now: $224,773.80
+Bought McLaren P1-2, a Dirty Broken Hyper for $96,001.50
+Bought McLaren F1-2, a Clean Broken Hyper for $77,541.00
+Bought Koenigsegg Agera RS-2, a Sparkling Broken Hyper for $84,259.50
+***Budget overrun*** Added $250K, budget now: $154,311.70
+Bought A522, a Dirty Used F1 for $158,661.60
+Bought RB18, a Clean LikeNew F1 for $103,125.00
+***Budget overrun*** Added $250K, budget now: $168,388.70
+Bought F1-75-2, a Dirty LikeNew F1 for $132,798.00
+Bought MCL36-2, a Clean LikeNew F1 for $106,381.00
+***Budget overrun*** Added $250K, budget now: $177,594.90
+Bought A522-2, a Dirty Used F1 for $134,412.80
+Bought AT03-2, a Dirty LikeNew F1 for $153,660.00
+The FNCD North interns are washing...
+Washing with elbow grease!
+Washing with elbow grease!
+Washing with chemical!
+Washing with chemical!
+Washing with elbow grease!
+Washing with elbow grease!
+The FNCD South interns are washing...
+Washing with chemical!
+Intern Jenn got a bonus of $100.00!
+Washing with chemical!
+Washing with chemical!
+Washing with chemical!
+Washing with elbow grease!
+Washing with elbow grease!
+The FNCD North mechanics are repairing...
+Mechanic James got a bonus of $300.00!
+Mechanic James fixed Europa Broken to Used
+Mechanic James did not fix the Used Cayman
+Mechanic Scotty got a bonus of $300.00!
+Mechanic Scotty fixed Europa Used to LikeNew
+Mechanic Scotty got a bonus of $300.00!
+Mechanic Scotty fixed Cayman Used to LikeNew
+Mechanic Spock got a bonus of $300.00!
+Mechanic Spock fixed Corvette Broken to Used
+Mechanic Spock got a bonus of $300.00!
+Mechanic Spock fixed Mustang Used to LikeNew
+The FNCD South mechanics are repairing...
+Mechanic Uhura got a bonus of $300.00!
+Mechanic Uhura fixed Corvette-2 Broken to Used
+Mechanic Uhura got a bonus of $300.00!
+Mechanic Uhura fixed Mustang-2 Used to LikeNew
+Mechanic James-2 got a bonus of $300.00!
+Mechanic James-2 fixed Corvette-2 Used to LikeNew
+Mechanic James-2 got a bonus of $300.00!
+Mechanic James-2 fixed Cayman-3 Used to LikeNew
+Mechanic Scotty-2 got a bonus of $100.00!
+Mechanic Scotty-2 fixed Taurus-2 Broken to Used
+Mechanic Scotty-2 did not fix the Broken Fiesta-2
+The FNCD North salespeople are selling...
+The FNCD North has 7 buyers today...
+Buyer Luke wants a Super (WantsOne)
+Buyer Luke decided not to buy.
+Buyer Leia wants a Car (WantsOne)
+Buyer Leia decided not to buy.
+Buyer Han wants a F1 (WantsOne)
+Buyer Han is buying! Salesperson Phoebe gets a bonus of $3,000.00!
+Buyer Han bought Dirty LikeNew VF-22 Price: $398,560.00
+Buyer Chewy wants a Motorcyclce (JustLooking)
+Buyer Chewy decided not to buy.
+Buyer Luke-2 wants a Motorcyclce (WantsOne)
+Buyer Luke-2 is buying! Salesperson Phoebe gets a bonus of $50.00!
+Buyer Luke-2 bought Clean Used Scooter Price: $150,075.20
+Buyer Leia-2 wants a Motorcyclce (NeedsOne)
+Buyer Leia-2 is buying! Salesperson Monica gets a bonus of $50.00!
+Buyer Leia-2 bought Dirty LikeNew Scrambler Price: $123,528.00
+Buyer Han-2 wants a Hyper (WantsOne)
+Buyer Han-2 decided not to buy.
+The FNCD South salespeople are selling...
+The FNCD South has 3 buyers today...
+Buyer Chewy-2 wants a Car (WantsOne)
+Buyer Chewy-2 is buying! Salesperson Chandler gets a bonus of $500.00!
+Buyer Chewy-2 bought Dirty LikeNew Taurus-3 With addon Satellite Radio. Price: $37,825.20
+Buyer Luke-3 wants a Super (WantsOne)
+Buyer Luke-3 decided not to buy.
+Buyer Leia-3 wants a Electric (WantsOne)
+Buyer Leia-3 is buying! Salesperson Chandler gets a bonus of $1,000.00!
+Buyer Leia-3 bought Dirty LikeNew Taycon Turbo S-2 Price: $985,624.00
+The FNCD North is opening...
+Hired a new Salesperson named Rachel
+Hired a new Salesperson named Monica
+Hired a new Salesperson named Phoebe
+Hired a new Mechanic named James
+Hired a new Mechanic named Scotty
+Hired a new Mechanic named Spock
+Hired a new Driver named Brock
+Hired a new Driver named Jamar
+Hired a new Driver named Larisa
+Hired a new Intern named Ben
+Hired a new Intern named Lucas
+Hired a new Intern named Lucy
+Bought Europa, a Dirty Used Super for $19,422.40
+Bought Cayman, a Dirty Broken Super for $10,399.50
+Bought Corvette, a Dirty LikeNew Super for $22,755.00
+Bought Mustang, a Dirty Used Super for $18,628.00
+Bought Europa-2, a Dirty Broken Super for $11,014.50
+***Budget overrun*** Added $250K, budget now: $234,606.60
+Bought Cayman-2, a Clean LikeNew Super for $33,174.00
+Bought Probe, a Clean LikeNew Car for $19,371.00
+Bought Escort, a Clean Broken Car for $5,778.50
+Bought Taurus, a Clean Used Car for $10,520.00
+Bought Fiesta, a Dirty Used Car for $8,431.20
+Bought Probe-2, a Sparkling Used Car for $14,729.60
+Bought Escort-2, a Clean Used Car for $15,794.40
+Bought Ranger, a Clean LikeNew Pickup for $28,519.00
+Bought F-250, a Dirty Used Pickup for $20,442.40
+Bought Colorado, a Dirty LikeNew Pickup for $36,194.00
+Bought Tundra, a Clean Broken Pickup for $13,165.50
+Bought Ranger-2, a Clean Broken Pickup for $5,797.00
+Bought F-250-2, a Dirty Broken Pickup for $8,204.50
+***Budget overrun*** Added $250K, budget now: $7,806.70
+Bought Model S P90D, a Clean Used Electric for $289,852.80
+***Budget overrun*** Added $250K, budget now: $22,061.20
+Bought Taycon Turbo S, a Dirty Broken Electric for $235,745.50
+***Budget overrun*** Added $250K, budget now: -$73,855.60
+Bought Cybertruck, a Sparkling Used Electric for $345,916.80
+***Budget overrun*** Added $250K, budget now: -$128,246.00
+Bought Bolt, a Dirty Used Electric for $304,390.40
+***Budget overrun*** Added $250K, budget now: -$129,715.60
+Bought Model X 100D, a Sparkling Used Electric for $251,469.60
+***Budget overrun*** Added $250K, budget now: -$130,542.80
+Bought Model S P90D-2, a Dirty Used Electric for $250,827.20
+***Budget overrun*** Added $250K, budget now: $77,318.20
+Bought Chopper, a Dirty LikeNew Motorcyclce for $42,139.00
+Bought Scooter, a Clean Used Motorcyclce for $26,827.20
+Bought Roadster, a Clean LikeNew Motorcyclce for $23,584.00
+***Budget overrun*** Added $250K, budget now: $239,002.00
+Bought Touring, a Clean Broken Motorcyclce for $37,905.00
+Bought Scrambler, a Dirty LikeNew Motorcyclce for $81,236.00
+Bought Cruiser, a Dirty LikeNew Motorcyclce for $81,669.00
+Bought Alien Invasion, a Dirty LikeNew Monster for $66,608.00
+***Budget overrun*** Added $250K, budget now: $189,979.00
+Bought Avenger, a Clean LikeNew Monster for $69,510.00
+Bought Bad Company, a Clean LikeNew Monster for $73,037.00
+Bought Blue Thunder, a Dirty Broken Monster for $29,521.00
+Bought Ghost Rider, a Clean Broken Monster for $28,328.50
+Bought Black Pearl, a Dirty LikeNew Monster for $50,417.00
+The FNCD North is opening...
+Hired a new Salesperson named Rachel
+Hired a new Salesperson named Monica
+Hired a new Salesperson named Phoebe
+Hired a new Mechanic named James
+Hired a new Mechanic named Scotty
+Hired a new Mechanic named Spock
+Hired a new Driver named Brock
+Hired a new Driver named Jamar
+Hired a new Driver named Larisa
+Hired a new Intern named Ben
+Hired a new Intern named Lucas
+Hired a new Intern named Lucy
+Bought Europa, a Clean LikeNew Super for $24,587.00
+Bought Cayman, a Clean Used Super for $21,154.40
+Bought Corvette, a Dirty Used Super for $28,443.20
+Bought Mustang, a Clean Broken Super for $14,373.00
+***Budget overrun*** Added $250K, budget now: $242,831.90
+Bought Europa-2, a Clean Broken Super for $18,610.50
+Bought Cayman-2, a Clean Broken Super for $13,043.00
+Bought Probe, a Dirty Broken Car for $9,010.50
+Bought Escort, a Sparkling LikeNew Car for $18,392.00
+Bought Taurus, a Clean Used Car for $10,987.20
+Bought Fiesta, a Dirty LikeNew Car for $11,694.00
+Bought Probe-2, a Dirty LikeNew Car for $14,856.00
+Bought Escort-2, a Dirty Used Car for $13,062.40
+Bought Ranger, a Clean LikeNew Pickup for $11,860.00
+Bought F-250, a Sparkling Broken Pickup for $15,669.00
+Bought Colorado, a Clean Used Pickup for $29,921.60
+Bought Tundra, a Dirty LikeNew Pickup for $18,494.00
+Bought Ranger-2, a Dirty LikeNew Pickup for $25,133.00
+Bought F-250-2, a Dirty Used Pickup for $24,005.60
+***Budget overrun*** Added $250K, budget now: -$101,812.40
+Bought Model S P90D, a Dirty Used Electric for $378,516.00
+***Budget overrun*** Added $250K, budget now: -$18,243.40
+Bought Taycon Turbo S, a Dirty Broken Electric for $166,431.00
+***Budget overrun*** Added $250K, budget now: -$106,185.00
+Bought Cybertruck, a Sparkling Used Electric for $337,941.60
+***Budget overrun*** Added $250K, budget now: -$34,412.00
+Bought Bolt, a Dirty Broken Electric for $178,227.00
+***Budget overrun*** Added $250K, budget now: $31,025.50
+Bought Model X 100D, a Dirty Broken Electric for $184,562.50
+***Budget overrun*** Added $250K, budget now: $25,678.30
+Bought Model S P90D-2, a Dirty Used Electric for $255,347.20
+***Budget overrun*** Added $250K, budget now: $230,570.30
+Bought Chopper, a Dirty LikeNew Motorcyclce for $45,108.00
+Bought Scooter, a Dirty Broken Motorcyclce for $47,877.50
+Bought Roadster, a Dirty LikeNew Motorcyclce for $84,125.00
+Bought Touring, a Dirty Broken Motorcyclce for $15,600.00
+Bought Scrambler, a Dirty Used Motorcyclce for $43,294.40
+Bought Cruiser, a Clean Used Motorcyclce for $26,095.20
+***Budget overrun*** Added $250K, budget now: $229,533.20
+Bought Alien Invasion, a Dirty Broken Monster for $34,045.00
+Bought Avenger, a Clean LikeNew Monster for $55,485.00
+Bought Bad Company, a Dirty LikeNew Monster for $57,766.00
+Bought Blue Thunder, a Dirty LikeNew Monster for $61,897.00
+***Budget overrun*** Added $250K, budget now: $248,149.20
+Bought Ghost Rider, a Clean LikeNew Monster for $56,236.00
+Bought Black Pearl, a Clean LikeNew Monster for $78,839.00
+The FNCD North is opening...
+Hired a new Salesperson named Rachel
+Hired a new Salesperson named Monica
+Hired a new Salesperson named Phoebe
+Hired a new Mechanic named James
+Hired a new Mechanic named Scotty
+Hired a new Mechanic named Spock
+Hired a new Driver named Brock
+Hired a new Driver named Jamar
+Hired a new Driver named Larisa
+Hired a new Intern named Ben
+Hired a new Intern named Lucas
+Hired a new Intern named Lucy
+Bought Europa, a Clean LikeNew Performance for $26,693.00
+Bought Cayman, a Dirty LikeNew Performance for $36,854.00
+Bought Corvette, a Dirty Broken Performance for $12,119.00
+Bought Mustang, a Clean Used Performance for $17,146.40
+***Budget overrun*** Added $250K, budget now: $239,148.60
+Bought Europa-2, a Dirty Broken Performance for $18,039.00
+Bought Cayman-2, a Dirty LikeNew Performance for $22,555.00
+Bought Probe, a Dirty LikeNew Car for $18,164.00
+Bought Escort, a Clean Broken Car for $9,988.00
+Bought Taurus, a Dirty Broken Car for $5,499.50
+Bought Fiesta, a Dirty Used Car for $13,708.80
+Bought Probe-2, a Clean Used Car for $14,864.00
+Bought Escort-2, a Dirty Used Car for $8,466.40
+Bought Ranger, a Dirty Broken Pickup for $11,135.50
+Bought F-250, a Dirty Used Pickup for $17,938.40
+Bought Colorado, a Sparkling Broken Pickup for $16,916.50
+Bought Tundra, a Dirty Broken Pickup for $18,393.00
+Bought Ranger-2, a Clean Used Pickup for $20,588.80
+Bought F-250-2, a Dirty LikeNew Pickup for $29,270.00
+***Budget overrun*** Added $250K, budget now: -$44,259.30
+Bought Model S P90D, a Dirty Used Electric for $325,920.00
+***Budget overrun*** Added $250K, budget now: -$162,696.10
+Bought Taycon Turbo S, a Clean Used Electric for $368,436.80
+***Budget overrun*** Added $250K, budget now: -$132,609.10
+Bought Cybertruck, a Dirty Broken Electric for $219,913.00
+***Budget overrun*** Added $250K, budget now: -$103,309.60
+Bought Bolt, a Dirty Broken Electric for $220,700.50
+***Budget overrun*** Added $250K, budget now: -$349,107.60
+Bought Model X 100D, a Clean LikeNew Electric for $495,798.00
+***Budget overrun*** Added $250K, budget now: -$254,196.60
+Bought Model S P90D-2, a Dirty Broken Electric for $155,089.00
+***Budget overrun*** Added $250K, budget now: -$27,178.20
+Bought Chopper, a Dirty Used Motorcyclce for $22,981.60
+***Budget overrun*** Added $250K, budget now: $147,514.80
+Bought Scooter, a Dirty LikeNew Motorcyclce for $75,307.00
+Bought Roadster, a Sparkling Broken Motorcyclce for $22,363.50
+Bought Touring, a Dirty LikeNew Motorcyclce for $73,370.00
+Bought Scrambler, a Dirty Broken Motorcyclce for $23,656.50
+***Budget overrun*** Added $250K, budget now: $232,214.30
+Bought Cruiser, a Dirty Broken Motorcyclce for $45,910.50
+Bought Alien Invasion, a Clean LikeNew Monster for $70,704.00
+Bought Avenger, a Clean LikeNew Monster for $70,970.00
+Bought Bad Company, a Clean Broken Monster for $26,275.50
+***Budget overrun*** Added $250K, budget now: $240,847.80
+Bought Blue Thunder, a Dirty LikeNew Monster for $73,417.00
+Bought Ghost Rider, a Dirty Used Monster for $58,516.00
+Bought Black Pearl, a Dirty Broken Monster for $31,644.50
+Bought Bugatti Chiron, a Dirty Broken Hyper for $81,089.00
+***Budget overrun*** Added $250K, budget now: $201,505.30
+Bought Bugatti Veyron, a Clean LikeNew Hyper for $118,093.00
+Bought Ferrari Enzo, a Dirty LikeNew Hyper for $189,419.00
+***Budget overrun*** Added $250K, budget now: $127,816.30
+Bought McLaren P1, a Dirty LikeNew Hyper for $134,270.00
+Bought McLaren F1, a Dirty Broken Hyper for $62,881.50
+***Budget overrun*** Added $250K, budget now: $244,069.30
+Bought Koenigsegg Agera RS, a Clean Broken Hyper for $70,865.50
+Bought F1-75, a Dirty LikeNew F1 for $156,204.00
+Bought MCL36, a Dirty Broken F1 for $60,544.50
+***Budget overrun*** Added $250K, budget now: $127,209.80
+Bought A522, a Dirty LikeNew F1 for $150,111.00
+***Budget overrun*** Added $250K, budget now: $230,203.80
+Bought AT03, a Dirty LikeNew F1 for $147,006.00
+Bought C42, a Dirty Broken F1 for $79,079.00
+Bought VF-22, a Dirty Used F1 for $143,394.40
+***Budget overrun*** Added $250K, budget now: $215,927.40
+Bought Audi R8, a Dirty Broken Supercar for $41,803.00
+Bought Maserati MC20, a Clean Used Supercar for $69,823.20
+Bought Porsche 911 GT3RS, a Dirty Used Supercar for $69,937.60
+Bought Chevrolet Corvette, a Clean Used Supercar for $70,552.80
+***Budget overrun*** Added $250K, budget now: $189,749.00
+Bought Lamborghini Huracan STO, a Sparkling Used Supercar for $65,864.80
+Bought Ferrari 296 GTB, a Clean Used Supercar for $71,639.20
+The FNCD South is opening...
+Hired a new Salesperson named Chandler
+Hired a new Salesperson named Ross
+Hired a new Salesperson named Joey
+Hired a new Mechanic named Uhura
+Hired a new Mechanic named James-2
+Hired a new Mechanic named Scotty-2
+Hired a new Driver named Johnny
+Hired a new Driver named Bella
+Hired a new Driver named Olivia
+Hired a new Intern named Jenn
+Hired a new Intern named Joey
+Hired a new Intern named Jack
+Bought Corvette-2, a Dirty Broken Performance for $12,984.00
+Bought Mustang-2, a Dirty Broken Performance for $11,454.00
+Bought Europa-3, a Dirty LikeNew Performance for $29,142.00
+Bought Cayman-3, a Dirty Broken Performance for $17,144.00
+Bought Corvette-3, a Dirty Broken Performance for $12,357.00
+***Budget overrun*** Added $250K, budget now: $236,337.40
+Bought Mustang-3, a Dirty Used Performance for $30,581.60
+Bought Taurus-2, a Clean LikeNew Car for $18,461.00
+Bought Fiesta-2, a Clean Broken Car for $7,207.00
+Bought Probe-3, a Sparkling Broken Car for $5,875.00
+Bought Escort-3, a Dirty Broken Car for $7,090.00
+Bought Taurus-3, a Clean Broken Car for $6,097.50
+Bought Fiesta-3, a Dirty LikeNew Car for $16,452.00
+Bought Colorado-2, a Dirty Broken Pickup for $7,737.50
+Bought Tundra-2, a Dirty LikeNew Pickup for $39,916.00
+Bought Ranger-3, a Dirty Used Pickup for $24,267.20
+Bought F-250-3, a Clean LikeNew Pickup for $14,723.00
+Bought Colorado-3, a Dirty LikeNew Pickup for $10,103.00
+Bought Tundra-3, a Dirty Broken Pickup for $10,679.50
+***Budget overrun*** Added $250K, budget now: $69,527.20
+Bought Taycon Turbo S-2, a Clean Broken Electric for $248,201.50
+***Budget overrun*** Added $250K, budget now: -$19,904.80
+Bought Cybertruck-2, a Dirty LikeNew Electric for $339,432.00
+***Budget overrun*** Added $250K, budget now: -$134,346.40
+Bought Bolt-2, a Clean Used Electric for $364,441.60
+***Budget overrun*** Added $250K, budget now: -$225,692.00
+Bought Model X 100D-2, a Dirty Used Electric for $341,345.60
+***Budget overrun*** Added $250K, budget now: -$358,394.00
+Bought Model S P90D-3, a Clean LikeNew Electric for $382,702.00
+***Budget overrun*** Added $250K, budget now: -$554,087.00
+Bought Taycon Turbo S-3, a Dirty LikeNew Electric for $445,693.00
+***Budget overrun*** Added $250K, budget now: -$366,461.00
+Bought Chopper-2, a Clean LikeNew Motorcyclce for $62,374.00
+***Budget overrun*** Added $250K, budget now: -$195,123.00
+Bought Scooter-2, a Dirty LikeNew Motorcyclce for $78,662.00
+***Budget overrun*** Added $250K, budget now: $22,032.00
+Bought Roadster-2, a Clean Broken Motorcyclce for $32,845.00
+Bought Touring-2, a Dirty Broken Motorcyclce for $18,579.50
+***Budget overrun*** Added $250K, budget now: $164,235.50
+Bought Scrambler-2, a Sparkling LikeNew Motorcyclce for $89,217.00
+Bought Cruiser-2, a Dirty Used Motorcyclce for $17,750.40
+Bought Alien Invasion-2, a Dirty LikeNew Monster for $74,474.00
+Bought Avenger-2, a Dirty Broken Monster for $39,651.00
+***Budget overrun*** Added $250K, budget now: $245,929.10
+Bought Bad Company-2, a Dirty Broken Monster for $36,431.00
+Bought Blue Thunder-2, a Dirty Broken Monster for $30,122.50
+Bought Ghost Rider-2, a Clean Used Monster for $50,418.40
+Bought Black Pearl-2, a Dirty Broken Monster for $26,317.50
+Bought Bugatti Chiron-2, a Dirty LikeNew Hyper for $117,479.00
+***Budget overrun*** Added $250K, budget now: $157,441.30
+Bought Bugatti Veyron-2, a Clean Used Hyper for $114,150.40
+Bought Ferrari Enzo-2, a Clean LikeNew Hyper for $141,790.00
+***Budget overrun*** Added $250K, budget now: $113,595.30
+Bought McLaren P1-2, a Dirty LikeNew Hyper for $152,056.00
+***Budget overrun*** Added $250K, budget now: $236,298.50
+Bought McLaren F1-2, a Clean Used Hyper for $127,296.80
+Bought Koenigsegg Agera RS-2, a Clean Broken Hyper for $82,652.50
+***Budget overrun*** Added $250K, budget now: $228,666.00
+Bought A522, a Dirty LikeNew F1 for $174,980.00
+Bought RB18, a Clean LikeNew F1 for $115,268.00
+***Budget overrun*** Added $250K, budget now: $229,152.00
+Bought F1-75-2, a Clean LikeNew F1 for $134,246.00
+Bought MCL36-2, a Clean Used F1 for $113,131.20
+Bought A522-2, a Dirty Broken F1 for $70,718.00
+***Budget overrun*** Added $250K, budget now: $182,535.60
+Bought AT03-2, a Clean Used F1 for $112,767.20
+Bought McLaren 720s, a Clean Broken Supercar for $44,895.50
+Bought Ferrari 812 SuperFast, a Dirty Broken Supercar for $40,748.50
+Bought Audi R8-2, a Dirty LikeNew Supercar for $82,554.00
+***Budget overrun*** Added $250K, budget now: $195,079.20
+Bought Maserati MC20-2, a Dirty Used Supercar for $69,258.40
+Bought Porsche 911 GT3RS-2, a Dirty Broken Supercar for $44,790.00
+Bought Chevrolet Corvette-2, a Dirty Broken Supercar for $40,751.50
+The FNCD North interns are washing...
+Washing with elbow grease!
+Washing with elbow grease!
+Washing with chemical!
+Washing with chemical!
+Washing with chemical!
+Washing with chemical!
+The FNCD South interns are washing...
+Washing with elbow grease!
+Washing with elbow grease!
+Washing with elbow grease!
+Washing with elbow grease!
+Washing with chemical!
+Washing with chemical!
+The FNCD North mechanics are repairing...
+Mechanic James got a bonus of $300.00!
+Mechanic James fixed Corvette Broken to Used
+Mechanic James got a bonus of $300.00!
+Mechanic James fixed Mustang Used to LikeNew
+Mechanic Scotty did not fix the Used Corvette
+Mechanic Scotty got a bonus of $300.00!
+Mechanic Scotty fixed Europa-2 Broken to Used
+Mechanic Spock got a bonus of $300.00!
+Mechanic Spock fixed Corvette Used to LikeNew
+Mechanic Spock got a bonus of $300.00!
+Mechanic Spock fixed Europa-2 Used to LikeNew
+The FNCD South mechanics are repairing...
+Mechanic Uhura got a bonus of $300.00!
+Mechanic Uhura fixed Corvette-2 Broken to Used
+Mechanic Uhura got a bonus of $300.00!
+Mechanic Uhura fixed Mustang-2 Broken to Used
+Mechanic James-2 got a bonus of $300.00!
+Mechanic James-2 fixed Corvette-2 Used to LikeNew
+Mechanic James-2 got a bonus of $300.00!
+Mechanic James-2 fixed Mustang-2 Used to LikeNew
+Mechanic Scotty-2 got a bonus of $300.00!
+Mechanic Scotty-2 fixed Cayman-3 Broken to Used
+Mechanic Scotty-2 did not fix the Broken Corvette-3
+The FNCD North salespeople are selling...
+The FNCD North has 8 buyers today...
+Buyer Luke wants a Motorcyclce (JustLooking)
+Buyer Luke is buying! Salesperson Phoebe gets a bonus of $50.00!
+Buyer Luke bought Dirty LikeNew Scooter With addon Satellite Radio. Price: $158,144.70
+Buyer Leia wants a Pickup (NeedsOne)
+Buyer Leia is buying! Salesperson Monica gets a bonus of $750.00!
+Buyer Leia bought Dirty LikeNew F-250-2 With addon Satellite Radio. Price: $61,467.00
+Buyer Han wants a Pickup (NeedsOne)
+Buyer Han is buying! Salesperson Monica gets a bonus of $750.00!
+Buyer Han bought Dirty LikeNew F-250-2 With addon Satellite Radio. Price: $61,467.00
+Buyer Chewy wants a Monster (WantsOne)
+Buyer Chewy is buying! Salesperson Rachel gets a bonus of $2,000.00!
+Buyer Chewy bought Dirty LikeNew Blue Thunder With addon Satellite Radio. Price: $154,175.70
+Buyer Luke-2 wants a Hyper (JustLooking)
+Buyer Luke-2 decided not to buy.
+Buyer Leia-2 wants a Electric (JustLooking)
+Buyer Leia-2 decided not to buy.
+Buyer Han-2 wants a Motorcyclce (NeedsOne)
+Buyer Han-2 is buying! Salesperson Monica gets a bonus of $50.00!
+Buyer Han-2 bought Dirty LikeNew Scooter Price: $150,614.00
+Buyer Chewy-2 wants a Motorcyclce (JustLooking)
+Buyer Chewy-2 decided not to buy.
+The FNCD South salespeople are selling...
+The FNCD South has 2 buyers today...
+Buyer Luke-3 wants a Performance (JustLooking)
+Buyer Luke-3 decided not to buy.
+Buyer Leia-3 wants a Motorcyclce (WantsOne)
+Buyer Leia-3 decided not to buy.
+Intern: Lucas has left FNCD North.

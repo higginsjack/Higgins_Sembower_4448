@@ -1,3 +1,5 @@
+//factory for the Vehicles!
+
 public class VehicleFactory {
     public static Vehicle makeVehicle(Enums.VehicleType vType) {
         Vehicle newVehicle = null;

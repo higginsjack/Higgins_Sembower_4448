@@ -16,10 +16,10 @@ public class VehicleFactory {
             return new Hyper();
         case Performance:
             return new Performance();
-        case Pickup:
-            return new Pickup();
         case Super:
             return new Super();
+        case Pickup:
+            return new Pickup();
         default:
             throw new IllegalArgumentException("Invalid Vehicle Type");
     }

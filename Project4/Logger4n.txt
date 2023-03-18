@@ -1,130 +1,91 @@
 The FNCD North is opening...
-Bought Europa-55, a Dirty Used Super for $16,141.60
-Bought Cayman-55, a Dirty LikeNew Super for $30,881.00
-Bought Corvette-55, a Dirty LikeNew Super for $36,824.00
-Bought Mustang-55, a Dirty LikeNew Super for $20,951.00
-Bought Europa-56, a Dirty LikeNew Super for $34,343.00
-***Budget overrun*** Added $250K, budget now: $221,736.20
-Bought Cayman-56, a Sparkling LikeNew Super for $31,989.00
-Bought Corvette-56, a Clean Used Super for $28,532.80
-Bought Mustang-56, a Dirty Broken Super for $19,921.50
-Bought Europa-57, a Clean Broken Super for $12,904.50
-Bought Cayman-57, a Dirty Broken Super for $13,006.00
-Bought Corvette-57, a Dirty Used Super for $25,038.40
-Bought Mustang-57, a Clean Broken Super for $19,953.50
-Bought Europa-58, a Dirty Used Super for $24,425.60
-Bought Cayman-58, a Dirty Broken Super for $14,911.50
-Bought Corvette-58, a Clean Used Super for $27,840.00
-Bought Mustang-58, a Clean Used Super for $28,552.80
-***Budget overrun*** Added $250K, budget now: $237,782.60
-Bought Europa-59, a Dirty Broken Super for $18,867.00
-Bought Cayman-59, a Dirty Broken Super for $10,042.50
-Bought Corvette-59, a Dirty Broken Super for $12,402.50
-Bought Mustang-59, a Dirty Used Super for $18,465.60
-Bought Europa-60, a Clean Broken Super for $11,920.50
-Bought Cayman-60, a Dirty Used Super for $17,001.60
-Bought Corvette-60, a Dirty LikeNew Super for $22,567.00
-Bought Mustang-60, a Dirty Used Super for $25,132.00
-Bought Europa-61, a Dirty LikeNew Super for $39,807.00
-Bought Cayman-61, a Clean LikeNew Super for $25,715.00
-Bought Corvette-61, a Dirty LikeNew Super for $33,273.00
-***Budget overrun*** Added $250K, budget now: $242,487.90
-Bought Mustang-61, a Sparkling Used Super for $28,968.00
-Bought Europa-62, a Dirty LikeNew Super for $38,755.00
-Bought Cayman-62, a Clean Broken Super for $12,150.50
-Bought Corvette-62, a Dirty Broken Super for $11,509.50
-Bought Mustang-62, a Dirty Used Super for $26,591.20
-Bought Europa-63, a Dirty LikeNew Super for $35,922.00
-Bought Cayman-63, a Clean Broken Super for $15,167.50
-Bought Corvette-63, a Dirty Broken Super for $12,974.00
-Bought Mustang-63, a Clean Broken Super for $19,814.00
-Bought Europa-64, a Dirty Broken Super for $18,919.50
-Bought Cayman-64, a Clean Used Super for $20,361.60
-Bought Corvette-64, a Dirty Used Super for $16,765.60
-***Budget overrun*** Added $250K, budget now: $237,411.90
-Bought Mustang-64, a Dirty Used Super for $26,145.60
-Bought Europa-65, a Dirty Used Super for $18,153.60
-Bought Cayman-65, a Dirty Used Super for $16,301.60
-Bought Corvette-65, a Dirty Used Super for $17,975.20
-Bought Mustang-65, a Clean Used Super for $17,733.60
-Bought Europa-66, a Clean Used Super for $31,078.40
-Bought Cayman-66, a Clean Broken Super for $14,434.00
-Bought Corvette-66, a Clean Used Super for $27,744.00
-Bought Mustang-66, a Clean Broken Super for $18,360.00
-Bought Europa-67, a Clean LikeNew Super for $33,460.00
-Bought Cayman-67, a Dirty Broken Super for $19,013.00
-Bought Corvette-67, a Dirty Used Super for $19,020.00
-***Budget overrun*** Added $250K, budget now: $224,029.50
-Bought Mustang-67, a Clean LikeNew Super for $30,109.00
-Bought Europa-68, a Dirty Used Super for $22,512.00
-Bought Cayman-68, a Dirty LikeNew Super for $23,179.00
-Bought F-250-28, a Dirty LikeNew Pickup for $21,311.00
+Bought Europa-7, a Dirty Broken Super for $15,692.00
+Bought Cayman-7, a Dirty LikeNew Super for $33,299.00
+Bought Corvette-7, a Clean Used Super for $28,399.20
+Bought Mustang-7, a Clean Used Super for $27,603.20
+Bought Europa-8, a Clean LikeNew Super for $33,253.00
+Bought Cayman-8, a Dirty LikeNew Super for $22,004.00
+Bought Chopper-3, a Dirty Broken Motorcyclce for $47,646.50
 The FNCD South is opening...
-Bought Corvette-68, a Dirty Broken Super for $19,021.50
-Bought Mustang-68, a Clean Used Super for $18,904.80
-Bought Europa-69, a Dirty LikeNew Super for $20,545.00
-Bought Cayman-69, a Dirty LikeNew Super for $26,832.00
-Bought Corvette-69, a Dirty Used Super for $16,980.80
-Bought Mustang-69, a Clean LikeNew Super for $20,432.00
-Bought Europa-70, a Sparkling Broken Super for $17,929.00
-Bought Cayman-70, a Clean LikeNew Super for $28,353.00
-Bought Corvette-70, a Clean Used Super for $28,302.40
-Bought Mustang-70, a Dirty Broken Super for $13,673.00
-Bought Europa-71, a Dirty Used Super for $25,754.40
-Bought Cayman-71, a Clean LikeNew Super for $33,198.00
-Bought Corvette-71, a Dirty Used Super for $27,117.60
-Bought Mustang-71, a Dirty LikeNew Super for $34,879.00
-Bought Europa-72, a Sparkling LikeNew Super for $25,162.00
-Bought Cayman-72, a Clean LikeNew Super for $30,610.00
-Bought Corvette-72, a Clean Broken Super for $16,948.50
-Bought Mustang-72, a Dirty Broken Super for $17,734.50
-Bought Europa-73, a Dirty Used Super for $30,965.60
-Bought Cayman-73, a Dirty Broken Super for $10,704.00
-Bought Corvette-73, a Clean LikeNew Super for $21,301.00
-Bought Mustang-73, a Dirty Broken Super for $18,739.50
-Bought Europa-74, a Dirty LikeNew Super for $39,670.00
-Bought Cayman-74, a Clean Broken Super for $10,269.00
-Bought Corvette-74, a Dirty LikeNew Super for $35,702.00
-Bought Mustang-74, a Clean Used Super for $19,929.60
-***Budget overrun*** Added $250K, budget now: $229,961.20
-Bought Europa-75, a Dirty LikeNew Super for $34,371.00
-Bought Cayman-75, a Clean Used Super for $26,555.20
-Bought Corvette-75, a Clean Used Super for $16,555.20
-Bought Mustang-75, a Clean Broken Super for $19,906.50
-Bought Europa-76, a Clean LikeNew Super for $35,376.00
-Bought Cayman-76, a Dirty LikeNew Super for $23,976.00
-Bought Corvette-76, a Clean Broken Super for $15,191.50
-Bought Mustang-76, a Dirty LikeNew Super for $29,285.00
-Bought Europa-77, a Dirty LikeNew Super for $31,660.00
-Bought Cayman-77, a Dirty Broken Super for $11,762.00
-***Budget overrun*** Added $250K, budget now: $247,486.60
-Bought Corvette-77, a Clean Used Super for $22,207.20
-Bought Mustang-77, a Dirty Broken Super for $12,053.50
-Bought Europa-78, a Dirty Broken Super for $10,191.50
-Bought Cayman-78, a Clean Used Super for $17,669.60
-Bought Corvette-78, a Dirty Used Super for $28,532.00
-Bought Mustang-78, a Dirty LikeNew Super for $20,872.00
-Bought Europa-79, a Sparkling Used Super for $18,768.80
-Bought Cayman-79, a Dirty Used Super for $19,584.80
-Bought Corvette-79, a Dirty Broken Super for $13,016.00
-Bought Mustang-79, a Dirty Used Super for $19,700.80
-Bought Europa-80, a Dirty Broken Super for $18,579.00
-Bought Cayman-80, a Dirty Broken Super for $12,945.00
-Bought Corvette-80, a Clean LikeNew Super for $38,118.00
-***Budget overrun*** Added $250K, budget now: $240,302.80
-Bought Mustang-80, a Dirty Used Super for $27,152.80
-Bought Europa-81, a Dirty Used Super for $22,299.20
-Bought Cayman-81, a Dirty LikeNew Super for $32,959.00
-Bought Corvette-81, a Dirty Broken Super for $10,706.00
-Bought Mustang-81, a Dirty LikeNew Super for $35,392.00
-Bought Alien Invasion-19, a Dirty Broken Monster for $34,278.50
-***Budget overrun*** Added $250K, budget now: $156,514.10
-Bought Bugatti Chiron-19, a Clean LikeNew Hyper for $198,154.00
+Bought Corvette-8, a Dirty Used Super for $29,660.00
+Bought Mustang-8, a Clean Broken Super for $11,073.50
+Bought Europa-9, a Dirty LikeNew Super for $28,126.00
+Bought Cayman-9, a Dirty Broken Super for $17,218.00
+Bought Corvette-9, a Dirty LikeNew Super for $22,214.00
+Bought Mustang-9, a Clean Broken Super for $11,467.00
+Bought Ranger-4, a Sparkling Broken Pickup for $6,767.00
+The FNCD North interns are washing...
+Washing with chemical!
+Intern Lucy got a bonus of $100.00!
+Washing with chemical!
+Intern Lucy got a bonus of $20.00!
+Washing with elbow grease!
+Washing with elbow grease!
+Washing with elbow grease!
+Washing with elbow grease!
+The FNCD South interns are washing...
+Washing with elbow grease!
+Washing with elbow grease!
+Washing with elbow grease!
+Washing with elbow grease!
+Washing with elbow grease!
+Washing with elbow grease!
+The FNCD North mechanics are repairing...
+Mechanic James got a bonus of $100.00!
+Mechanic James fixed Probe-2 Used to LikeNew
+Mechanic James did not fix the Used Ranger
+Mechanic Spock did not fix the Used Ranger
+Mechanic Spock got a bonus of $200.00!
+Mechanic Spock fixed F-250 Broken to Used
+Mechanic Uhura-2 got a bonus of $200.00!
+Mechanic Uhura-2 fixed Ranger Used to LikeNew
+Mechanic Uhura-2 got a bonus of $200.00!
+Mechanic Uhura-2 fixed F-250 Used to LikeNew
+The FNCD South mechanics are repairing...
+Mechanic Uhura got a bonus of $100.00!
+Mechanic Uhura fixed Escort-3 Used to LikeNew
+Mechanic Uhura got a bonus of $100.00!
+Mechanic Uhura fixed Taurus-3 Broken to Used
+Mechanic James-2 got a bonus of $100.00!
+Mechanic James-2 fixed Taurus-3 Used to LikeNew
+Mechanic James-2 got a bonus of $100.00!
+Mechanic James-2 fixed Fiesta-3 Used to LikeNew
+Mechanic Scotty-2 did not fix the Broken Tundra-2
+Mechanic Scotty-2 got a bonus of $200.00!
+Mechanic Scotty-2 fixed Ranger-3 Broken to Used
+The FNCD North salespeople are selling...
+The FNCD North has 0 buyers today...
+The FNCD South salespeople are selling...
+The FNCD South has 0 buyers today...
+Mecahnic: Uhura-2 has left FNCD North.
+Intern: Samantha has been promoted to mechanic
+Salesperson: Monica has left FNCD North.
+Intern: Winthrob has been promoted to mechanic
+Mecahnic: Scotty-2 has left FNCD South.
+Intern: Jenn has been promoted to mechanic
+Driver: Olivia has left FNCD South.
+The FNCD North is opening...
+Hired a new Intern named Samantha
+Bought Europa-10, a Clean LikeNew Super for $24,903.00
+Bought Cayman-10, a Dirty Broken Super for $19,242.50
+Bought Corvette-10, a Dirty LikeNew Super for $35,395.00
+Bought Mustang-10, a Clean Used Super for $22,980.80
+Bought Europa-11, a Dirty Used Super for $21,097.60
+Bought Cayman-11, a Dirty Broken Super for $12,725.50
+Bought Scooter-3, a Dirty Used Motorcyclce for $25,390.40
+The FNCD South is opening...
+Hired a new Intern named Karen
+Bought Corvette-11, a Clean Broken Super for $18,910.00
+Bought Mustang-11, a Dirty Used Super for $22,714.40
+Bought Europa-12, a Dirty Used Super for $24,276.00
+Bought Cayman-12, a Clean LikeNew Super for $28,944.00
+Bought Corvette-12, a Dirty LikeNew Super for $31,737.00
+Bought Mustang-12, a Clean Used Super for $31,804.80
 The FNCD North interns are washing...
 Washing with elbow grease!
 Washing with elbow grease!
-Washing with elbow grease!
-Washing with elbow grease!
+Washing with chemical!
+Washing with chemical!
 Washing with elbow grease!
 Washing with elbow grease!
 The FNCD South interns are washing...
@@ -134,44 +95,132 @@ Washing with chemical!
 Washing with chemical!
 Washing with chemical!
 Washing with chemical!
-Intern Jack got a bonus of $100.00!
 The FNCD North mechanics are repairing...
-Mechanic James got a bonus of $300.00!
-Mechanic James fixed Corvette-4 Used to LikeNew
-Mechanic James got a bonus of $300.00!
-Mechanic James fixed Europa-5 Used to LikeNew
-Mechanic Scotty got a bonus of $300.00!
-Mechanic Scotty fixed Corvette-5 Used to LikeNew
-Mechanic Scotty got a bonus of $300.00!
-Mechanic Scotty fixed Mustang-5 Broken to Used
-Mechanic Spock did not fix the Used Mustang-5
-Mechanic Spock did not fix the Used Europa-6
+Mechanic Scotty got a bonus of $200.00!
+Mechanic Scotty fixed Tundra Broken to Used
+Mechanic Scotty got a bonus of $200.00!
+Mechanic Scotty fixed Ranger-2 Broken to Used
+Mechanic Spock got a bonus of $200.00!
+Mechanic Spock fixed Tundra Used to LikeNew
+Mechanic Spock got a bonus of $200.00!
+Mechanic Spock fixed Ranger-2 Used to LikeNew
+Mechanic Winthrob did not fix the Used F-250-2
+Mechanic Winthrob got a bonus of $300.00!
+Mechanic Winthrob fixed Model S P90D Broken to Used
 The FNCD South mechanics are repairing...
 Mechanic Uhura got a bonus of $300.00!
-Mechanic Uhura fixed Corvette-16 Broken to Used
+Mechanic Uhura fixed Taycon Turbo S-2 Used to LikeNew
 Mechanic Uhura got a bonus of $300.00!
-Mechanic Uhura fixed Europa-17 Broken to Used
+Mechanic Uhura fixed Bolt-2 Broken to Used
 Mechanic James-2 got a bonus of $300.00!
-Mechanic James-2 fixed Corvette-16 Used to LikeNew
+Mechanic James-2 fixed Bolt-2 Used to LikeNew
 Mechanic James-2 got a bonus of $300.00!
-Mechanic James-2 fixed Europa-17 Used to LikeNew
-Mechanic Scotty-2 did not fix the Broken Corvette-17
+Mechanic James-2 fixed Model X 100D-2 Used to LikeNew
 Mechanic Scotty-2 got a bonus of $300.00!
-Mechanic Scotty-2 fixed Mustang-17 Broken to Used
+Mechanic Scotty-2 fixed Model S P90D-3 Used to LikeNew
+Mechanic Scotty-2 did not fix the Broken Chopper-2
 The FNCD North salespeople are selling...
 The FNCD North has 2 buyers today...
-Buyer Chewy-4 wants a Hyper (JustLooking)
-Buyer Chewy-4 decided not to buy.
-Buyer Luke-5 wants a Monster (WantsOne)
-Buyer Luke-5 decided not to buy.
+Buyer Han-6 wants a F1 (WantsOne)
+Buyer Han-6 is buying! Salesperson Monica gets a bonus of $3,000.00!
+Buyer Han-6 bought Clean LikeNew F1-75 Price: $397,938.00
+Buyer Chewy-6 wants a Motorcyclce (WantsOne)
+Buyer Chewy-6 decided not to buy.
 The FNCD South salespeople are selling...
-The FNCD South has 3 buyers today...
-Buyer Leia-5 wants a Car (NeedsOne)
-Buyer Leia-5 is buying! Salesperson Ross gets a bonus of $500.00!
-Buyer Leia-5 bought Clean LikeNew Fiesta-21 Price: $36,836.00
-Buyer Han-5 wants a F1 (NeedsOne)
-Buyer Han-5 is buying! Salesperson Chandler gets a bonus of $3,000.00!
-Buyer Han-5 bought Dirty LikeNew AT03-14 With addon Satellite Radio. Price: $412,009.50
-Buyer Chewy-5 wants a Electric (WantsOne)
-Buyer Chewy-5 decided not to buy.
-Driver: Olivia has left FNCD South.
+The FNCD South has 4 buyers today...
+Buyer Luke-7 wants a Car (JustLooking)
+Buyer Luke-7 decided not to buy.
+Buyer Leia-7 wants a Performance (WantsOne)
+Buyer Leia-7 decided not to buy.
+Buyer Han-7 wants a Performance (NeedsOne)
+Buyer Han-7 decided not to buy.
+Buyer Chewy-7 wants a Performance (JustLooking)
+Buyer Chewy-7 decided not to buy.
+The FNCD North is opening...
+Bought Europa-10, a Dirty LikeNew Super for $33,728.00
+Bought Cayman-10, a Clean Broken Super for $11,722.50
+***Budget overrun*** Added $250K, budget now: $230,298.40
+Bought Corvette-10, a Clean LikeNew Super for $39,365.00
+Bought Mustang-10, a Clean Broken Super for $19,724.50
+Bought Europa-11, a Dirty Used Super for $22,005.60
+Bought Cayman-11, a Dirty Used Super for $27,984.00
+The FNCD South is opening...
+Hired a new Intern named Winthrob
+Bought Corvette-11, a Dirty LikeNew Super for $35,716.00
+***Budget overrun*** Added $250K, budget now: $243,407.30
+Bought Mustang-11, a Dirty Broken Super for $10,967.50
+Bought Europa-12, a Sparkling Used Super for $29,683.20
+Bought Cayman-12, a Dirty Used Super for $28,605.60
+Bought Corvette-12, a Dirty Broken Super for $13,504.50
+Bought Mustang-12, a Dirty LikeNew Super for $32,179.00
+The FNCD North interns are washing...
+Washing with chemical!
+Intern Ben got a bonus of $100.00!
+Washing with chemical!
+Washing with chemical!
+Washing with chemical!
+Washing with chemical!
+Washing with chemical!
+The FNCD South interns are washing...
+Washing with elbow grease!
+Washing with elbow grease!
+Washing with elbow grease!
+Washing with elbow grease!
+Washing with elbow grease!
+Washing with elbow grease!
+The FNCD North mechanics are repairing...
+Mechanic James got a bonus of $100.00!
+Mechanic James fixed Probe Used to LikeNew
+Mechanic James got a bonus of $100.00!
+Mechanic James fixed Fiesta Broken to Used
+Mechanic Scotty did not fix the Used Fiesta
+Mechanic Scotty got a bonus of $100.00!
+Mechanic Scotty fixed Probe-2 Used to LikeNew
+Mechanic Spock got a bonus of $100.00!
+Mechanic Spock fixed Fiesta Used to LikeNew
+Mechanic Spock did not fix the Broken Escort-2
+The FNCD South mechanics are repairing...
+Mechanic James-2 got a bonus of $200.00!
+Mechanic James-2 fixed F-250-3 Used to LikeNew
+Mechanic James-2 got a bonus of $200.00!
+Mechanic James-2 fixed Colorado-3 Used to LikeNew
+Mechanic Scotty-2 did not fix the Broken Taycon Turbo S-2
+Mechanic Scotty-2 got a bonus of $300.00!
+Mechanic Scotty-2 fixed Cybertruck-2 Used to LikeNew
+Mechanic Jack did not fix the Broken Taycon Turbo S-2
+Mechanic Jack got a bonus of $300.00!
+Mechanic Jack fixed Bolt-2 Broken to Used
+The FNCD North salespeople are selling...
+The FNCD North has 4 buyers today...
+Buyer Leia-7 wants a Performance (WantsOne)
+Buyer Leia-7 decided not to buy.
+Buyer Han-7 wants a Motorcyclce (WantsOne)
+Buyer Han-7 is buying! Salesperson Rachel gets a bonus of $50.00!
+Buyer Han-7 bought Clean LikeNew Scooter Price: $180,350.00
+Buyer Chewy-7 wants a Car (NeedsOne)
+Buyer Chewy-7 is buying! Salesperson Monica gets a bonus of $500.00!
+Buyer Chewy-7 bought Dirty LikeNew Probe-2 Price: $37,626.00
+Buyer Luke-8 wants a Super (WantsOne)
+Buyer Luke-8 decided not to buy.
+The FNCD South salespeople are selling...
+The FNCD South has 8 buyers today...
+Buyer Leia-8 wants a Electric (WantsOne)
+Buyer Leia-8 is buying! Salesperson Joey gets a bonus of $1,000.00!
+Buyer Leia-8 bought Dirty LikeNew Model X 100D-2 With addon Satellite Radio. Price: $1,045,825.20
+Buyer Han-8 wants a Electric (JustLooking)
+Buyer Han-8 decided not to buy.
+Buyer Chewy-8 wants a Performance (WantsOne)
+Buyer Chewy-8 decided not to buy.
+Buyer Luke-9 wants a Hyper (JustLooking)
+Buyer Luke-9 decided not to buy.
+Buyer Leia-9 wants a Super (NeedsOne)
+Buyer Leia-9 is buying! Salesperson Joey gets a bonus of $1,000.00!
+Buyer Leia-9 bought Clean LikeNew Corvette-6 With addon Extended Warranty. With addon Undercoating. With addon Satellite Radio. Price: $98,775.18
+Buyer Han-9 wants a Electric (NeedsOne)
+Buyer Han-9 is buying! Salesperson Joey gets a bonus of $1,000.00!
+Buyer Han-9 bought Dirty LikeNew Model X 100D-2 Price: $996,024.00
+Buyer Chewy-9 wants a Hyper (JustLooking)
+Buyer Chewy-9 decided not to buy.
+Buyer Luke-10 wants a Electric (NeedsOne)
+Buyer Luke-10 is buying! Salesperson Chandler gets a bonus of $1,000.00!
+Buyer Luke-10 bought Dirty LikeNew Cybertruck-2 With addon Extended Warranty. With addon Satellite Radio. Price: $856,318.68

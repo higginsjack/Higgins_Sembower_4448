@@ -249,7 +249,12 @@ public class FNCD implements Subject {
 
     // see if we need any vehicles
     void updateInventory() {
-        final int numberInInventory = 54;
+        int n = 0;
+        for (Vehicle v: inventory) {
+            if (v.type == Enums.VehicleType.Super) n++;
+        }
+        System.out.println("Vehicles of Super type: " + n);
+        final int numberInInventory = 6;
         for (Enums.VehicleType t : Enums.VehicleType.values()) {
             int typeInList = Vehicle.howManyVehiclesByType(inventory, t);
             int need = numberInInventory - typeInList;

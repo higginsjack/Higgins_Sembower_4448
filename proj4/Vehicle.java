@@ -13,6 +13,7 @@ public abstract class Vehicle {
     double wash_bonus;
     double sale_bonus;
     int range;
+    int wins;
     Vehicle () {
         // all vehicles have the same cleanliness arrival chance
         double chance = Utility.rnd();
@@ -21,6 +22,7 @@ public abstract class Vehicle {
         else cleanliness = Enums.Cleanliness.Dirty;
         // all vehicles have the same condition arrival chance (even chance of any)
         condition = Utility.randomEnum(Enums.Condition.class);
+        wins=0;
     }
 
     // utility for getting adjusted cost by condition
@@ -78,7 +80,7 @@ class Performance extends Vehicle {
     static Namer namer = new Namer(names);
     Performance() {
         super();
-        type = Enums.VehicleType.Super;
+        type = Enums.VehicleType.Performance;
         name = namer.getNext();  // every new perf car gets a unique new name
         cost = getCost(20000,40000);
         price = cost * 2;
@@ -181,12 +183,12 @@ class F1 extends Vehicle {
     }
 }
 
-class Super extends Vehicle {
+class Supercar extends Vehicle {
     static List<String> names = Arrays.asList("Audi R8", "Maserati MC20", "Porsche 911 GT3RS", "Chevrolet Corvette", "Lamborghini Huracan STO", "Ferrari 296 GTB", "McLaren 720s", "Ferrari 812 SuperFast");
     static Namer namer = new Namer(names);
-    Super() {
+    Supercar() {
         super();
-        type = Enums.VehicleType.Super;
+        type = Enums.VehicleType.Supercar;
         name = namer.getNext();
         cost = getCost(80000, 90000);
         price = cost * 2;

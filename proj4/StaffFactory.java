@@ -1,5 +1,6 @@
+//Factory pattern for the staff!
 public class StaffFactory {
-    public Staff makeVehicle(Enums.StaffType sType) {
+    public static Staff makeVehicle(Enums.StaffType sType) {
         Staff newStaff = null;
         switch (sType){
         case Salesperson:

@@ -7,7 +7,7 @@
 public class Enums {
     public enum daysOfTheWeek {Mon, Tue, Wed, Thur, Fri, Sat, Sun}
     public enum Condition {Broken, Used, LikeNew}
-    public enum VehicleType {Performance, Car, Pickup, Electric, Motorcyclce, Monster, Hyper, F1, Super}
+    public enum VehicleType {Performance, Car, Pickup, Electric, Motorcyclce, Monster, Hyper, F1, Supercar}
     public enum StaffType {Salesperson, Mechanic, Driver, Intern}
     public enum washingStrategy {Chemical, ElbowGrease, Detailed}
     public enum Cleanliness {Clean, Dirty, Sparkling}

@@ -5,7 +5,7 @@ import java.io.FileWriter;   // Import the FileWriter class
 public class Logger implements Observer{
 
     private static int day = 0;
-
+    private static final Logger instance = new Logger();
     public void update(String msg) {
         reportOut(msg);
         try {
@@ -34,5 +34,8 @@ public class Logger implements Observer{
     }
     public void reportOut(String msg){
         System.out.println(msg);
+    }
+    public Logger getInstance(){
+        return instance;
     }
 }

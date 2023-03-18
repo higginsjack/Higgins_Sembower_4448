@@ -2,7 +2,7 @@ public class Tracker implements Observer{
     private double staffMoney;
     private int day;
     private double budget = 100000;
-
+    private static Tracker instance;
     public void update(String msg) {
         // TODO Auto-generated method stub
         // System.out.println(msg);
@@ -26,5 +26,11 @@ public class Tracker implements Observer{
     public void reportOut(String msg){
         System.out.println();
         System.out.println("Day: " + this.day + " | Staff Money Made: " + Utility.asDollar(this.staffMoney) + " | FNCD Money Made: " + Utility.asDollar(this.budget)); //hack, update
+    }
+    public static Tracker getInstance() {
+        if(instance==null) {
+            instance = new Tracker();
+        }
+        return instance;
     }
 }

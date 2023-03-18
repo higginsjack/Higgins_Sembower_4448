@@ -22,6 +22,7 @@ public abstract class Vehicle {
         else cleanliness = Enums.Cleanliness.Dirty;
         // all vehicles have the same condition arrival chance (even chance of any)
         condition = Utility.randomEnum(Enums.Condition.class);
+        wins=0;
     }
 
     // utility for getting adjusted cost by condition
@@ -37,7 +38,6 @@ public abstract class Vehicle {
     double getOriginalCost(){
         return cost;
     }
-
     // utility for getting Vehicles by Type
     // You could do this with getClass instead of Type, but I use the enum
     // because it's clearer to me (less Java-y)
@@ -72,7 +72,6 @@ class Car extends Vehicle {
         repair_bonus = 100;
         wash_bonus = 20;
         sale_bonus = 500;
-        wins = 0;
     }
 }
 
@@ -81,14 +80,13 @@ class Performance extends Vehicle {
     static Namer namer = new Namer(names);
     Performance() {
         super();
-        type = Enums.VehicleType.Performance;
+        type = Enums.VehicleType.Super;
         name = namer.getNext();  // every new perf car gets a unique new name
         cost = getCost(20000,40000);
         price = cost * 2;
         repair_bonus = 300;
         wash_bonus = 100;
         sale_bonus = 1000;
-        wins = 0;
     }
 }
 
@@ -104,7 +102,6 @@ class Pickup extends Vehicle {
         repair_bonus = 200;
         wash_bonus = 75;
         sale_bonus = 750;
-        wins = 0;
     }
 }
 
@@ -121,7 +118,6 @@ class Electric extends Vehicle {
         wash_bonus = 100;
         sale_bonus = 1000; 
         range = Utility.rndFromRange(60, 400);
-        wins = 0;
     }
 }
 
@@ -138,24 +134,7 @@ class Motorcyclce extends Vehicle {
         repair_bonus = 150;
         wash_bonus = 25;
         sale_bonus = 50;
-        truncatedNormalValue = truncatedNormalDistribution(700, 300, 50);
-        wins = 0;
     }
-    public static double truncatedNormalDistribution(int mean, double stdDev, double min) {
-        double result = 0;
-        double cumulativeProb = 0;
-        double sample = 0;
-        while (cumulativeProb <= 0.5) {
-            sample = mean + stdDev * Math.random();
-            if (sample >= min) {
-                cumulativeProb += (1 / (stdDev * Math.sqrt(2 * Math.PI))) * Math.exp(-0.5 * Math.pow(((sample - mean) / stdDev), 2));
-                result = sample;
-            }
-        }
-        return result;
-    }
-    
-    double truncatedNormalValue = truncatedNormalDistribution(700, 300, 50);
 }
 //add more names to monster truck names
 class Monster extends Vehicle {
@@ -170,6 +149,51 @@ class Monster extends Vehicle {
         repair_bonus = 500;
         wash_bonus = 350;
         sale_bonus = 2000;
-        wins = 0;
+    }
+}
+
+
+class Hyper extends Vehicle {
+    static List<String> names = Arrays.asList("Bugatti Chiron", "Bugatti Veyron", "Ferrari Enzo", "McLaren P1", "McLaren F1", "Koenigsegg Agera RS");
+    static Namer namer = new Namer(names);
+    Hyper() {
+        super();
+        type = Enums.VehicleType.Hyper;
+        name = namer.getNext();
+        cost = getCost(100000, 200000);
+        price = cost * 2;
+        repair_bonus = 1000;
+        wash_bonus = 500;
+        sale_bonus = 3000;
+    }
+}
+
+class F1 extends Vehicle {
+    static List<String> names = Arrays.asList("F1-75", "MCL36", "A522", "AT03", "C42", "VF-22", "A522", "RB18");
+    static Namer namer = new Namer(names);
+    F1() {
+        super();
+        type = Enums.VehicleType.F1;
+        name = namer.getNext();
+        cost = getCost(100000, 200000);
+        price = cost * 2;
+        repair_bonus = 1000;
+        wash_bonus = 500;
+        sale_bonus = 3000;
+    }
+}
+
+class Super extends Vehicle {
+    static List<String> names = Arrays.asList("Audi R8", "Maserati MC20", "Porsche 911 GT3RS", "Chevrolet Corvette", "Lamborghini Huracan STO", "Ferrari 296 GTB", "McLaren 720s", "Ferrari 812 SuperFast");
+    static Namer namer = new Namer(names);
+    Super() {
+        super();
+        type = Enums.VehicleType.Super;
+        name = namer.getNext();
+        cost = getCost(80000, 90000);
+        price = cost * 2;
+        repair_bonus = 1000;
+        wash_bonus = 500;
+        sale_bonus = 3000;
     }
 }

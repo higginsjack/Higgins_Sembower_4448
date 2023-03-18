@@ -1,2 +1,0 @@
-Salesperson: Chandler has left FNCD South.
-Intern: Jack has been promoted to mechanic

@@ -76,7 +76,7 @@ public class FNCD implements Subject {
         notifyObserver(l, "Sorry, FNCD " + this.name +" is closed on "+ day);
         notifyObserver(observers.get(0), "day");
         // notifyObserver(observers.get(0), null);
-        Logger.increaseDay();
+        // Logger.increaseDay();
         if(Logger.getday() == 30) {
             unregisterObserver(observers.get(0));
         }
@@ -129,7 +129,7 @@ public class FNCD implements Subject {
         }
         notifyObserver(observers.get(0), "day");
         // notifyObserver(observers.get(0), null);
-        Logger.increaseDay();
+        // Logger.increaseDay();
         if(Logger.getday() == 30) {
             unregisterObserver(observers.get(0));
         }
@@ -206,7 +206,7 @@ public class FNCD implements Subject {
         notifyObserver(observers.get(0), "day");
         observers.get(0).reportOut("");
         unregisterObserver(observers.get(1));
-        Logger.increaseDay();
+        // Logger.increaseDay();
         if(Logger.getday() == 30) {
             unregisterObserver(observers.get(0));
         }
@@ -241,19 +241,15 @@ public class FNCD implements Subject {
     // adding staff
     // smells like we need a factory or something...
     void addStaff(Enums.StaffType t) {
-        Staff newStaff = null;
+        Staff newStaff = StaffFactory.makeVehicle(t);
         Strategy d = new Detailed();
-        if (t == Enums.StaffType.Intern) newStaff = new Intern();
-        if (t == Enums.StaffType.Mechanic) newStaff = new Mechanic();
-        if (t == Enums.StaffType.Salesperson) newStaff = new Salesperson();
-        if (t == Enums.StaffType.Driver) newStaff = new Driver();
         notifyObserver(observers.get(1), "Hired a new "+newStaff.type+" named "+ newStaff.name);
         staff.add(newStaff);
     }
 
     // see if we need any vehicles
     void updateInventory() {
-        final int numberInInventory = 4;
+        final int numberInInventory = 54;
         for (Enums.VehicleType t : Enums.VehicleType.values()) {
             int typeInList = Vehicle.howManyVehiclesByType(inventory, t);
             int need = numberInInventory - typeInList;
@@ -264,13 +260,7 @@ public class FNCD implements Subject {
 
     // add a vehicle of a type to the inventory
     void addVehicle(Enums.VehicleType t) {
-        Vehicle v = null;
-        if (t == Enums.VehicleType.Car) v = new Car();
-        if (t == Enums.VehicleType.Performance) v = new Performance();
-        if (t == Enums.VehicleType.Pickup) v = new Pickup();
-        if (t == Enums.VehicleType.Electric) v = new Electric();
-        if (t == Enums.VehicleType.Motorcyclce) v = new Motorcyclce();
-        if (t == Enums.VehicleType.Monster) v = new Monster();
+        Vehicle v = VehicleFactory.makeVehicle(t);
         moneyOut(v.cost);  // pay for the vehicle
         notifyObserver(observers.get(1), "Bought "+v.name+", a "+v.cleanliness+" "+v.condition+" "+v.type+" for "+Utility.asDollar(v.cost));
         inventory.add(v);

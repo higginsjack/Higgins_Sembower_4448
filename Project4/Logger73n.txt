@@ -1,4 +1,0 @@
-Salesperson: Joey has left FNCD South.
-Intern: Lucas-2 has been promoted to mechanic
-Salesperson: Ross has left FNCD South.
-Intern: Margaret has been promoted to mechanic

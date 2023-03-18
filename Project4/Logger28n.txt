@@ -1,150 +1,66 @@
-Driver Brock raced. They placed 6.
-Driver Jamar raced. They placed 2 and won! This is win #2They received bonus of $2000.00
-Driver Justin raced. They placed 3 and won! This is win #2They received bonus of $2000.00
-Driver Bella raced. They placed 12.
-Driver Jamar-2 raced. They placed 13.
-Driver Larisa-2 raced. They placed 17. They were not injured
 The FNCD North is opening...
-Bought Europa-61, a Dirty Used Super for $21,717.60
-Bought Cayman-61, a Dirty Broken Super for $11,768.00
-Bought Corvette-61, a Dirty Broken Super for $17,368.50
-Bought Mustang-61, a Dirty LikeNew Super for $27,676.00
-Bought Europa-62, a Sparkling LikeNew Super for $23,093.00
-Bought Cayman-62, a Clean Broken Super for $10,788.50
+Hired a new Intern named Jenn-2
+Bought Europa-61, a Dirty Broken Super for $16,365.00
+Bought Cayman-61, a Clean LikeNew Super for $29,450.00
+Bought Corvette-61, a Dirty LikeNew Super for $25,228.00
+Bought Mustang-61, a Dirty Broken Super for $13,932.00
+Bought Europa-62, a Dirty Broken Super for $19,164.00
+Bought Cayman-62, a Clean Broken Super for $19,965.50
 The FNCD South is opening...
-Bought Corvette-62, a Dirty LikeNew Super for $27,848.00
-Bought Mustang-62, a Dirty Broken Super for $13,916.00
-Bought Europa-63, a Sparkling LikeNew Super for $21,205.00
-Bought Cayman-63, a Dirty Used Super for $28,582.40
-Bought Corvette-63, a Clean Used Super for $22,999.20
-Bought Mustang-63, a Clean LikeNew Super for $25,634.00
+Bought Corvette-62, a Dirty Used Super for $21,298.40
+Bought Mustang-62, a Clean Used Super for $24,340.00
+Bought Europa-63, a Clean Used Super for $20,235.20
+Bought Cayman-63, a Clean Used Super for $30,069.60
+Bought Corvette-63, a Dirty Broken Super for $14,699.50
+Bought Mustang-63, a Dirty Used Super for $23,024.80
 The FNCD North interns are washing...
 Washing with elbow grease!
 Washing with elbow grease!
 Washing with elbow grease!
 Washing with elbow grease!
-Washing with elbow grease!
-Washing with elbow grease!
-The FNCD South interns are washing...
 Washing with chemical!
 Washing with chemical!
-Washing with elbow grease!
-Washing with elbow grease!
-Washing with elbow grease!
-Washing with elbow grease!
-The FNCD North mechanics are repairing...
-Mechanic Scotty got a bonus of $1,000.00!
-Mechanic Scotty fixed C42 Broken to Used
-Mechanic Scotty got a bonus of $300.00!
-Mechanic Scotty fixed Cayman-25 Broken to Used
-Mechanic Spock got a bonus of $1,000.00!
-Mechanic Spock fixed C42 Used to LikeNew
-Mechanic Spock did not fix the Used Cayman-25
-Mechanic Winthrob got a bonus of $300.00!
-Mechanic Winthrob fixed Cayman-25 Used to LikeNew
-Mechanic Winthrob got a bonus of $300.00!
-Mechanic Winthrob fixed Mustang-25 Broken to Used
-The FNCD South mechanics are repairing...
-Mechanic Uhura got a bonus of $300.00!
-Mechanic Uhura fixed Corvette-27 Used to LikeNew
-Mechanic Uhura got a bonus of $300.00!
-Mechanic Uhura fixed Mustang-27 Broken to Used
-Mechanic James-2 got a bonus of $300.00!
-Mechanic James-2 fixed Mustang-27 Used to LikeNew
-Mechanic James-2 got a bonus of $300.00!
-Mechanic James-2 fixed Mustang-29 Broken to Used
-Mechanic Scotty-2 got a bonus of $300.00!
-Mechanic Scotty-2 fixed Mustang-29 Used to LikeNew
-Mechanic Scotty-2 did not fix the Broken Cayman-30
-The FNCD North salespeople are selling...
-The FNCD North has 5 buyers today...
-Buyer Luke-36 wants a Electric (WantsOne)
-Buyer Luke-36 is buying! Salesperson Monica gets a bonus of $1,000.00!
-Buyer Luke-36 bought Clean LikeNew Model S P90D-2 Price: $764,308.00
-Buyer Leia-36 wants a Monster (NeedsOne)
-Buyer Leia-36 is buying! Salesperson Lucas gets a bonus of $2,000.00!
-Buyer Leia-36 bought Clean LikeNew Ghost Rider With addon Satellite Radio. Price: $158,839.80
-Buyer Han-36 wants a Car (WantsOne)
-Buyer Han-36 decided not to buy.
-Buyer Chewy-36 wants a Super (WantsOne)
-Buyer Chewy-36 is buying! Salesperson Monica gets a bonus of $1,000.00!
-Buyer Chewy-36 bought Clean LikeNew Europa-10 Price: $93,386.25
-Buyer Luke-37 wants a Motorcyclce (JustLooking)
-Buyer Luke-37 decided not to buy.
-The FNCD South salespeople are selling...
-The FNCD South has 5 buyers today...
-Buyer Leia-37 wants a Monster (NeedsOne)
-Buyer Leia-37 is buying! Salesperson Karen gets a bonus of $2,000.00!
-Buyer Leia-37 bought Dirty LikeNew Avenger-3 Price: $156,412.00
-Buyer Han-37 wants a Super (JustLooking)
-Buyer Han-37 decided not to buy.
-Buyer Chewy-37 wants a Electric (WantsOne)
-Buyer Chewy-37 is buying! Salesperson Ben-2 gets a bonus of $1,000.00!
-Buyer Chewy-37 bought Clean LikeNew Taycon Turbo S-2 With addon Extended Warranty. With addon Satellite Radio. Price: $1,200,694.32
-Buyer Luke-38 wants a Monster (NeedsOne)
-Buyer Luke-38 is buying! Salesperson Joey gets a bonus of $2,000.00!
-Buyer Luke-38 bought Clean LikeNew Black Pearl-2 Price: $147,904.00
-Buyer Leia-38 wants a Electric (JustLooking)
-Buyer Leia-38 is buying! Salesperson Karen gets a bonus of $1,000.00!
-Buyer Leia-38 bought Clean LikeNew Taycon Turbo S-2 With addon Road Rescue Coverage. Price: $971,990.64
-The FNCD North is opening...
-Bought Europa-61, a Clean Broken Super for $15,864.00
-Bought Cayman-61, a Dirty Broken Super for $14,833.00
-Bought Corvette-61, a Dirty Broken Super for $15,216.00
-Bought Mustang-61, a Dirty LikeNew Super for $28,442.00
-Bought Europa-62, a Clean Broken Super for $13,195.00
-Bought Cayman-62, a Dirty Broken Super for $19,435.00
-Bought Model X 100D-3, a Clean LikeNew Electric for $318,571.00
-The FNCD South is opening...
-Bought Corvette-62, a Dirty Broken Super for $19,562.00
-Bought Mustang-62, a Dirty Used Super for $19,037.60
-Bought Europa-63, a Dirty LikeNew Super for $23,523.00
-Bought Cayman-63, a Clean Broken Super for $13,532.00
-Bought Corvette-63, a Dirty Used Super for $17,076.00
-Bought Mustang-63, a Dirty Used Super for $18,276.80
-The FNCD North interns are washing...
-Washing with chemical!
-Washing with chemical!
-Washing with chemical!
-Washing with chemical!
-Washing with elbow grease!
-Washing with elbow grease!
 The FNCD South interns are washing...
 Washing with elbow grease!
 Washing with elbow grease!
-Washing with elbow grease!
-Washing with elbow grease!
-Washing with elbow grease!
-Washing with elbow grease!
+Washing with chemical!
+Washing with chemical!
+Washing with chemical!
+Washing with chemical!
 The FNCD North mechanics are repairing...
-Mechanic Scotty got a bonus of $300.00!
-Mechanic Scotty fixed Cayman-14 Used to LikeNew
-Mechanic Scotty got a bonus of $300.00!
-Mechanic Scotty fixed Europa-16 Broken to Used
-Mechanic Spock got a bonus of $300.00!
-Mechanic Spock fixed Europa-16 Used to LikeNew
-Mechanic Spock did not fix the Broken Corvette-16
-Mechanic Ben did not fix the Broken Corvette-16
-Mechanic Ben did not fix the Broken Mustang-16
+Mechanic James did not fix the Used Cayman-22
+Mechanic James did not fix the Used Corvette-25
+Mechanic Lucy got a bonus of $300.00!
+Mechanic Lucy fixed Cayman-22 Used to LikeNew
+Mechanic Lucy got a bonus of $300.00!
+Mechanic Lucy fixed Corvette-25 Used to LikeNew
+Mechanic Karen got a bonus of $300.00!
+Mechanic Karen fixed Europa-26 Broken to Used
+Mechanic Karen got a bonus of $300.00!
+Mechanic Karen fixed Cayman-26 Broken to Used
 The FNCD South mechanics are repairing...
-Mechanic Scotty-2 got a bonus of $150.00!
-Mechanic Scotty-2 fixed Scrambler-2 Used to LikeNew
-Mechanic Scotty-2 got a bonus of $300.00!
-Mechanic Scotty-2 fixed Europa-21 Used to LikeNew
+Mechanic Uhura got a bonus of $300.00!
+Mechanic Uhura fixed Corvette-12 Broken to Used
+Mechanic Uhura got a bonus of $300.00!
+Mechanic Uhura fixed Cayman-18 Used to LikeNew
+Mechanic James-2 did not fix the Used Corvette-12
+Mechanic James-2 got a bonus of $1,000.00!
+Mechanic James-2 fixed VF-22-2 Broken to Used
 Mechanic Jack got a bonus of $300.00!
-Mechanic Jack fixed Cayman-21 Used to LikeNew
-Mechanic Jack got a bonus of $300.00!
-Mechanic Jack fixed Corvette-23 Used to LikeNew
-Mechanic Winthrob did not fix the Broken Cayman-24
-Mechanic Winthrob did not fix the Broken Corvette-24
+Mechanic Jack fixed Corvette-12 Used to LikeNew
+Mechanic Jack got a bonus of $1,000.00!
+Mechanic Jack fixed VF-22-2 Used to LikeNew
 The FNCD North salespeople are selling...
-The FNCD North has 1 buyers today...
-Buyer Han-39 wants a Motorcyclce (NeedsOne)
-Buyer Han-39 is buying! Salesperson Phoebe gets a bonus of $50.00!
-Buyer Han-39 bought Clean LikeNew Chopper Price: $163,836.00
+The FNCD North has 2 buyers today...
+Buyer Luke-35 wants a Pickup (NeedsOne)
+Buyer Luke-35 decided not to buy.
+Buyer Leia-35 wants a Car (JustLooking)
+Buyer Leia-35 decided not to buy.
 The FNCD South salespeople are selling...
-The FNCD South has 2 buyers today...
-Buyer Chewy-39 wants a Monster (NeedsOne)
-Buyer Chewy-39 decided not to buy.
-Buyer Luke-40 wants a F1 (NeedsOne)
-Buyer Luke-40 decided not to buy.
+The FNCD South has 1 buyers today...
+Buyer Han-35 wants a Electric (JustLooking)
+Buyer Han-35 decided not to buy.
+Mecahnic: Lucy has left FNCD North.
+Intern: Lucy-2 has been promoted to mechanic
+Salesperson: Jenn has left FNCD South.
+Intern: Margaret has been promoted to mechanic

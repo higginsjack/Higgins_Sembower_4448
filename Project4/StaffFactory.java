@@ -1,4 +1,5 @@
 
+//Factory pattern for the staff!
 public class StaffFactory {
     public static Staff makeVehicle(Enums.StaffType sType) {
         Staff newStaff = null;

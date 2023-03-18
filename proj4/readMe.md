@@ -10,4 +10,4 @@ javac Buyer.java dayTracker.java Enums.java FNCD.java Logger.java Main.java Name
 
 java Main
 
-We appreciate the extension, this will not happen again!
+We appreciate the extension, this will not happen again! (from project 3, but we still appreciate it!)

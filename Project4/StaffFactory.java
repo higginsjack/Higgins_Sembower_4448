@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+
+>>>>>>> 479af53ec27bd467ded915b9793bc4bfe7340724
 //Factory pattern for the staff!
 public class StaffFactory {
     public static Staff makeVehicle(Enums.StaffType sType) {
@@ -16,4 +20,8 @@ public class StaffFactory {
     }
 }
 
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> 479af53ec27bd467ded915b9793bc4bfe7340724

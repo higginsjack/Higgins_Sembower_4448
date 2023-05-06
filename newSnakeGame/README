@@ -1,4 +1,8 @@
 
-Joseph Sembower, Jack Higgins Slythern sanke game
+Joseph Sembower, Jack Higgins Slythern snake game
 
 Instructions on how to play this game are included in the game itself. To run this file use the main function which calls all other necessary files for the game itself.
+
+Run within terminal:
+javac GameFrame.java GamePanel.java LeaderBoard.java Main.java Settings.java Slytherin.java SnakeGame.java Observer.java Tracker.java Subject.java MenuFactory.java
+java Main

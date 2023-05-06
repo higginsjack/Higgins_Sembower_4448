@@ -2,11 +2,6 @@ import java.awt.*;
 import java.awt.event.*;
 import javax.swing.*;
 import java.util.Random;
-import java.io.FileWriter;
-import java.io.File;
-import java.io.FileNotFoundException;
-import java.util.Scanner;
-import java.time.format.DateTimeFormatter; 
 import java.time.LocalDateTime;    
 
 import javax.swing.JPanel;

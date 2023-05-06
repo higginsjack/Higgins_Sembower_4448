@@ -11,19 +11,17 @@ public class Tracker implements Observer{
     }
 
     @Override
-    public void reportOut() {
-        File l = new File("data/leader.csv");
+    public void reportOut() { // Writes to the csv by copying old data, adding new run, then creating new csv of same name.
+        File l = new File("data/leader.csv"); 
         try{
             FileWriter fileWriter = new FileWriter(l);
-            fileWriter.write("Name,Score,Date,\n");
-
-            System.out.println(data);
+            fileWriter.write("Name,Score,Date,\n"); // Creates column names
+            // System.out.println(data);
             String[] split = data.split(",");
             for(int i=3; i < split.length; i+=3) {
                 fileWriter.write(split[i] + "," + split[i+1] + "," + split[i+2] + ",\n");
             }
 
-            System.out.println(data);
             fileWriter.flush();
             fileWriter.close();
             System.exit(0);

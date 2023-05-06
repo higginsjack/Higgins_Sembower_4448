@@ -1,8 +1,3 @@
-// package start;
-
-/*
- * HelloWorldSwing.java requires no other files. 
- */
 import javax.swing.*;        
 import java.awt.*;
 import java.util.*;
@@ -16,11 +11,6 @@ import java.io.FileNotFoundException;
 import java.util.Scanner;
 
 public class LeaderBoard extends JPanel implements ActionListener, Subject {
-    /**
-     * Create the GUI and show it.  For thread safety,
-     * this method should be invoked from the
-     * event-dispatching thread.
-     */
     
     protected JButton pg, lb, se;
     protected JLabel imgLabel, blank1, blank2;
@@ -38,14 +28,11 @@ public class LeaderBoard extends JPanel implements ActionListener, Subject {
         File l = new File("data/leader.csv");
         try {
             Scanner sc = new Scanner(l);
-            // sc.useDelimiter(",");   //sets the delimiter pattern 
             String data="";
             while (sc.hasNext()) {  
                 String txt = sc.next();
-                // txt.replace("\n",",");
                 data+=txt;
-                // System.out.println(txt);
-                // iter+=1;
+
             }
             sc.close();
             notifyObserver(observer, data);
@@ -54,9 +41,6 @@ public class LeaderBoard extends JPanel implements ActionListener, Subject {
             int len = df.length;
             String[][] table = new String[len/3][3];
             System.out.println(len + " " + df[0]);
-            // for(int i = 0; i < 5;i++) {
-            //     System.out.println(df[i]);
-            // }
             for(int i=0; i < len-1; i=i+3) {
                 String[] temp = {df[i], df[i+1], df[i+2]};
                 table[i/3] = temp;

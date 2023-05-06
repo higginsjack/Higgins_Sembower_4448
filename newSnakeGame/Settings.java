@@ -14,11 +14,6 @@ import java.awt.image.BufferedImage;
 import java.io.File;
 
 public class Settings extends JPanel implements ActionListener {
-    /**
-     * Create the GUI and show it.  For thread safety,
-     * this method should be invoked from the
-     * event-dispatching thread.
-     */
     
     protected JButton pg, lb, se;
     protected JLabel imgLabel, blank1, blank2;
@@ -33,11 +28,8 @@ public class Settings extends JPanel implements ActionListener {
         add(back);
 
         ImageIcon t = createImageIcon("/img/directionsSized.jpg");
-        JLabel direc = new JLabel(t);
-        // Dimension direcSize =  new Dimension(300, 200);
+        JLabel direc = new JLabel(t);;
         direc.setLocation(350,100);
-        // direc.setAlignmentX(CENTER_ALIGNMENT);
-        // direc.setAlignmentY(BOTTOM_ALIGNMENT);
         add(direc);
     }
 

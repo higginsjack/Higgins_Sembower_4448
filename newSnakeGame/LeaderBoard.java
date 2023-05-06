@@ -68,7 +68,7 @@ public class LeaderBoard extends JPanel implements ActionListener, Subject {
 
     public void actionPerformed(ActionEvent e) {
         if ("Slytherin".equals(e.getActionCommand())) {
-            Main.createAndShowGUI("Slytherin");
+            MenuFactory.createAndShowGUI("Slytherin");
         }
     }
 

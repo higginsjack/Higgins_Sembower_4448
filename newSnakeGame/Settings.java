@@ -4,14 +4,9 @@
  * HelloWorldSwing.java requires no other files. 
  */
 import javax.swing.*;        
-import java.awt.*;
-import java.util.*;
-import javax.imageio.ImageIO;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 import java.awt.event.KeyEvent;
-import java.awt.image.BufferedImage;
-import java.io.File;
 
 public class Settings extends JPanel implements ActionListener {
     
@@ -45,7 +40,7 @@ public class Settings extends JPanel implements ActionListener {
 
     public void actionPerformed(ActionEvent e) {
         if ("Slytherin".equals(e.getActionCommand())) {
-            Main.createAndShowGUI("Slytherin");
+            MenuFactory.createAndShowGUI("Slytherin");
         }
     }
 }

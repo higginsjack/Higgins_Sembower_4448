@@ -83,14 +83,14 @@ public class Slytherin extends JPanel implements ActionListener, Subject{
             lb.setVisible(false);
             pg.setVisible(false);
             se.setVisible(false);
-            Main.createAndShowGUI("LeaderBoard");
+            MenuFactory.createAndShowGUI("LeaderBoard");
             // imgLabel.setVisible(false);
 
         } else if ("Settings".equals(e.getActionCommand())) {
             lb.setEnabled(false);
             pg.setEnabled(false);
             se.setEnabled(false);
-            Main.createAndShowGUI("Settings");
+            MenuFactory.createAndShowGUI("Settings");
         }
     }
 

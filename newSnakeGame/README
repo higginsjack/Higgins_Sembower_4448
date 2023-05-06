@@ -10,5 +10,7 @@ javac GameFrame.java GamePanel.java LeaderBoard.java Main.java Settings.java Sly
 java Main
 
 
+ONE TIME BUG IN THE VIDEO WHERE SNAKE GOES THROUGH WALL. THIS NEVER HAPPENED BEFORE AND DID NOT OCCUR AGAIN AFTER RUNNING THE PROJECT MULTIPLE TIMES AFTER
+
 Demonstration:
 https://drive.google.com/file/d/1oAeWc6Jsg_KAHIJpQN8ETvn_b8xbUMCM/view?usp=sharing

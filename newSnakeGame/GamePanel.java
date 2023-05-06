@@ -153,8 +153,11 @@ public class GamePanel extends JPanel implements ActionListener, Subject {
     public void keepScore() {
         String inStr = JOptionPane.showInputDialog(null, "Save Score by entering your name",
         "Input Dialog", JOptionPane.PLAIN_MESSAGE);
-        System.out.println(inStr);
-        writeToCSV(inStr, foodEaten);
+        // System.out.println(inStr);
+        if(inStr != null) {
+            writeToCSV(inStr, foodEaten);
+        }
+        System.exit(0);
     }
 
     public void writeToCSV(String name, int score) { // Uses Tracker pattern and notifies observers then writes to CSV
@@ -162,6 +165,7 @@ public class GamePanel extends JPanel implements ActionListener, Subject {
         String date = now+"";
         notifyObserver(observer, name+ ","+score+","+date);
         observer.reportOut();
+        unregisterObserver(observer);
     }
     @Override
     public void actionPerformed(ActionEvent arg0){

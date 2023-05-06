@@ -24,7 +24,6 @@ public class Tracker implements Observer{
 
             fileWriter.flush();
             fileWriter.close();
-            System.exit(0);
         }
         catch(Exception e){
             System.out.println(e);

@@ -36,11 +36,11 @@ public class LeaderBoard extends JPanel implements ActionListener, Subject {
             }
             sc.close();
             notifyObserver(observer, data);
-            System.out.println(data);
+            // System.out.println(data);
             String df[] = data.split(",");
             int len = df.length;
             String[][] table = new String[len/3][3];
-            System.out.println(len + " " + df[0]);
+            // System.out.println(len + " " + df[0]);
             for(int i=0; i < len-1; i=i+3) {
                 String[] temp = {df[i], df[i+1], df[i+2]};
                 table[i/3] = temp;

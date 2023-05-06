@@ -36,7 +36,7 @@ public class GamePanel extends JPanel implements ActionListener, Subject {
 
     Random random;
     Timer timer;
-
+    AlertStateContext gameState = new AlertStateContext();
     GamePanel() {
         registerObserver(Tracker.getInstance());
         random = new Random();
@@ -45,6 +45,7 @@ public class GamePanel extends JPanel implements ActionListener, Subject {
 
         this.setFocusable(true);
         this.addKeyListener(new MyKeyAdapter());
+        if (running == true) gameState.setState(new StartGame());
         play();
     }
 
@@ -135,6 +136,7 @@ public class GamePanel extends JPanel implements ActionListener, Subject {
             running = false;
         }
         if (!running){
+            gameState.setState(new QuitGame());
             timer.stop();
         }
     }

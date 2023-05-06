@@ -15,7 +15,7 @@ import java.io.File;
 import java.io.FileNotFoundException;
 import java.util.Scanner;
 
-public class LeaderBoard extends JPanel implements ActionListener {
+public class LeaderBoard extends JPanel implements ActionListener, Subject {
     /**
      * Create the GUI and show it.  For thread safety,
      * this method should be invoked from the
@@ -25,6 +25,7 @@ public class LeaderBoard extends JPanel implements ActionListener {
     protected JButton pg, lb, se;
     protected JLabel imgLabel, blank1, blank2;
     protected JButton back;
+    Observer observer;
     public LeaderBoard() {
         JButton back = new JButton("Menu");
         back.setMnemonic(KeyEvent.VK_M);
@@ -32,6 +33,7 @@ public class LeaderBoard extends JPanel implements ActionListener {
         back.addActionListener(this);
         back.setAlignmentX(RIGHT_ALIGNMENT);
         back.setAlignmentY(TOP_ALIGNMENT);
+        registerObserver(Tracker.getInstance());
         
         File l = new File("data/leader.csv");
         try {
@@ -46,10 +48,10 @@ public class LeaderBoard extends JPanel implements ActionListener {
                 // iter+=1;
             }
             sc.close();
+            notifyObserver(observer, data);
             System.out.println(data);
             String df[] = data.split(",");
             int len = df.length;
-            
             String[][] table = new String[len/3][3];
             System.out.println(len + " " + df[0]);
             // for(int i = 0; i < 5;i++) {
@@ -66,7 +68,6 @@ public class LeaderBoard extends JPanel implements ActionListener {
         catch(FileNotFoundException ex){
             System.out.println("Error");
         }
-        
         add(back);
         
     }
@@ -85,5 +86,20 @@ public class LeaderBoard extends JPanel implements ActionListener {
         if ("Slytherin".equals(e.getActionCommand())) {
             Main.createAndShowGUI("Slytherin");
         }
+    }
+
+    @Override
+    public void registerObserver(Observer obs) {
+        observer = obs;
+    }
+
+    @Override
+    public void unregisterObserver(Observer obs) {
+        observer = null;
+    }
+
+    @Override
+    public void notifyObserver(Observer obs, String msg) {
+        obs.update(msg);
     }
 }

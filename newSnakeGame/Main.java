@@ -25,26 +25,6 @@ public class Main {
         });
     }
     public static void createAndShowGUI(String title) {
-        //Create and set up the window.
-        // JFrame frame = new JFrame("Slytherin");
-        // frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
-
-        // //Add the ubiquitous "Hello World" label.
-        // JLabel pglabel = new JLabel("Play Game");
-        // JLabel leaderlabel = new JLabel("Leader Board");
-        // JLabel settingslabel = new JLabel("Settings");
-
-        // ImageIcon img = new ImageIcon("img/snak.jpeg");
-        // JButton play = new JButton("Play Game", img);
-        // play.setSize(500,500);
-        // frame.getContentPane().add(play);
-        // frame.getContentPane().add(leaderlabel);
-        // frame.getContentPane().add(settingslabel);
-
-        //Display the window.
-        // frame.pack();
-        // frame.setVisible(true);
-        // System.out.println(frame.getSize());
         JFrame sly = null;
         JFrame lb = null;
         JFrame set = null;

@@ -10,7 +10,9 @@ import java.time.format.DateTimeFormatter;
 import java.time.LocalDateTime;    
 
 import javax.swing.JPanel;
-public class GamePanel extends JPanel implements ActionListener {
+public class GamePanel extends JPanel implements ActionListener, Subject {
+
+    Observer observer;
     private static final long serialVersionUID = 1L;
 
     static final int WIDTH = 500;
@@ -31,24 +33,24 @@ public class GamePanel extends JPanel implements ActionListener {
     char direction = 'D';
     boolean running = false;
 
-    int spell1_active_timer;
+    int spell1_active_timer; //How long the spell lasts
     Boolean spell1_active;
-    Boolean cd1;
+    Boolean cd1; // When this is true, the spells can't be used because they are in cooldown 
     Boolean cd2;
-    int cd2_timer;
+    int cd2_timer; // How long until the cooldown is over
 
     Random random;
     Timer timer;
 
-    
     GamePanel() {
-      random = new Random();
-      this.setPreferredSize(new Dimension(WIDTH, HEIGHT));  
-      this.setBackground(Color.DARK_GRAY);
+        registerObserver(Tracker.getInstance());
+        random = new Random();
+        this.setPreferredSize(new Dimension(WIDTH, HEIGHT));  
+        this.setBackground(Color.DARK_GRAY);
 
-      this.setFocusable(true);
-      this.addKeyListener(new MyKeyAdapter());
-      play();
+        this.setFocusable(true);
+        this.addKeyListener(new MyKeyAdapter());
+        play();
     }
 
     public void play(){
@@ -141,7 +143,6 @@ public class GamePanel extends JPanel implements ActionListener {
             timer.stop();
         }
     }
-    
 
     public void gameOver(Graphics graphics){
         graphics.setColor(Color.red);
@@ -155,65 +156,27 @@ public class GamePanel extends JPanel implements ActionListener {
         graphics.drawString("Score: " + foodEaten, (WIDTH - metrics.stringWidth("Score " + foodEaten)) / 2, graphics.getFont().getSize());
     }
     public void keepScore() {
-        // This works a little bit trash but it's a start
         String inStr = JOptionPane.showInputDialog(null, "Save Score by entering your name",
         "Input Dialog", JOptionPane.PLAIN_MESSAGE);
         System.out.println(inStr);
         writeToCSV(inStr, foodEaten);
-        // JOptionPane.setVisible(false);
-
     }
 
-    public void writeToCSV(String name, int score) {
-        File l = new File("data/leader.csv");
-        try{
-            // System.out.println("To try");
-            Scanner sc = new Scanner(l);
-            String data="";
-            // int iter = 1;
-            while (sc.hasNext()) {  
-                String txt = sc.next();
-                // txt.replace("\n",",");
-                data+=txt;
-                System.out.println(txt);
-                // iter+=1;
-            }
-            sc.close();
-            FileWriter fileWriter = new FileWriter(l);
-            // sc.useDelimiter(",");   //sets the delimiter pattern 
-            fileWriter.write("Name,Score,Date,\n");
-
-            // data.replace("\n",",");
-            System.out.println(data);
-            String[] split = data.split(",");
-            for(int i=3; i < split.length; i+=3) {
-                fileWriter.write(split[i] + "," + split[i+1] + "," + split[i+2] + ",\n");
-            }
-            // int iterator = 0;
-            
-            System.out.println(data);
-            // fileWriter.write(data); 
-            // DateTimeFormatter dtf = DateTimeFormatter.ofPattern("yyyy/MM/dd HH:mm:ss");  
-            LocalDateTime now = LocalDateTime.now();  
-            String date = now+"";
-            // data=data+"," + name + "," + now + "," + score;
-            String df[] = data.split(",");
-            int len = df.length;
-            
-            fileWriter.write(name+ ","+score+","+date);
-            // System.out.println("All processes complete");
-            fileWriter.flush();
-            fileWriter.close();
-        }
-        catch(Exception e){
-            System.out.println(e);
-        }
+    public void writeToCSV(String name, int score) { // Uses Tracker pattern and notifies observers then writes to CSV
+        LocalDateTime now = LocalDateTime.now();  
+        String date = now+"";
+        notifyObserver(observer, name+ ","+score+","+date);
+        observer.reportOut();
     }
     @Override
     public void actionPerformed(ActionEvent arg0){
-
         if (running){
             if(spell1_active_timer % 2 == 0 && spell1_active){
+                /*
+                 * This was my way to slow down the snake
+                 * It still checks for food and hit
+                 * Doesn't move the snake every other action opportunity effectively halving the speed
+                 */
                 checkFood();
                 checkHit();
             }
@@ -222,7 +185,7 @@ public class GamePanel extends JPanel implements ActionListener {
                 checkFood();
                 checkHit();
             }
-            if(spell1_active) {
+            if(spell1_active) { 
                 spell1_active_timer--;
                 if(spell1_active_timer < 1) {
                     cd1 = true;
@@ -274,7 +237,7 @@ public class GamePanel extends JPanel implements ActionListener {
                     direction = 'D';
                 }
                 break;
-                case KeyEvent.VK_1:
+                case KeyEvent.VK_1: //If press 1, spell activates
                 if (cd1==false){
                     spell1_active = true;
                     spell1_active_timer=100;
@@ -282,13 +245,28 @@ public class GamePanel extends JPanel implements ActionListener {
                 break;
                 case KeyEvent.VK_2:
                 if (cd2==false){
-                    addFood();
+                    addFood(); //Food location will be changed to new spot
                     cd2=true;
                     cd2_timer=100;
                 }
                 break;
             }
         }
+    }
+
+    @Override
+    public void registerObserver(Observer obs) {
+        observer = obs;
+    }
+
+    @Override
+    public void unregisterObserver(Observer obs) {
+        observer = null;
+    }
+
+    @Override
+    public void notifyObserver(Observer obs, String msg) {
+        obs.update(msg);
     }
 }
 

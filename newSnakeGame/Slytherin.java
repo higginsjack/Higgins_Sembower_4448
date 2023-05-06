@@ -57,7 +57,7 @@ import java.awt.event.KeyEvent;
 import java.awt.image.BufferedImage;
 import java.io.File;
 
-public class Slytherin extends JPanel implements ActionListener{
+public class Slytherin extends JPanel implements ActionListener, Subject{
     /**
      * Create the GUI and show it.  For thread safety,
      * this method should be invoked from the
@@ -67,10 +67,9 @@ public class Slytherin extends JPanel implements ActionListener{
     protected JButton pg, lb, se;
     protected JLabel imgLabel, blank1, blank2;
     protected JButton back;
+    Observer observer; 
     public Slytherin() {
-        // ImageIcon topButtonIcon = createImageIcon("/img/snak.jpg");
-        // ImageIcon middleButtonIcon = createImageIcon("/img/snak.jpg");
-        // ImageIcon bottomButtonIcon = createImageIcon("/img/snak.jpg");
+        registerObserver(new Tracker());
         // back = new Jbutton
         pg = new JButton("Play Game");
         // pg.setVerticalTextPosition(AbstractButton.TOP);
@@ -163,5 +162,21 @@ public class Slytherin extends JPanel implements ActionListener{
             se.setEnabled(false);
             Main.createAndShowGUI("Settings");
         }
+    }
+
+    @Override
+    public void registerObserver(Observer obs) {
+        observer = obs;
+    }
+
+    @Override
+    public void unregisterObserver(Observer obs) {
+        // TODO Auto-generated method stub
+        observer = null;
+    }
+
+    @Override
+    public void notifyObserver(Observer obs, String msg) {
+        obs.update(msg);
     }
 }

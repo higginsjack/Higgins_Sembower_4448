@@ -63,40 +63,7 @@ public class Slytherin extends JPanel implements ActionListener{
      * this method should be invoked from the
      * event-dispatching thread.
      */
-    private static void createAndShowGUI() {
-        //Create and set up the window.
-        // JFrame frame = new JFrame("Slytherin");
-        // frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
-
-        // //Add the ubiquitous "Hello World" label.
-        // JLabel pglabel = new JLabel("Play Game");
-        // JLabel leaderlabel = new JLabel("Leader Board");
-        // JLabel settingslabel = new JLabel("Settings");
-
-        // ImageIcon img = new ImageIcon("img/snak.jpeg");
-        // JButton play = new JButton("Play Game", img);
-        // play.setSize(500,500);
-        // frame.getContentPane().add(play);
-        // frame.getContentPane().add(leaderlabel);
-        // frame.getContentPane().add(settingslabel);
-
-        //Display the window.
-        // frame.pack();
-        // frame.setVisible(true);
-        // System.out.println(frame.getSize());
-        JFrame frame = new JFrame("Slytherin");
-        frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
- 
-        //Create and set up the content pane.
-        Slytherin newContentPane = new Slytherin();
-        newContentPane.setOpaque(true); //content panes must be opaque
-        Dimension d = new Dimension(400,500);
-        frame.setPreferredSize(d);
-        frame.setContentPane(newContentPane);
-        //Display the window.
-        frame.pack();
-        frame.setVisible(true);
-    }
+    
     protected JButton pg, lb, se;
     protected JLabel imgLabel, blank1, blank2;
     protected JButton back;
@@ -119,7 +86,7 @@ public class Slytherin extends JPanel implements ActionListener{
         lb.setMnemonic(KeyEvent.VK_M);
         lb.setActionCommand("Leader Board");
 
-        se = new JButton("Settings");
+        se = new JButton("Directions");
         // lb.setVerticalTextPosition(AbstractButton.BOTTOM);
         // lb.setHorizontalTextPosition(AbstractButton.CENTER);
         //Use the default text position of CENTER, TRAILING (RIGHT).
@@ -132,12 +99,6 @@ public class Slytherin extends JPanel implements ActionListener{
         lb.addActionListener(this);
         se.addActionListener(this);
  
-        pg.setToolTipText("Click this button to disable the middle button.");
-        lb.setToolTipText("This middle button does nothing when you click it.");
-        se.setToolTipText("Click this button to enable the middle button.");
- 
-        //Add Components to this container, using the default FlowLayout.
-
         Dimension bSize = new Dimension(100,100);
         pg.setPreferredSize(bSize);
         lb.setPreferredSize(bSize);
@@ -157,9 +118,6 @@ public class Slytherin extends JPanel implements ActionListener{
         blank2.setVisible(false);
 
         JPanel grid = new JPanel(new GridLayout(1, 3));
-        grid.add(blank1);
-        grid.add(blank2);
-        grid.add(imgLabel);
         grid.add(pg);
         grid.add(lb);
         grid.add(se);
@@ -167,6 +125,10 @@ public class Slytherin extends JPanel implements ActionListener{
         // southPanel.add( clearButton );
         
         // add(imgLabel);
+        imgLabel.setAlignmentX(RIGHT_ALIGNMENT);
+        imgLabel.setAlignmentY(TOP_ALIGNMENT);
+        imgLabel.setBounds(0, 0, 100, 160);
+        add(imgLabel);
         add(grid);
     }
 
@@ -180,33 +142,26 @@ public class Slytherin extends JPanel implements ActionListener{
         }
     }
 
-    public static void main(String[] args) {
-        //Schedule a job for the event-dispatching thread:
-        //creating and showing this application's GUI.
-        javax.swing.SwingUtilities.invokeLater(new Runnable() {
-            public void run() {
-                createAndShowGUI();
-            }
-        });
-    }
-
     public void actionPerformed(ActionEvent e) {
         if ("Play Game".equals(e.getActionCommand())) {
+            // lb.dispose();
+            new GameFrame();
             lb.setVisible(false);
             pg.setVisible(false);
             se.setVisible(false);
-            imgLabel.setVisible(false);
+            // imgLabel.setVisible(false);
         } else if ("Leader Board".equals(e.getActionCommand())) {
             lb.setVisible(false);
             pg.setVisible(false);
             se.setVisible(false);
-            imgLabel.setVisible(false);
+            Main.createAndShowGUI("LeaderBoard");
+            // imgLabel.setVisible(false);
 
         } else if ("Settings".equals(e.getActionCommand())) {
             lb.setEnabled(false);
             pg.setEnabled(false);
             se.setEnabled(false);
-            imgLabel.setVisible(false);
+            Main.createAndShowGUI("Settings");
         }
     }
 }
